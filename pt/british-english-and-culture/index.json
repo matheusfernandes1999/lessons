@@ -18,5 +18,336 @@
     "https://learnenglish.britishcouncil.org/",
     "https://dictionary.cambridge.org/us/pronunciation/"
   ],
-  "lessons": []
+  "lessons": [
+    {
+      "id": "british-01",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 1,
+      "title": "Introductions and Everyday Politeness",
+      "level": "A2–B1",
+      "file": "lessons/british-01-introductions-and-everyday-politeness.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-02",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 2,
+      "title": "Greetings and Conversational Openers",
+      "level": "A2–B1",
+      "file": "lessons/british-02-greetings-and-conversational-openers.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-03",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 3,
+      "title": "Please, Thanks and Softening",
+      "level": "A2–B1",
+      "file": "lessons/british-03-please-thanks-and-softening.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-04",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 4,
+      "title": "Understatement and Indirect Meaning",
+      "level": "A2–B1",
+      "file": "lessons/british-04-understatement-and-indirect-meaning.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-05",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 5,
+      "title": "Making and Declining Invitations",
+      "level": "A2–B1",
+      "file": "lessons/british-05-making-and-declining-invitations.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-06",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 6,
+      "title": "British Spelling Conventions",
+      "level": "A2–B1",
+      "file": "lessons/british-06-british-spelling-conventions.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-07",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 7,
+      "title": "UK and US Vocabulary Differences",
+      "level": "A2–B1",
+      "file": "lessons/british-07-uk-and-us-vocabulary-differences.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-08",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 8,
+      "title": "Understanding Common British Accents",
+      "level": "A2–B1",
+      "file": "lessons/british-08-understanding-common-british-accents.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-09",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 9,
+      "title": "Non-rhotic Pronunciation and Linking R",
+      "level": "A2–B1",
+      "file": "lessons/british-09-non-rhotic-pronunciation-and-linking-r.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-10",
+      "course": "British English and Culture",
+      "unit": "Everyday Politeness and Language",
+      "lessonNumber": 10,
+      "title": "Vowels and Stress in British English",
+      "level": "A2–B1",
+      "file": "lessons/british-10-vowels-and-stress-in-british-english.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-11",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 11,
+      "title": "Public Transport and Travel",
+      "level": "B1–B2",
+      "file": "lessons/british-11-public-transport-and-travel.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-12",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 12,
+      "title": "Finding Your Way Around Town",
+      "level": "B1–B2",
+      "file": "lessons/british-12-finding-your-way-around-town.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-13",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 13,
+      "title": "Pubs, Cafes and Ordering",
+      "level": "B1–B2",
+      "file": "lessons/british-13-pubs-cafes-and-ordering.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-14",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 14,
+      "title": "Queues and Public Courtesy",
+      "level": "B1–B2",
+      "file": "lessons/british-14-queues-and-public-courtesy.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-15",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 15,
+      "title": "Weather Conversations",
+      "level": "B1–B2",
+      "file": "lessons/british-15-weather-conversations.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-16",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 16,
+      "title": "UK Geography and Nations",
+      "level": "B1–B2",
+      "file": "lessons/british-16-uk-geography-and-nations.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-17",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 17,
+      "title": "Education and University Terms",
+      "level": "B1–B2",
+      "file": "lessons/british-17-education-and-university-terms.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-18",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 18,
+      "title": "Working Life and Office Etiquette",
+      "level": "B1–B2",
+      "file": "lessons/british-18-working-life-and-office-etiquette.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-19",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 19,
+      "title": "CVs and Job Applications in the UK",
+      "level": "B1–B2",
+      "file": "lessons/british-19-cvs-and-job-applications-in-the-uk.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-20",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 20,
+      "title": "Housing and Renting",
+      "level": "B1–B2",
+      "file": "lessons/british-20-housing-and-renting.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-21",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 21,
+      "title": "NHS and Everyday Appointments",
+      "level": "B1–B2",
+      "file": "lessons/british-21-nhs-and-everyday-appointments.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-22",
+      "course": "British English and Culture",
+      "unit": "Life in the UK",
+      "lessonNumber": 22,
+      "title": "Banking and Money Vocabulary",
+      "level": "B1–B2",
+      "file": "lessons/british-22-banking-and-money-vocabulary.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-23",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 23,
+      "title": "Festivals and Public Holidays",
+      "level": "B2–C1",
+      "file": "lessons/british-23-festivals-and-public-holidays.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-24",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 24,
+      "title": "British Food and Regional Variation",
+      "level": "B2–C1",
+      "file": "lessons/british-24-british-food-and-regional-variation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-25",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 25,
+      "title": "Football and Community References",
+      "level": "B2–C1",
+      "file": "lessons/british-25-football-and-community-references.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-26",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 26,
+      "title": "Humour, Irony and Context",
+      "level": "B2–C1",
+      "file": "lessons/british-26-humour-irony-and-context.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-27",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 27,
+      "title": "Disagreement and Diplomatic Language",
+      "level": "B2–C1",
+      "file": "lessons/british-27-disagreement-and-diplomatic-language.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-28",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 28,
+      "title": "Emails and Messages in British English",
+      "level": "B2–C1",
+      "file": "lessons/british-28-emails-and-messages-in-british-english.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-29",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 29,
+      "title": "Regional Identity and Cultural Diversity",
+      "level": "B2–C1",
+      "file": "lessons/british-29-regional-identity-and-cultural-diversity.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "british-30",
+      "course": "British English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 30,
+      "title": "Integrated UK Life Scenario",
+      "level": "B2–C1",
+      "file": "lessons/british-30-integrated-uk-life-scenario.json",
+      "quizCount": 3,
+      "questionCount": 15
+    }
+  ]
 }
