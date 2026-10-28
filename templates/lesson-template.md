@@ -18,6 +18,28 @@ Prioridade em toda aula: **o aluno fala muito e aprende vocabulário usando-o**.
 | 7. Homework da semana | 4 min | 7 dias de estudo (15–20 min/dia) + quiz `homework`. |
 | Gabarito do professor | — | Respostas dos exercícios abertos (fica no fim para não atrapalhar o aluno). |
 
+## Variante dos cursos gerais (cultura, pronúncia, escrita, idioms, phrasal verbs)
+
+Os cursos fora de provas (American/British English and Culture, Pronunciation, Professional Writing, Idioms, Phrasal Verbs) usam a mesma ideia, com outro tempo e homework só com tarefas diárias:
+
+| Bloco | Tempo | O que acontece |
+|---|---|---|
+| Objetivo da aula | — | Foco, o que o aluno consegue fazer ao final, tarefa verificável e notas (grafia, variantes, cuidados). |
+| 1. Revisão e aquecimento | 5 min | Revisão rápida da aula anterior + 2–3 perguntas para o aluno falar. |
+| 2. Apresentação e exemplos | 10 min | Vocabulário/expressões em grupos, exemplos, mini texto + bloco *Pronúncia: ouça, compare e repita* com frase para repetir 3 vezes + quiz `vocab`. |
+| 3. Prática guiada | 10 min | Classificar, completar, “troque e fale”, ouvir e identificar + quiz `practice`. |
+| 4. Tarefa comunicativa | 15 min | Simulação em cenas ou etapas com personagens e lugares fictícios; o professor anota critérios. |
+| 5. Feedback | 5 min | Checklist `- [ ]` + ajuste. |
+| Homework da semana (7 dias) | — | Uma tarefa curta por dia (10–20 min): **Dia 1 … Dia 6** + **Dia 7 — Revisão** com o quiz `homework`. Sem produto final único. |
+| Gabarito do professor | — | Opcional: respostas dos exercícios abertos e textos-modelo. |
+
+Cuidados de conteúdo nesses cursos:
+- cenários e personagens **fictícios** — o aluno não precisa revelar dados pessoais;
+- linguagem cautelosa sobre culturas (*many people, it varies*), sem generalizações sobre “todos os americanos/britânicos”;
+- nada de conselho médico (aulas de saúde tratam só da parte administrativa ou de linguagem do dia a dia);
+- grafia definida por curso: americana (American English, Phrasal Verbs), britânica (British English, Professional Writing) ou as duas com indicação (Pronunciation, Idioms);
+- áudio de referência: botões **US** e **UK** do Cambridge Dictionary; trechos para o professor ler vêm marcados com 🎧.
+
 ## Técnicas usadas (sem nome técnico no material)
 
 - **Ouça, compare e repita** (pares/grupos mínimos): grupos como *ship / sheep*, *think / sink / pink*; o professor fala uma palavra e o aluno identifica qual foi.
