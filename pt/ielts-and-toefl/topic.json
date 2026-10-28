@@ -1,0 +1,17 @@
+{
+  "language": "pt",
+  "mainTopic": "IELTS and TOEFL",
+  "slug": "ielts-and-toefl",
+  "description": "Preparação para TOEFL iBT (formato 2026) e IELTS Academic para alunos brasileiros. 100 lições: 50 de TOEFL e 50 de IELTS, cursos independentes.",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "courses": [
+    { "code": "toefl", "name": "TOEFL iBT (2026)", "lessons": 50 },
+    { "code": "ielts", "name": "IELTS Academic", "lessons": 50 }
+  ],
+  "officialReferences": [
+    "https://www.ets.org/toefl/test-takers/ibt/about/content.html",
+    "https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html",
+    "https://www.ielts.org/take-a-test/test-types/ielts-academic-test"
+  ]
+}

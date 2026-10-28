@@ -1,0 +1,210 @@
+{
+  "id": "toefl-01",
+  "language": "pt",
+  "mainTopic": "IELTS and TOEFL",
+  "course": "TOEFL iBT (2026)",
+  "unit": "Foundations and Diagnostic",
+  "lessonNumber": 1,
+  "title": "Orientation and Exam Diagnostic",
+  "level": "A2–B1",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Identificar tarefas do TOEFL 2026 e levantar perfil de habilidades",
+  "verifiableTask": "Concluir uma triagem de quatro habilidades e registrar três prioridades",
+  "skills": [
+    "speaking",
+    "vocabulary",
+    "listening",
+    "reading",
+    "writing"
+  ],
+  "quizCount": 1,
+  "questionCount": 2,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Warm-up (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Vocabulário-chave (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_toefl01_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "vocabulary",
+              "questionText": "Which word means “ponto forte”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "weakness"
+                },
+                {
+                  "id": "B",
+                  "text": "strength"
+                },
+                {
+                  "id": "C",
+                  "text": "deadline"
+                },
+                {
+                  "id": "D",
+                  "text": "prompt"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Weakness = ponto fraco.",
+                "B": "Strength = ponto forte. Reading is my strength.",
+                "C": "Deadline = prazo.",
+                "D": "Prompt = enunciado da tarefa.",
+                "general": "Correct answer: strength"
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "vocabulary",
+              "questionText": "“Read the ______ carefully before you answer.” (o enunciado)",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "score"
+                },
+                {
+                  "id": "B",
+                  "text": "target"
+                },
+                {
+                  "id": "C",
+                  "text": "prompt"
+                },
+                {
+                  "id": "D",
+                  "text": "section"
+                }
+              ],
+              "correctOptionId": "C",
+              "explanations": {
+                "A": "Score = nota.",
+                "B": "Target = meta.",
+                "C": "Prompt = o enunciado/pergunta da tarefa.",
+                "D": "Section = parte da prova.",
+                "general": "Correct answer: prompt"
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Explicação e modelo (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Tarefa cronometrada: triagem das 4 habilidades (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Feedback (3 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Homework da semana (4 min para explicar)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      }
+    ]
+  }
+}
