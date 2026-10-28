@@ -1,0 +1,2384 @@
+{
+  "id": "toefl-13",
+  "language": "pt",
+  "mainTopic": "IELTS and TOEFL",
+  "course": "TOEFL iBT (2026)",
+  "unit": "Reading",
+  "lessonNumber": 13,
+  "title": "Reading: Academic Passage Main Ideas",
+  "level": "B1–B2",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Localizar tópico, tese e organização textual",
+  "verifiableTask": "Criar um resumo de três frases de uma passagem acadêmica",
+  "skills": [
+    "reading",
+    "vocabulary",
+    "speaking",
+    "writing"
+  ],
+  "quizCount": 3,
+  "questionCount": 19,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Foco:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " em "
+          },
+          {
+            "type": "text",
+            "text": "Read an Academic Passage",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", entender "
+          },
+          {
+            "type": "text",
+            "text": "do que o texto trata (tópico)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "o que ele afirma (ideia principal)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " e "
+          },
+          {
+            "type": "text",
+            "text": "como está organizado",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ao final da aula você consegue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ler uma passagem curta e resumi-la em 3 frases com suas palavras."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tarefa verificável:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " criar um resumo de três frases de uma passagem acadêmica."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Warm-up (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What subjects did you like at school: history, biology, economics…?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "When you read a long text, do you read every word or look for the main idea first?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Summarize your favorite movie in two sentences."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frases úteis:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "It's about…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " · "
+          },
+          {
+            "type": "text",
+            "text": "The main point is that…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " · "
+          },
+          {
+            "type": "text",
+            "text": "Basically,…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Revisão da aula 12:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " qual a diferença entre o "
+          },
+          {
+            "type": "text",
+            "text": "propósito",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " e a "
+          },
+          {
+            "type": "text",
+            "text": "ação",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " de uma mensagem?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Vocabulário-chave (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Palavras para falar sobre textos:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "topic",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — assunto · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "main idea",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — ideia principal · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "purpose",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — objetivo do autor"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "passage",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — trecho/texto · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "paragraph",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — parágrafo"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "describe / explain / compare / contrast / argue / propose",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — verbos do autor"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "cause / effect",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — causa / efeito · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "advantage / drawback",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — vantagem / desvantagem"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "summary / summarize",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — resumo / resumir"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "overall",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — de modo geral · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "in short",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — em resumo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Palavras acadêmicas comuns em passagens:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "species",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — espécie · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "evidence",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — evidência · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "theory",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — teoria"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "process",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — processo · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "factor",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — fator · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "population",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — população"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronúncia: verbos acadêmicos"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ouça, compare e repita (sílaba forte em maiúsculas):"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "des-CRIBE / ex-PLAIN / com-PARE / con-TRAST (v) / AR-gue / pro-POSE",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CON-trast (n) × con-TRAST (v)",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "SUM-ma-ry × SUM-ma-rize",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "e-VI-dence",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "? Não! "
+                  },
+                  {
+                    "type": "text",
+                    "text": "EV-i-dence",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "the-O-ry",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "? Não! "
+                  },
+                  {
+                    "type": "text",
+                    "text": "THE-o-ry",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frase: > The author compares two theories and explains the evidence for each."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_toefl13_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "vocabulary",
+              "questionText": "The ______ of a text is what it is about, in one or two words.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "topic"
+                },
+                {
+                  "id": "B",
+                  "text": "main idea"
+                },
+                {
+                  "id": "C",
+                  "text": "evidence"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Assunto: ex. “coral reefs”.",
+                "B": "A ideia principal é uma frase completa.",
+                "C": "Não.",
+                "general": "Correct answer: topic"
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "vocabulary",
+              "questionText": "“The author argues that…” means the author…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "has a fight"
+                },
+                {
+                  "id": "B",
+                  "text": "defends an opinion"
+                },
+                {
+                  "id": "C",
+                  "text": "asks a question"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Literal errado.",
+                "B": "Correto.",
+                "C": "Não.",
+                "general": "Correct answer: defends an opinion"
+              }
+            },
+            {
+              "id": "vocab-gap-1",
+              "category": "vocabulary",
+              "questionText": "To give the main points in a few sentences is to ______. (resumir)",
+              "type": "written",
+              "correctWrittenAnswer": "summarize",
+              "explanations": {
+                "general": "To summarize."
+              }
+            },
+            {
+              "id": "vocab-mc-3",
+              "category": "vocabulary",
+              "questionText": "Where is the stress in “evidence”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "EV-i-dence"
+                },
+                {
+                  "id": "B",
+                  "text": "e-VI-dence"
+                },
+                {
+                  "id": "C",
+                  "text": "e-vi-DENCE"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Erro comum.",
+                "C": "Não.",
+                "general": "Correct answer: EV-i-dence"
+              }
+            },
+            {
+              "id": "vocab-gap-2",
+              "category": "vocabulary",
+              "questionText": "A disadvantage is also called a ______. (draw…)",
+              "type": "written",
+              "correctWrittenAnswer": "drawback",
+              "explanations": {
+                "general": "A disadvantage is also called a drawback."
+              }
+            },
+            {
+              "id": "vocab-mc-4",
+              "category": "vocabulary",
+              "questionText": "“Overall” means…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "in general"
+                },
+                {
+                  "id": "B",
+                  "text": "above everything physically"
+                },
+                {
+                  "id": "C",
+                  "text": "finally"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Literal errado.",
+                "C": "Não exatamente.",
+                "general": "Correct answer: in general"
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Explicação e modelo (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Tópico × ideia principal"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tópico",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (palavras): "
+                  },
+                  {
+                    "type": "text",
+                    "text": "urban heat islands",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ideia principal",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (frase completa): "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Cities are hotter than rural areas because of buildings and asphalt, but trees and reflective roofs can reduce the effect.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Onde está a ideia principal?"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Geralmente na "
+                  },
+                  {
+                    "type": "text",
+                    "text": "1ª frase do parágrafo",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (frase-tópico) ou no "
+                  },
+                  {
+                    "type": "text",
+                    "text": "último parágrafo",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Palavras como "
+                  },
+                  {
+                    "type": "text",
+                    "text": "however",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "in fact",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "therefore",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " muitas vezes introduzem a ideia mais importante."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Organizações comuns"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Problema → causa → solução",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Comparação",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (A × B) · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Processo",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (etapas) · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Teoria → evidência → crítica",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Modelo"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "(1) Cities are often several degrees warmer than the surrounding countryside, a phenomenon known as the urban heat island effect. (2) This happens mainly because materials such as asphalt and concrete absorb heat during the day and release it slowly at night. (3) In addition, cities have fewer trees, which normally cool the air through shade and evaporation. (4) To reduce the effect, some cities are planting trees and painting roofs white so that they reflect sunlight instead of absorbing it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tópico:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " urban heat islands · "
+          },
+          {
+            "type": "text",
+            "text": "Organização:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " problema → causas → soluções"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Resumo em 3 frases:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Cities are warmer than rural areas. This is because hard materials store heat and there are few trees. Some cities are fighting the problem with trees and white roofs.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "O aluno lê o resumo junto com o professor (mesmo ritmo)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.1 Troque e fale: o que o autor faz?"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In paragraph 1, the author "
+              },
+              {
+                "type": "text",
+                "text": "describes a problem",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "→ explains its causes → compares two solutions → gives an example → presents a theory → criticizes a study"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.2 Escolha a melhor ideia principal"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many people believe that multitasking makes them more productive. However, research shows that the brain cannot focus on two complex tasks at the same time. Instead, it switches quickly between them, and each switch costs time and attention. As a result, people who multitask often make more mistakes and take longer to finish their work."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "a) Many people multitask at work. b) Multitasking seems productive, but it actually reduces efficiency. c) The brain is very fast."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.3 Diga a organização"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A text explains how glass is made: heating sand, shaping, cooling. → ______"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A text presents two theories about why dinosaurs disappeared and the evidence for each. → ______"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A text says traffic is a problem, explains why, and suggests public transport. → ______"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_toefl13_practice",
+          "questions": [
+            {
+              "id": "practice-mc-1",
+              "category": "comprehension",
+              "questionText": "Heat island text: what is the topic?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Urban heat islands"
+                },
+                {
+                  "id": "B",
+                  "text": "White roofs"
+                },
+                {
+                  "id": "C",
+                  "text": "Trees"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Detalhe (uma solução).",
+                "C": "Detalhe.",
+                "general": "Correct answer: Urban heat islands"
+              }
+            },
+            {
+              "id": "practice-mc-2",
+              "category": "comprehension",
+              "questionText": "According to sentence 2, why are cities warmer?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Because they have more people"
+                },
+                {
+                  "id": "B",
+                  "text": "Because asphalt and concrete absorb and release heat"
+                },
+                {
+                  "id": "C",
+                  "text": "Because the sun is stronger in cities"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não é mencionado.",
+                "B": "Correto.",
+                "C": "Não.",
+                "general": "Correct answer: Because asphalt and concrete absorb and release heat"
+              }
+            },
+            {
+              "id": "practice-mc-3",
+              "category": "comprehension",
+              "questionText": "Why do cities paint roofs white?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "To reflect sunlight"
+                },
+                {
+                  "id": "B",
+                  "text": "To make them more beautiful"
+                },
+                {
+                  "id": "C",
+                  "text": "To absorb heat"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não é mencionado.",
+                "C": "É o oposto.",
+                "general": "Correct answer: To reflect sunlight"
+              }
+            },
+            {
+              "id": "practice-mc-4",
+              "category": "comprehension",
+              "questionText": "Multitasking text: best main idea?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Many people multitask at work."
+                },
+                {
+                  "id": "B",
+                  "text": "Multitasking seems productive, but it actually reduces efficiency."
+                },
+                {
+                  "id": "C",
+                  "text": "The brain is very fast."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Só a introdução.",
+                "B": "Correto: cobre o texto inteiro.",
+                "C": "Detalhe parcial.",
+                "general": "Correct answer: Multitasking seems productive, but it actually reduces efficiency."
+              }
+            },
+            {
+              "id": "practice-mc-5",
+              "category": "comprehension",
+              "questionText": "A text presents two theories and the evidence for each. Its organization is…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "process"
+                },
+                {
+                  "id": "B",
+                  "text": "comparison of theories"
+                },
+                {
+                  "id": "C",
+                  "text": "problem–solution"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Processo = etapas.",
+                "B": "Correto.",
+                "C": "Não.",
+                "general": "Correct answer: comparison of theories"
+              }
+            },
+            {
+              "id": "practice-gap-1",
+              "category": "comprehension",
+              "questionText": "In the multitasking text, the word that introduces the author's main point is “______”.",
+              "type": "written",
+              "correctWrittenAnswer": "However",
+              "explanations": {
+                "general": "“However, research shows…” introduz a ideia principal."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Tarefa cronometrada (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A. Leia — 4 min"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Return of the Wolves",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "(1) In 1995, wolves were reintroduced to Yellowstone National Park in the United States after an absence of about seventy years. Their return produced changes that scientists had not fully expected."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "(2) Without wolves, the elk population had grown very large. The elk ate young trees along rivers, especially willows and aspens, preventing forests from recovering. When wolves returned, they reduced the number of elk and, perhaps more importantly, changed their behavior: elk avoided open valleys where they could be easily attacked."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "(3) As a result, some trees began to grow again near rivers. The new vegetation provided food and material for beavers, whose dams created ponds that benefited fish, birds and insects. Scientists call this chain of effects a “trophic cascade.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "(4) However, not all researchers agree on how strong this effect was. Some argue that changes in climate and the presence of other predators, such as bears, also influenced the recovery. Even so, the Yellowstone case is often used to show how one species can affect an entire ecosystem."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "B. Responda oralmente — 4 min"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What is the topic?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What is the main idea of paragraph 2? Of paragraph 3? Of paragraph 4?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How is the passage organized?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "C. Resumo de 3 frases — 7 min"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Escreva com "
+          },
+          {
+            "type": "text",
+            "text": "suas palavras",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (não copie frases inteiras). Frase 1 = situação/tópico; frase 2 = efeitos principais; frase 3 = debate/conclusão."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "______"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "______"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "______"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Leia em voz alta. O professor verifica: cobre o texto todo? Evita detalhes pequenos? Usa paráfrase?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Feedback (3 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Distinguiu tópico de ideia principal?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Identificou a organização (causa → efeitos → debate)?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] O resumo tem 3 frases, com o texto todo e sem detalhes desnecessários?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Usou palavras próprias?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ajuste:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ______"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Homework da semana"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estude "
+          },
+          {
+            "type": "text",
+            "text": "15–20 minutos por dia",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 1 — Vocabulário.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva frases com "
+          },
+          {
+            "type": "text",
+            "text": "describe, explain, compare, argue, propose",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sobre textos que você conhece."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 2 — Leitura.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Leia um artigo curto de divulgação científica (ex.: seção "
+          },
+          {
+            "type": "text",
+            "text": "Science",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " de um jornal). Escreva o tópico e a ideia principal."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 3 — Resumo.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça um resumo de 3 frases do artigo do dia 2."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 4 — Sombra.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Leia o texto dos lobos em voz alta 2 vezes. Grave o parágrafo 3."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 5 — Speaking.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Grave 1 minuto explicando o texto dos lobos para alguém que não leu."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 6 — Organização.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Leia 3 parágrafos de qualquer texto acadêmico e diga a organização de cada um."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 7 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça o quiz abaixo."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_toefl13_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "comprehension",
+              "questionText": "Yellowstone text: what is the main idea of paragraph 2?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Wolves reduced elk numbers and changed elk behavior."
+                },
+                {
+                  "id": "B",
+                  "text": "Elk are bigger than wolves."
+                },
+                {
+                  "id": "C",
+                  "text": "Beavers built dams."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não é mencionado.",
+                "C": "Isso é do parágrafo 3.",
+                "general": "Correct answer: Wolves reduced elk numbers and changed elk behavior."
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "comprehension",
+              "questionText": "What is a “trophic cascade” in the text?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "A waterfall in the park"
+                },
+                {
+                  "id": "B",
+                  "text": "A chain of effects across an ecosystem"
+                },
+                {
+                  "id": "C",
+                  "text": "A type of tree"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Literal errado.",
+                "B": "Correto.",
+                "C": "Não.",
+                "general": "Correct answer: A chain of effects across an ecosystem"
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "comprehension",
+              "questionText": "What is the purpose of paragraph 4?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "To show that some researchers question the strength of the effect"
+                },
+                {
+                  "id": "B",
+                  "text": "To describe bears"
+                },
+                {
+                  "id": "C",
+                  "text": "To explain how beavers build dams"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Bears são só um exemplo.",
+                "C": "Não.",
+                "general": "Correct answer: To show that some researchers question the strength of the effect"
+              }
+            },
+            {
+              "id": "homework-tf-1",
+              "category": "comprehension",
+              "questionText": "According to the passage, all scientists agree that wolves alone caused the forest recovery.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Falso: “not all researchers agree”."
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "comprehension",
+              "questionText": "Wolves returned to Yellowstone in ______. (ano)",
+              "type": "written",
+              "correctWrittenAnswer": "1995",
+              "explanations": {
+                "general": "In 1995, wolves were reintroduced to Yellowstone."
+              }
+            },
+            {
+              "id": "homework-mc-4",
+              "category": "comprehension",
+              "questionText": "How is the passage organized?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Process with steps"
+                },
+                {
+                  "id": "B",
+                  "text": "Event → effects → debate"
+                },
+                {
+                  "id": "C",
+                  "text": "Comparison of two parks"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto.",
+                "C": "Não.",
+                "general": "Correct answer: Event → effects → debate"
+              }
+            },
+            {
+              "id": "homework-gap-2",
+              "category": "vocabulary",
+              "questionText": "The ______ of a text is a short version with only the main points. (resumo)",
+              "type": "written",
+              "correctWrittenAnswer": "summary",
+              "explanations": {
+                "general": "summary"
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "4.2:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " b. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "4.3:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 processo; 2 comparação de teorias/teoria → evidência; 3 problema → causa → solução."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "5B:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 a volta dos lobos a Yellowstone e seus efeitos no ecossistema; 2 §2 lobos reduziram e mudaram o comportamento dos alces; §3 árvores voltaram e geraram uma cadeia de benefícios (cascata trófica); §4 há debate sobre a força do efeito, mas o caso ilustra o impacto de uma espécie; 3 evento → efeitos → debate."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "5C (exemplo):",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Wolves returned to Yellowstone in 1995 after seventy years. They reduced the number of elk and made them avoid rivers, so trees grew back and other animals benefited. Some scientists think other factors also helped, but the case shows how one species can change an ecosystem.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

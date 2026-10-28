@@ -286,7 +286,10 @@ def parse_front_matter(text, where):
         if not line.strip():
             continue
         key, _, value = line.partition(":")
-        meta[key.strip()] = value.strip()
+        value = value.strip()
+        if len(value) >= 2 and value[0] == value[-1] and value[0] in "\"'":
+            value = value[1:-1]
+        meta[key.strip()] = value
     return meta, text[end + 5:]
 
 
