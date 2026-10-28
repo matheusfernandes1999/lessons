@@ -18,5 +18,336 @@
     "https://www.bbclearningenglish.org/",
     "https://learnenglish.britishcouncil.org/"
   ],
-  "lessons": []
+  "lessons": [
+    {
+      "id": "phrasal-01",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 1,
+      "title": "What Phrasal Verbs Are",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-01-what-phrasal-verbs-are.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-02",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 2,
+      "title": "Separable and Inseparable Patterns",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-02-separable-and-inseparable-patterns.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-03",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 3,
+      "title": "Morning and Daily Routines",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-03-morning-and-daily-routines.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-04",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 4,
+      "title": "Household Tasks",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-04-household-tasks.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-05",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 5,
+      "title": "Travel and Transportation",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-05-travel-and-transportation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-06",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 6,
+      "title": "Finding Places and Directions",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-06-finding-places-and-directions.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-07",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 7,
+      "title": "Shopping and Returns",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-07-shopping-and-returns.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-08",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 8,
+      "title": "Social Plans and Invitations",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-08-social-plans-and-invitations.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-09",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 9,
+      "title": "Talking on the Phone",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-09-talking-on-the-phone.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-10",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Everyday Life",
+      "lessonNumber": 10,
+      "title": "Getting Information",
+      "level": "A2–B1",
+      "file": "lessons/phrasal-10-getting-information.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-11",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 11,
+      "title": "Learning New Skills",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-11-learning-new-skills.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-12",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 12,
+      "title": "Problems and Unexpected Events",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-12-problems-and-unexpected-events.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-13",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 13,
+      "title": "Planning and Organization",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-13-planning-and-organization.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-14",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 14,
+      "title": "Starting and Finishing Tasks",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-14-starting-and-finishing-tasks.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-15",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 15,
+      "title": "Workplace Collaboration",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-15-workplace-collaboration.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-16",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 16,
+      "title": "Meetings and Participation",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-16-meetings-and-participation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-17",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 17,
+      "title": "Explaining Ideas and Messages",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-17-explaining-ideas-and-messages.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-18",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 18,
+      "title": "Technology and Devices",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-18-technology-and-devices.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-19",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 19,
+      "title": "Software and Troubleshooting",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-19-software-and-troubleshooting.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-20",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 20,
+      "title": "Money and Budget",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-20-money-and-budget.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-21",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 21,
+      "title": "Health and Wellbeing",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-21-health-and-wellbeing.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-22",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Work, Learning and Problems",
+      "lessonNumber": 22,
+      "title": "Relationships and Communication",
+      "level": "B1–B2",
+      "file": "lessons/phrasal-22-relationships-and-communication.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-23",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 23,
+      "title": "Emotions and Motivation",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-23-emotions-and-motivation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-24",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 24,
+      "title": "Decisions and Opportunities",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-24-decisions-and-opportunities.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-25",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 25,
+      "title": "Change and Improvement",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-25-change-and-improvement.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-26",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 26,
+      "title": "Multiple Meanings of Take",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-26-multiple-meanings-of-take.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-27",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 27,
+      "title": "Multiple Meanings of Get",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-27-multiple-meanings-of-get.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-28",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 28,
+      "title": "Multiple Meanings of Put",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-28-multiple-meanings-of-put.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-29",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 29,
+      "title": "Formality and Alternatives",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-29-formality-and-alternatives.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "phrasal-30",
+      "course": "Phrasal Verbs in Context",
+      "unit": "Meaning, Nuance and Register",
+      "lessonNumber": 30,
+      "title": "Integrated Problem-Solving Scenario",
+      "level": "B2–C1",
+      "file": "lessons/phrasal-30-integrated-problem-solving-scenario.json",
+      "quizCount": 3,
+      "questionCount": 15
+    }
+  ]
 }
