@@ -1,0 +1,2596 @@
+{
+  "id": "toefl-42",
+  "language": "pt",
+  "mainTopic": "IELTS and TOEFL",
+  "course": "TOEFL iBT (2026)",
+  "unit": "Writing",
+  "lessonNumber": 42,
+  "title": "Writing: Editing for Accuracy",
+  "level": "B1–C1",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Revisar erros de verbos, artigos, coesão e pontuação",
+  "verifiableTask": "Corrigir e justificar dez problemas em um texto",
+  "skills": [
+    "writing",
+    "grammar",
+    "speaking"
+  ],
+  "quizCount": 3,
+  "questionCount": 20,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Foco:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "revisar",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " um texto procurando os 4 tipos de erro que mais tiram pontos: "
+          },
+          {
+            "type": "text",
+            "text": "verbos",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (tempo, concordância, forma), "
+          },
+          {
+            "type": "text",
+            "text": "artigos",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "coesão",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (conectores e referências) e "
+          },
+          {
+            "type": "text",
+            "text": "pontuação",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ao final da aula você consegue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " encontrar, corrigir e "
+          },
+          {
+            "type": "text",
+            "text": "explicar",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " erros no seu próprio texto."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tarefa verificável:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " corrigir e justificar dez problemas em um texto."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Warm-up (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "O professor fala frases com erro; o aluno corrige oralmente o mais rápido possível."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "She have two brothers.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I am living here since 2020.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The life is beautiful.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I didn't went.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "People is friendly.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I'm agree.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Revisão da aula 41:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " o que significa S-V-A-P-O?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Vocabulário-chave (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Verbos"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Concordância:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "he/she/it + -s",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "people/police/data → are",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "everyone/each → is",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tempo:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "since/for + presente perfeito",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "I've lived here since 2020",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ") · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "ago + passado",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "two years ago",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Forma:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "did/can/should + base",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "enjoy/avoid/suggest + -ing",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "want/decide/plan + to",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Artigos"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ideias gerais sem "
+                  },
+                  {
+                    "type": "text",
+                    "text": "the",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ": "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Life is short. Technology changes fast.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "the",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " para algo específico/único: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "the government, the internet, the environment",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "a/an",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " pelo "
+                  },
+                  {
+                    "type": "text",
+                    "text": "som",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ": "
+                  },
+                  {
+                    "type": "text",
+                    "text": "an hour, a university, an MBA",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Coesão"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Um conector por relação: ✘ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Although it was hard, but I passed.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → ✔ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Although it was hard, I passed.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Referência clara: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "this/these/it/they",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " precisa apontar para algo definido."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pontuação"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vírgula depois de conectores no início: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "However, … / For example, …",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✘ vírgula sozinha ligando duas frases completas ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "It was late, we went home.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ") → ✔ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "It was late, so we went home.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " / "
+                  },
+                  {
+                    "type": "text",
+                    "text": "It was late. We went home.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronúncia: ouça, compare e repita"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "an hour",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (h mudo) · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a university",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (som de “iu”) · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "an MBA",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (“em”) · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a European",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (som de “iu”)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It took an hour to get to a university that has an MBA program."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_toefl42_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "grammar",
+              "questionText": "Which is correct?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "I am living here since 2020."
+                },
+                {
+                  "id": "B",
+                  "text": "I have lived here since 2020."
+                },
+                {
+                  "id": "C",
+                  "text": "I live here since 2020."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Com since, use presente perfeito.",
+                "B": "Correto.",
+                "C": "Errado.",
+                "general": "Correct answer: I have lived here since 2020."
+              }
+            },
+            {
+              "id": "vocab-gap-1",
+              "category": "grammar",
+              "questionText": "Everyone in the group ______ ready. (be)",
+              "type": "written",
+              "correctWrittenAnswer": "is",
+              "explanations": {
+                "general": "Everyone in the group is ready."
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "grammar",
+              "questionText": "Which is correct?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Although it was hard, I passed."
+                },
+                {
+                  "id": "B",
+                  "text": "Although it was hard, but I passed."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Um conector só.",
+                "B": "Dois conectores para a mesma relação.",
+                "general": "Correct answer: Although it was hard, I passed."
+              }
+            },
+            {
+              "id": "vocab-gap-2",
+              "category": "grammar",
+              "questionText": "It took ______ hour to finish. (artigo)",
+              "type": "written",
+              "correctWrittenAnswer": "an",
+              "explanations": {
+                "general": "It took an hour to finish."
+              }
+            },
+            {
+              "id": "vocab-mc-3",
+              "category": "grammar",
+              "questionText": "Which is correct?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "The technology changes fast."
+                },
+                {
+                  "id": "B",
+                  "text": "Technology changes fast."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Ideia geral: sem “the”.",
+                "B": "Correto.",
+                "general": "Correct answer: Technology changes fast."
+              }
+            },
+            {
+              "id": "vocab-gap-3",
+              "category": "grammar",
+              "questionText": "I enjoy ______ in the morning. (study)",
+              "type": "written",
+              "correctWrittenAnswer": "studying",
+              "explanations": {
+                "general": "I enjoy studying in the morning."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Explicação e modelo (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Revisão em 3 leituras rápidas"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leitura dos verbos:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " circule todos os verbos — tempo, -s, forma depois de auxiliar."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leitura dos substantivos:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " olhe o que vem antes — artigo certo? plural certo?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leitura das ligações:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " conectores, vírgulas, "
+                  },
+                  {
+                    "type": "text",
+                    "text": "this/it/they",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Como justificar uma correção (para falar)"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "“The verb should be ‘has’ because the subject ‘everyone’ is singular.”",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "“We don't need ‘the’ here because it's a general idea.”",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "“We need a period or ‘so’ because these are two complete sentences.”",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Modelo"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "✘ "
+              },
+              {
+                "type": "text",
+                "text": "The people in my city is very friendly, they always helps tourists.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "✔ "
+              },
+              {
+                "type": "text",
+                "text": "People in my city are very friendly. They always help tourists.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "The people",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " → "
+              },
+              {
+                "type": "text",
+                "text": "People",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " (ideia geral) · "
+              },
+              {
+                "type": "text",
+                "text": "is",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " → "
+              },
+              {
+                "type": "text",
+                "text": "are",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " (people = plural) · vírgula → ponto (duas frases completas) · "
+              },
+              {
+                "type": "text",
+                "text": "helps",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " → "
+              },
+              {
+                "type": "text",
+                "text": "help",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " (they)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.1 Troque e fale: justificativas"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The verb should be "
+              },
+              {
+                "type": "text",
+                "text": "“has”",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " because "
+              },
+              {
+                "type": "text",
+                "text": "the subject is singular",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "→ “are” / “people” is plural → “went” / it's a finished past action with “yesterday” → “have lived” / we use “since” → “studying” / “enjoy” is followed by -ing → “an” / “hour” starts with a vowel sound"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.2 Corrija e justifique (oral)"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "My brother work in a hospital."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I have visited Chile two years ago."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "She suggested to go by bus."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The education is very important for the development."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I went to a university in Lisbon, it was amazing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Each of the students have a laptop."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Despite of the rain, we played."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I'm looking forward to meet you."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_toefl42_practice",
+          "questions": [
+            {
+              "id": "practice-gap-1",
+              "category": "grammar",
+              "questionText": "My brother ______ in a hospital. (work)",
+              "type": "written",
+              "correctWrittenAnswer": "works",
+              "explanations": {
+                "general": "My brother works in a hospital."
+              }
+            },
+            {
+              "id": "practice-mc-1",
+              "category": "grammar",
+              "questionText": "Correct: “I have visited Chile two years ago.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "I visited Chile two years ago."
+                },
+                {
+                  "id": "B",
+                  "text": "I have visit Chile two years ago."
+                },
+                {
+                  "id": "C",
+                  "text": "I had visited Chile two years ago."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "“Ago” pede passado simples.",
+                "B": "Errado.",
+                "C": "Não é necessário.",
+                "general": "Correct answer: I visited Chile two years ago."
+              }
+            },
+            {
+              "id": "practice-mc-2",
+              "category": "grammar",
+              "questionText": "Correct: “She suggested to go by bus.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "She suggested go by bus."
+                },
+                {
+                  "id": "B",
+                  "text": "She suggested going by bus."
+                },
+                {
+                  "id": "C",
+                  "text": "She suggested to going by bus."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Errado.",
+                "B": "Suggest + -ing.",
+                "C": "Errado.",
+                "general": "Correct answer: She suggested going by bus."
+              }
+            },
+            {
+              "id": "practice-mc-3",
+              "category": "grammar",
+              "questionText": "Correct: “The education is very important for the development.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Education is very important for development."
+                },
+                {
+                  "id": "B",
+                  "text": "The education is very important for development."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Ideias gerais sem “the”.",
+                "B": "Ainda com “the” desnecessário.",
+                "general": "Correct answer: Education is very important for development."
+              }
+            },
+            {
+              "id": "practice-gap-2",
+              "category": "grammar",
+              "questionText": "Each of the students ______ a laptop. (have)",
+              "type": "written",
+              "correctWrittenAnswer": "has",
+              "explanations": {
+                "general": "Each of the students has a laptop."
+              }
+            },
+            {
+              "id": "practice-mc-4",
+              "category": "grammar",
+              "questionText": "Correct: “Despite of the rain, we played.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "In spite the rain, we played."
+                },
+                {
+                  "id": "B",
+                  "text": "Despite the rain, we played."
+                },
+                {
+                  "id": "C",
+                  "text": "Despite of rain, we played."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "“In spite” precisa de “of”: in spite of.",
+                "B": "“Despite” não leva “of”.",
+                "C": "Errado.",
+                "general": "Correct answer: Despite the rain, we played."
+              }
+            },
+            {
+              "id": "practice-gap-3",
+              "category": "grammar",
+              "questionText": "I'm looking forward to ______ you. (meet)",
+              "type": "written",
+              "correctWrittenAnswer": "meeting",
+              "explanations": {
+                "general": "I'm looking forward to meeting you."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Tarefa cronometrada: 10 problemas (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A. Encontre e corrija — 8 min"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "O texto tem "
+          },
+          {
+            "type": "text",
+            "text": "10 problemas",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Sublinhe, corrija e escreva o tipo (V verbo · A artigo · C coesão · P pontuação)."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "(1) In my opinion, the universities should offer more online courses. (2) Nowadays, many student works and they don't have time to go to campus. (3) For example my cousin, she has a full-time job and two kids. (4) She has started an online degree three years ago, and she love it. (5) Although online courses are flexible, but some people think they are lower quality. (6) However this is not always true. (7) A online course from a good university can be as rigorous as face-to-face one. (8) In addition, students avoid to spend money on transport."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Problemas encontrados:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " __/10"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "B. Justifique em voz alta — 5 min"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Para cada correção: "
+          },
+          {
+            "type": "text",
+            "text": "“It should be… because…”",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "C. Reescreva — 2 min"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Leia o texto corrigido inteiro em voz alta."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Feedback (3 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Encontrou 8 ou mais dos 10 problemas?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Justificou com a regra correta?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Qual tipo de erro você mais deixou passar? V ☐ A ☐ C ☐ P ☐"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Meu “erro favorito” (que eu sempre cometo):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ______"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Homework da semana"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estude "
+          },
+          {
+            "type": "text",
+            "text": "15–20 minutos por dia",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 1 — Lista pessoal.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Revise seus textos das aulas 35–41 e faça uma lista dos seus 5 erros mais frequentes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 2 — Regras.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Para cada erro da lista, escreva a regra e 3 frases corretas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 3 — Verbos + -ing/to.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva 10 frases com "
+          },
+          {
+            "type": "text",
+            "text": "enjoy, avoid, suggest, finish",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (+ -ing) e "
+          },
+          {
+            "type": "text",
+            "text": "want, decide, plan, hope",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (+ to)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 4 — Artigos.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva 10 frases com ideias gerais (sem "
+          },
+          {
+            "type": "text",
+            "text": "the",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") e específicas (com "
+          },
+          {
+            "type": "text",
+            "text": "the",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 5 — Escrita.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Discussion: Should students be allowed to use AI tools for homework?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " 10 min. Depois revise com as 3 leituras."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 6 — Speaking.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Grave 1 minuto explicando as 3 regras que você mais erra (em inglês)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 7 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça o quiz abaixo."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_toefl42_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "grammar",
+              "questionText": "Correct: “Many student works and they don't have time.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Many students work, and they don't have time."
+                },
+                {
+                  "id": "B",
+                  "text": "Many students works and they don't have time."
+                },
+                {
+                  "id": "C",
+                  "text": "Many student work and they don't have time."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Plural + concordância.",
+                "B": "Concordância errada.",
+                "C": "Falta plural.",
+                "general": "Correct answer: Many students work, and they don't have time."
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "grammar",
+              "questionText": "Correct: “She has started an online degree three years ago.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "She has started an online degree since three years."
+                },
+                {
+                  "id": "B",
+                  "text": "She started an online degree three years ago."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Errado.",
+                "B": "“Ago” + passado simples.",
+                "general": "Correct answer: She started an online degree three years ago."
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "grammar",
+              "questionText": "…and she ______ it. (love)",
+              "type": "written",
+              "correctWrittenAnswer": "loves",
+              "explanations": {
+                "general": "…and she loves it."
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "grammar",
+              "questionText": "Correct: “However this is not always true.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "However, this is not always true."
+                },
+                {
+                  "id": "B",
+                  "text": "However this, is not always true."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Vírgula depois do conector inicial.",
+                "B": "Errado.",
+                "general": "Correct answer: However, this is not always true."
+              }
+            },
+            {
+              "id": "homework-gap-2",
+              "category": "grammar",
+              "questionText": "______ online course from a good university can be rigorous. (artigo)",
+              "type": "written",
+              "correctWrittenAnswer": "An",
+              "explanations": {
+                "general": "An online course from a good university can be rigorous."
+              }
+            },
+            {
+              "id": "homework-gap-3",
+              "category": "grammar",
+              "questionText": "Students avoid ______ money on transport. (spend)",
+              "type": "written",
+              "correctWrittenAnswer": "spending",
+              "explanations": {
+                "general": "Students avoid spending money on transport."
+              }
+            },
+            {
+              "id": "homework-mc-4",
+              "category": "grammar",
+              "questionText": "Correct: “It was late, we went home.”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "It was late, we went home."
+                },
+                {
+                  "id": "B",
+                  "text": "It was late, so we went home."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Vírgula sozinha ligando duas frases completas.",
+                "B": "Conector adequado.",
+                "general": "Correct answer: It was late, so we went home."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "4.2:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 works · 2 I visited Chile two years ago · 3 suggested going · 4 Education is… for development · 5 …in Lisbon. It was amazing. (ou "
+                  },
+                  {
+                    "type": "text",
+                    "text": ", which was amazing",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ") · 6 has · 7 Despite the rain · 8 meeting."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "5A (10 problemas):",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "the universities",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "universities",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (A) · 2 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "many student works",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "many students work",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (V/plural) · 3 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "For example my cousin, she has",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "For example, my cousin has",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (P + C) · 4 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "has started… three years ago",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "started… three years ago",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (V) · 5 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "she love",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "she loves",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (V) · 6 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Although…, but",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → remover "
+                  },
+                  {
+                    "type": "text",
+                    "text": "but",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (C) · 7 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "However this",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "However, this",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (P) · 8 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "A online",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "An online",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (A) · 9 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "as face-to-face one",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "as a face-to-face one",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (A) · 10 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "avoid to spend",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "avoid spending",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (V)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
