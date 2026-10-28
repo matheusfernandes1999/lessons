@@ -164,7 +164,7 @@ Estude **15–20 minutos por dia**.
 ? w|comprehension|Street name: ______ Road
 > Quayside
 = 118 Quayside Road
-? w|comprehension|Closing time on weekdays: ______
+? w|comprehension|Closing time on weekdays: ______ (formato 7:15)
 > 7:15
 = open until 7:15
 ? mc|vocabulary|“Oh seven seven double one” = …
