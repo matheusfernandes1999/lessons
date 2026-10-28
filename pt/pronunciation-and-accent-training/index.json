@@ -18,5 +18,336 @@
     "https://learnenglish.britishcouncil.org/apps/learnenglish-sounds-right",
     "https://dictionary.cambridge.org/us/pronunciation/"
   ],
-  "lessons": []
+  "lessons": [
+    {
+      "id": "pron-01",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 1,
+      "title": "Diagnostic and Intelligibility",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-01-diagnostic-and-intelligibility.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-02",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 2,
+      "title": "IPA and Dictionary Audio",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-02-ipa-and-dictionary-audio.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-03",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 3,
+      "title": "Short and Long Vowel Contrasts",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-03-short-and-long-vowel-contrasts.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-04",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 4,
+      "title": "Front Vowels and Mouth Position",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-04-front-vowels-and-mouth-position.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-05",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 5,
+      "title": "Back Vowels and Diphthongs",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-05-back-vowels-and-diphthongs.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-06",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 6,
+      "title": "Schwa",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-06-schwa.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-07",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 7,
+      "title": "TH Sounds",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-07-th-sounds.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-08",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 8,
+      "title": "/r/ and /l/",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-08-r-and-l.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-09",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 9,
+      "title": "/h/ and Silent Letters",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-09-h-and-silent-letters.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-10",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 10,
+      "title": "Final Consonants and Endings",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-10-final-consonants-and-endings.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-11",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 11,
+      "title": "Consonant Clusters",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-11-consonant-clusters.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-12",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 12,
+      "title": "Plural and Third-Person -s",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-12-plural-and-third-person-s.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-13",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Sounds and Symbols",
+      "lessonNumber": 13,
+      "title": "Past -ed",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-13-past-ed.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-14",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Stress and Connected Speech",
+      "lessonNumber": 14,
+      "title": "Word Stress in Two-Syllable Words",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-14-word-stress-in-two-syllable-words.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-15",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Stress and Connected Speech",
+      "lessonNumber": 15,
+      "title": "Word Stress in Longer Words",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-15-word-stress-in-longer-words.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-16",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Stress and Connected Speech",
+      "lessonNumber": 16,
+      "title": "Sentence Stress and Content Words",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-16-sentence-stress-and-content-words.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-17",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Stress and Connected Speech",
+      "lessonNumber": 17,
+      "title": "Weak Forms",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-17-weak-forms.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-18",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Stress and Connected Speech",
+      "lessonNumber": 18,
+      "title": "Linking Consonants and Vowels",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-18-linking-consonants-and-vowels.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-19",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Stress and Connected Speech",
+      "lessonNumber": 19,
+      "title": "Assimilation",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-19-assimilation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-20",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Stress and Connected Speech",
+      "lessonNumber": 20,
+      "title": "Elision",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-20-elision.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-21",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 21,
+      "title": "Flap T in American English",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-21-flap-t-in-american-english.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-22",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 22,
+      "title": "Glottal and T Variants in British English",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-22-glottal-and-t-variants-in-british-english.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-23",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 23,
+      "title": "Rhotic and Non-Rhotic Accents",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-23-rhotic-and-non-rhotic-accents.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-24",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 24,
+      "title": "Yes/No and Wh-Question Intonation",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-24-yes-no-and-wh-question-intonation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-25",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 25,
+      "title": "Polite Requests and Pragmatic Intonation",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-25-polite-requests-and-pragmatic-intonation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-26",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 26,
+      "title": "Chunking and Thought Groups",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-26-chunking-and-thought-groups.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-27",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 27,
+      "title": "Speaking Rate and Fluency",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-27-speaking-rate-and-fluency.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-28",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 28,
+      "title": "Listening Across Accents",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-28-listening-across-accents.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-29",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 29,
+      "title": "Shadowing and Self-Correction",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-29-shadowing-and-self-correction.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "pron-30",
+      "course": "Pronunciation and Accent Training",
+      "unit": "Accents, Intonation and Fluency",
+      "lessonNumber": 30,
+      "title": "Final Pronunciation Performance",
+      "level": "A2–C1 (adaptável)",
+      "file": "lessons/pron-30-final-pronunciation-performance.json",
+      "quizCount": 3,
+      "questionCount": 15
+    }
+  ]
 }
