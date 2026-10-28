@@ -758,7 +758,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > I got stuck on it, so I made a guess and moved on."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I got stuck on it, so I made a guess and moved on."
+              }
+            ]
           }
         ]
       },

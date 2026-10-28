@@ -637,7 +637,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > Approximately half of the species depend primarily on a single food source."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Approximately half of the species depend primarily on a single food source."
+              }
+            ]
           }
         ]
       },

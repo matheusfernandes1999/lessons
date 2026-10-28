@@ -40,7 +40,8 @@ Pistas para vocabulário em contexto:
 - **infer / in fur / inform** — in-FER (tônica no fim) · **IN-fer-ence** (tônica no começo!)
 - **imply / employ / apply** — im-PLY, em-PLOY, a-PPLY
 - **assume / resume / consume** — as-SUME, re-SUME, con-SUME
-Frase: > We can infer that the author assumes the reader knows the theory.
+**Frase para repetir 3 vezes:**
+> We can infer that the author assumes the reader knows the theory.
 
 :::quiz vocab
 ? mc|vocabulary|“The data suggest that prices will rise.” “Suggest” here means…

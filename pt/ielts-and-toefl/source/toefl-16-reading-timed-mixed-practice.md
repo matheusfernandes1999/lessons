@@ -41,7 +41,8 @@ Linguagem para falar sobre desempenho:
 - **pace / place / space** · **skip / ship / sheep** · **guess / guest / get**
 - **eliminate** = e-LIM-i-nate · **distractor** = dis-TRAC-tor
 - Ligação: *ran out of time* → *ra-nou-tof-time* · *got stuck on it* → *got-stu-ko-nit*
-Frase: > I got stuck on it, so I made a guess and moved on.
+**Frase para repetir 3 vezes:**
+> I got stuck on it, so I made a guess and moved on.
 
 :::quiz vocab
 ? mc|vocabulary|“I ran out of time.” means…

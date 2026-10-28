@@ -802,7 +802,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > Although the weather was bad, they walked through the island."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Although the weather was bad, they walked through the island."
+              }
+            ]
           }
         ]
       },

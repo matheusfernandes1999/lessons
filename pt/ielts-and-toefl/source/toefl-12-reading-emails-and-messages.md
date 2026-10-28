@@ -43,7 +43,8 @@ Ouça e repita imitando a melodia (a voz sobe no fim de perguntas sim/não):
 - *Could you send me the file?* ↗ · *Would you mind checking it?* ↗
 - *I was wondering if you could help me.* ↘ (afirmação educada, voz desce)
 Ouça, compare e repita: **regarding / regard / reward** · **forward / foreword** (soam iguais!) · **reply / rely**
-Frase: > I was wondering if you could forward me the email regarding the meeting.
+**Frase para repetir 3 vezes:**
+> I was wondering if you could forward me the email regarding the meeting.
 
 :::quiz vocab
 ? mc|vocabulary|“Just a reminder that the room is booked until 5.” The purpose is to…

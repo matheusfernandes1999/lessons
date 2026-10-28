@@ -768,7 +768,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > I was wondering if you could forward me the email regarding the meeting."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I was wondering if you could forward me the email regarding the meeting."
+              }
+            ]
           }
         ]
       },

@@ -39,7 +39,8 @@ Ouça, compare e repita:
 - **whether / weather** — soam iguais!
 - **design / sign / foreign** — g mudo
 - **island / debt / listen** — s, b, t mudos
-Frase: > Although the weather was bad, they walked through the island.
+**Frase para repetir 3 vezes:**
+> Although the weather was bad, they walked through the island.
 
 :::quiz vocab
 ? w|vocabulary|Complete: altho___ (embora)

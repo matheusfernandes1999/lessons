@@ -765,7 +765,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > We can infer that the author assumes the reader knows the theory."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "We can infer that the author assumes the reader knows the theory."
+              }
+            ]
           }
         ]
       },

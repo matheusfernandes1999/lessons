@@ -678,7 +678,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > It's unlikely that they will disagree, but it's not impossible."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It's unlikely that they will disagree, but it's not impossible."
+              }
+            ]
           }
         ]
       },

@@ -828,7 +828,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > Only eligible students can sign up, and the fee is refundable."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Only eligible students can sign up, and the fee is refundable."
+              }
+            ]
           }
         ]
       },

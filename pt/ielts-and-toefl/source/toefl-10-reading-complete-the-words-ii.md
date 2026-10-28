@@ -43,7 +43,8 @@ Ouça, compare e repita. O prefixo geralmente **não** muda a tônica:
 - **POS-si-ble / im-POS-si-ble** · **LIKE-ly / un-LIKE-ly** · **a-GREE / dis-a-GREE**
 - **re-BUILD / re-CON-si-der / mis-un-der-STAND**
 Grupo parecido: **effect / affect / afford** — e-FECT, a-FECT, a-FORD.
-Frase: > It's unlikely that they will disagree, but it's not impossible.
+**Frase para repetir 3 vezes:**
+> It's unlikely that they will disagree, but it's not impossible.
 
 :::quiz vocab
 ? w|vocabulary|The results were not accurate. They were ______. (in-)

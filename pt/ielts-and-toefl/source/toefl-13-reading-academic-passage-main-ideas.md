@@ -39,7 +39,8 @@ Ouça, compare e repita (sílaba forte em maiúsculas):
 - **des-CRIBE / ex-PLAIN / com-PARE / con-TRAST (v) / AR-gue / pro-POSE**
 - **CON-trast (n) × con-TRAST (v)** — **SUM-ma-ry × SUM-ma-rize**
 - **e-VI-dence**? Não! **EV-i-dence** · **the-O-ry**? Não! **THE-o-ry**
-Frase: > The author compares two theories and explains the evidence for each.
+**Frase para repetir 3 vezes:**
+> The author compares two theories and explains the evidence for each.
 
 :::quiz vocab
 ? mc|vocabulary|The ______ of a text is what it is about, in one or two words.

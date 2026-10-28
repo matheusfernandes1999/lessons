@@ -777,7 +777,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > The author compares two theories and explains the evidence for each."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The author compares two theories and explains the evidence for each."
+              }
+            ]
           }
         ]
       },

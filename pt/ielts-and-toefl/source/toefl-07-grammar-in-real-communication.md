@@ -44,7 +44,8 @@ Ouça, compare e repita. O professor fala; o aluno diz /t/, /d/ ou /ɪd/.
 - /d/: **studied, emailed, received, planned, answered**
 - /ɪd/ (sílaba extra — só depois de t/d): **needed, submitted, attended, waited, started**
 Cuidado: *worked* NÃO é *work-ed*. *Missed* soa como *mist*.
-Frase: > I missed the class, so I emailed the professor and attended her office hours.
+**Frase para repetir 3 vezes:**
+> I missed the class, so I emailed the professor and attended her office hours.
 
 :::quiz vocab
 ? mc|vocabulary|“Could I get an ______ for the essay? I was sick.”

@@ -42,7 +42,8 @@ Palavras típicas de avisos:
 - **sign / sing / sin** — sign /saɪn/ (g mudo)
 - **eligible** = E-li-gi-ble · **mandatory** = MAN-da-to-ry · **maintenance** = MAIN-te-nance
 - **refund** (n) = RE-fund · **refund** (v) = re-FUND
-Frase: > Only eligible students can sign up, and the fee is refundable.
+**Frase para repetir 3 vezes:**
+> Only eligible students can sign up, and the fee is refundable.
 
 :::quiz vocab
 ? mc|vocabulary|“The pool is closed until further notice.” When will it open?

@@ -37,7 +37,8 @@ Palavras de texto acadêmico:
 ### Pronúncia: advérbios acadêmicos
 Ouça, compare e repita: **ap-PROX-i-mate-ly · pri-MAR-i-ly · sig-NIF-i-cant-ly · RARE-ly · par-TIC-u-lar-ly**
 Pares que confundem: **rarely / really** · **source / sauce / sorts** · **trait / trade / tray**
-Frase: > Approximately half of the species depend primarily on a single food source.
+**Frase para repetir 3 vezes:**
+> Approximately half of the species depend primarily on a single food source.
 
 :::quiz vocab
 ? mc|vocabulary|“Which of the following is NOT mentioned?” You should look for…

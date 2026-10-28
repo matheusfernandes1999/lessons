@@ -813,7 +813,26 @@
         "content": [
           {
             "type": "text",
-            "text": "Frase: > My goal is to track my progress and review every day."
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "My goal is to track my progress and review every day."
+              }
+            ]
           }
         ]
       },

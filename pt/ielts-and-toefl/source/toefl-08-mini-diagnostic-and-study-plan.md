@@ -44,7 +44,8 @@ Palavras para planejar estudos:
 - **review / revue** — re-VIEW (tônica no final).
 - **progress** (n) = PRO-gress · **progress** (v) = pro-GRESS
 - **routine** = rou-TINE (tônica no final, “i” longo).
-Frase: > My goal is to track my progress and review every day.
+**Frase para repetir 3 vezes:**
+> My goal is to track my progress and review every day.
 
 :::quiz vocab
 ? mc|vocabulary|“I'm still struggling with listening.” This means…
