@@ -1,0 +1,2427 @@
+{
+  "id": "ielts-22",
+  "language": "pt",
+  "mainTopic": "IELTS and TOEFL",
+  "course": "IELTS Academic",
+  "unit": "Reading",
+  "lessonNumber": 22,
+  "title": "Reading: Matching Information and Features",
+  "level": "B1–C1",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Localizar referências espalhadas e associações",
+  "verifiableTask": "Resolver oito correspondências com evidência",
+  "skills": [
+    "reading",
+    "vocabulary",
+    "speaking"
+  ],
+  "quizCount": 3,
+  "questionCount": 17,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Foco:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " dois tipos de matching:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Matching Information:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Which paragraph contains…?",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — encontrar "
+                  },
+                  {
+                    "type": "text",
+                    "text": "onde",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " está uma informação (as perguntas "
+                  },
+                  {
+                    "type": "text",
+                    "text": "não",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " seguem a ordem do texto!)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Matching Features:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ligar "
+                  },
+                  {
+                    "type": "text",
+                    "text": "afirmações a pessoas/datas/lugares",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "Which researcher said…?",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ao final da aula você consegue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " localizar informações espalhadas e ligar ideias às pessoas certas, com evidência."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tarefa verificável:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " resolver oito correspondências com evidência."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Warm-up (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I say “a reference to a cost”, what words could you look for? ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "price, expensive, budget, £, afford…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“A description of a process”? ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "first, then, stage, step…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“An example of a failure”? ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "unsuccessful, didn't work, abandoned…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Revisão da aula 21:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " qual é a armadilha mais comum em Matching Headings?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Vocabulário-chave (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Expressões típicas das perguntas de Matching Information"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "a reference to",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — menção a · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a description of",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — descrição de · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "an explanation of",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — explicação de"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "an example of",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a comparison between",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a prediction about",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — previsão"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "a suggestion that",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — sugestão · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a reason why",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a method for",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a warning about",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pistas de “tipo de informação”"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "prediction",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "will, by 2050, is expected to, in the future",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "comparison",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "than, whereas, similarly, unlike",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "warning",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "risk, danger, could lead to, should be careful",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "method",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "by + -ing, technique, approach, using",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Verbos de pesquisadores (Matching Features)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "found · showed · claimed · argued · suggested · questioned · warned · proposed",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronúncia: ouça, compare e repita"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "reference",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = REF-er-ence · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "prediction",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = pre-DIC-tion · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "comparison",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = com-PAR-i-son"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "warn / worn / one",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "claim / climb",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paragraph C contains a prediction, while paragraph E makes a comparison."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ielts22_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "vocabulary",
+              "questionText": "“A prediction about” something is usually signalled by…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "will / is expected to / by 2050"
+                },
+                {
+                  "id": "B",
+                  "text": "in the past / used to"
+                },
+                {
+                  "id": "C",
+                  "text": "for example"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Passado.",
+                "C": "Exemplo.",
+                "general": "Correct answer: will / is expected to / by 2050"
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "vocabulary",
+              "questionText": "“A warning about” is signalled by words like…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "benefit / advantage"
+                },
+                {
+                  "id": "B",
+                  "text": "risk / danger / could lead to"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto.",
+                "general": "Correct answer: risk / danger / could lead to"
+              }
+            },
+            {
+              "id": "vocab-gap-1",
+              "category": "vocabulary",
+              "questionText": "“A ______ between” two things means showing similarities or differences. (comparação)",
+              "type": "written",
+              "correctWrittenAnswer": "comparison",
+              "explanations": {
+                "general": "a comparison between"
+              }
+            },
+            {
+              "id": "vocab-tf-1",
+              "category": "comprehension",
+              "questionText": "In Matching Information, the questions always follow the order of the text.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Falso: em Matching Information, as perguntas não seguem a ordem."
+              }
+            },
+            {
+              "id": "vocab-gap-2",
+              "category": "vocabulary",
+              "questionText": "Professor Lee ______ that the results were wrong. (afirmou — c…)",
+              "type": "written",
+              "correctWrittenAnswer": "claimed",
+              "explanations": {
+                "general": "Professor Lee claimed that the results were wrong."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Explicação e modelo (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Matching Information — estratégia"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leia "
+                  },
+                  {
+                    "type": "text",
+                    "text": "todas as perguntas",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " e identifique o "
+                  },
+                  {
+                    "type": "text",
+                    "text": "tipo",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " de informação (exemplo, previsão, custo…)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leia o texto "
+                  },
+                  {
+                    "type": "text",
+                    "text": "parágrafo por parágrafo",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "; ao terminar cada um, olhe a lista: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "este parágrafo contém algum desses itens?",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Um parágrafo pode ser usado "
+                  },
+                  {
+                    "type": "text",
+                    "text": "mais de uma vez",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (leia a instrução: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "You may use any letter more than once",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Matching Features — estratégia"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Scan",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " os nomes no texto e sublinhe todos (podem aparecer mais de uma vez!)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leia o que cada pessoa disse/encontrou."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Combine com as afirmações (paráfrase!)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Modelo"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " … Dr. Kim "
+              },
+              {
+                "type": "text",
+                "text": "found",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " that children who read daily had larger vocabularies. "
+              },
+              {
+                "type": "text",
+                "text": "B",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " … By 2030, digital textbooks "
+              },
+              {
+                "type": "text",
+                "text": "are expected to",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " replace most printed ones. "
+              },
+              {
+                "type": "text",
+                "text": "C",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " … Professor Ruiz, however, "
+              },
+              {
+                "type": "text",
+                "text": "warned",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " that screens may reduce concentration…"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A prediction about education materials",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "B",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Who warned about a negative effect of screens?",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ruiz",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (C)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Who linked reading habits to vocabulary size?",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Kim",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (A)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.1 Troque e fale: localizando"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paragraph "
+              },
+              {
+                "type": "text",
+                "text": "B",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " contains "
+              },
+              {
+                "type": "text",
+                "text": "a prediction",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ", because it says "
+              },
+              {
+                "type": "text",
+                "text": "“are expected to replace”",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "→ D / a comparison / “unlike traditional methods” → E / a warning / “could lead to serious problems” → A / an example / “for instance, in Kenya”"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.2 Que tipo de informação é?"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Unlike cars, electric bikes need little space for parking.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If nothing changes, sea levels could rise by a metre.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The project was abandoned after two years because of high costs.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Researchers measured air quality using small sensors attached to bicycles.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The first scheme was introduced in Amsterdam in the 1960s.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "(comparison · prediction/warning · example of failure · method · origin)"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ielts22_practice",
+          "questions": [
+            {
+              "id": "practice-mc-1",
+              "category": "comprehension",
+              "questionText": "“Unlike cars, electric bikes need little space for parking.” This is…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "a comparison"
+                },
+                {
+                  "id": "B",
+                  "text": "a prediction"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto: “unlike”.",
+                "B": "Não.",
+                "general": "Correct answer: a comparison"
+              }
+            },
+            {
+              "id": "practice-mc-2",
+              "category": "comprehension",
+              "questionText": "“If nothing changes, sea levels could rise by a metre.” This is…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "a method"
+                },
+                {
+                  "id": "B",
+                  "text": "a warning/prediction"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto.",
+                "general": "Correct answer: a warning/prediction"
+              }
+            },
+            {
+              "id": "practice-mc-3",
+              "category": "comprehension",
+              "questionText": "“The project was abandoned after two years because of high costs.” This is…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "an example of a failure"
+                },
+                {
+                  "id": "B",
+                  "text": "a comparison"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: an example of a failure"
+              }
+            },
+            {
+              "id": "practice-mc-4",
+              "category": "comprehension",
+              "questionText": "“Researchers measured air quality using small sensors.” This is…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "a warning"
+                },
+                {
+                  "id": "B",
+                  "text": "a description of a method"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto.",
+                "general": "Correct answer: a description of a method"
+              }
+            },
+            {
+              "id": "practice-mc-5",
+              "category": "comprehension",
+              "questionText": "Model: who warned about a negative effect of screens?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Dr. Kim"
+                },
+                {
+                  "id": "B",
+                  "text": "Professor Ruiz"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Ela falou de leitura e vocabulário.",
+                "B": "Correto.",
+                "general": "Correct answer: Professor Ruiz"
+              }
+            },
+            {
+              "id": "practice-tf-1",
+              "category": "comprehension",
+              "questionText": "In Matching Information, a paragraph letter can sometimes be used more than once.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Correto (leia sempre a instrução)."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Tarefa cronometrada (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Cities and Heat",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Urban areas can be up to 7°C warmer than the surrounding countryside, a phenomenon known as the urban heat island. Dark surfaces such as asphalt absorb sunlight during the day and release heat at night."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "B",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Dr. Helen Carter, a climate scientist, measured temperatures across London using sensors fixed to buses. Her results showed that the hottest areas were those with the fewest trees, rather than those with the most traffic."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "C",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Some cities have responded by painting roofs white. In one experiment in New York, white roofs were found to be up to 24°C cooler than black roofs on summer afternoons."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "D",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " However, engineer Marco Bellini argues that white roofs alone are not enough. He believes that cities should prioritise “green corridors” — lines of trees and parks — that allow cooler air to flow through streets."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "E",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Not every solution has been successful. In one Spanish city, artificial grass was installed in public squares, but it actually became hotter than the asphalt it replaced and was later removed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "F",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Experts predict that, by 2050, more than two-thirds of the world's population will live in cities, making heat one of the most important urban health issues of the century."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Matching Information",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — "
+          },
+          {
+            "type": "text",
+            "text": "Which paragraph contains…?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "a prediction about population growth ___ 2. an example of a solution that failed ___ 3. a description of how temperatures were measured ___ 4. an explanation of why cities are warmer ___"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Matching Features",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — "
+          },
+          {
+            "type": "text",
+            "text": "Who/What: A Helen Carter · B Marco Bellini · C the New York experiment",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 5
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "found that trees mattered more than traffic ___ 6. showed a large temperature difference between roof colours ___ 7. recommended allowing air to move through the city ___ 8. suggested that one solution is insufficient on its own ___"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Acertos:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " __/8 · "
+          },
+          {
+            "type": "text",
+            "text": "Evidência oral (3 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " leia o trecho de 4 respostas."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Feedback (3 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Identificou o tipo de informação de cada pergunta?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Sublinhou todos os nomes antes de responder às features?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Justificou com o trecho?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ajuste:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ______"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Homework da semana"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estude "
+          },
+          {
+            "type": "text",
+            "text": "15–20 minutos por dia",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 1 — Tipos.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva uma frase de exemplo para 10 tipos de informação (prediction, warning, method, cost…)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 2 — Reading oficial.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça um Matching Information oficial. Anote quais tipos foram mais difíceis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 3 — Features.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Leia um artigo com 3+ especialistas citados. Faça uma tabela: nome → o que disse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 4 — Crie.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Crie 6 perguntas de Matching Features para o artigo do dia 3."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 5 — Speaking.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Grave 1 minuto: "
+          },
+          {
+            "type": "text",
+            "text": "How can cities stay cool?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Use 3 informações do texto."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 6 — Vocabulário.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Frases com "
+          },
+          {
+            "type": "text",
+            "text": "phenomenon, absorb, release, prioritise, corridor, insufficient",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 7 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça o quiz abaixo."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ielts22_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "comprehension",
+              "questionText": "Which paragraph contains a prediction about population growth?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "A"
+                },
+                {
+                  "id": "B",
+                  "text": "F"
+                },
+                {
+                  "id": "C",
+                  "text": "C"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto: “by 2050… two-thirds”.",
+                "C": "Não.",
+                "general": "Correct answer: F"
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "comprehension",
+              "questionText": "Which paragraph contains an example of a solution that failed?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "E"
+                },
+                {
+                  "id": "B",
+                  "text": "D"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto: grama artificial.",
+                "B": "Não.",
+                "general": "Correct answer: E"
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "comprehension",
+              "questionText": "Who found that trees mattered more than traffic?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Helen Carter"
+                },
+                {
+                  "id": "B",
+                  "text": "Marco Bellini"
+                },
+                {
+                  "id": "C",
+                  "text": "the New York experiment"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "C": "Não.",
+                "general": "Correct answer: Helen Carter"
+              }
+            },
+            {
+              "id": "homework-mc-4",
+              "category": "comprehension",
+              "questionText": "Who recommended allowing air to move through the city?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Helen Carter"
+                },
+                {
+                  "id": "B",
+                  "text": "Marco Bellini"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "“green corridors… allow cooler air to flow”.",
+                "general": "Correct answer: Marco Bellini"
+              }
+            },
+            {
+              "id": "homework-mc-5",
+              "category": "comprehension",
+              "questionText": "What showed a large temperature difference between roof colours?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Marco Bellini"
+                },
+                {
+                  "id": "B",
+                  "text": "the New York experiment"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto: até 24°C.",
+                "general": "Correct answer: the New York experiment"
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "comprehension",
+              "questionText": "Urban areas can be up to ______°C warmer than the countryside.",
+              "type": "written",
+              "correctWrittenAnswer": "7",
+              "explanations": {
+                "general": "up to 7°C warmer"
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "4.2:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 comparison · 2 prediction/warning · 3 example of failure · 4 method · 5 origin."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "5:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 F · 2 E · 3 B · 4 A · 5 A · 6 C · 7 B · 8 B."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2065 @@
+{
+  "id": "ielts-23",
+  "language": "pt",
+  "mainTopic": "IELTS and TOEFL",
+  "course": "IELTS Academic",
+  "unit": "Reading",
+  "lessonNumber": 23,
+  "title": "Reading: Sentence and Summary Completion",
+  "level": "B1–C1",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Usar contexto e limites exatos da instrução",
+  "verifiableTask": "Preencher oito lacunas preservando forma e sentido",
+  "skills": [
+    "reading",
+    "vocabulary",
+    "grammar",
+    "speaking"
+  ],
+  "quizCount": 3,
+  "questionCount": 17,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Foco:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " completar "
+          },
+          {
+            "type": "text",
+            "text": "frases",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " e "
+          },
+          {
+            "type": "text",
+            "text": "resumos",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " com palavras "
+          },
+          {
+            "type": "text",
+            "text": "do texto",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (ou de uma "
+          },
+          {
+            "type": "text",
+            "text": "lista",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", em algumas versões). A resposta precisa caber "
+          },
+          {
+            "type": "text",
+            "text": "gramaticalmente",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " e respeitar o "
+          },
+          {
+            "type": "text",
+            "text": "limite de palavras",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ao final da aula você consegue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " encontrar a parte do texto que corresponde ao resumo e copiar a palavra certa, na forma certa."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tarefa verificável:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " preencher oito lacunas preservando forma e sentido."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Warm-up (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Complete oralmente com uma palavra que "
+          },
+          {
+            "type": "text",
+            "text": "caiba",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " na gramática:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The museum attracts thousands of ___ every year.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The bridge was ___ in 1890.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The new law had a ___ effect on traffic.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Scientists are trying to ___ the problem.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Revisão da aula 22:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " que palavras sinalizam "
+          },
+          {
+            "type": "text",
+            "text": "a prediction",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Vocabulário-chave (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Tipos de summary completion"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Palavras do texto:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Choose NO MORE THAN TWO WORDS from the passage.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → copie "
+                  },
+                  {
+                    "type": "text",
+                    "text": "exatamente",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (ortografia!)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lista de palavras (A–H):",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " escolha da caixa; a lista tem "
+                  },
+                  {
+                    "type": "text",
+                    "text": "sinônimos",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " do texto e distratores."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Checagem gramatical da lacuna"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "artigo (a/an/the) + ___",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → substantivo · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "___ + substantivo",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → adjetivo · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "to ___",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → verbo base"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "was/were ___",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → particípio ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "built, introduced",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ") ou adjetivo"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "concordância:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a number of ___",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → plural"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Palavras de resumos acadêmicos"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "initially",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "subsequently",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "eventually",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "gradually",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "despite",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "due to",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "resulting in",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "in order to",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronúncia: ouça, compare e repita"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "initially",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = i-NI-shal-ly · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "subsequently",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = SUB-se-quent-ly · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "eventually",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = e-VEN-tchu-al-ly"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Initially the plan failed, but it was eventually successful due to public support."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ielts23_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "grammar",
+              "questionText": "“The bridge was ___ in 1890.” The gap needs…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "a past participle (built)"
+                },
+                {
+                  "id": "B",
+                  "text": "a plural noun"
+                },
+                {
+                  "id": "C",
+                  "text": "a base verb"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "C": "Não.",
+                "general": "Correct answer: a past participle (built)"
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "grammar",
+              "questionText": "“The new law had a ___ effect.” The gap needs…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "a verb"
+                },
+                {
+                  "id": "B",
+                  "text": "an adjective"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto: a + ADJ + effect.",
+                "general": "Correct answer: an adjective"
+              }
+            },
+            {
+              "id": "vocab-gap-1",
+              "category": "vocabulary",
+              "questionText": "“At first” = ______ (advérbio acadêmico)",
+              "type": "written",
+              "correctWrittenAnswer": "initially",
+              "explanations": {
+                "general": "initially"
+              }
+            },
+            {
+              "id": "vocab-gap-2",
+              "category": "vocabulary",
+              "questionText": "“In the end” = ______ (advérbio acadêmico)",
+              "type": "written",
+              "correctWrittenAnswer": "eventually",
+              "explanations": {
+                "general": "eventually"
+              }
+            },
+            {
+              "id": "vocab-tf-1",
+              "category": "comprehension",
+              "questionText": "In summary completion from the passage, you can change the form of the word (e.g., add -s).",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Falso: copie a palavra como está no texto; escolha a que já cabe na gramática."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Explicação e modelo (4 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Estratégia"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leia o resumo inteiro",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " primeiro — entenda a história."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Encontre "
+                  },
+                  {
+                    "type": "text",
+                    "text": "onde no texto",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " o resumo começa (âncora: nome, data). Resumos geralmente cobrem "
+                  },
+                  {
+                    "type": "text",
+                    "text": "uma parte",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " do texto, em ordem."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Para cada lacuna: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "classe da palavra",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " + "
+                  },
+                  {
+                    "type": "text",
+                    "text": "sentido",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → procure no trecho."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Copie exatamente",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " e confira o limite."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Modelo"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Texto:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "The first bicycles, introduced in the early 1800s, had no pedals; riders pushed themselves along with their feet. Pedals were added in the 1860s, but these machines were extremely uncomfortable and were nicknamed “boneshakers”.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Resumo:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Early bicycles were moved by riders using their (1) ___. Later models with pedals were very (2) ___ and earned the name “boneshakers”.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "→ (1) "
+          },
+          {
+            "type": "text",
+            "text": "feet",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "with their feet",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") · (2) "
+          },
+          {
+            "type": "text",
+            "text": "uncomfortable",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (adjetivo depois de "
+          },
+          {
+            "type": "text",
+            "text": "very",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.1 Troque e fale: justificando a palavra"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The answer is "
+              },
+              {
+                "type": "text",
+                "text": "“uncomfortable”",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " because the gap needs "
+              },
+              {
+                "type": "text",
+                "text": "an adjective",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " after "
+              },
+              {
+                "type": "text",
+                "text": "“very”",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ", and the text says "
+              },
+              {
+                "type": "text",
+                "text": "“extremely uncomfortable”",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "→ “feet” / a plural noun / “their” / “with their feet” → “introduced” / a past participle / “were” / “introduced in the early 1800s”"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4.2 Resumo com lista"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Texto:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Ants communicate mainly through chemicals called pheromones. When an ant finds food, it leaves a trail of pheromones on its way back to the nest. Other ants follow this trail, and as more ants use it, the signal becomes stronger. If the food runs out, the ants stop reinforcing the trail, and the chemical gradually disappears.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Resumo:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Ants rely on (1) ___ signals. A successful ant marks a (2) ___ to the food. The more ants use it, the more (3) ___ it becomes. When there is no more food, the signal (4) ___ fades.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Lista:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " A path · B visual · C chemical · D quickly · E powerful · F slowly · G nest · H weak"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ielts23_practice",
+          "questions": [
+            {
+              "id": "practice-gap-1",
+              "category": "comprehension",
+              "questionText": "Early bicycles were moved by riders using their ______.",
+              "type": "written",
+              "correctWrittenAnswer": "feet",
+              "explanations": {
+                "general": "…pushed themselves along with their feet."
+              }
+            },
+            {
+              "id": "practice-gap-2",
+              "category": "comprehension",
+              "questionText": "Later models with pedals were very ______.",
+              "type": "written",
+              "correctWrittenAnswer": "uncomfortable",
+              "explanations": {
+                "general": "extremely uncomfortable"
+              }
+            },
+            {
+              "id": "practice-mc-1",
+              "category": "comprehension",
+              "questionText": "Ants rely on ___ signals.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "visual"
+                },
+                {
+                  "id": "B",
+                  "text": "chemical"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto: pheromones.",
+                "general": "Correct answer: chemical"
+              }
+            },
+            {
+              "id": "practice-mc-2",
+              "category": "comprehension",
+              "questionText": "A successful ant marks a ___ to the food.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "path"
+                },
+                {
+                  "id": "B",
+                  "text": "nest"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Trail = path.",
+                "B": "Não.",
+                "general": "Correct answer: path"
+              }
+            },
+            {
+              "id": "practice-mc-3",
+              "category": "comprehension",
+              "questionText": "The more ants use it, the more ___ it becomes.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "powerful"
+                },
+                {
+                  "id": "B",
+                  "text": "weak"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "“stronger”.",
+                "B": "Oposto.",
+                "general": "Correct answer: powerful"
+              }
+            },
+            {
+              "id": "practice-mc-4",
+              "category": "comprehension",
+              "questionText": "When there is no more food, the signal ___ fades.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "quickly"
+                },
+                {
+                  "id": "B",
+                  "text": "slowly"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "O texto diz “gradually”.",
+                "B": "Correto: gradually = slowly.",
+                "general": "Correct answer: slowly"
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Tarefa cronometrada: 8 lacunas (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Instrução:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Complete the summary. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Story of the Potato",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The potato was first domesticated in the Andes of South America around 8,000 years ago. Spanish explorers brought it to Europe in the late sixteenth century, but at first many Europeans were suspicious of it, believing it caused disease. Some even thought it was only suitable as animal feed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Attitudes changed gradually. In France, the scientist Antoine-Augustin Parmentier promoted the potato after surviving on it as a prisoner of war. He organised dinners where every dish contained potatoes and even placed guards around a potato field to make local people believe the crop was valuable."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "By the nineteenth century, the potato had become a staple food in much of northern Europe, because it produced more calories per hectare than grain. However, this dependence had a terrible consequence in Ireland. When a plant disease destroyed the crop in the 1840s, about one million people died, and another million emigrated."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Summary:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Potatoes were first grown in the (1) ______ thousands of years ago. When they arrived in Europe, people were (2) ______ of them, and some considered them fit only for (3) ______. In France, Parmentier, who had eaten potatoes as a (4) ______, worked to change their image. He used (5) ______ to make a field seem valuable. Later, potatoes became a (6) ______ in northern Europe because they gave more (7) ______ per hectare than grain. In Ireland, a (8) ______ destroyed the crop in the 1840s, with tragic results."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Acertos:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " __/8"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Fala (4 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " explique a história da batata em 1 minuto usando "
+          },
+          {
+            "type": "text",
+            "text": "initially, subsequently, eventually, due to",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Feedback (3 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Respeitou NO MORE THAN TWO WORDS?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Copiou exatamente ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "prisoner of war",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " tem 3 palavras — qual parte cabe?)?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] A palavra cabe na gramática da lacuna?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ajuste:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ______"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Homework da semana"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estude "
+          },
+          {
+            "type": "text",
+            "text": "15–20 minutos por dia",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 1 — Gramática da lacuna.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva 10 frases com lacuna e identifique a classe de palavra necessária."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 2 — Resumo.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Leia um artigo curto e escreva um resumo de 5 frases com 5 lacunas. No dia seguinte, complete sem olhar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 3 — Reading oficial.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça um Summary Completion oficial (com lista ou sem)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 4 — Advérbios.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça frases com "
+          },
+          {
+            "type": "text",
+            "text": "initially, subsequently, eventually, gradually",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sobre a história da sua cidade."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 5 — Speaking.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Grave 1 minuto: "
+          },
+          {
+            "type": "text",
+            "text": "Describe a food that is important in your country and its history.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 6 — Vocabulário.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça frases com "
+          },
+          {
+            "type": "text",
+            "text": "domesticate, suspicious, staple, dependence, emigrate",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 7 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça o quiz abaixo."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ielts23_homework",
+          "questions": [
+            {
+              "id": "homework-gap-1",
+              "category": "comprehension",
+              "questionText": "Potatoes were first grown in the ______. (NO MORE THAN TWO WORDS)",
+              "type": "written",
+              "correctWrittenAnswer": "Andes",
+              "explanations": {
+                "general": "in the Andes of South America"
+              }
+            },
+            {
+              "id": "homework-gap-2",
+              "category": "comprehension",
+              "questionText": "When they arrived in Europe, people were ______ of them.",
+              "type": "written",
+              "correctWrittenAnswer": "suspicious",
+              "explanations": {
+                "general": "many Europeans were suspicious of it"
+              }
+            },
+            {
+              "id": "homework-gap-3",
+              "category": "comprehension",
+              "questionText": "Some considered them fit only for ______. (TWO WORDS)",
+              "type": "written",
+              "correctWrittenAnswer": "animal feed",
+              "explanations": {
+                "general": "only suitable as animal feed"
+              }
+            },
+            {
+              "id": "homework-gap-4",
+              "category": "comprehension",
+              "questionText": "Parmentier had eaten potatoes as a ______. (ONE WORD)",
+              "type": "written",
+              "correctWrittenAnswer": "prisoner",
+              "explanations": {
+                "general": "as a prisoner (of war)"
+              }
+            },
+            {
+              "id": "homework-gap-5",
+              "category": "comprehension",
+              "questionText": "Potatoes became a ______ in northern Europe. (TWO WORDS)",
+              "type": "written",
+              "correctWrittenAnswer": "staple food",
+              "explanations": {
+                "general": "a staple food"
+              }
+            },
+            {
+              "id": "homework-gap-6",
+              "category": "comprehension",
+              "questionText": "They gave more ______ per hectare than grain.",
+              "type": "written",
+              "correctWrittenAnswer": "calories",
+              "explanations": {
+                "general": "more calories per hectare"
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Warm-up (exemplos):",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " visitors · built · positive/significant · solve."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "4.2:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 C · 2 A · 3 E · 4 F."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "5:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 Andes · 2 suspicious · 3 animal feed · 4 prisoner (“prisoner of war” excede o limite) · 5 guards · 6 staple food · 7 calories · 8 plant disease."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
