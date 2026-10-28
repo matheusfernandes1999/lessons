@@ -24,6 +24,94 @@
   ],
   "lessons": [
     {
+      "id": "ielts-01",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 1,
+      "title": "IELTS Academic Orientation and Diagnostic",
+      "level": "A2–B1",
+      "file": "lessons/ielts-01-ielts-academic-orientation-and-diagnostic.json",
+      "quizCount": 3,
+      "questionCount": 19
+    },
+    {
+      "id": "ielts-02",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 2,
+      "title": "Foundations for Accurate Academic English",
+      "level": "A2–B1",
+      "file": "lessons/ielts-02-foundations-for-accurate-academic-english.json",
+      "quizCount": 3,
+      "questionCount": 20
+    },
+    {
+      "id": "ielts-03",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 3,
+      "title": "Lexical Resource and Collocations",
+      "level": "A2–B1",
+      "file": "lessons/ielts-03-lexical-resource-and-collocations.json",
+      "quizCount": 3,
+      "questionCount": 19
+    },
+    {
+      "id": "ielts-04",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 4,
+      "title": "Pronunciation: Sounds and Word Stress",
+      "level": "A2–B1",
+      "file": "lessons/ielts-04-pronunciation-sounds-and-word-stress.json",
+      "quizCount": 3,
+      "questionCount": 18
+    },
+    {
+      "id": "ielts-05",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 5,
+      "title": "Grammar Range: Simple to Complex",
+      "level": "A2–B1",
+      "file": "lessons/ielts-05-grammar-range-simple-to-complex.json",
+      "quizCount": 3,
+      "questionCount": 18
+    },
+    {
+      "id": "ielts-06",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 6,
+      "title": "Academic Register and Cohesion",
+      "level": "A2–B1",
+      "file": "lessons/ielts-06-academic-register-and-cohesion.json",
+      "quizCount": 3,
+      "questionCount": 18
+    },
+    {
+      "id": "ielts-07",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 7,
+      "title": "Time Management Across Sections",
+      "level": "A2–B1",
+      "file": "lessons/ielts-07-time-management-across-sections.json",
+      "quizCount": 3,
+      "questionCount": 17
+    },
+    {
+      "id": "ielts-08",
+      "course": "IELTS Academic",
+      "unit": "Foundations and Diagnostic",
+      "lessonNumber": 8,
+      "title": "Baseline Mini Mock and Individual Plan",
+      "level": "A2–B1",
+      "file": "lessons/ielts-08-baseline-mini-mock-and-individual-plan.json",
+      "quizCount": 3,
+      "questionCount": 16
+    },
+    {
       "id": "toefl-01",
       "course": "TOEFL iBT (2026)",
       "unit": "Foundations and Diagnostic",
