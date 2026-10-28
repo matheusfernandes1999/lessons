@@ -1,0 +1,353 @@
+{
+  "language": "pt",
+  "mainTopic": "American English and Culture",
+  "slug": "american-english-and-culture",
+  "description": "Inglês americano e cultura dos EUA em situações reais: apresentações, serviços, trabalho, vida social e nuances culturais.",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "lessonPlan": "revisão 5 min · apresentação e exemplos 10 min · prática guiada 10 min · tarefa comunicativa 15 min · feedback 5 min · homework diário (7 dias)",
+  "courses": [
+    {
+      "code": "american",
+      "name": "American English and Culture",
+      "lessons": 30
+    }
+  ],
+  "officialReferences": [
+    "https://learningenglish.voanews.com/",
+    "https://americanenglish.state.gov/",
+    "https://dictionary.cambridge.org/us/pronunciation/"
+  ],
+  "lessons": [
+    {
+      "id": "american-01",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 1,
+      "title": "Meeting People and Introductions",
+      "level": "A2–B1",
+      "file": "lessons/american-01-meeting-people-and-introductions.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-02",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 2,
+      "title": "American Small Talk",
+      "level": "A2–B1",
+      "file": "lessons/american-02-american-small-talk.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-03",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 3,
+      "title": "Names, Titles and Forms of Address",
+      "level": "A2–B1",
+      "file": "lessons/american-03-names-titles-and-forms-of-address.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-04",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 4,
+      "title": "Polite Requests and Directness",
+      "level": "A2–B1",
+      "file": "lessons/american-04-polite-requests-and-directness.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-05",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 5,
+      "title": "Saying Thank You and Responding",
+      "level": "A2–B1",
+      "file": "lessons/american-05-saying-thank-you-and-responding.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-06",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 6,
+      "title": "Ordering at Cafes and Restaurants",
+      "level": "A2–B1",
+      "file": "lessons/american-06-ordering-at-cafes-and-restaurants.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-07",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 7,
+      "title": "Tipping, Bills and Service Encounters",
+      "level": "A2–B1",
+      "file": "lessons/american-07-tipping-bills-and-service-encounters.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-08",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 8,
+      "title": "Shopping and Returns",
+      "level": "A2–B1",
+      "file": "lessons/american-08-shopping-and-returns.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-09",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 9,
+      "title": "Directions and Transportation",
+      "level": "A2–B1",
+      "file": "lessons/american-09-directions-and-transportation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-10",
+      "course": "American English and Culture",
+      "unit": "Everyday Interactions",
+      "lessonNumber": 10,
+      "title": "Dates, Time and Measurements",
+      "level": "A2–B1",
+      "file": "lessons/american-10-dates-time-and-measurements.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-11",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 11,
+      "title": "American English Spelling",
+      "level": "B1–B2",
+      "file": "lessons/american-11-american-english-spelling.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-12",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 12,
+      "title": "American vs British Everyday Vocabulary",
+      "level": "B1–B2",
+      "file": "lessons/american-12-american-vs-british-everyday-vocabulary.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-13",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 13,
+      "title": "Common American Pronunciation Features",
+      "level": "B1–B2",
+      "file": "lessons/american-13-common-american-pronunciation-features.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-14",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 14,
+      "title": "Regional Accents and Variation",
+      "level": "B1–B2",
+      "file": "lessons/american-14-regional-accents-and-variation.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-15",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 15,
+      "title": "School and College Life",
+      "level": "B1–B2",
+      "file": "lessons/american-15-school-and-college-life.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-16",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 16,
+      "title": "Jobs and Workplace Expectations",
+      "level": "B1–B2",
+      "file": "lessons/american-16-jobs-and-workplace-expectations.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-17",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 17,
+      "title": "Networking and Professional Events",
+      "level": "B1–B2",
+      "file": "lessons/american-17-networking-and-professional-events.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-18",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 18,
+      "title": "Phone Calls and Voicemail",
+      "level": "B1–B2",
+      "file": "lessons/american-18-phone-calls-and-voicemail.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-19",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 19,
+      "title": "Invitations and Social Plans",
+      "level": "B1–B2",
+      "file": "lessons/american-19-invitations-and-social-plans.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-20",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 20,
+      "title": "Household and Neighborhood Vocabulary",
+      "level": "B1–B2",
+      "file": "lessons/american-20-household-and-neighborhood-vocabulary.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-21",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 21,
+      "title": "Healthcare Appointments and Pharmacies",
+      "level": "B1–B2",
+      "file": "lessons/american-21-healthcare-appointments-and-pharmacies.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-22",
+      "course": "American English and Culture",
+      "unit": "Language and Daily Life",
+      "lessonNumber": 22,
+      "title": "Holidays and Traditions",
+      "level": "B1–B2",
+      "file": "lessons/american-22-holidays-and-traditions.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-23",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 23,
+      "title": "Food Culture and Dietary Requests",
+      "level": "B2–C1",
+      "file": "lessons/american-23-food-culture-and-dietary-requests.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-24",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 24,
+      "title": "Sports and Everyday References",
+      "level": "B2–C1",
+      "file": "lessons/american-24-sports-and-everyday-references.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-25",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 25,
+      "title": "Media and Popular Culture",
+      "level": "B2–C1",
+      "file": "lessons/american-25-media-and-popular-culture.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-26",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 26,
+      "title": "Humor, Sarcasm and Tone",
+      "level": "B2–C1",
+      "file": "lessons/american-26-humor-sarcasm-and-tone.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-27",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 27,
+      "title": "Disagreeing Politely in US Contexts",
+      "level": "B2–C1",
+      "file": "lessons/american-27-disagreeing-politely-in-us-contexts.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-28",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 28,
+      "title": "Digital Communication Etiquette",
+      "level": "B2–C1",
+      "file": "lessons/american-28-digital-communication-etiquette.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-29",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 29,
+      "title": "Intercultural Misunderstandings",
+      "level": "B2–C1",
+      "file": "lessons/american-29-intercultural-misunderstandings.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "american-30",
+      "course": "American English and Culture",
+      "unit": "Culture, Tone and Integration",
+      "lessonNumber": 30,
+      "title": "Integrated US Life Scenario",
+      "level": "B2–C1",
+      "file": "lessons/american-30-integrated-us-life-scenario.json",
+      "quizCount": 3,
+      "questionCount": 15
+    }
+  ]
+}
