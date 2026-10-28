@@ -1,0 +1,1822 @@
+{
+  "id": "writing-12",
+  "language": "pt",
+  "mainTopic": "Professional Writing",
+  "course": "Professional Writing",
+  "unit": "Workplace Documents",
+  "lessonNumber": 12,
+  "title": "Minutes, Decisions and Action Items",
+  "level": "B1–B2",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Registrar decisões e ações com responsável e prazo em atas e resumos de reunião",
+  "verifiableTask": "Escrever um resumo de reunião com decisões e ações a partir de uma discussão simulada",
+  "skills": [
+    "writing",
+    "listening",
+    "speaking"
+  ],
+  "quizCount": 3,
+  "questionCount": 15,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Foco:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "atas",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "minutes",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") e "
+          },
+          {
+            "type": "text",
+            "text": "resumos pós-reunião",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "follow-up summary",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "): o que foi "
+          },
+          {
+            "type": "text",
+            "text": "decidido",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "quem",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " faz "
+          },
+          {
+            "type": "text",
+            "text": "o quê",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " e "
+          },
+          {
+            "type": "text",
+            "text": "até quando",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "action items",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ao final da aula você consegue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ouvir uma discussão e registrar decisões e ações de forma clara."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tarefa verificável:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " escrever um resumo de reunião com decisões e ações a partir de uma discussão simulada."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Revisão e aquecimento (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Revisão da aula 11: transforme “budget” num objetivo de reunião."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Who writes the minutes in your meetings?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Have you ever left a meeting without knowing what to do next?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Apresentação e exemplos (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Formato de resumo (mais comum em e-mail)"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Subject: Summary and actions – Marketing meeting, 6 June",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hi all, Thanks for a productive meeting. Here's a quick summary.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Attendees:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Sarah (chair), Tom, Ana, Leo",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " · "
+              },
+              {
+                "type": "text",
+                "text": "Apologies:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Priya",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " (ausente justificada)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Decisions:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "We'll go with budget option B (£8,000).",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "The campaign will launch on 1 July.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Action items:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Ana – send the final budget to Finance – by Fri 7 June",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Tom – brief the design agency – by Wed 12 June",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "- "
+              },
+              {
+                "type": "text",
+                "text": "Leo – draft social media posts – by Mon 17 June",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Next meeting:",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "Thu 20 June, 10:00, Room 3",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Please let me know if I've missed anything. Best, Sarah",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Ação = "
+          },
+          {
+            "type": "text",
+            "text": "Quem + verbo + o quê + prazo",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Budget to Finance.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → ✓ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ana to send the final budget to Finance by Friday.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Forma curta comum: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ana to send…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (infinitivo = “Ana deve enviar”)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Linguagem neutra para resumir discussões"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It was agreed that…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The team decided to…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Tom raised a concern about…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ana suggested…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "No decision was made on… — to be discussed next week.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Evite opiniões e detalhes demais: registre "
+                  },
+                  {
+                    "type": "text",
+                    "text": "resultado",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", não toda a conversa."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronúncia: ouça, compare e repita"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "minutes",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (ata) = MIN-its · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "attendees",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = at-en-DEEZ · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "apologies",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = ə-POL-ə-jeez · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "chair",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (presidente da reunião)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It was agreed that Ana will send the final budget to Finance by Friday."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing12_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "vocabulary",
+              "questionText": "An “action item” must include…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "who, what and by when"
+                },
+                {
+                  "id": "B",
+                  "text": "only the topic"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Incompleto.",
+                "general": "Correct answer: who, what and by when"
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "vocabulary",
+              "questionText": "“Apologies” in minutes means…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "people who couldn't attend"
+                },
+                {
+                  "id": "B",
+                  "text": "people who said sorry"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Literal.",
+                "general": "Correct answer: people who couldn't attend"
+              }
+            },
+            {
+              "id": "vocab-mc-3",
+              "category": "vocabulary",
+              "questionText": "“Ana to send the budget by Friday” means…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Ana will/must send the budget by Friday"
+                },
+                {
+                  "id": "B",
+                  "text": "Ana sent the budget"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: Ana will/must send the budget by Friday"
+              }
+            },
+            {
+              "id": "vocab-gap-1",
+              "category": "vocabulary",
+              "questionText": "It was ______ that the campaign will launch on 1 July. (acordado)",
+              "type": "written",
+              "correctWrittenAnswer": "agreed",
+              "explanations": {
+                "general": "It was agreed that…"
+              }
+            },
+            {
+              "id": "vocab-tf-1",
+              "category": "comprehension",
+              "questionText": "Minutes should record every word said in the meeting.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Falso: registre decisões e ações."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.1 Transforme em ações completas"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Invoice – Tom.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 2. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Slides – Ana – next week.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 3. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Someone should call the client.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 4. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Hotel booking for the conference.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.2 Decisão, ação ou ainda aberto?"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We'll use the blue logo.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 2. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Leo will update the website by Monday.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 3. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "We couldn't agree on the venue.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 4. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The event will be on 15 September.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.3 Ouça e anote (o professor lê um trecho de reunião)"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "🎧 "
+              },
+              {
+                "type": "text",
+                "text": "“OK, so we're all happy with the Manchester venue? Great, that's decided. Priya, could you book it by Wednesday? And Tom, can you get three quotes for catering by the end of next week? We still need to decide on the date — let's come back to that on Monday.”",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing12_practice",
+          "questions": [
+            {
+              "id": "practice-mc-1",
+              "category": "comprehension",
+              "questionText": "From 3.3, which is a decision?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "The venue will be in Manchester."
+                },
+                {
+                  "id": "B",
+                  "text": "The date"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Ainda aberto.",
+                "general": "Correct answer: The venue will be in Manchester."
+              }
+            },
+            {
+              "id": "practice-mc-2",
+              "category": "comprehension",
+              "questionText": "What's Priya's action?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "book the venue by Wednesday"
+                },
+                {
+                  "id": "B",
+                  "text": "get catering quotes"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Isso é do Tom.",
+                "general": "Correct answer: book the venue by Wednesday"
+              }
+            },
+            {
+              "id": "practice-gap-1",
+              "category": "comprehension",
+              "questionText": "How many catering quotes should Tom get? (número)",
+              "type": "written",
+              "correctWrittenAnswer": "3",
+              "explanations": {
+                "general": "three quotes"
+              }
+            },
+            {
+              "id": "practice-mc-3",
+              "category": "comprehension",
+              "questionText": "“We couldn't agree on the venue” is…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "still open"
+                },
+                {
+                  "id": "B",
+                  "text": "a decision"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: still open"
+              }
+            },
+            {
+              "id": "practice-tf-1",
+              "category": "comprehension",
+              "questionText": "The date of the event was decided in 3.3.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Falso: será discutido na segunda."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Tarefa comunicativa (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Reunião simulada (6 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " o professor faz 3 colegas discutindo a festa de fim de ano da "
+          },
+          {
+            "type": "text",
+            "text": "BrightPath Ltd",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": local (2 opções), orçamento, data, quem organiza o quê. O aluno participa "
+          },
+          {
+            "type": "text",
+            "text": "e",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " anota."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Escreva (6 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " o e-mail de resumo: participantes, decisões, ações (quem + o quê + prazo), itens em aberto, próxima reunião."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Leitura oral (3 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " o aluno lê o resumo em voz alta como se estivesse fechando a reunião ("
+          },
+          {
+            "type": "text",
+            "text": "So, to sum up…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "). O professor confirma ou corrige."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Professor anota:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " decisões corretas ☐ · ações completas ☐ · itens em aberto ☐ · fechamento oral ☐"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Feedback (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Separou decisões de ações?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Toda ação tem quem + o quê + prazo?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Linguagem neutra e concisa?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ajuste:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ______"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Homework da semana (7 dias)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estude "
+          },
+          {
+            "type": "text",
+            "text": "10–20 minutos por dia",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 1 — Ações.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Transforme 8 notas soltas em ações completas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 2 — Frases neutras.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva 6 frases com "
+          },
+          {
+            "type": "text",
+            "text": "It was agreed that, X raised a concern about, X suggested",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 3 — Escuta.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Assista a 5 min de uma reunião ou debate e anote 2 decisões e 2 ações (fictícias, se necessário)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 4 — Resumo.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva o resumo do Dia 3 no formato da aula."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 5 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Reescreva o resumo da tarefa com as correções do professor."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 6 — Oral.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Grave 60 s fechando uma reunião ("
+          },
+          {
+            "type": "text",
+            "text": "So, to sum up…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 7 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça o quiz abaixo."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing12_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "vocabulary",
+              "questionText": "The “chair” of a meeting is…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "the person who leads it"
+                },
+                {
+                  "id": "B",
+                  "text": "furniture only"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Também, mas não aqui.",
+                "general": "Correct answer: the person who leads it"
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "comprehension",
+              "questionText": "Best action item:",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Leo to draft the posts by Mon 17 June"
+                },
+                {
+                  "id": "B",
+                  "text": "Posts – soon"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Vago.",
+                "general": "Correct answer: Leo to draft the posts by Mon 17 June"
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "vocabulary",
+              "questionText": "Please let me know if I've ______ anything. (deixei passar)",
+              "type": "written",
+              "correctWrittenAnswer": "missed",
+              "explanations": {
+                "general": "if I've missed anything"
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "vocabulary",
+              "questionText": "“To be discussed next week” is used for…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "open items"
+                },
+                {
+                  "id": "B",
+                  "text": "decisions"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: open items"
+              }
+            },
+            {
+              "id": "homework-tf-1",
+              "category": "comprehension",
+              "questionText": "A summary email after a meeting helps everyone remember their actions.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Correto."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "3.1 (sugestões):",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 Tom to send the invoice to the client by [date]. · 2 Ana to prepare the slides by next Friday. · 3 [Name] to call the client by [date]. · 4 [Name] to book the hotel for the conference by [date]."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "3.2:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 decisão · 2 ação · 3 aberto · 4 decisão."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1671 @@
+{
+  "id": "writing-17",
+  "language": "pt",
+  "mainTopic": "Professional Writing",
+  "course": "Professional Writing",
+  "unit": "Workplace Documents",
+  "lessonNumber": 17,
+  "title": "Executive Summaries",
+  "level": "B1–B2",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Resumir um documento longo para leitores ocupados com conclusão, dados e recomendação",
+  "verifiableTask": "Escrever um resumo executivo de 100–150 palavras e apresentá-lo em 60 segundos",
+  "skills": [
+    "writing",
+    "reading",
+    "speaking"
+  ],
+  "quizCount": 3,
+  "questionCount": 15,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Foco:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " o "
+          },
+          {
+            "type": "text",
+            "text": "resumo executivo",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "executive summary",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "): um parágrafo (ou poucos tópicos) que permite ao leitor ocupado entender "
+          },
+          {
+            "type": "text",
+            "text": "o problema, os resultados principais e a recomendação",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " sem ler o resto."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ao final da aula você consegue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " extrair o essencial de um texto longo e escrevê-lo de forma breve."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tarefa verificável:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " escrever um resumo executivo de 100–150 palavras e apresentá-lo em 60 segundos."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Revisão e aquecimento (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Revisão da aula 16: diga uma recomendação com benefício."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Do you read full reports or only the beginning?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What does a busy manager want to know first?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Apresentação e exemplos (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "O que entra (BLUF — "
+          },
+          {
+            "type": "text",
+            "text": "bottom line up front",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ": a conclusão primeiro)"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Propósito:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "This report reviews…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Conclusão/achado principal:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "We found that…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2–3 dados-chave:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Customer complaints rose by 18%… Most related to delivery times…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Recomendação:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "We recommend…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "(Opcional) Próximo passo/decisão:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "We ask the board to approve… by…",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "O que "
+          },
+          {
+            "type": "text",
+            "text": "não",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " entra"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "História longa · metodologia detalhada · todos os números · opiniões sem base · informação nova que não está no relatório"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Exemplo"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Executive summary",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This report reviews customer complaints received between January and March. Complaints rose by 18% compared with the previous quarter, mainly due to late deliveries in the North region (62% of all complaints). Our analysis shows that the main cause is the shortage of drivers at the Leeds depot. We recommend hiring four temporary drivers for six months (estimated cost: £48,000) and reviewing delivery routes. We expect this to reduce complaints by at least 30% by September. We ask the operations committee to approve the budget by 30 April.",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Técnicas"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Escreva o resumo "
+                  },
+                  {
+                    "type": "text",
+                    "text": "por último",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", mas coloque-o "
+                  },
+                  {
+                    "type": "text",
+                    "text": "primeiro",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Teste: se o leitor ler "
+                  },
+                  {
+                    "type": "text",
+                    "text": "só",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " o resumo, ele consegue decidir?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Frases curtas, voz ativa, números concretos."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronúncia: ouça, compare e repita"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "executive",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = ig-ZEK-yə-tiv · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "summary",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = SUM-ə-ree · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "analysis",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = ə-NAL-ə-sis · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "committee",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = kə-MIT-ee"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Complaints rose by eighteen percent, mainly due to late deliveries. We recommend hiring four temporary drivers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing17_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "comprehension",
+              "questionText": "An executive summary should allow the reader to…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "understand the key points and decide without reading everything"
+                },
+                {
+                  "id": "B",
+                  "text": "read the full methodology"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: understand the key points and decide without reading everything"
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "vocabulary",
+              "questionText": "“Bottom line up front” means…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "put the main conclusion first"
+                },
+                {
+                  "id": "B",
+                  "text": "put the conclusion at the end"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: put the main conclusion first"
+              }
+            },
+            {
+              "id": "vocab-mc-3",
+              "category": "comprehension",
+              "questionText": "Should an executive summary include new information not in the report?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Yes"
+                },
+                {
+                  "id": "B",
+                  "text": "No"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "A": "Não.",
+                "B": "Correto.",
+                "general": "Correct answer: No"
+              }
+            },
+            {
+              "id": "vocab-gap-1",
+              "category": "vocabulary",
+              "questionText": "Complaints rose ______ 18%. (preposição)",
+              "type": "written",
+              "correctWrittenAnswer": "by",
+              "explanations": {
+                "general": "rose by 18%"
+              }
+            },
+            {
+              "id": "vocab-tf-1",
+              "category": "comprehension",
+              "questionText": "It's often best to write the summary last but place it first.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Correto."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.1 Identifique no exemplo"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "propósito · achado principal · dados-chave · causa · recomendação · pedido de decisão"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.2 O que cortar? (marque o que "
+          },
+          {
+            "type": "text",
+            "text": "não",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " deve entrar)"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We used Excel and Power BI to analyse the data.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 2. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Complaints rose by 18%.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 3. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "In 2015, the company opened its first depot.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 4. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "We recommend hiring four drivers.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 5. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Personally, I think the Leeds manager is not very good.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.3 Troque e fale: dados"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sales rose by",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "12%",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "compared with",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "last year",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "→ Costs fell by / 5% / the previous quarter → Website visits increased by / 40% / March → Complaints dropped by / a third / last summer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing17_practice",
+          "questions": [
+            {
+              "id": "practice-mc-1",
+              "category": "comprehension",
+              "questionText": "In the example, what's the main cause?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "a shortage of drivers at the Leeds depot"
+                },
+                {
+                  "id": "B",
+                  "text": "bad weather"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não mencionado.",
+                "general": "Correct answer: a shortage of drivers at the Leeds depot"
+              }
+            },
+            {
+              "id": "practice-gap-1",
+              "category": "comprehension",
+              "questionText": "What percentage of complaints came from the North region? (só o número)",
+              "type": "written",
+              "correctWrittenAnswer": "62",
+              "explanations": {
+                "general": "62%"
+              }
+            },
+            {
+              "id": "practice-mc-2",
+              "category": "comprehension",
+              "questionText": "In 3.2, which should NOT be included?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "1, 3 and 5"
+                },
+                {
+                  "id": "B",
+                  "text": "2 and 4"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto: metodologia, história, opinião pessoal.",
+                "B": "Esses são essenciais.",
+                "general": "Correct answer: 1, 3 and 5"
+              }
+            },
+            {
+              "id": "practice-gap-2",
+              "category": "vocabulary",
+              "questionText": "Costs fell by 5% ______ with the previous quarter. (comparado)",
+              "type": "written",
+              "correctWrittenAnswer": "compared",
+              "explanations": {
+                "general": "compared with"
+              }
+            },
+            {
+              "id": "practice-tf-1",
+              "category": "comprehension",
+              "questionText": "The example includes a deadline for the decision.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Correto: by 30 April."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Tarefa comunicativa (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Leia o “relatório” (resumo de dados fictícios):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Staff survey, GreenLeaf Ltd, May. 120 employees responded (80%). 72% are satisfied with their jobs (down from 81% last year). The main reasons for dissatisfaction: workload (45%), lack of career development (38%), office noise (20%). 60% would like more flexible working. Similar companies that introduced two remote days a week saw satisfaction rise by about 10%. A pilot would cost little (mainly IT equipment, about £6,000).",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Escreva (8 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " um resumo executivo de 100–150 palavras para a diretoria (propósito, achado, dados-chave, recomendação, pedido)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Apresentação oral (4 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " apresente o resumo em "
+          },
+          {
+            "type": "text",
+            "text": "60 segundos",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "In short, … The key figures are… We recommend…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Perguntas (3 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " a diretora (professor) pergunta "
+          },
+          {
+            "type": "text",
+            "text": "Why did satisfaction fall? What's the risk of the pilot?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Professor anota:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " BLUF ☐ · dados selecionados ☐ · recomendação ☐ · 100–150 palavras ☐ · 60 s oral ☐"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Feedback (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] A conclusão vem primeiro?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Só os dados essenciais?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] O leitor consegue decidir só com o resumo?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ajuste:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ______"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Homework da semana (7 dias)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estude "
+          },
+          {
+            "type": "text",
+            "text": "10–20 minutos por dia",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 1 — Verbos de dados.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva 8 frases com "
+          },
+          {
+            "type": "text",
+            "text": "rose/fell/increased/dropped by… compared with…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 2 — Leitura.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Leia um relatório ou artigo longo (5–10 min) e anote 3 pontos essenciais."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 3 — Resumo.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva o resumo executivo desse texto (100 palavras)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 4 — Corte.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Reduza o resumo do Dia 3 para 50 palavras."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 5 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Reescreva o resumo da tarefa com as correções do professor."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 6 — Oral.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Grave o resumo em 60 segundos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 7 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça o quiz abaixo."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing17_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "comprehension",
+              "questionText": "Which belongs in an executive summary?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "the main recommendation"
+                },
+                {
+                  "id": "B",
+                  "text": "every single number"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Excesso.",
+                "general": "Correct answer: the main recommendation"
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "vocabulary",
+              "questionText": "“Mainly due to” means…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "mostly because of"
+                },
+                {
+                  "id": "B",
+                  "text": "never because of"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: mostly because of"
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "vocabulary",
+              "questionText": "In ______, the project is on track. (resumindo — s…)",
+              "type": "written",
+              "correctWrittenAnswer": "short",
+              "explanations": {
+                "general": "In short, …"
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "comprehension",
+              "questionText": "Test for a good summary:",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Can the reader decide using only the summary?"
+                },
+                {
+                  "id": "B",
+                  "text": "Is it longer than the report?"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: Can the reader decide using only the summary?"
+              }
+            },
+            {
+              "id": "homework-tf-1",
+              "category": "comprehension",
+              "questionText": "Detailed methodology should be the first part of an executive summary.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Falso: vai no corpo do relatório."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tarefa (modelo):",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "This summary presents the results of the May staff survey (120 responses, 80%). Job satisfaction fell from 81% to 72%, mainly due to workload (45%) and limited career development (38%). 60% of staff would like more flexible working. Comparable companies that introduced two remote days a week saw satisfaction rise by around 10%. We recommend a six-month hybrid working pilot (estimated cost: £6,000 for IT equipment) and a review of workload in the most affected teams. We ask the board to approve the pilot by 15 June.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

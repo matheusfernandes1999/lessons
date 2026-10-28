@@ -1,0 +1,1807 @@
+{
+  "id": "writing-18",
+  "language": "pt",
+  "mainTopic": "Professional Writing",
+  "course": "Professional Writing",
+  "unit": "Workplace Documents",
+  "lessonNumber": 18,
+  "title": "Report Structure and Headings",
+  "level": "B1–B2",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "Estruturar relatórios com seções padrão, títulos informativos e listas",
+  "verifiableTask": "Montar a estrutura de um relatório com títulos informativos e explicar a lógica oralmente",
+  "skills": [
+    "writing",
+    "reading",
+    "speaking"
+  ],
+  "quizCount": 3,
+  "questionCount": 15,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Objetivo da aula"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Foco:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " a "
+          },
+          {
+            "type": "text",
+            "text": "estrutura",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " de um relatório curto de trabalho e "
+          },
+          {
+            "type": "text",
+            "text": "títulos",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "headings",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") que ajudam o leitor a navegar: informativos, paralelos e consistentes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ao final da aula você consegue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " organizar um relatório em seções lógicas e escrever bons títulos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tarefa verificável:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " montar a estrutura de um relatório com títulos informativos e explicar a lógica oralmente."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Revisão e aquecimento (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Revisão da aula 17: o que é "
+                  },
+                  {
+                    "type": "text",
+                    "text": "BLUF",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How do you find information quickly in a long document?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which is easier to scan: a wall of text or a document with headings?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Apresentação e exemplos (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Estrutura típica de relatório curto"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Title",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Review of Delivery Delays in the North Region, Q1",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Executive summary",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Introduction / Background",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — por que o relatório existe, escopo"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Method",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (se necessário) — como os dados foram coletados"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Findings / Results",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — o que foi descoberto (com dados, gráficos)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Discussion / Analysis",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — o que os resultados significam"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Conclusions",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Recommendations",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — numeradas, acionáveis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Appendices",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — tabelas, dados completos"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Títulos genéricos × informativos"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Findings",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → ✓ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Findings: late deliveries concentrated in Leeds",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Problem",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → ✓ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Driver shortage is the main cause",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Other",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → ✓ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Customer feedback on packaging",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Paralelismo (mesma forma gramatical)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "1. Hiring drivers · 2. Routes should be reviewed · 3. Better packaging",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✓ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "1. Hire temporary drivers · 2. Review delivery routes · 3. Improve packaging",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Listas"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Numeradas",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " para passos, prioridades e recomendações · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Com marcadores",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " para itens sem ordem"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Cada item começa com a mesma classe de palavra; pontuação consistente."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Grafia e formato (UK)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Títulos em "
+                  },
+                  {
+                    "type": "text",
+                    "text": "sentence case",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (só a 1ª letra maiúscula) são comuns no UK: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Findings and analysis",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Em muitos documentos americanos, usa-se "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Title Case",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ": "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Findings and Analysis",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Seja consistente."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronúncia: ouça, compare e repita"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "appendices",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = ə-PEN-di-seez · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "findings",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = FAIN-dingz · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "recommendations",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = rek-ə-men-DAY-shənz · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "scope",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " /skəʊp/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frase para repetir 3 vezes:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The findings show that late deliveries are concentrated in Leeds."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing18_vocab",
+          "questions": [
+            {
+              "id": "vocab-mc-1",
+              "category": "comprehension",
+              "questionText": "Which heading is more informative?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Findings: late deliveries concentrated in Leeds"
+                },
+                {
+                  "id": "B",
+                  "text": "Findings"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Genérico.",
+                "general": "Correct answer: Findings: late deliveries concentrated in Leeds"
+              }
+            },
+            {
+              "id": "vocab-mc-2",
+              "category": "vocabulary",
+              "questionText": "“Parallel structure” in a list means…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "all items have the same grammatical form"
+                },
+                {
+                  "id": "B",
+                  "text": "items are in two columns"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: all items have the same grammatical form"
+              }
+            },
+            {
+              "id": "vocab-mc-3",
+              "category": "vocabulary",
+              "questionText": "Where do full data tables usually go?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "in the appendices"
+                },
+                {
+                  "id": "B",
+                  "text": "in the title"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: in the appendices"
+              }
+            },
+            {
+              "id": "vocab-gap-1",
+              "category": "vocabulary",
+              "questionText": "The section that explains what the results mean is the ______. (discussão)",
+              "type": "written",
+              "correctWrittenAnswer": "discussion",
+              "explanations": {
+                "general": "Discussion / Analysis"
+              }
+            },
+            {
+              "id": "vocab-tf-1",
+              "category": "comprehension",
+              "questionText": "Recommendations are usually numbered and actionable.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Correto."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Prática guiada (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.1 Ordene as seções"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Recommendations · Introduction · Appendices · Findings · Executive summary · Conclusions · Title"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.2 Torne paralelo"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Training for staff · We need to update the website · Hiring a designer",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · 2. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Costs are reduced · Faster delivery · To improve quality",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3.3 Reescreva títulos genéricos (diga em voz alta)"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Introduction",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " (relatório sobre satisfação dos funcionários) · "
+              },
+              {
+                "type": "text",
+                "text": "Results",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " · "
+              },
+              {
+                "type": "text",
+                "text": "Issues",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " · "
+              },
+              {
+                "type": "text",
+                "text": "Next steps",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing18_practice",
+          "questions": [
+            {
+              "id": "practice-mc-1",
+              "category": "comprehension",
+              "questionText": "Which section comes first?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Title, then executive summary"
+                },
+                {
+                  "id": "B",
+                  "text": "Appendices"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Vem por último.",
+                "general": "Correct answer: Title, then executive summary"
+              }
+            },
+            {
+              "id": "practice-mc-2",
+              "category": "vocabulary",
+              "questionText": "Parallel version: “Training staff · ___ · Hiring a designer”",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Updating the website"
+                },
+                {
+                  "id": "B",
+                  "text": "We need to update the website"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto: -ing como os outros.",
+                "B": "Não paralelo.",
+                "general": "Correct answer: Updating the website"
+              }
+            },
+            {
+              "id": "practice-mc-3",
+              "category": "comprehension",
+              "questionText": "Sentence case looks like…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Findings and analysis"
+                },
+                {
+                  "id": "B",
+                  "text": "Findings And Analysis"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Title Case.",
+                "general": "Correct answer: Findings and analysis"
+              }
+            },
+            {
+              "id": "practice-gap-1",
+              "category": "vocabulary",
+              "questionText": "The ______ of the report is limited to the North region. (escopo)",
+              "type": "written",
+              "correctWrittenAnswer": "scope",
+              "explanations": {
+                "general": "The scope of the report…"
+              }
+            },
+            {
+              "id": "practice-tf-1",
+              "category": "comprehension",
+              "questionText": "You can mix sentence case and Title Case in the same report.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Falso: seja consistente."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Tarefa comunicativa (15 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Situação fictícia:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " você vai escrever um relatório interno de 3 páginas sobre "
+          },
+          {
+            "type": "text",
+            "text": "o uso de salas de reunião",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " na "
+          },
+          {
+            "type": "text",
+            "text": "BrightPath Ltd",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (dados: 40% das reservas não são usadas; salas grandes reservadas para 2 pessoas; reclamações sobre falta de salas às terças)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Monte a estrutura (8 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " título informativo + 6–8 títulos de seção informativos + 3 recomendações paralelas e numeradas. (Não escreva o texto completo.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Explicação oral (5 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " apresente a estrutura ao gestor (professor) explicando a lógica ("
+          },
+          {
+            "type": "text",
+            "text": "I start with… because… Then I show… Finally, I recommend…",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ajuste (2 min):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " o gestor pede para mover algo ou cortar uma seção; o aluno adapta e justifica."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Professor anota:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ordem lógica ☐ · títulos informativos ☐ · paralelismo ☐ · explicação oral ☐"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Feedback (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Seções na ordem certa?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Títulos dizem o conteúdo?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[ ] Listas paralelas e consistentes?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ajuste:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ______"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Homework da semana (7 dias)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estude "
+          },
+          {
+            "type": "text",
+            "text": "10–20 minutos por dia",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 1 — Seções.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva uma frase explicando o que vai em cada seção do relatório."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 2 — Títulos.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Reescreva 8 títulos genéricos em informativos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 3 — Paralelismo.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Corrija 4 listas não paralelas (crie-as)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 4 — Análise.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Abra um relatório público (de uma empresa ou governo) e anote a estrutura."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 5 — Introdução.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Escreva a introdução do relatório da tarefa (80 palavras)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 6 — Oral.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Grave 60–90 s explicando a estrutura do relatório."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dia 7 — Revisão.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Faça o quiz abaixo."
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_writing18_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "vocabulary",
+              "questionText": "The “Introduction” usually explains…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "why the report exists and its scope"
+                },
+                {
+                  "id": "B",
+                  "text": "all the data"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não.",
+                "general": "Correct answer: why the report exists and its scope"
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "vocabulary",
+              "questionText": "Numbered lists are best for…",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "steps and priorities"
+                },
+                {
+                  "id": "B",
+                  "text": "random items"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Use marcadores.",
+                "general": "Correct answer: steps and priorities"
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "vocabulary",
+              "questionText": "The ______ show that 40% of bookings are not used. (resultados/descobertas)",
+              "type": "written",
+              "correctWrittenAnswer": "findings",
+              "explanations": {
+                "general": "The findings show that…"
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "comprehension",
+              "questionText": "Parallel list:",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Hire drivers · Review routes · Improve packaging"
+                },
+                {
+                  "id": "B",
+                  "text": "Hire drivers · Routes reviewed · Better packaging"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "A": "Correto.",
+                "B": "Não paralelo.",
+                "general": "Correct answer: Hire drivers · Review routes · Improve packaging"
+              }
+            },
+            {
+              "id": "homework-tf-1",
+              "category": "comprehension",
+              "questionText": "Informative headings help readers scan a report.",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "True"
+                },
+                {
+                  "id": "B",
+                  "text": "False"
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Correto."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gabarito do professor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "3.1:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Title → Executive summary → Introduction → Findings → Conclusions → Recommendations → Appendices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "3.2:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1 Training staff · Updating the website · Hiring a designer · 2 Reduce costs · Speed up delivery · Improve quality."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

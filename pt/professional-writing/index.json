@@ -18,5 +18,336 @@
     "https://learnenglish.britishcouncil.org/free-resources/business/english-emails",
     "https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/business_writing_for_administrative_and_clerical_staff/general_guidelines.html"
   ],
-  "lessons": []
+  "lessons": [
+    {
+      "id": "writing-01",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 1,
+      "title": "Professional Writing Diagnostic",
+      "level": "B1",
+      "file": "lessons/writing-01-professional-writing-diagnostic.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-02",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 2,
+      "title": "Audience, Purpose and Tone",
+      "level": "B1",
+      "file": "lessons/writing-02-audience-purpose-and-tone.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-03",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 3,
+      "title": "Clear Sentences and Plain English",
+      "level": "B1",
+      "file": "lessons/writing-03-clear-sentences-and-plain-english.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-04",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 4,
+      "title": "Organising Paragraphs",
+      "level": "B1",
+      "file": "lessons/writing-04-organising-paragraphs.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-05",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 5,
+      "title": "Email Subject Lines",
+      "level": "B1",
+      "file": "lessons/writing-05-email-subject-lines.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-06",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 6,
+      "title": "Email Greetings and Closings",
+      "level": "B1",
+      "file": "lessons/writing-06-email-greetings-and-closings.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-07",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 7,
+      "title": "Requests and Follow-Ups",
+      "level": "B1",
+      "file": "lessons/writing-07-requests-and-follow-ups.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-08",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 8,
+      "title": "Confirmations and Scheduling",
+      "level": "B1",
+      "file": "lessons/writing-08-confirmations-and-scheduling.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-09",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 9,
+      "title": "Writing Clear Chat Messages",
+      "level": "B1",
+      "file": "lessons/writing-09-writing-clear-chat-messages.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-10",
+      "course": "Professional Writing",
+      "unit": "Foundations and Everyday Messages",
+      "lessonNumber": 10,
+      "title": "Status Updates and Progress Reports",
+      "level": "B1",
+      "file": "lessons/writing-10-status-updates-and-progress-reports.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-11",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 11,
+      "title": "Meeting Agendas and Objectives",
+      "level": "B1–B2",
+      "file": "lessons/writing-11-meeting-agendas-and-objectives.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-12",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 12,
+      "title": "Minutes, Decisions and Action Items",
+      "level": "B1–B2",
+      "file": "lessons/writing-12-minutes-decisions-and-action-items.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-13",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 13,
+      "title": "Apologies and Corrective Messages",
+      "level": "B1–B2",
+      "file": "lessons/writing-13-apologies-and-corrective-messages.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-14",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 14,
+      "title": "Handling Complaints Professionally",
+      "level": "B1–B2",
+      "file": "lessons/writing-14-handling-complaints-professionally.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-15",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 15,
+      "title": "Giving Constructive Written Feedback",
+      "level": "B1–B2",
+      "file": "lessons/writing-15-giving-constructive-written-feedback.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-16",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 16,
+      "title": "Writing Persuasive Recommendations",
+      "level": "B1–B2",
+      "file": "lessons/writing-16-writing-persuasive-recommendations.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-17",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 17,
+      "title": "Executive Summaries",
+      "level": "B1–B2",
+      "file": "lessons/writing-17-executive-summaries.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-18",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 18,
+      "title": "Report Structure and Headings",
+      "level": "B1–B2",
+      "file": "lessons/writing-18-report-structure-and-headings.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-19",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 19,
+      "title": "Describing Data Without Overclaiming",
+      "level": "B1–B2",
+      "file": "lessons/writing-19-describing-data-without-overclaiming.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-20",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 20,
+      "title": "Comparisons and Trade-Offs",
+      "level": "B1–B2",
+      "file": "lessons/writing-20-comparisons-and-trade-offs.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-21",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 21,
+      "title": "Proposals and Scope",
+      "level": "B1–B2",
+      "file": "lessons/writing-21-proposals-and-scope.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-22",
+      "course": "Professional Writing",
+      "unit": "Workplace Documents",
+      "lessonNumber": 22,
+      "title": "Instructions and Procedures",
+      "level": "B1–B2",
+      "file": "lessons/writing-22-instructions-and-procedures.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-23",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 23,
+      "title": "Technical Explanations for Nonexperts",
+      "level": "B2–C1",
+      "file": "lessons/writing-23-technical-explanations-for-nonexperts.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-24",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 24,
+      "title": "Writing for International Readers",
+      "level": "B2–C1",
+      "file": "lessons/writing-24-writing-for-international-readers.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-25",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 25,
+      "title": "Concise CV Bullet Points",
+      "level": "B2–C1",
+      "file": "lessons/writing-25-concise-cv-bullet-points.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-26",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 26,
+      "title": "Cover Letters and Applications",
+      "level": "B2–C1",
+      "file": "lessons/writing-26-cover-letters-and-applications.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-27",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 27,
+      "title": "LinkedIn and Professional Bios",
+      "level": "B2–C1",
+      "file": "lessons/writing-27-linkedin-and-professional-bios.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-28",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 28,
+      "title": "Editing: Grammar, Punctuation and Consistency",
+      "level": "B2–C1",
+      "file": "lessons/writing-28-editing-grammar-punctuation-and-consistency.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-29",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 29,
+      "title": "Proofreading and Quality-Control Checklist",
+      "level": "B2–C1",
+      "file": "lessons/writing-29-proofreading-and-quality-control-checklist.json",
+      "quizCount": 3,
+      "questionCount": 15
+    },
+    {
+      "id": "writing-30",
+      "course": "Professional Writing",
+      "unit": "Advanced and Career Writing",
+      "lessonNumber": 30,
+      "title": "Final Integrated Writing Portfolio",
+      "level": "B2–C1",
+      "file": "lessons/writing-30-final-integrated-writing-portfolio.json",
+      "quizCount": 3,
+      "questionCount": 15
+    }
+  ]
 }
