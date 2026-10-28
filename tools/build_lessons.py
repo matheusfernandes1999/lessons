@@ -23,24 +23,39 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # ---------------------------------------------------------------- inline marks
 
-INLINE_RE = re.compile(r"(\*\*(.+?)\*\*|(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*]))")
-
-
 def inline(text):
-    """Texto com **negrito** e *itálico* -> lista de nós de texto Tiptap."""
+    """Texto com **negrito** e *itálico* (podem ser aninhados) -> nós de texto Tiptap."""
+    if text.count("**") % 2 or (text.count("*") - 2 * text.count("**")) % 2:
+        raise SourceError(f"marcação * sem par: {text}")
     nodes = []
-    pos = 0
-    for m in INLINE_RE.finditer(text):
-        if m.start() > pos:
-            nodes.append({"type": "text", "text": text[pos:m.start()]})
-        if m.group(2) is not None:
-            nodes.append({"type": "text", "text": m.group(2), "marks": [{"type": "bold"}]})
+    bold = italic = False
+    buf = ""
+    i = 0
+
+    def flush():
+        if buf:
+            marks = ([{"type": "bold"}] if bold else []) + ([{"type": "italic"}] if italic else [])
+            node = {"type": "text", "text": buf}
+            if marks:
+                node["marks"] = marks
+            nodes.append(node)
+
+    while i < len(text):
+        if text.startswith("**", i):
+            flush()
+            buf = ""
+            bold = not bold
+            i += 2
+        elif text[i] == "*":
+            flush()
+            buf = ""
+            italic = not italic
+            i += 1
         else:
-            nodes.append({"type": "text", "text": m.group(3), "marks": [{"type": "italic"}]})
-        pos = m.end()
-    if pos < len(text):
-        nodes.append({"type": "text", "text": text[pos:]})
-    return [n for n in nodes if n["text"]]
+            buf += text[i]
+            i += 1
+    flush()
+    return nodes
 
 
 def paragraph(text):
@@ -301,6 +316,9 @@ def build_lesson(path, topic):
     code = meta["courseCode"]
     lesson_key = f"{code}{number:02d}"
     content = parse_body(body, lesson_key, where)
+    for node in content:
+        if node["type"] != "quiz" and "*" in text_of(node):
+            raise SourceError(f"{where}: marcação * sem par: {text_of(node)[:80]}")
     quizzes = [n for n in content if n["type"] == "quiz"]
     lesson = {
         "id": f"{code}-{number:02d}",
