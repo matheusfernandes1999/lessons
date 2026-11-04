@@ -1,0 +1,363 @@
+{
+  "language": "pt",
+  "mainTopic": "The Basics",
+  "slug": "the-basics",
+  "sourceFormat": "html",
+  "description": "Apostila The Basics: 31 lições de inglês básico com explicações em português: pronomes, verbo be, substantivos, adjetivos, artigos, verbos, preposições, perguntas e frases negativas, passado, sessões de prática e revisão ao fim de cada unidade.",
+  "level": "Essencial",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F07040455-2b1a-4689-8834-13adb2881e2b_the-basics.png?alt=media",
+  "legacyWorkbookId": "The Basics",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "basics",
+      "name": "The Basics",
+      "lessons": 31
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md",
+  "lessons": [
+    {
+      "id": "basics-01",
+      "course": "The Basics",
+      "unit": "Unidade 1",
+      "lessonNumber": 1,
+      "title": "1. Pronomes Pessoais",
+      "level": "Essencial",
+      "file": "lessons/basics-01-pronomes-pessoais.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-02",
+      "course": "The Basics",
+      "unit": "Unidade 1",
+      "lessonNumber": 2,
+      "title": "2. Verbo be",
+      "level": "Essencial",
+      "file": "lessons/basics-02-verbo-be.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-03",
+      "course": "The Basics",
+      "unit": "Unidade 1",
+      "lessonNumber": 3,
+      "title": "3. Ter, haver, existir",
+      "level": "Essencial",
+      "file": "lessons/basics-03-ter-haver-existir.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-04",
+      "course": "The Basics",
+      "unit": "Unidade 1",
+      "lessonNumber": 4,
+      "title": "4. Substantivos",
+      "level": "Essencial",
+      "file": "lessons/basics-04-substantivos.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-05",
+      "course": "The Basics",
+      "unit": "Unidade 1",
+      "lessonNumber": 5,
+      "title": "5. Adjetivos",
+      "level": "Essencial",
+      "file": "lessons/basics-05-adjetivos.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-06",
+      "course": "The Basics",
+      "unit": "Unidade 1",
+      "lessonNumber": 6,
+      "title": "6. Artigos",
+      "level": "Essencial",
+      "file": "lessons/basics-06-artigos.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-07",
+      "course": "The Basics",
+      "unit": "Unidade 1",
+      "lessonNumber": 7,
+      "title": "Revisão",
+      "level": "Essencial",
+      "file": "lessons/basics-07-revisao.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-08",
+      "course": "The Basics",
+      "unit": "Unidade 2",
+      "lessonNumber": 8,
+      "title": "7. Verbos",
+      "level": "Essencial",
+      "file": "lessons/basics-08-verbos.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-09",
+      "course": "The Basics",
+      "unit": "Unidade 2",
+      "lessonNumber": 9,
+      "title": "8. Have/Has",
+      "level": "Essencial",
+      "file": "lessons/basics-09-have-has.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-10",
+      "course": "The Basics",
+      "unit": "Unidade 2",
+      "lessonNumber": 10,
+      "title": "9. Frases Afirmativas",
+      "level": "Essencial",
+      "file": "lessons/basics-10-frases-afirmativas.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-11",
+      "course": "The Basics",
+      "unit": "Unidade 2",
+      "lessonNumber": 11,
+      "title": "10. Some e Any",
+      "level": "Essencial",
+      "file": "lessons/basics-11-some-e-any.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-12",
+      "course": "The Basics",
+      "unit": "Unidade 2",
+      "lessonNumber": 12,
+      "title": "Revisão",
+      "level": "Essencial",
+      "file": "lessons/basics-12-revisao.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-13",
+      "course": "The Basics",
+      "unit": "Unidade 3",
+      "lessonNumber": 13,
+      "title": "11. Gerúndio",
+      "level": "Essencial",
+      "file": "lessons/basics-13-gerundio.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-14",
+      "course": "The Basics",
+      "unit": "Unidade 3",
+      "lessonNumber": 14,
+      "title": "12. Advérbios",
+      "level": "Essencial",
+      "file": "lessons/basics-14-adverbios.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-15",
+      "course": "The Basics",
+      "unit": "Unidade 3",
+      "lessonNumber": 15,
+      "title": "13. Preposições I",
+      "level": "Essencial",
+      "file": "lessons/basics-15-preposicoes-i.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-16",
+      "course": "The Basics",
+      "unit": "Unidade 3",
+      "lessonNumber": 16,
+      "title": "14. Pronomes Demonstrativos",
+      "level": "Essencial",
+      "file": "lessons/basics-16-pronomes-demonstrativos.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-17",
+      "course": "The Basics",
+      "unit": "Unidade 3",
+      "lessonNumber": 17,
+      "title": "Revisão",
+      "level": "Essencial",
+      "file": "lessons/basics-17-revisao.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-18",
+      "course": "The Basics",
+      "unit": "Unidade 4",
+      "lessonNumber": 18,
+      "title": "15. Other e Another",
+      "level": "Essencial",
+      "file": "lessons/basics-18-other-e-another.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-19",
+      "course": "The Basics",
+      "unit": "Unidade 4",
+      "lessonNumber": 19,
+      "title": "16. Verbos Modais",
+      "level": "Essencial",
+      "file": "lessons/basics-19-verbos-modais.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-20",
+      "course": "The Basics",
+      "unit": "Unidade 4",
+      "lessonNumber": 20,
+      "title": "17. Preposições II",
+      "level": "Essencial",
+      "file": "lessons/basics-20-preposicoes-ii.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-21",
+      "course": "The Basics",
+      "unit": "Unidade 4",
+      "lessonNumber": 21,
+      "title": "18. Pronomes Interrogativos",
+      "level": "Essencial",
+      "file": "lessons/basics-21-pronomes-interrogativos.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-22",
+      "course": "The Basics",
+      "unit": "Unidade 4",
+      "lessonNumber": 22,
+      "title": "19. Frases Interrogativas",
+      "level": "Essencial",
+      "file": "lessons/basics-22-frases-interrogativas.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-23",
+      "course": "The Basics",
+      "unit": "Unidade 4",
+      "lessonNumber": 23,
+      "title": "Revisão",
+      "level": "Essencial",
+      "file": "lessons/basics-23-revisao.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-24",
+      "course": "The Basics",
+      "unit": "Unidade 5",
+      "lessonNumber": 24,
+      "title": "20. Pronomes Possessivos",
+      "level": "Essencial",
+      "file": "lessons/basics-24-pronomes-possessivos.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-25",
+      "course": "The Basics",
+      "unit": "Unidade 5",
+      "lessonNumber": 25,
+      "title": "21. Verbos no Passado",
+      "level": "Essencial",
+      "file": "lessons/basics-25-verbos-no-passado.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-26",
+      "course": "The Basics",
+      "unit": "Unidade 5",
+      "lessonNumber": 26,
+      "title": "22. Frases Negativas",
+      "level": "Essencial",
+      "file": "lessons/basics-26-frases-negativas.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-27",
+      "course": "The Basics",
+      "unit": "Unidade 5",
+      "lessonNumber": 27,
+      "title": "Revisão",
+      "level": "Essencial",
+      "file": "lessons/basics-27-revisao.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-28",
+      "course": "The Basics",
+      "unit": "Unidade 6",
+      "lessonNumber": 28,
+      "title": "23. Sessão de Prática I",
+      "level": "Essencial",
+      "file": "lessons/basics-28-sessao-de-pratica-i.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-29",
+      "course": "The Basics",
+      "unit": "Unidade 6",
+      "lessonNumber": 29,
+      "title": "24. Sessão de Prática II",
+      "level": "Essencial",
+      "file": "lessons/basics-29-sessao-de-pratica-ii.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-30",
+      "course": "The Basics",
+      "unit": "Unidade 6",
+      "lessonNumber": 30,
+      "title": "25. Sessão de Prática III",
+      "level": "Essencial",
+      "file": "lessons/basics-30-sessao-de-pratica-iii.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "basics-31",
+      "course": "The Basics",
+      "unit": "Unidade 6",
+      "lessonNumber": 31,
+      "title": "Super Revisão",
+      "level": "Essencial",
+      "file": "lessons/basics-31-super-revisao.json",
+      "quizCount": 0,
+      "questionCount": 0
+    }
+  ]
+}

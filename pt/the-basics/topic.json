@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "mainTopic": "The Basics",
+  "slug": "the-basics",
+  "sourceFormat": "html",
+  "description": "Apostila The Basics: 31 lições de inglês básico com explicações em português: pronomes, verbo be, substantivos, adjetivos, artigos, verbos, preposições, perguntas e frases negativas, passado, sessões de prática e revisão ao fim de cada unidade.",
+  "level": "Essencial",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F07040455-2b1a-4689-8834-13adb2881e2b_the-basics.png?alt=media",
+  "legacyWorkbookId": "The Basics",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "basics",
+      "name": "The Basics",
+      "lessons": 31
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md"
+}
