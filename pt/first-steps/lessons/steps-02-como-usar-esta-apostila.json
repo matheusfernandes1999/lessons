@@ -1,0 +1,651 @@
+{
+  "id": "steps-02",
+  "language": "pt",
+  "mainTopic": "First Steps",
+  "course": "First Steps",
+  "unit": "Introdução",
+  "lessonNumber": 2,
+  "title": "2. Como usar esta apostila",
+  "level": "Primeiros Passos",
+  "sourceFormat": "html",
+  "legacyId": "48f644a0-2f45-45c2-b1b8-a0feead196c6",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Recursos deste livro",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Cada sessão tem de 4 a 8 assuntos. Estude todos eles com bastante atenção e cuidado, seguindo as dicas do vídeo "
+          },
+          {
+            "type": "text",
+            "text": "‘COMO ESTUDAR UM IDIOMA’",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Tente criar um"
+          },
+          {
+            "type": "text",
+            "text": " ",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sistema de revisão",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " para cada assunto (ou use o da apostila). Anote suas dúvidas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔗 "
+          },
+          {
+            "type": "text",
+            "text": "https://drive.google.com/file/d/1LU4W0numMAbQ8bJb7yP1SkecX4AsfT5y/view?usp=drive_link",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://drive.google.com/file/d/1LU4W0numMAbQ8bJb7yP1SkecX4AsfT5y/view?usp=drive_link",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "No final de cada sessão existe uma Revisão, e uma Programação de Objetivos e Estudo semanais."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "VocabuLab",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " são folhas dentro das sessões que são feitas sempre com um professor. Ele vai te ajudar a pronunciar bem as palavras da folha, formar frases e tudo isso quase sem usar português. São aulas um pouco mais dinâmicas que o normal."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "FluencyCards",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 207, 21)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "são folhas de flashcards que você pode imprimir e escrever a tradução e dica de pronúncia da palavra atrás. Pode tentar fazer jogos, levar com você para todos os lugares e usar para memorizar palavras. Essas folhas ficam no final da apostila (ou baixe aqui)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📎 "
+          },
+          {
+            "type": "text",
+            "text": "Baixe os FluencyCards",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/files%2FFC%20Vazio.pdf-1734573846514?alt=media",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (FC Vazio.pdf)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Speaking Time",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 207, 21)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " são folhas onde você e seu professor vão conversar um pouco sobre o conteúdo da aula, em inglês claro! Aproveita bem essas aulas para treinar seu ouvido para entender o idioma."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "🧑‍🎓 Aluno: ",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Aqui terão algumas sugestões para fazer durante a aula para melhorar ainda mais seu aproveitamento!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "🧑‍🏫 Professor: ",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Nesses quadros são informações e dicas para seu professor fazer durante a aula com você!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "FluencyTalks",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 207, 21)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "são partes onde você vai ter a chance de aprender vocabulário e conversar assuntos diversos. Essas folhas são preparadas para que possa aprender os vocabulários mais diferentes, enquanto conversa e até aprende um ponto gramatical."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Review & Weekly Goals",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 207, 21)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "é onde vai revisar o assunto da aula rapidamente e vai descobrir como vão ser seus estudos durante a semana. Se esforce para sempre seguir a programação sugerida, isso vai fazer toda a diferença no seu aprendizado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Selecione a alguma palavra e clique no ícone de fone de ouvido 🎧 para ouvir a pronúncia dela. "
+          },
+          {
+            "type": "text",
+            "text": "(Nem todos os navegadores tem esse recurso disponível, se tiver problemas, entre em contato com nossa equipe)",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "💡 Nesses você vai encontrar dicas e lembretes para você. Fica atento! Algumas dicas podem aparecer mais de uma vez."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Utilize os recursos disponibilizados, tanto os relacionados ao idioma como os relacionados a "
+          },
+          {
+            "type": "text",
+            "text": "como se organizar e como estudar.",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Saber se organizar e como estudar é tão importante quanto ter um bom material de estudo. Além disso, esta apostila conta com alguns personagens e avisos por toda ela."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔗 "
+          },
+          {
+            "type": "text",
+            "text": "https://drive.google.com/file/d/1xXVz3emHVWST3zRvyrD3y-gKm9O2uSES/view?usp=drive_link",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://drive.google.com/file/d/1xXVz3emHVWST3zRvyrD3y-gKm9O2uSES/view?usp=drive_link",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Se esforce, pratique todos os dias e conte com a ajuda do seu professor e da nossa equipe!"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                }
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bons estudos,",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(255, 191, 0)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "right"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Equipe Editora FluencyLab",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  }
+}

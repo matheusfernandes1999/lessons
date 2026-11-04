@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "mainTopic": "First Steps",
+  "slug": "first-steps",
+  "sourceFormat": "html",
+  "description": "Apostila First Steps: 50 lições para os primeiros passos no inglês, com explicações em português: como estudar, pronomes, números e cores, cumprimentos, família e casa, presente contínuo, descrições, direções, rotina, viagem e hobbies, com práticas de escuta, leitura, escrita e conversação.",
+  "level": "Primeiros Passos",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F68cf1704-fe2b-43d9-8d90-5148b113db33_first-steps.png?alt=media",
+  "legacyWorkbookId": "First Steps",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "steps",
+      "name": "First Steps",
+      "lessons": 50
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md"
+}

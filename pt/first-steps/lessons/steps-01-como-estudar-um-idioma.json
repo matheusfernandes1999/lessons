@@ -1,0 +1,865 @@
+{
+  "id": "steps-01",
+  "language": "pt",
+  "mainTopic": "First Steps",
+  "course": "First Steps",
+  "unit": "Introdução",
+  "lessonNumber": 1,
+  "title": "1. Como estudar um idioma",
+  "level": "Primeiros Passos",
+  "sourceFormat": "html",
+  "legacyId": "518aa0ad-c485-4388-9a15-692c16185b54",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Como estudar um idioma",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Meta:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " estudar de "
+          },
+          {
+            "type": "text",
+            "text": "5min",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " a "
+          },
+          {
+            "type": "text",
+            "text": "15min ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "todos os dias."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Obs.:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Se for estudar por mais de 30 minutos, deve fazer uma pausa de 5 minutos, levantar, beber água, olhar o mundo."
+          },
+          {
+            "type": "text",
+            "text": " Evite estudar por mais de 30 minutos. Mas faça de tudo para estudar todos os dias.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Use o relógio disponível aqui para marcar o tempo que precisa estudar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "O que estudar? "
+          },
+          {
+            "type": "text",
+            "text": "Anki",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=xpJQJDU-e00",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": null
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Áudio",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/c/Ingl%C3%AAsem5minutos/videos",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": null
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Vídeo",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/c/Ingl%C3%AAscomS%C3%A9ries",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": null
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Música",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/playlist?list=PLPhuKZ16um_whB9nd6j5CbsY2mcXG8YX5",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": null
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Texto",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.mairovergara.com/category/textos-com-audio/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": null
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Exercício.",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.inglesonline.com.br/exercicios-de-ingles/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": null
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 191, 0)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Flashcards ou Anki:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Aplicativo de repetição espaçada. Você pode aprender a fazer seus próprios cartões ou baixar cartões prontos. Na internet você vai encontrar tutoriais de como usar o aplicativo. Mas fique a vontade para nos contatar. Esse é um método muito eficiente de memorizar palavras e expressões."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Como usar os FlashCards na plataforma"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔗 "
+          },
+          {
+            "type": "text",
+            "text": "https://drive.google.com/file/d/15RUaAjbJ3BB-ozF45VG_7_g7_XpZutop/view?usp=drive_link",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://drive.google.com/file/d/15RUaAjbJ3BB-ozF45VG_7_g7_XpZutop/view?usp=drive_link",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Como usar o Anki no celular"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔗 "
+          },
+          {
+            "type": "text",
+            "text": "https://drive.google.com/file/d/1qBq1cJRjkV0krIrZqV9j4qOJPhOwg_VJ/view?usp=drive_link",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://drive.google.com/file/d/1qBq1cJRjkV0krIrZqV9j4qOJPhOwg_VJ/view?usp=drive_link",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Áudio:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Ouça um pequeno áudio em inglês sem vídeo ou legendas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Estude o texto e aprenda o máximo através do estudo linha a linha, focando não nas palavras individualmente, mas na estrutura da sentença."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Ouça o áudio com o texto pelo menos 5 vezes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Ouça o áudio com o texto pelo menos 5 vezes enquanto lê em voz alta."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Ouça o áudio sem o texto pelo menos 5 vezes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Repita o processo até estar totalmente familiarizado com o áudio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Obs.:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Não esqueça o áudio depois de entender ele. Coloque ele em uma playlist e escute ele às vezes, como forma de revisão e prática."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🎧 Áudio de listening (ID JsUAo6JXEJUXHS4iR04t)",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Vídeos e Músicas: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Seguir o mesmo esquema do áudio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Texto:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "1)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ler o texto em voz alta marcando as palavras que você não entendeu. Depois, "
+          },
+          {
+            "type": "text",
+            "text": "2)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " usando as palavras que não entendeu, procurar o significado "
+          },
+          {
+            "type": "text",
+            "text": "(se estiver no começo procure por traduções. Se já tiver estudado antes, tente primeiro ler a definição)",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " no site da Cambridge. "
+          },
+          {
+            "type": "text",
+            "text": "3)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Criar frases com as palavras novas e ler elas em voz alta, ensinar elas para alguém, modificar algumas palavras da frase e ver o que acontece e etc."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Dicas:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "1)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Usar "
+          },
+          {
+            "type": "text",
+            "text": "post-it",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " para aprender vocabulário. "
+          },
+          {
+            "type": "text",
+            "text": "2) ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ler o texto enquanto caminha, no ônibus ou enquanto come. "
+          },
+          {
+            "type": "text",
+            "text": "3) ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ensinar o assunto para alguém da forma mais simples possível. "
+          },
+          {
+            "type": "text",
+            "text": "4)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Falar sozinho e falar sozinho de frente para o espelho."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Não se esqueça de fazer todas as tarefas propostas pelo seu professor. Elas ficam disponíveis para você na plataforma. "
+          },
+          {
+            "type": "text",
+            "text": "Clique aqui para encontrar",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.fluencylab.me/student-dashboard/caderno",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": null
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Se possível, coloque lembretes no celular, o despertador talvez, para te lembrar de estudar todo dia. Escolha horários que fazem sentido na sua rotina. Peça que algum familiar ou amigo te lembre e te apoie."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      }
+    ]
+  }
+}
