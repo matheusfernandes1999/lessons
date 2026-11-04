@@ -17,12 +17,30 @@ def build_readme(topic_dir):
     lessons = index["lessons"]
 
     lines = [GENERATED, f"# {topic['mainTopic']} ({topic['language']})", "", topic["description"], ""]
-    lines.append(f"- {len(lessons)} lições · aulas de {topic['durationMinutes']} minutos ({topic['format']})")
-    lines.append(f"- Estrutura: {topic['lessonPlan']}")
+    source_format = topic.get("sourceFormat", "markdown")
+    quizzes = sum(l["quizCount"] for l in lessons)
+    if topic.get("durationMinutes"):
+        lines.append(f"- {len(lessons)} lições · aulas de {topic['durationMinutes']} minutos ({topic['format']})")
+    else:
+        lines.append(f"- {len(lessons)} lições")
+    if topic.get("lessonPlan"):
+        lines.append(f"- Estrutura: {topic['lessonPlan']}")
+    if topic.get("level"):
+        lines.append(f"- Nível: {topic['level']}")
+    if topic.get("levels"):
+        lines.append(f"- Níveis: {topic['levels']}")
     if topic.get("spelling"):
         lines.append(f"- Grafia: {topic['spelling']}")
-    lines.append("- 3 quizzes interativos por lição (`vocab`, `practice`, `homework`) no formato do nó Tiptap `quiz`")
-    lines += ["", "Arquivos: `source/` (Markdown editável) → `lessons/` (JSON gerado). Índice completo em `index.json`.", ""]
+    if source_format == "markdown":
+        lines.append("- 3 quizzes interativos por lição (`vocab`, `practice`, `homework`) no formato do nó Tiptap `quiz`")
+        lines += ["", "Arquivos: `source/` (Markdown editável) → `lessons/` (JSON gerado). Índice completo em `index.json`.", ""]
+    else:
+        if quizzes:
+            lines.append(f"- {quizzes} quizzes interativos no formato do nó Tiptap `quiz`")
+        lines += ["", topic["structureNote"], ""]
+        origin = "HTML" if source_format == "html" else "JSON"
+        lines += [f"Arquivos: `source/` ({origin} original) → `lessons/` (JSON Tiptap gerado por `tools/build_workbooks.py`). "
+                  "Índice completo em `index.json`." + (" Plano de aula do professor em `guidelines.md`." if topic.get("guidelines") else ""), ""]
 
     for course in topic["courses"]:
         course_lessons = [l for l in lessons if l["id"].startswith(course["code"] + "-")]

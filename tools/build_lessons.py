@@ -5,6 +5,9 @@ Uso:
     python3 tools/build_lessons.py                # todos os tópicos
     python3 tools/build_lessons.py pt/ielts-and-toefl
 
+Tópicos importados de apostilas (`sourceFormat` html/workbook-json no topic.json) são gerados
+por tools/build_workbooks.py e ignorados aqui.
+
 Estrutura esperada:
     <language>/<main_topic>/topic.json            metadados do tópico
     <language>/<main_topic>/source/*.md           lições (front matter + Markdown + blocos :::quiz)
@@ -380,7 +383,13 @@ def build_topic(topic_dir):
 
 
 def main():
-    targets = [ROOT / a for a in sys.argv[1:]] or sorted(p.parent for p in ROOT.glob("*/*/topic.json"))
+    def is_markdown(topic_dir):
+        # Apostilas importadas (html / workbook-json) são geradas por tools/build_workbooks.py.
+        topic = json.loads((topic_dir / "topic.json").read_text(encoding="utf-8"))
+        return topic.get("sourceFormat", "markdown") == "markdown"
+
+    targets = [ROOT / a for a in sys.argv[1:]] or [
+        p.parent for p in sorted(ROOT.glob("*/*/topic.json")) if is_markdown(p.parent)]
     try:
         for topic_dir in targets:
             count = build_topic(topic_dir)
