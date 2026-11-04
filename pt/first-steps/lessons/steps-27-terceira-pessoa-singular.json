@@ -506,16 +506,14 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "\tQuando fazemos mudanças no verbo, estamos conjugando o verbo. ",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ]
+            "text": "\tQuando fazemos mudanças no verbo, estamos conjugando o verbo. "
           }
         ]
       },

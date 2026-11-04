@@ -918,16 +918,14 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "\"Good night\" é usado para se despedir à noite, não para cumprimentar.",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ]
+            "text": "\"Good night\" é usado para se despedir à noite, não para cumprimentar."
           }
         ]
       },

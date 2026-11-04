@@ -344,16 +344,14 @@
         }
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "Cada pergunta tem duas variações mais fácil caso a primeira não seja entendida",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ]
+            "text": "Cada pergunta tem duas variações mais fácil caso a primeira não seja entendida"
           }
         ]
       },

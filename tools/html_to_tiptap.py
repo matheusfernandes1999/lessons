@@ -3,13 +3,14 @@
 documento Tiptap/ProseMirror JSON, o mesmo formato do campo `content` das demais lições.
 
 Nós gerados (todos existem no editor atual): paragraph, heading, bulletList, orderedList,
-taskList/taskItem, blockquote, horizontalRule, hardBreak, table/tableRow/tableCell/
+taskList/taskItem, blockquote, codeBlock, horizontalRule, hardBreak, table/tableRow/tableCell/
 tableHeader, image e quiz. Marcas: bold, italic, underline, strike, code, link,
 textStyle (cor) e highlight.
 
 Os componentes customizados da plataforma antiga não existem no editor atual e viram
 nós padrão:
 
+    pre                    -> codeBlock (as caixas de dica das apostilas são blocos de código)
     tip-component          -> blockquote "💡 texto"
     teacher-component      -> blockquote "🧑‍🏫 Professor: texto"
     student-component      -> blockquote "🧑‍🎓 Aluno: texto"
@@ -176,6 +177,13 @@ def alignment(node):
     return value if value in ("center", "right", "justify") else None
 
 
+def plain_text(node):
+    """Texto puro de um elemento (para blocos de código)."""
+    if isinstance(node, str):
+        return node
+    return "\n" if node.tag == "br" else "".join(plain_text(c) for c in node.children)
+
+
 def has_block_child(node):
     return any(not isinstance(c, str) and c.tag in BLOCK_TAGS for c in node.children)
 
@@ -256,12 +264,13 @@ def table(node, ctx):
                         "attrs": attrs,
                         "content": blocks(cell.children, ctx) or [{"type": "paragraph"}],
                     })
-                rows.append({"type": "tableRow", "content": cells})
+                if cells:  # <tr></tr> vazio no HTML original não aparece na tela
+                    rows.append({"type": "tableRow", "content": cells})
             elif child.tag in ("tbody", "thead", "tfoot"):
                 collect(child)
 
     collect(node)
-    return {"type": "table", "content": rows}
+    return {"type": "table", "content": rows} if rows else None
 
 
 def block(node, ctx):
@@ -297,8 +306,15 @@ def block(node, ctx):
         return [{"type": "blockquote", "content": blocks(node.children, ctx) or [{"type": "paragraph"}]}]
     if tag == "hr":
         return [{"type": "horizontalRule"}]
+    if tag == "pre":
+        code = "".join(plain_text(c) for c in node.children)
+        node_out = {"type": "codeBlock", "attrs": {"language": None}}
+        if code.strip():
+            node_out["content"] = [{"type": "text", "text": code}]
+        return [node_out]
     if tag == "table":
-        return [table(node, ctx)]
+        converted = table(node, ctx)
+        return [converted] if converted else []
     if tag in COMPONENTS:
         return COMPONENTS[tag](node, ctx)
     return blocks(node.children, ctx)  # div, pre e afins: só desembrulha

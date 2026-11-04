@@ -15,7 +15,7 @@ LESSON_KEYS = ["id", "language", "mainTopic", "course", "unit", "lessonNumber", 
 HTML_LESSON_KEYS = ["id", "language", "mainTopic", "course", "unit", "lessonNumber", "title",
                     "level", "sourceFormat", "legacyId", "content"]
 NODE_TYPES = {"doc", "paragraph", "heading", "text", "hardBreak", "bulletList", "orderedList", "listItem",
-              "taskList", "taskItem", "blockquote", "horizontalRule", "table", "tableRow", "tableCell",
+              "taskList", "taskItem", "blockquote", "codeBlock", "horizontalRule", "table", "tableRow", "tableCell",
               "tableHeader", "image", "quiz"}
 MARK_TYPES = {"bold", "italic", "underline", "strike", "code", "link", "textStyle", "highlight"}
 NEEDS_CONTENT = {"bulletList", "orderedList", "listItem", "taskList", "taskItem", "blockquote", "table",

@@ -2123,16 +2123,14 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "Também pode usar uma IA como o ChatGPT ou Gemini para ter uma ideia de como criar um mapa mental.",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ]
+            "text": "Também pode usar uma IA como o ChatGPT ou Gemini para ter uma ideia de como criar um mapa mental."
           }
         ]
       }

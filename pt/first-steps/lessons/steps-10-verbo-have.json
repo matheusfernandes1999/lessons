@@ -57,16 +57,14 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "Quais desses substantivos você lembra e como você os relaciona com os objetos que possui?",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ]
+            "text": "Quais desses substantivos você lembra e como você os relaciona com os objetos que possui?"
           }
         ]
       },

@@ -705,16 +705,14 @@
         }
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "Em português todos os verbos terminam em: ar, er ou ir. ",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ]
+            "text": "Em português todos os verbos terminam em: ar, er ou ir. "
           }
         ]
       },
@@ -1409,16 +1407,14 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "Vamos usar alguns termos gramaticais. Não se assuste e nem precisa se preocupar em decorar ou entender exatamente eles. ",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ]
+            "text": "Vamos usar alguns termos gramaticais. Não se assuste e nem precisa se preocupar em decorar ou entender exatamente eles. "
           }
         ]
       },
