@@ -1,0 +1,319 @@
+{
+  "language": "pt",
+  "mainTopic": "Essentials",
+  "slug": "essentials",
+  "sourceFormat": "html",
+  "description": "Apostila Essentials: 27 lições de gramática essencial do inglês com explicações em português: pronomes, verbo be, there be, substantivos, artigos, perguntas, passado, present perfect, condicional, verbos modais, quantificadores e preposições, com revisão ao fim de cada unidade.",
+  "level": "Essencial",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F35c2ac1b-d051-4c45-83b5-5cd3a91c50f7_essentials.png?alt=media",
+  "legacyWorkbookId": "Essentials",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "essentials",
+      "name": "Essentials",
+      "lessons": 27
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md",
+  "lessons": [
+    {
+      "id": "essentials-01",
+      "course": "Essentials",
+      "unit": "Unidade 1",
+      "lessonNumber": 1,
+      "title": "1. Personal Pronouns",
+      "level": "Essencial",
+      "file": "lessons/essentials-01-personal-pronouns.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-02",
+      "course": "Essentials",
+      "unit": "Unidade 1",
+      "lessonNumber": 2,
+      "title": "2. Verb be",
+      "level": "Essencial",
+      "file": "lessons/essentials-02-verb-be.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-03",
+      "course": "Essentials",
+      "unit": "Unidade 1",
+      "lessonNumber": 3,
+      "title": "3. There be",
+      "level": "Essencial",
+      "file": "lessons/essentials-03-there-be.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-04",
+      "course": "Essentials",
+      "unit": "Unidade 1",
+      "lessonNumber": 4,
+      "title": "4. Have/Has Got",
+      "level": "Essencial",
+      "file": "lessons/essentials-04-have-has-got.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-05",
+      "course": "Essentials",
+      "unit": "Unidade 1",
+      "lessonNumber": 5,
+      "title": "5. Verb do",
+      "level": "Essencial",
+      "file": "lessons/essentials-05-verb-do.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-06",
+      "course": "Essentials",
+      "unit": "Unidade 1",
+      "lessonNumber": 6,
+      "title": "Revisão",
+      "level": "Essencial",
+      "file": "lessons/essentials-06-revisao.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-07",
+      "course": "Essentials",
+      "unit": "Unidade 2",
+      "lessonNumber": 7,
+      "title": "6. Nouns",
+      "level": "Essencial",
+      "file": "lessons/essentials-07-nouns.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-08",
+      "course": "Essentials",
+      "unit": "Unidade 2",
+      "lessonNumber": 8,
+      "title": "7. Modifiers",
+      "level": "Essencial",
+      "file": "lessons/essentials-08-modifiers.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-09",
+      "course": "Essentials",
+      "unit": "Unidade 2",
+      "lessonNumber": 9,
+      "title": "8. Articles",
+      "level": "Essencial",
+      "file": "lessons/essentials-09-articles.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-10",
+      "course": "Essentials",
+      "unit": "Unidade 2",
+      "lessonNumber": 10,
+      "title": "9. Demonstratives and Possession",
+      "level": "Essencial",
+      "file": "lessons/essentials-10-demonstratives-and-possession.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-11",
+      "course": "Essentials",
+      "unit": "Unidade 2",
+      "lessonNumber": 11,
+      "title": "Review",
+      "level": "Essencial",
+      "file": "lessons/essentials-11-review.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-12",
+      "course": "Essentials",
+      "unit": "Unidade 3",
+      "lessonNumber": 12,
+      "title": "10. Questions",
+      "level": "Essencial",
+      "file": "lessons/essentials-12-questions.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-13",
+      "course": "Essentials",
+      "unit": "Unidade 3",
+      "lessonNumber": 13,
+      "title": "11. Speaking Practice",
+      "level": "Essencial",
+      "file": "lessons/essentials-13-speaking-practice.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-14",
+      "course": "Essentials",
+      "unit": "Unidade 3",
+      "lessonNumber": 14,
+      "title": "Review",
+      "level": "Essencial",
+      "file": "lessons/essentials-14-review.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-15",
+      "course": "Essentials",
+      "unit": "Unidade 4",
+      "lessonNumber": 15,
+      "title": "12. Past Simple",
+      "level": "Essencial",
+      "file": "lessons/essentials-15-past-simple.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-16",
+      "course": "Essentials",
+      "unit": "Unidade 4",
+      "lessonNumber": 16,
+      "title": "13. Past Continuous",
+      "level": "Essencial",
+      "file": "lessons/essentials-16-past-continuous.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-17",
+      "course": "Essentials",
+      "unit": "Unidade 4",
+      "lessonNumber": 17,
+      "title": "13. Present Perfect",
+      "level": "Essencial",
+      "file": "lessons/essentials-17-present-perfect.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-18",
+      "course": "Essentials",
+      "unit": "Unidade 4",
+      "lessonNumber": 18,
+      "title": "14. Used to",
+      "level": "Essencial",
+      "file": "lessons/essentials-18-used-to.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-19",
+      "course": "Essentials",
+      "unit": "Unidade 4",
+      "lessonNumber": 19,
+      "title": "15. First Conditional",
+      "level": "Essencial",
+      "file": "lessons/essentials-19-first-conditional.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-20",
+      "course": "Essentials",
+      "unit": "Unidade 4",
+      "lessonNumber": 20,
+      "title": "16. Modal Verbs",
+      "level": "Essencial",
+      "file": "lessons/essentials-20-modal-verbs.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-21",
+      "course": "Essentials",
+      "unit": "Unidade 4",
+      "lessonNumber": 21,
+      "title": "Review",
+      "level": "Essencial",
+      "file": "lessons/essentials-21-review.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-22",
+      "course": "Essentials",
+      "unit": "Unidade 5",
+      "lessonNumber": 22,
+      "title": "17. Quantifiers",
+      "level": "Essencial",
+      "file": "lessons/essentials-22-quantifiers.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-23",
+      "course": "Essentials",
+      "unit": "Unidade 5",
+      "lessonNumber": 23,
+      "title": "18. Similar Words",
+      "level": "Essencial",
+      "file": "lessons/essentials-23-similar-words.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-24",
+      "course": "Essentials",
+      "unit": "Unidade 5",
+      "lessonNumber": 24,
+      "title": "19. Reflexive Pronouns",
+      "level": "Essencial",
+      "file": "lessons/essentials-24-reflexive-pronouns.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-25",
+      "course": "Essentials",
+      "unit": "Unidade 5",
+      "lessonNumber": 25,
+      "title": "20. Neither, Either, Nor, Or",
+      "level": "Essencial",
+      "file": "lessons/essentials-25-neither-either-nor-or.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-26",
+      "course": "Essentials",
+      "unit": "Unidade 5",
+      "lessonNumber": 26,
+      "title": "21. Prepositions",
+      "level": "Essencial",
+      "file": "lessons/essentials-26-prepositions.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "essentials-27",
+      "course": "Essentials",
+      "unit": "Unidade 5",
+      "lessonNumber": 27,
+      "title": "Review",
+      "level": "Essencial",
+      "file": "lessons/essentials-27-review.json",
+      "quizCount": 0,
+      "questionCount": 0
+    }
+  ]
+}

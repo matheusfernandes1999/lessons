@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "mainTopic": "Essentials",
+  "slug": "essentials",
+  "sourceFormat": "html",
+  "description": "Apostila Essentials: 27 lições de gramática essencial do inglês com explicações em português: pronomes, verbo be, there be, substantivos, artigos, perguntas, passado, present perfect, condicional, verbos modais, quantificadores e preposições, com revisão ao fim de cada unidade.",
+  "level": "Essencial",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F35c2ac1b-d051-4c45-83b5-5cd3a91c50f7_essentials.png?alt=media",
+  "legacyWorkbookId": "Essentials",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "essentials",
+      "name": "Essentials",
+      "lessons": 27
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md"
+}
