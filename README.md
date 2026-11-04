@@ -27,14 +27,16 @@ Repositório de aulas, organizado sempre como:
 | [`pt/phrasal-verbs-in-context`](pt/phrasal-verbs-in-context/README.md) | 30 | Phrasal verbs por tema, verbos com vários sentidos e formalidade (grafia US) |
 | [`pt/essentials`](pt/essentials/README.md) | 27 | Apostila Essentials: gramática essencial do inglês com explicações em português |
 | [`pt/first-steps`](pt/first-steps/README.md) | 50 | Apostila First Steps: primeiros passos no inglês, com práticas de escuta, leitura, escrita e conversação |
+| [`pt/the-basics`](pt/the-basics/README.md) | 31 | Apostila The Basics: inglês básico com explicações em português, sessões de prática e revisões |
+| [`pt/travelling`](pt/travelling/README.md) | 12 | Apostila Travelling: inglês para viagens (aeroporto, hotel, transporte, restaurante, saúde) |
 | [`en/deep-dive`](en/deep-dive/README.md) | 49 | Apostila Deep Dive: gramática e uso do inglês em profundidade, de pronomes a phrasal verbs |
 | [`en/juridico`](en/juridico/README.md) | 42 | Apostila Jurídico: inglês jurídico (terminologia, contratos, sentenças, estudos de caso) |
 | [`en/brazilian-portuguese`](en/brazilian-portuguese/README.md) | 60 | Português brasileiro para falantes de inglês (A0 → B2), aulas de 45 minutos com material do professor |
 
-Total: **508 lições**.
+Total: **551 lições**.
 
 - As **280** primeiras (IELTS/TOEFL e os 6 cursos gerais) são escritas em Markdown: online, individuais, de 45 minutos, com foco em fala e vocabulário e homework para os 7 dias da semana.
-- As **228** restantes são apostilas importadas da plataforma (`pt/essentials`, `pt/first-steps`, `en/deep-dive`, `en/juridico`, `en/brazilian-portuguese`) e mantêm a estrutura própria de cada apostila.
+- As **271** restantes são apostilas importadas da plataforma (`pt/essentials`, `pt/first-steps`, `pt/the-basics`, `pt/travelling`, `en/deep-dive`, `en/juridico`, `en/brazilian-portuguese`) e mantêm a estrutura própria de cada apostila.
 
 ## Template padrão
 
@@ -64,8 +66,8 @@ python3 tools/validate_lessons.py
 python3 tools/build_readmes.py
 ```
 
-- `language` é o idioma das explicações: `pt` para Essentials e First Steps, `en` para Deep Dive, Jurídico e Português Brasileiro.
-- **HTML → Tiptap** (`tools/html_to_tiptap.py`): títulos, listas, task lists, tabelas, links, cores e alinhamento viram nós/marcas Tiptap. Os componentes customizados da plataforma antiga (dica, professor, aluno, meta semanal, revisão, tradução, imagem, listening, arquivo) não existem no editor atual e viram blockquotes, títulos, listas e links. Os `exercise-component` viram nós `quiz` com perguntas escritas.
+- `language` é o idioma das explicações: `pt` para Essentials, First Steps, The Basics e Travelling; `en` para Deep Dive, Jurídico e Português Brasileiro.
+- **HTML → Tiptap** (`tools/html_to_tiptap.py`): títulos, listas, task lists, tabelas, blocos de código, links, cores e alinhamento viram nós/marcas Tiptap. Os componentes customizados da plataforma antiga (dica, professor, aluno, meta semanal, revisão, tradução, imagem, listening, arquivo) não existem no editor atual e viram blockquotes, títulos, listas e links. Os `exercise-component` viram nós `quiz` com perguntas escritas.
 - Os `token=` dos URLs do Firebase Storage antigo são removidos: o repositório é público e os arquivos têm leitura pública.
 - Cada lição guarda o id original em `legacyId`.
 - `tools/build_lessons.py` (Markdown) ignora esses tópicos, e `tools/build_workbooks.py` ignora os de Markdown.
