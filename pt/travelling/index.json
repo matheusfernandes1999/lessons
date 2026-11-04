@@ -1,0 +1,154 @@
+{
+  "language": "pt",
+  "mainTopic": "Travelling",
+  "slug": "travelling",
+  "sourceFormat": "html",
+  "description": "Apostila Travelling: 12 lições de inglês para viagens, com explicações em português: expressões essenciais, números, aeroporto, hotel, transportes e direções, restaurantes, compras e turismo, conversa informal, present perfect, saúde e emergências, e sugestões de estudo.",
+  "level": "Específicos",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F4b26af32-ccd6-47ec-af97-b45785746645_Frame%2022.png?alt=media",
+  "legacyWorkbookId": "Travelling",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "travelling",
+      "name": "Travelling",
+      "lessons": 12
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md",
+  "lessons": [
+    {
+      "id": "travelling-01",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 1,
+      "title": "1. Must-know",
+      "level": "Específicos",
+      "file": "lessons/travelling-01-must-know.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-02",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 2,
+      "title": "2. Numbers",
+      "level": "Específicos",
+      "file": "lessons/travelling-02-numbers.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-03",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 3,
+      "title": "3. Some & Any",
+      "level": "Específicos",
+      "file": "lessons/travelling-03-some-any.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-04",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 4,
+      "title": "4. At the airpot",
+      "level": "Específicos",
+      "file": "lessons/travelling-04-at-the-airpot.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-05",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 5,
+      "title": "5. Hotel & Hosting",
+      "level": "Específicos",
+      "file": "lessons/travelling-05-hotel-hosting.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-06",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 6,
+      "title": "6. Transports & Directions",
+      "level": "Específicos",
+      "file": "lessons/travelling-06-transports-directions.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-07",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 7,
+      "title": "7. Restaurants",
+      "level": "Específicos",
+      "file": "lessons/travelling-07-restaurants.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-08",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 8,
+      "title": "8. Shopping & Tourism",
+      "level": "Específicos",
+      "file": "lessons/travelling-08-shopping-tourism.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-09",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 9,
+      "title": "9. Small Talk",
+      "level": "Específicos",
+      "file": "lessons/travelling-09-small-talk.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-10",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 10,
+      "title": "10. Present Perfect",
+      "level": "Específicos",
+      "file": "lessons/travelling-10-present-perfect.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-11",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 11,
+      "title": "11. Health & Emergencies",
+      "level": "Específicos",
+      "file": "lessons/travelling-11-health-emergencies.json",
+      "quizCount": 0,
+      "questionCount": 0
+    },
+    {
+      "id": "travelling-12",
+      "course": "Travelling",
+      "unit": "Unidade 1",
+      "lessonNumber": 12,
+      "title": "12. Sugestões de Estudos Adicionais",
+      "level": "Específicos",
+      "file": "lessons/travelling-12-sugestoes-de-estudos-adicionais.json",
+      "quizCount": 0,
+      "questionCount": 0
+    }
+  ]
+}

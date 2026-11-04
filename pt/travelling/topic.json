@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "mainTopic": "Travelling",
+  "slug": "travelling",
+  "sourceFormat": "html",
+  "description": "Apostila Travelling: 12 lições de inglês para viagens, com explicações em português: expressões essenciais, números, aeroporto, hotel, transportes e direções, restaurantes, compras e turismo, conversa informal, present perfect, saúde e emergências, e sugestões de estudo.",
+  "level": "Específicos",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F4b26af32-ccd6-47ec-af97-b45785746645_Frame%2022.png?alt=media",
+  "legacyWorkbookId": "Travelling",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "travelling",
+      "name": "Travelling",
+      "lessons": 12
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md"
+}
