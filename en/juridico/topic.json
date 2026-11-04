@@ -1,0 +1,19 @@
+{
+  "language": "en",
+  "mainTopic": "Jurídico",
+  "slug": "juridico",
+  "sourceFormat": "html",
+  "description": "Jurídico workbook: Legal English for Portuguese-speaking professionals. A syllabus plus 41 lessons on legal terminology, branches of law, translation of contracts, judgments and legislation, case studies, and mock trial and negotiation simulations.",
+  "level": "Específicos",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2F9038631f-85f2-4ff3-b382-480bdb1d3a44_juridico.png?alt=media",
+  "legacyWorkbookId": "Jurídico",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "juridico",
+      "name": "Jurídico",
+      "lessons": 42
+    }
+  ],
+  "officialReferences": []
+}
