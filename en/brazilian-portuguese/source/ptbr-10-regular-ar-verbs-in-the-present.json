@@ -1,0 +1,658 @@
+{
+  "lesson_number": 10,
+  "id": "L10",
+  "title": "Regular -AR Verbs in the Present",
+  "module": "Módulo 2 — Objetos, descrições e ações cotidianas",
+  "level": "A0–A1",
+  "main_grammar": "presente do indicativo de verbos regulares em -ar.",
+  "previous_knowledge": "Lessons 1–9",
+  "key_vocabulary": [
+    "trabalho",
+    "estuda",
+    "mora",
+    "moramos",
+    "falam",
+    "inglês",
+    "português",
+    "manhã"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your typical work or study day” using this lesson’s target structure.",
+    "basic_rule": "For regular -ar verbs in the present: eu -o, você/ele/ela -a, nós -amos, vocês/eles/elas -am.",
+    "structure": "subject + stem + o/a/amos/am",
+    "english_comparison": "English changes few present-tense forms; Portuguese changes more.",
+    "model_sentences": [
+      {
+        "pt": "Eu trabalho em casa.",
+        "en": "I work at home."
+      },
+      {
+        "pt": "Ela estuda português.",
+        "en": "She studies Portuguese."
+      },
+      {
+        "pt": "Nós moramos no Brasil.",
+        "en": "We live in Brazil."
+      },
+      {
+        "pt": "Eles falam inglês.",
+        "en": "They speak English."
+      },
+      {
+        "pt": "Você trabalha hoje?",
+        "en": "Do you work today?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "trabalho",
+        "meaning": "I work",
+        "example": "Eu trabalho em casa."
+      },
+      {
+        "term": "estuda",
+        "meaning": "studies",
+        "example": "Ela estuda português."
+      },
+      {
+        "term": "mora",
+        "meaning": "lives",
+        "example": "Meu amigo mora no Brasil."
+      },
+      {
+        "term": "moramos",
+        "meaning": "we live",
+        "example": "Nós moramos no Brasil."
+      },
+      {
+        "term": "falam",
+        "meaning": "they speak",
+        "example": "Eles falam inglês."
+      },
+      {
+        "term": "inglês",
+        "meaning": "English",
+        "example": "Eles falam inglês."
+      },
+      {
+        "term": "português",
+        "meaning": "Portuguese",
+        "example": "Ela estuda português."
+      },
+      {
+        "term": "manhã",
+        "meaning": "morning",
+        "example": "Eu estudo de manhã."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I work at home.”?",
+            "options": {
+              "A": "Eu estudo de manhã.",
+              "B": "Nós moramos no Brasil.",
+              "C": "Eu trabalho em casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She studies Portuguese.”?",
+            "options": {
+              "A": "Você trabalha hoje?",
+              "B": "Ela estuda português.",
+              "C": "Eu trabalho em casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We live in Brazil.”?",
+            "options": {
+              "A": "Eles falam inglês.",
+              "B": "Nós moramos no Brasil.",
+              "C": "Eu trabalho em casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They speak English.”?",
+            "options": {
+              "A": "Eu estudo de manhã.",
+              "B": "Ela estuda português.",
+              "C": "Eles falam inglês."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ em casa.",
+            "hint": "I work at home."
+          },
+          {
+            "sentence": "Ela ________ português.",
+            "hint": "She studies Portuguese."
+          },
+          {
+            "sentence": "Nós ________ no Brasil.",
+            "hint": "We live in Brazil."
+          },
+          {
+            "sentence": "Eles ________ inglês.",
+            "hint": "They speak English."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Eu estudo português de manhã. Minha irmã trabalha à tarde. Meu amigo mora no Brasil. Nós falamos português na escola. Você estuda inglês? Eu estudo inglês também. Eles trabalham em casa e moram perto da escola.",
+        "questions": [
+          "A irmã trabalha de manhã ou à tarde?",
+          "O amigo mora no Brasil?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Onde você trabalha?",
+          "Quando você estuda português?",
+          "Seus amigos falam português?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Remove -ar and add the ending required by the subject.",
+      "examples": [
+        {
+          "pt": "Eles falam inglês.",
+          "en": "They speak English."
+        },
+        {
+          "pt": "Você trabalha hoje?",
+          "en": "Do you work today?"
+        },
+        {
+          "pt": "Eu estudo de manhã.",
+          "en": "I study in the morning."
+        }
+      ],
+      "compare": "Eu trabalho / Ela trabalha: -o versus -a.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu trabalha em casa.",
+          "correct": "Eu trabalho em casa.",
+          "explanation": "Eu takes -o."
+        },
+        {
+          "wrong": "Ela estudam português.",
+          "correct": "Ela estuda português.",
+          "explanation": "Ela takes -a."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu trabalho em casa.",
+            "cue": "They speak English."
+          },
+          {
+            "base": "Ela estuda português.",
+            "cue": "Do you work today?"
+          },
+          {
+            "base": "Nós moramos no Brasil.",
+            "cue": "I study in the morning."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We live in Brazil.",
+          "They speak English.",
+          "Do you work today?",
+          "I study in the morning."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles falam inglês. Nós ________ no Brasil.",
+            "hint": "We live in Brazil."
+          },
+          {
+            "sentence": "Você trabalha hoje? Eles ________ inglês.",
+            "hint": "They speak English."
+          },
+          {
+            "sentence": "Eu estudo de manhã. Você ________ hoje?",
+            "hint": "Do you work today?"
+          },
+          {
+            "sentence": "Eu trabalho em casa. Eu ________ de manhã.",
+            "hint": "I study in the morning."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Pedro trabalha no escritório e Ana trabalha em casa. Eles moram na mesma cidade. Eu estudo à noite. Nós conversamos depois da aula. A professora fala português. Os alunos estudam português e trabalham durante o dia.",
+        "questions": [
+          "Ana trabalha no escritório ou em casa?",
+          "Os alunos trabalham à noite ou durante o dia?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Onde você trabalha?",
+          "english": "Where do you work?"
+        },
+        {
+          "question": "Quando você estuda português?",
+          "english": "When do you study Portuguese?"
+        },
+        {
+          "question": "Seus amigos falam português?",
+          "english": "Do your friends speak Portuguese?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I work at home.”? A. Eu estudo de manhã. B. Nós moramos no Brasil. C. Eu trabalho em casa.",
+        "worked_answer": "C. Eu trabalho em casa. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ em casa. (I work at home.)",
+        "worked_answer": "trabalho → Eu trabalho em casa. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We live in Brazil.",
+        "worked_answer": "Nós moramos no Brasil. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu trabalho em casa.",
+        "worked_answer": "I work at home. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "A irmã trabalha de manhã ou à tarde?",
+        "worked_answer": "A irmã trabalha à tarde. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles falam inglês.” as a reference.",
+        "worked_answer": "Model: Você trabalha hoje? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu estudo de manhã. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She studies Portuguese.”?",
+            "options": {
+              "A": "Eu estudo de manhã.",
+              "B": "Nós moramos no Brasil.",
+              "C": "Ela estuda português."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We live in Brazil.”?",
+            "options": {
+              "A": "Eu trabalho em casa.",
+              "B": "Nós moramos no Brasil.",
+              "C": "Eles falam inglês."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They speak English.”?",
+            "options": {
+              "A": "Nós moramos no Brasil.",
+              "B": "Eu estudo de manhã.",
+              "C": "Eles falam inglês."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Do you work today?”?",
+            "options": {
+              "A": "Você trabalha hoje?",
+              "B": "Eu estudo de manhã.",
+              "C": "Ela estuda português."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I study in the morning.”?",
+            "options": {
+              "A": "Eles falam inglês.",
+              "B": "Ela estuda português.",
+              "C": "Eu estudo de manhã."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ português.",
+            "hint": "She studies Portuguese."
+          },
+          {
+            "sentence": "Nós ________ no Brasil.",
+            "hint": "We live in Brazil."
+          },
+          {
+            "sentence": "Eles ________ inglês.",
+            "hint": "They speak English."
+          },
+          {
+            "sentence": "Você ________ hoje?",
+            "hint": "Do you work today?"
+          },
+          {
+            "sentence": "Eu ________ de manhã.",
+            "hint": "I study in the morning."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I work at home.",
+          "She studies Portuguese.",
+          "We live in Brazil.",
+          "They speak English.",
+          "Do you work today?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós moramos no Brasil.",
+          "Eles falam inglês.",
+          "Você trabalha hoje?",
+          "Eu estudo de manhã."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Minha amiga mora com a família. Ela estuda português e trabalha de manhã. O irmão dela fala inglês. Nós estudamos juntos às vezes. Eu trabalho em casa. Você mora perto do trabalho? Os amigos moram longe.",
+        "questions": [
+          "A amiga mora sozinha ou com a família?",
+          "A amiga trabalha de manhã ou à noite?",
+          "O irmão dela fala inglês ou português?",
+          "Os amigos moram perto ou longe?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Your typical work or study day”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Onde você trabalha? / Quando você estuda português? / Seus amigos falam português? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "My car is white.",
+      "expected_answer": "Meu carro é branco."
+    },
+    "pronunciation_focus": "Do not pronounce every final -am as English am.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu trabalho em casa."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela estuda português."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós moramos no Brasil."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles falam inglês."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "trabalho",
+            "full_sentence": "Eu trabalho em casa."
+          },
+          {
+            "answer": "estuda",
+            "full_sentence": "Ela estuda português."
+          },
+          {
+            "answer": "moramos",
+            "full_sentence": "Nós moramos no Brasil."
+          },
+          {
+            "answer": "falam",
+            "full_sentence": "Eles falam inglês."
+          }
+        ],
+        "mini_reading": {
+          "translation": "I study Portuguese in the morning. My sister works in the afternoon. My friend lives in Brazil. We speak Portuguese at school. Do you study English? I study English too. They work at home and live near school.",
+          "answers": [
+            {
+              "question": "A irmã trabalha de manhã ou à tarde?",
+              "answer": "A irmã trabalha à tarde."
+            },
+            {
+              "question": "O amigo mora no Brasil?",
+              "answer": "Sim, o amigo mora no Brasil."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu trabalho em casa.",
+          "Eu estudo de manhã.",
+          "Não, eles falam inglês."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They speak English.",
+            "model": "Eles falam inglês."
+          },
+          {
+            "cue": "Do you work today?",
+            "model": "Você trabalha hoje?"
+          },
+          {
+            "cue": "I study in the morning.",
+            "model": "Eu estudo de manhã."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós moramos no Brasil.",
+          "Eles falam inglês.",
+          "Você trabalha hoje?",
+          "Eu estudo de manhã."
+        ],
+        "fill_in": [
+          {
+            "answer": "moramos",
+            "full_sentence": "Eles falam inglês. Nós moramos no Brasil."
+          },
+          {
+            "answer": "falam",
+            "full_sentence": "Você trabalha hoje? Eles falam inglês."
+          },
+          {
+            "answer": "trabalha",
+            "full_sentence": "Eu estudo de manhã. Você trabalha hoje?"
+          },
+          {
+            "answer": "estudo",
+            "full_sentence": "Eu trabalho em casa. Eu estudo de manhã."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu trabalho em casa.",
+            "en": "I work at home."
+          },
+          {
+            "pt": "Nós moramos no Brasil.",
+            "en": "We live in Brazil."
+          },
+          {
+            "pt": "Você trabalha hoje?",
+            "en": "Do you work today?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Pedro works in an office and Ana works at home. They live in the same city. I study at night. We talk after class. The teacher speaks Portuguese. The students study Portuguese and work during the day.",
+          "answers": [
+            {
+              "question": "Ana trabalha no escritório ou em casa?",
+              "answer": "Ana trabalha em casa."
+            },
+            {
+              "question": "Os alunos trabalham à noite ou durante o dia?",
+              "answer": "Os alunos trabalham durante o dia."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Onde você trabalha?",
+          "model_answer": "Eu trabalho em casa.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu trabalha em casa. → Eu trabalho em casa. (Eu takes -o.) Ela estudam português. → Ela estuda português. (Ela takes -a.)"
+        },
+        {
+          "question": "Quando você estuda português?",
+          "model_answer": "Eu estudo de manhã.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "Eu trabalha em casa. → Eu trabalho em casa. (Eu takes -o.) Ela estudam português. → Ela estuda português. (Ela takes -a.)"
+        },
+        {
+          "question": "Seus amigos falam português?",
+          "model_answer": "Não, eles falam inglês.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "Eu trabalha em casa. → Eu trabalho em casa. (Eu takes -o.) Ela estudam português. → Ela estuda português. (Ela takes -a.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Ela estuda português."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós moramos no Brasil."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles falam inglês."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você trabalha hoje?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Eu estudo de manhã."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "estuda",
+            "full_sentence": "Ela estuda português."
+          },
+          {
+            "answer": "moramos",
+            "full_sentence": "Nós moramos no Brasil."
+          },
+          {
+            "answer": "falam",
+            "full_sentence": "Eles falam inglês."
+          },
+          {
+            "answer": "trabalha",
+            "full_sentence": "Você trabalha hoje?"
+          },
+          {
+            "answer": "estudo",
+            "full_sentence": "Eu estudo de manhã."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu trabalho em casa.",
+          "Ela estuda português.",
+          "Nós moramos no Brasil.",
+          "Eles falam inglês.",
+          "Você trabalha hoje?"
+        ],
+        "D_portuguese_to_english": [
+          "We live in Brazil.",
+          "They speak English.",
+          "Do you work today?",
+          "I study in the morning."
+        ],
+        "E_reading": {
+          "translation": "My friend lives with her family. She studies Portuguese and works in the morning. Her brother speaks English. We study together sometimes. I work at home. Do you live near work? The friends live far away.",
+          "answers": [
+            {
+              "question": "A amiga mora sozinha ou com a família?",
+              "answer": "A amiga mora com a família."
+            },
+            {
+              "question": "A amiga trabalha de manhã ou à noite?",
+              "answer": "Ela trabalha de manhã."
+            },
+            {
+              "question": "O irmão dela fala inglês ou português?",
+              "answer": "O irmão dela fala inglês."
+            },
+            {
+              "question": "Os amigos moram perto ou longe?",
+              "answer": "Os amigos moram longe."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Minha amiga mora com a família. Ela estuda português e trabalha de manhã. O irmão dela fala inglês. Nós estudamos juntos às vezes. Eu trabalho em casa. Você mora perto do trabalho? Os amigos moram longe.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu trabalho em casa.",
+            "Eu estudo de manhã.",
+            "Não, eles falam inglês."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

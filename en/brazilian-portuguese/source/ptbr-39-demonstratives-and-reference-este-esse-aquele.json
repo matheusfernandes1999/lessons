@@ -1,0 +1,688 @@
+{
+  "lesson_number": 39,
+  "id": "L39",
+  "title": "Demonstratives and Reference — Este, Esse, Aquele",
+  "module": "Módulo 7 — Pronomes, relações e estruturas complexas",
+  "level": "B1–B2",
+  "main_grammar": "demonstrativos e referência espacial ou discursiva.",
+  "previous_knowledge": "Lessons 1–38",
+  "key_vocabulary": [
+    "este",
+    "esse",
+    "aquele",
+    "essa",
+    "aquela",
+    "isto",
+    "isso",
+    "livro"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Objects near you and farther away” using this lesson’s target structure.",
+    "basic_rule": "Este/esse/aquele point to entities in space or discourse; speech often prefers esse for nearby referents.",
+    "structure": "este/esse/aquele + noun",
+    "english_comparison": "English this/that has fewer contrasts than the traditional Portuguese three-way system.",
+    "model_sentences": [
+      {
+        "pt": "Esse livro é meu.",
+        "en": "That book is mine."
+      },
+      {
+        "pt": "Aquela casa é antiga.",
+        "en": "That house over there is old."
+      },
+      {
+        "pt": "Este documento está aqui.",
+        "en": "This document is here."
+      },
+      {
+        "pt": "Isso é importante.",
+        "en": "That is important."
+      },
+      {
+        "pt": "Aquilo foi difícil.",
+        "en": "That was difficult."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "este",
+        "meaning": "this (m.)",
+        "example": "Este documento está aqui."
+      },
+      {
+        "term": "esse",
+        "meaning": "this/that (m.)",
+        "example": "Esse livro é meu."
+      },
+      {
+        "term": "aquele",
+        "meaning": "that over there (m.)",
+        "example": "Aquele livro na estante pertence ao professor."
+      },
+      {
+        "term": "essa",
+        "meaning": "this/that (f.)",
+        "example": "Essa mochila é sua?"
+      },
+      {
+        "term": "aquela",
+        "meaning": "that over there (f.)",
+        "example": "Aquela casa é antiga."
+      },
+      {
+        "term": "isto",
+        "meaning": "this thing",
+        "example": "Isto é um livro."
+      },
+      {
+        "term": "isso",
+        "meaning": "that thing",
+        "example": "Isso é importante."
+      },
+      {
+        "term": "livro",
+        "meaning": "book",
+        "example": "Esse livro é meu."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “That book is mine.”?",
+            "options": {
+              "A": "Aquela casa é antiga.",
+              "B": "Isso é importante.",
+              "C": "Esse livro é meu."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “That house over there is old.”?",
+            "options": {
+              "A": "Este documento está aqui.",
+              "B": "Essas pessoas são minhas amigas.",
+              "C": "Aquela casa é antiga."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “This document is here.”?",
+            "options": {
+              "A": "Esse livro é meu.",
+              "B": "Aquela casa é antiga.",
+              "C": "Este documento está aqui."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “That is important.”?",
+            "options": {
+              "A": "Aquilo foi difícil.",
+              "B": "Aquela casa é antiga.",
+              "C": "Isso é importante."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ livro é meu.",
+            "hint": "That book is mine."
+          },
+          {
+            "sentence": "________ casa é antiga.",
+            "hint": "That house over there is old."
+          },
+          {
+            "sentence": "________ documento está aqui.",
+            "hint": "This document is here."
+          },
+          {
+            "sentence": "________ é importante.",
+            "hint": "That is important."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Na mesa há três livros. Este livro aqui é meu. Esse livro perto de você é de Ana. Aquele livro na estante pertence ao professor. Na fala cotidiana, muitas pessoas usam “esse” também para algo próximo. A escolha depende do contexto e de onde estão os participantes da conversa.",
+        "questions": [
+          "De quem é “esse livro”, perto do ouvinte?",
+          "De quem é aquele livro na estante?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Este livro aqui é seu?",
+          "De quem é aquele livro lá?",
+          "Você usa “esse” na fala cotidiana?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Choose demonstratives by real distance and shared discourse context.",
+      "examples": [
+        {
+          "pt": "Isso é importante.",
+          "en": "That is important."
+        },
+        {
+          "pt": "Aquilo foi difícil.",
+          "en": "That was difficult."
+        },
+        {
+          "pt": "Essas pessoas são minhas amigas.",
+          "en": "Those people are my friends."
+        }
+      ],
+      "compare": "Este livro / Aquele livro: near versus far; esse often used in speech for near.",
+      "common_mistakes": [
+        {
+          "wrong": "Essa livro é bom.",
+          "correct": "Esse livro é bom.",
+          "explanation": "Livro is masculine."
+        },
+        {
+          "wrong": "Aquele casa é bonita.",
+          "correct": "Aquela casa é bonita.",
+          "explanation": "Casa is feminine."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Esse livro é meu.",
+            "cue": "That is important."
+          },
+          {
+            "base": "Aquela casa é antiga.",
+            "cue": "That was difficult."
+          },
+          {
+            "base": "Este documento está aqui.",
+            "cue": "Those people are my friends."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "This document is here.",
+          "That is important.",
+          "That was difficult.",
+          "Those people are my friends."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Isso é importante. ________ documento está aqui.",
+            "hint": "This document is here."
+          },
+          {
+            "sentence": "Aquilo foi difícil. ________ é importante.",
+            "hint": "That is important."
+          },
+          {
+            "sentence": "Essas pessoas são minhas amigas. ________ foi difícil.",
+            "hint": "That was difficult."
+          },
+          {
+            "sentence": "Esse livro é meu. ________ pessoas são minhas amigas.",
+            "hint": "Those people are my friends."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Durante a reunião, Pedro mostrou duas fotografias. Esta fotografia, que ele segurava, era recente. Aquela imagem na parede era antiga. Ana perguntou: “Isso é da nossa escola?” Pedro explicou que a primeira imagem era da escola nova e a outra mostrava o prédio anterior.",
+        "questions": [
+          "Como era a fotografia que Pedro segurava?",
+          "O que mostrava a imagem na parede?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Este livro aqui é seu?",
+          "english": "Is this book here yours?"
+        },
+        {
+          "question": "De quem é aquele livro lá?",
+          "english": "Whose is that book over there?"
+        },
+        {
+          "question": "Você usa “esse” na fala cotidiana?",
+          "english": "Do you use “esse” in everyday speech?"
+        },
+        {
+          "question": "Como você distingue um objeto perto de você de outro distante?",
+          "english": "How do you distinguish a nearby object from a faraway one?"
+        },
+        {
+          "question": "Quando você prefere “isso” em vez de “esse livro”?",
+          "english": "When do you prefer “isso” rather than “esse livro”?"
+        },
+        {
+          "question": "Como indicaria um objeto já mencionado numa conversa?",
+          "english": "How would you point to an item already mentioned?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “That book is mine.”? A. Aquela casa é antiga. B. Isso é importante. C. Esse livro é meu.",
+        "worked_answer": "C. Esse livro é meu. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ livro é meu. (That book is mine.)",
+        "worked_answer": "Esse → Esse livro é meu. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "This document is here.",
+        "worked_answer": "Este documento está aqui. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Esse livro é meu.",
+        "worked_answer": "That book is mine. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "De quem é “esse livro”, perto do ouvinte?",
+        "worked_answer": "É de Ana. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Isso é importante.” as a reference.",
+        "worked_answer": "Model: Aquilo foi difícil. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Essas pessoas são minhas amigas. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “That house over there is old.”?",
+            "options": {
+              "A": "Aquela casa é antiga.",
+              "B": "Este documento está aqui.",
+              "C": "Isso é importante."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “This document is here.”?",
+            "options": {
+              "A": "Essas pessoas são minhas amigas.",
+              "B": "Este documento está aqui.",
+              "C": "Aquilo foi difícil."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “That is important.”?",
+            "options": {
+              "A": "Essas pessoas são minhas amigas.",
+              "B": "Aquilo foi difícil.",
+              "C": "Isso é importante."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “That was difficult.”?",
+            "options": {
+              "A": "Isso é importante.",
+              "B": "Aquilo foi difícil.",
+              "C": "Esse livro é meu."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Those people are my friends.”?",
+            "options": {
+              "A": "Aquilo foi difícil.",
+              "B": "Esse livro é meu.",
+              "C": "Essas pessoas são minhas amigas."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "________ casa é antiga.",
+            "hint": "That house over there is old."
+          },
+          {
+            "sentence": "________ documento está aqui.",
+            "hint": "This document is here."
+          },
+          {
+            "sentence": "________ é importante.",
+            "hint": "That is important."
+          },
+          {
+            "sentence": "________ foi difícil.",
+            "hint": "That was difficult."
+          },
+          {
+            "sentence": "________ pessoas são minhas amigas.",
+            "hint": "Those people are my friends."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "That book is mine.",
+          "That house over there is old.",
+          "This document is here.",
+          "That is important.",
+          "That was difficult."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Este documento está aqui.",
+          "Isso é importante.",
+          "Aquilo foi difícil.",
+          "Essas pessoas são minhas amigas."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Eu gosto deste caderno porque está perto de mim. Minha irmã prefere aquele caderno azul que está na outra mesa. Na conversa, ela aponta para uma mochila e pergunta: “Essa mochila é sua?” Eu respondo que não. Aquela mochila pertence ao nosso amigo e esta bolsa pequena é minha.",
+        "questions": [
+          "Por que o narrador gosta deste caderno?",
+          "Qual caderno a irmã prefere?",
+          "A mochila é do narrador?",
+          "O que é do narrador?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Objects near you and farther away”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Este livro aqui é seu? / De quem é aquele livro lá? / Você usa “esse” na fala cotidiana? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "He told me the story.",
+      "expected_answer": "Ele me contou a história."
+    },
+    "pronunciation_focus": "Pronounce esse with a clear stressed first syllable.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Esse livro é meu."
+          },
+          {
+            "answer": "C",
+            "sentence": "Aquela casa é antiga."
+          },
+          {
+            "answer": "C",
+            "sentence": "Este documento está aqui."
+          },
+          {
+            "answer": "C",
+            "sentence": "Isso é importante."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Esse",
+            "full_sentence": "Esse livro é meu."
+          },
+          {
+            "answer": "Aquela",
+            "full_sentence": "Aquela casa é antiga."
+          },
+          {
+            "answer": "Este",
+            "full_sentence": "Este documento está aqui."
+          },
+          {
+            "answer": "Isso",
+            "full_sentence": "Isso é importante."
+          }
+        ],
+        "mini_reading": {
+          "translation": "There are three books on the table. This book here is mine. That book near you is Ana's. That book over there on the shelf belongs to the teacher. In everyday speech, many people also use “esse” for something nearby. The choice depends on the context and on where the participants are.",
+          "answers": [
+            {
+              "question": "De quem é “esse livro”, perto do ouvinte?",
+              "answer": "É de Ana."
+            },
+            {
+              "question": "De quem é aquele livro na estante?",
+              "answer": "Aquele livro pertence ao professor."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Sim, este livro é meu.",
+          "Aquele livro é do professor.",
+          "Sim, uso “esse” com frequência."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "That is important.",
+            "model": "Isso é importante."
+          },
+          {
+            "cue": "That was difficult.",
+            "model": "Aquilo foi difícil."
+          },
+          {
+            "cue": "Those people are my friends.",
+            "model": "Essas pessoas são minhas amigas."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Este documento está aqui.",
+          "Isso é importante.",
+          "Aquilo foi difícil.",
+          "Essas pessoas são minhas amigas."
+        ],
+        "fill_in": [
+          {
+            "answer": "Este",
+            "full_sentence": "Isso é importante. Este documento está aqui."
+          },
+          {
+            "answer": "Isso",
+            "full_sentence": "Aquilo foi difícil. Isso é importante."
+          },
+          {
+            "answer": "Aquilo",
+            "full_sentence": "Essas pessoas são minhas amigas. Aquilo foi difícil."
+          },
+          {
+            "answer": "Essas",
+            "full_sentence": "Esse livro é meu. Essas pessoas são minhas amigas."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Esse livro é meu.",
+            "en": "That book is mine."
+          },
+          {
+            "pt": "Este documento está aqui.",
+            "en": "This document is here."
+          },
+          {
+            "pt": "Aquilo foi difícil.",
+            "en": "That was difficult."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "During the meeting, Pedro showed two photographs. This photograph, which he was holding, was recent. That image on the wall was old. Ana asked, “Is that from our school?” Pedro explained that the first image was of the new school and the other showed the previous building.",
+          "answers": [
+            {
+              "question": "Como era a fotografia que Pedro segurava?",
+              "answer": "Era recente."
+            },
+            {
+              "question": "O que mostrava a imagem na parede?",
+              "answer": "Mostrava o prédio anterior da escola."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Este livro aqui é seu?",
+          "model_answer": "Sim, este livro é meu.",
+          "follow_up": "Por quê?",
+          "watch_for": "Essa livro é bom. → Esse livro é bom. (Livro is masculine.) Aquele casa é bonita. → Aquela casa é bonita. (Casa is feminine.)"
+        },
+        {
+          "question": "De quem é aquele livro lá?",
+          "model_answer": "Aquele livro é do professor.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Essa livro é bom. → Esse livro é bom. (Livro is masculine.) Aquele casa é bonita. → Aquela casa é bonita. (Casa is feminine.)"
+        },
+        {
+          "question": "Você usa “esse” na fala cotidiana?",
+          "model_answer": "Sim, uso “esse” com frequência.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Essa livro é bom. → Esse livro é bom. (Livro is masculine.) Aquele casa é bonita. → Aquela casa é bonita. (Casa is feminine.)"
+        },
+        {
+          "question": "Como você distingue um objeto perto de você de outro distante?",
+          "model_answer": "Este livro é meu; aquele livro é dela.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Essa livro é bom. → Esse livro é bom. (Livro is masculine.) Aquele casa é bonita. → Aquela casa é bonita. (Casa is feminine.)"
+        },
+        {
+          "question": "Quando você prefere “isso” em vez de “esse livro”?",
+          "model_answer": "Uso “isso” quando não menciono o substantivo.",
+          "follow_up": "Por quê?",
+          "watch_for": "Essa livro é bom. → Esse livro é bom. (Livro is masculine.) Aquele casa é bonita. → Aquela casa é bonita. (Casa is feminine.)"
+        },
+        {
+          "question": "Como indicaria um objeto já mencionado numa conversa?",
+          "model_answer": "Esse objeto é importante para mim.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Essa livro é bom. → Esse livro é bom. (Livro is masculine.) Aquele casa é bonita. → Aquela casa é bonita. (Casa is feminine.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Aquela casa é antiga."
+          },
+          {
+            "answer": "B",
+            "sentence": "Este documento está aqui."
+          },
+          {
+            "answer": "C",
+            "sentence": "Isso é importante."
+          },
+          {
+            "answer": "B",
+            "sentence": "Aquilo foi difícil."
+          },
+          {
+            "answer": "C",
+            "sentence": "Essas pessoas são minhas amigas."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "Aquela",
+            "full_sentence": "Aquela casa é antiga."
+          },
+          {
+            "answer": "Este",
+            "full_sentence": "Este documento está aqui."
+          },
+          {
+            "answer": "Isso",
+            "full_sentence": "Isso é importante."
+          },
+          {
+            "answer": "Aquilo",
+            "full_sentence": "Aquilo foi difícil."
+          },
+          {
+            "answer": "Essas",
+            "full_sentence": "Essas pessoas são minhas amigas."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Esse livro é meu.",
+          "Aquela casa é antiga.",
+          "Este documento está aqui.",
+          "Isso é importante.",
+          "Aquilo foi difícil."
+        ],
+        "D_portuguese_to_english": [
+          "This document is here.",
+          "That is important.",
+          "That was difficult.",
+          "Those people are my friends."
+        ],
+        "E_reading": {
+          "translation": "I like this notebook because it is close to me. My sister prefers that blue notebook over there on the other table. During the conversation, she points to a backpack and asks, “Is that backpack yours?” I answer no. That backpack belongs to our friend, and this small bag is mine.",
+          "answers": [
+            {
+              "question": "Por que o narrador gosta deste caderno?",
+              "answer": "Porque está perto dele."
+            },
+            {
+              "question": "Qual caderno a irmã prefere?",
+              "answer": "Ela prefere aquele caderno azul que está na outra mesa."
+            },
+            {
+              "question": "A mochila é do narrador?",
+              "answer": "Não. Aquela mochila pertence ao amigo deles."
+            },
+            {
+              "question": "O que é do narrador?",
+              "answer": "Esta bolsa pequena é dele."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Eu gosto deste caderno porque está perto de mim. Minha irmã prefere aquele caderno azul que está na outra mesa. Na conversa, ela aponta para uma mochila e pergunta: “Essa mochila é sua?” Eu respondo que não. Aquela mochila pertence ao nosso amigo e esta bolsa pequena é minha.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Sim, este livro é meu.",
+            "Aquele livro é do professor.",
+            "Sim, uso “esse” com frequência."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

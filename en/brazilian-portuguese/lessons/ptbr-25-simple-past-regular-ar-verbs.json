@@ -1,0 +1,3776 @@
+{
+  "id": "ptbr-25",
+  "language": "en",
+  "mainTopic": "Brazilian Portuguese",
+  "course": "Brazilian Portuguese",
+  "unit": "Módulo 5 — Narrando acontecimentos no passado",
+  "lessonNumber": 25,
+  "title": "Simple Past — Regular -AR Verbs",
+  "level": "A2–B1",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "pretérito perfeito de verbos regulares em -ar.",
+  "verifiableTask": "Produce at least five accurate sentences and answer at least three questions on the topic “Activities you completed yesterday” using this lesson’s target structure.",
+  "skills": [
+    "speaking",
+    "vocabulary",
+    "listening",
+    "reading",
+    "writing"
+  ],
+  "sourceFormat": "workbook-json",
+  "legacyId": "L25",
+  "quizCount": 3,
+  "questionCount": 22,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Lesson objective"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Module: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Módulo 5 — Narrando acontecimentos no passado"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Level: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A2–B1"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Main grammar: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pretérito perfeito de verbos regulares em -ar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Previous knowledge: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lessons 1–24"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Key vocabulary: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "trabalhei, estudou, conversamos, viajaram, comprou, ontem, sábado, amigo"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Lesson task: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Produce at least five accurate sentences and answer at least three questions on the topic “Activities you completed yesterday” using this lesson’s target structure."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Let's begin and explanation (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Basic rule: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regular -ar completed actions use -ei (eu), -ou (ela), -amos (nós), -aram (eles)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "stem + ei/ou/amos/aram"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "English comparison: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "English simple past often takes -ed; Portuguese endings vary with subject."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Model sentences"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eu trabalhei ontem.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I worked yesterday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ela estudou português.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "She studied Portuguese."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Nós conversamos à noite.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "We talked at night."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eles viajaram no sábado.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "They traveled on Saturday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você comprou um livro?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Did you buy a book?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Useful words"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Term"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Meaning"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Example"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "trabalhei"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "I worked"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Eu trabalhei ontem."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "estudou"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "studied"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Ela estudou português."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "conversamos"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "we talked"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Nós conversamos à noite."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "viajaram"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "they traveled"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Eles viajaram no sábado."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "comprou"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "bought"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Você comprou um livro?"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "ontem"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "yesterday"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Eu trabalhei ontem."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "sábado"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Saturday"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Eles viajaram no sábado."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "amigo"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "friend"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Eu falei com meu amigo."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Practice 1 (9 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Multiple choice and gap fill"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Choose one option for each meaning; say the chosen sentence aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ptbr25_practice1",
+          "questions": [
+            {
+              "id": "practice1-mc-1",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “I worked yesterday.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Você comprou um livro?"
+                },
+                {
+                  "id": "B",
+                  "text": "Nós conversamos à noite."
+                },
+                {
+                  "id": "C",
+                  "text": "Eu trabalhei ontem."
+                }
+              ],
+              "correctOptionId": "C",
+              "explanations": {
+                "general": "Eu trabalhei ontem."
+              }
+            },
+            {
+              "id": "practice1-mc-2",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “She studied Portuguese.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Ela estudou português."
+                },
+                {
+                  "id": "B",
+                  "text": "Nós conversamos à noite."
+                },
+                {
+                  "id": "C",
+                  "text": "Eles viajaram no sábado."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Ela estudou português."
+              }
+            },
+            {
+              "id": "practice1-mc-3",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “We talked at night.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Nós conversamos à noite."
+                },
+                {
+                  "id": "B",
+                  "text": "Eu trabalhei ontem."
+                },
+                {
+                  "id": "C",
+                  "text": "Eles viajaram no sábado."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Nós conversamos à noite."
+              }
+            },
+            {
+              "id": "practice1-mc-4",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “They traveled on Saturday.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Eu trabalhei ontem."
+                },
+                {
+                  "id": "B",
+                  "text": "Você comprou um livro?"
+                },
+                {
+                  "id": "C",
+                  "text": "Eles viajaram no sábado."
+                }
+              ],
+              "correctOptionId": "C",
+              "explanations": {
+                "general": "Eles viajaram no sábado."
+              }
+            },
+            {
+              "id": "practice1-gap-1",
+              "category": "grammar",
+              "questionText": "Eu ________ ontem. (I worked yesterday.)",
+              "type": "written",
+              "correctWrittenAnswer": "trabalhei",
+              "explanations": {
+                "general": "Eu trabalhei ontem."
+              }
+            },
+            {
+              "id": "practice1-gap-2",
+              "category": "grammar",
+              "questionText": "Ela ________ português. (She studied Portuguese.)",
+              "type": "written",
+              "correctWrittenAnswer": "estudou",
+              "explanations": {
+                "general": "Ela estudou português."
+              }
+            },
+            {
+              "id": "practice1-gap-3",
+              "category": "grammar",
+              "questionText": "Nós ________ à noite. (We talked at night.)",
+              "type": "written",
+              "correctWrittenAnswer": "conversamos",
+              "explanations": {
+                "general": "Nós conversamos à noite."
+              }
+            },
+            {
+              "id": "practice1-gap-4",
+              "category": "grammar",
+              "questionText": "Eles ________ no sábado. (They traveled on Saturday.)",
+              "type": "written",
+              "correctWrittenAnswer": "viajaram",
+              "explanations": {
+                "general": "Eles viajaram no sábado."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mini reading"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the text aloud. Then answer the questions in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ontem eu trabalhei de manhã e estudei à noite. Minha irmã comprou um livro. Nós conversamos depois do jantar. Meu amigo viajou no sábado. Eu preparei café e organizei meus cadernos. O professor explicou uma palavra nova."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que a irmã comprou?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quando o amigo viajou?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Speaking practice"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer aloud in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que você estudou ontem?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você trabalhou no sábado?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Com quem você conversou ontem?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Review (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Another way to understand it: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Use yesterday or last week to anchor a completed action."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eles viajaram no sábado.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "They traveled on Saturday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você comprou um livro?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Did you buy a book?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eu falei com meu amigo.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I talked to my friend."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Compare: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Eu trabalho / Eu trabalhei ontem: routine versus completed event."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Common mistakes"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Eu trabalhou ontem."
+                  },
+                  {
+                    "type": "text",
+                    "text": "  "
+                  },
+                  {
+                    "type": "text",
+                    "text": "✓ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Eu trabalhei ontem."
+                  },
+                  {
+                    "type": "text",
+                    "text": " — Eu takes -ei."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ela estudei ontem."
+                  },
+                  {
+                    "type": "text",
+                    "text": "  "
+                  },
+                  {
+                    "type": "text",
+                    "text": "✓ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ela estudou ontem."
+                  },
+                  {
+                    "type": "text",
+                    "text": " — Ela takes -ou."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Oral substitution drill"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eu trabalhei ontem.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → They traveled on Saturday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ela estudou português.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → Did you buy a book?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Nós conversamos à noite.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → I talked to my friend."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Practice 2 (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate into Portuguese and say each sentence aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We talked at night."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They traveled on Saturday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Did you buy a book?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I talked to my friend."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fill in"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ptbr25_practice2",
+          "questions": [
+            {
+              "id": "practice2-gap-1",
+              "category": "grammar",
+              "questionText": "Eles viajaram no sábado. Nós ________ à noite. (We talked at night.)",
+              "type": "written",
+              "correctWrittenAnswer": "conversamos",
+              "explanations": {
+                "general": "Eles viajaram no sábado. Nós conversamos à noite."
+              }
+            },
+            {
+              "id": "practice2-gap-2",
+              "category": "grammar",
+              "questionText": "Você comprou um livro? Eles ________ no sábado. (They traveled on Saturday.)",
+              "type": "written",
+              "correctWrittenAnswer": "viajaram",
+              "explanations": {
+                "general": "Você comprou um livro? Eles viajaram no sábado."
+              }
+            },
+            {
+              "id": "practice2-gap-3",
+              "category": "grammar",
+              "questionText": "Eu falei com meu amigo. Você ________ um livro? (Did you buy a book?)",
+              "type": "written",
+              "correctWrittenAnswer": "comprou",
+              "explanations": {
+                "general": "Eu falei com meu amigo. Você comprou um livro?"
+              }
+            },
+            {
+              "id": "practice2-gap-4",
+              "category": "grammar",
+              "questionText": "Eu trabalhei ontem. Eu ________ com meu amigo. (I talked to my friend.)",
+              "type": "written",
+              "correctWrittenAnswer": "falei",
+              "explanations": {
+                "general": "Eu trabalhei ontem. Eu falei com meu amigo."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Listen and translate"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Utterances: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Reading aloud and translation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the text aloud, translate it orally into English, then answer the questions.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Na sexta-feira, Ana visitou a família. Ela conversou com a mãe e ajudou o pai. Depois preparou o almoço. Eu trabalhei em casa. À noite, nós estudamos português e escutamos música brasileira. Todos descansaram no sábado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quem Ana visitou na sexta-feira?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que eles escutaram à noite?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Speaking practice (11 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que você estudou ontem?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "What did you study yesterday?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você trabalhou no sábado?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Did you work on Saturday?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Com quem você conversou ontem?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Whom did you talk with yesterday?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você preparou uma refeição ontem?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Did you prepare a meal yesterday?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você visitou alguém na semana passada?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Did you visit anyone last week?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Homework explanation (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A · Multiple choice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Which sentence expresses “I worked yesterday.”? A. Você comprou um livro? B. Nós conversamos à noite. C. Eu trabalhei ontem."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "C. Eu trabalhei ontem. — compare the exact meaning, then read it aloud."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "B · Gap fill",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Eu ________ ontem. (I worked yesterday.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "trabalhei → Eu trabalhei ontem. — use the English hint and the rest of the sentence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "C · English to portuguese",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — We talked at night."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Nós conversamos à noite. — identify the subject, choose the verb form, then say it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "D · Portuguese to english",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Eu trabalhei ontem."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "I worked yesterday. — translate the meaning, not word for word."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "E · Reading comprehension",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — O que a irmã comprou?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ela comprou um livro. — find the sentence in the text that gives the answer, then answer in a full sentence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Written production",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Write one new sentence with the target form, using “Eles viajaram no sábado.” as a reference."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Model: Você comprou um livro? — change the information, keep the target structure correct."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "G · Speaking",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Say one sentence with today’s structure about your own life."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Model: Eu falei com meu amigo. — say it, then change one real-life detail."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Homework — Your homework"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estimated time: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "25–30 minutes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Give independent answers and speak all written sentences once.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A and B · Choose and complete"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Choose the sentence with the given meaning.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Complete the missing target form.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ptbr25_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “She studied Portuguese.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Ela estudou português."
+                },
+                {
+                  "id": "B",
+                  "text": "Eu falei com meu amigo."
+                },
+                {
+                  "id": "C",
+                  "text": "Nós conversamos à noite."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Ela estudou português."
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “We talked at night.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Nós conversamos à noite."
+                },
+                {
+                  "id": "B",
+                  "text": "Eu trabalhei ontem."
+                },
+                {
+                  "id": "C",
+                  "text": "Eles viajaram no sábado."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Nós conversamos à noite."
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “They traveled on Saturday.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Eu falei com meu amigo."
+                },
+                {
+                  "id": "B",
+                  "text": "Eles viajaram no sábado."
+                },
+                {
+                  "id": "C",
+                  "text": "Ela estudou português."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Eles viajaram no sábado."
+              }
+            },
+            {
+              "id": "homework-mc-4",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “Did you buy a book?”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Você comprou um livro?"
+                },
+                {
+                  "id": "B",
+                  "text": "Eles viajaram no sábado."
+                },
+                {
+                  "id": "C",
+                  "text": "Eu trabalhei ontem."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Você comprou um livro?"
+              }
+            },
+            {
+              "id": "homework-mc-5",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “I talked to my friend.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Eu falei com meu amigo."
+                },
+                {
+                  "id": "B",
+                  "text": "Você comprou um livro?"
+                },
+                {
+                  "id": "C",
+                  "text": "Eu trabalhei ontem."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Eu falei com meu amigo."
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "grammar",
+              "questionText": "Ela ________ português. (She studied Portuguese.)",
+              "type": "written",
+              "correctWrittenAnswer": "estudou",
+              "explanations": {
+                "general": "Ela estudou português."
+              }
+            },
+            {
+              "id": "homework-gap-2",
+              "category": "grammar",
+              "questionText": "Nós ________ à noite. (We talked at night.)",
+              "type": "written",
+              "correctWrittenAnswer": "conversamos",
+              "explanations": {
+                "general": "Nós conversamos à noite."
+              }
+            },
+            {
+              "id": "homework-gap-3",
+              "category": "grammar",
+              "questionText": "Eles ________ no sábado. (They traveled on Saturday.)",
+              "type": "written",
+              "correctWrittenAnswer": "viajaram",
+              "explanations": {
+                "general": "Eles viajaram no sábado."
+              }
+            },
+            {
+              "id": "homework-gap-4",
+              "category": "grammar",
+              "questionText": "Você ________ um livro? (Did you buy a book?)",
+              "type": "written",
+              "correctWrittenAnswer": "comprou",
+              "explanations": {
+                "general": "Você comprou um livro?"
+              }
+            },
+            {
+              "id": "homework-gap-5",
+              "category": "grammar",
+              "questionText": "Eu ________ com meu amigo. (I talked to my friend.)",
+              "type": "written",
+              "correctWrittenAnswer": "falei",
+              "explanations": {
+                "general": "Eu falei com meu amigo."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "C · English to Portuguese"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate into Portuguese.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I worked yesterday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "She studied Portuguese."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We talked at night."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They traveled on Saturday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Did you buy a book?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "D · Portuguese to English"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate into English.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Nós conversamos à noite."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eles viajaram no sábado."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você comprou um livro?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eu falei com meu amigo."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "E · Reading"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the text and answer the questions in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "No último fim de semana, Pedro viajou para outra cidade. Ele comprou um presente e caminhou no centro. Sua irmã ficou em casa e estudou português. Eu telefonei para Pedro no domingo. Nós conversamos sobre a viagem e planejamos uma visita."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Para onde Pedro viajou?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que Pedro comprou?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que a irmã de Pedro estudou?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quando o narrador telefonou para Pedro?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Written production"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Write 80–120 words on the topic “Activities you completed yesterday”. Use at least three different relevant examples of the target structure; add context and original details."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "G · Speaking"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Record one uninterrupted spoken response to these three lesson prompts — O que você estudou ontem? / Você trabalhou no sábado? / Com quem você conversou ontem? — giving complete sentences and without reading a script."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Teacher notes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Spaced review: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "I am going to work tomorrow. → Eu vou trabalhar amanhã."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronunciation focus: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stress the final syllable of trabalhei and estudou."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Practice 1"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Multiple choice: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. C (Eu trabalhei ontem.); 2. A (Ela estudou português.); 3. A (Nós conversamos à noite.); 4. C (Eles viajaram no sábado.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gap fill: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. Eu trabalhei ontem.; 2. Ela estudou português.; 3. Nós conversamos à noite.; 4. Eles viajaram no sábado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Mini reading, translation: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Yesterday I worked in the morning and studied at night. My sister bought a book. We talked after dinner. My friend traveled on Saturday. I made coffee and organized my notebooks. The teacher explained a new word."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que a irmã comprou? → Ela comprou um livro."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quando o amigo viajou? → Ele viajou no sábado."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Speaking models: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Eu estudei português. / Sim, trabalhei no sábado. / Conversei com minha irmã."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Review"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They traveled on Saturday. → Eles viajaram no sábado."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Did you buy a book? → Você comprou um livro?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I talked to my friend. → Eu falei com meu amigo."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Practice 2"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. Nós conversamos à noite.; 2. Eles viajaram no sábado.; 3. Você comprou um livro?; 4. Eu falei com meu amigo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Fill in: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. Eles viajaram no sábado. Nós conversamos à noite.; 2. Você comprou um livro? Eles viajaram no sábado.; 3. Eu falei com meu amigo. Você comprou um livro?; 4. Eu trabalhei ontem. Eu falei com meu amigo."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Listening scripts"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Eu trabalhei ontem.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I worked yesterday."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Nós conversamos à noite.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "We talked at night."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você comprou um livro?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Did you buy a book?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Reading aloud, translation: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "On Friday, Ana visited her family. She talked to her mother and helped her father. Then she prepared lunch. I worked at home. At night, we studied Portuguese and listened to Brazilian music. Everyone rested on Saturday."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quem Ana visitou na sexta-feira? → Ela visitou a família."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que eles escutaram à noite? → Eles escutaram música brasileira."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Speaking practice models"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que você estudou ontem?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: Eu estudei português. Follow-up: Por quê? Watch for: Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você trabalhou no sábado?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: Sim, trabalhei no sábado. Follow-up: Pode dar mais um exemplo? Watch for: Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Com quem você conversou ontem?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: Conversei com minha irmã. Follow-up: E sua família? Watch for: Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você preparou uma refeição ontem?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: Sim, preparei o jantar. Follow-up: Pode contar mais um detalhe? Watch for: Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Você visitou alguém na semana passada?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: Sim, visitei uma amiga. Follow-up: Por quê? Watch for: Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Homework"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A · Multiple choice: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. A (Ela estudou português.); 2. A (Nós conversamos à noite.); 3. B (Eles viajaram no sábado.); 4. A (Você comprou um livro?); 5. A (Eu falei com meu amigo.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "B · Gap fill: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. Ela estudou português.; 2. Nós conversamos à noite.; 3. Eles viajaram no sábado.; 4. Você comprou um livro?; 5. Eu falei com meu amigo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "C · English to Portuguese: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. Eu trabalhei ontem.; 2. Ela estudou português.; 3. Nós conversamos à noite.; 4. Eles viajaram no sábado.; 5. Você comprou um livro?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "D · Portuguese to English: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. We talked at night.; 2. They traveled on Saturday.; 3. Did you buy a book?; 4. I talked to my friend."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "E · Reading, translation: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Last weekend Pedro traveled to another city. He bought a gift and walked downtown. His sister stayed home and studied Portuguese. I called Pedro on Sunday. We talked about the trip and planned a visit."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Para onde Pedro viajou? → Ele viajou para outra cidade."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que Pedro comprou? → Ele comprou um presente."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que a irmã de Pedro estudou? → Ela estudou português."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quando o narrador telefonou para Pedro? → Ele telefonou para Pedro no domingo."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Model text: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "No último fim de semana, Pedro viajou para outra cidade. Ele comprou um presente e caminhou no centro. Sua irmã ficou em casa e estudou português. Eu telefonei para Pedro no domingo. Nós conversamos sobre a viagem e planejamos uma visita."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Assessment: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "G · Speaking models: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Eu estudei português. / Sim, trabalhei no sábado. / Conversei com minha irmã."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Acceptable alternatives: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+          }
+        ]
+      }
+    ]
+  }
+}

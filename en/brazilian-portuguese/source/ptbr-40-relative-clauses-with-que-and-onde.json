@@ -1,0 +1,688 @@
+{
+  "lesson_number": 40,
+  "id": "L40",
+  "title": "Relative Clauses with Que and Onde",
+  "module": "Módulo 7 — Pronomes, relações e estruturas complexas",
+  "level": "B1–B2",
+  "main_grammar": "orações relativas básicas.",
+  "previous_knowledge": "Lessons 1–39",
+  "key_vocabulary": [
+    "que",
+    "onde",
+    "cidade",
+    "pessoa",
+    "trabalha",
+    "amiga",
+    "casa",
+    "nasci"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Describe a person and a place without naming them” using this lesson’s target structure.",
+    "basic_rule": "Use que for person/object relative clauses and onde for locations.",
+    "structure": "noun + que + clause; place + onde + clause",
+    "english_comparison": "English who/that/which often map to que; where maps to onde.",
+    "model_sentences": [
+      {
+        "pt": "A pessoa que trabalha aqui é minha amiga.",
+        "en": "The person who works here is my friend."
+      },
+      {
+        "pt": "Esta é a cidade onde eu nasci.",
+        "en": "This is the city where I was born."
+      },
+      {
+        "pt": "O livro que comprei é bom.",
+        "en": "The book that I bought is good."
+      },
+      {
+        "pt": "Conheço uma mulher que fala português.",
+        "en": "I know a woman who speaks Portuguese."
+      },
+      {
+        "pt": "Este é o lugar onde moramos.",
+        "en": "This is the place where we live."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "que",
+        "meaning": "who/that/which",
+        "example": "A pessoa que trabalha aqui é minha amiga."
+      },
+      {
+        "term": "onde",
+        "meaning": "where",
+        "example": "Esta é a cidade onde eu nasci."
+      },
+      {
+        "term": "cidade",
+        "meaning": "city",
+        "example": "Esta é a cidade onde eu nasci."
+      },
+      {
+        "term": "pessoa",
+        "meaning": "person",
+        "example": "A pessoa que trabalha aqui é minha amiga."
+      },
+      {
+        "term": "trabalha",
+        "meaning": "works",
+        "example": "A pessoa que trabalha aqui é minha amiga."
+      },
+      {
+        "term": "amiga",
+        "meaning": "friend",
+        "example": "A pessoa que trabalha aqui é minha amiga."
+      },
+      {
+        "term": "casa",
+        "meaning": "house",
+        "example": "Minha amiga Ana trabalha em uma escola que fica perto de casa."
+      },
+      {
+        "term": "nasci",
+        "meaning": "I was born",
+        "example": "Esta é a cidade onde eu nasci."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “The person who works here is my friend.”?",
+            "options": {
+              "A": "A pessoa que trabalha aqui é minha amiga.",
+              "B": "Este é o lugar onde moramos.",
+              "C": "Esta é a cidade onde eu nasci."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “This is the city where I was born.”?",
+            "options": {
+              "A": "A pessoa que trabalha aqui é minha amiga.",
+              "B": "O livro que comprei é bom.",
+              "C": "Esta é a cidade onde eu nasci."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book that I bought is good.”?",
+            "options": {
+              "A": "O livro que comprei é bom.",
+              "B": "O amigo que chegou ontem é professor.",
+              "C": "Conheço uma mulher que fala português."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I know a woman who speaks Portuguese.”?",
+            "options": {
+              "A": "Conheço uma mulher que fala português.",
+              "B": "A pessoa que trabalha aqui é minha amiga.",
+              "C": "Este é o lugar onde moramos."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "A pessoa ________ trabalha aqui é minha amiga.",
+            "hint": "The person who works here is my friend."
+          },
+          {
+            "sentence": "Esta é a cidade ________ eu nasci.",
+            "hint": "This is the city where I was born."
+          },
+          {
+            "sentence": "O livro ________ comprei é bom.",
+            "hint": "The book that I bought is good."
+          },
+          {
+            "sentence": "Conheço uma mulher ________ fala português.",
+            "hint": "I know a woman who speaks Portuguese."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Minha amiga Ana trabalha em uma escola que fica perto de casa. O professor que ensina português também mora no bairro. A cidade onde eles vivem é pequena, mas tem muitos parques. Nós gostamos do café que fica na praça. É um lugar onde as pessoas conversam e descansam depois do trabalho.",
+        "questions": [
+          "Onde fica a escola em que Ana trabalha?",
+          "Como é a cidade onde eles vivem?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Quem é uma pessoa que você admira?",
+          "Onde fica um lugar onde você gosta de estudar?",
+          "Qual é um livro que você recomenda?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Link descriptions to a known noun instead of repeating it.",
+      "examples": [
+        {
+          "pt": "Conheço uma mulher que fala português.",
+          "en": "I know a woman who speaks Portuguese."
+        },
+        {
+          "pt": "Este é o lugar onde moramos.",
+          "en": "This is the place where we live."
+        },
+        {
+          "pt": "O amigo que chegou ontem é professor.",
+          "en": "The friend who arrived yesterday is a teacher."
+        }
+      ],
+      "compare": "A pessoa que chegou / O lugar onde moro: person versus place.",
+      "common_mistakes": [
+        {
+          "wrong": "A casa que eu moro é pequena.",
+          "correct": "A casa onde eu moro é pequena.",
+          "explanation": "Onde identifies place; em que is also possible."
+        },
+        {
+          "wrong": "A pessoa onde trabalha é minha amiga.",
+          "correct": "A pessoa que trabalha é minha amiga.",
+          "explanation": "Que refers to a person here."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "A pessoa que trabalha aqui é minha amiga.",
+            "cue": "I know a woman who speaks Portuguese."
+          },
+          {
+            "base": "Esta é a cidade onde eu nasci.",
+            "cue": "This is the place where we live."
+          },
+          {
+            "base": "O livro que comprei é bom.",
+            "cue": "The friend who arrived yesterday is a teacher."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "The book that I bought is good.",
+          "I know a woman who speaks Portuguese.",
+          "This is the place where we live.",
+          "The friend who arrived yesterday is a teacher."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Conheço uma mulher que fala português. O livro ________ comprei é bom.",
+            "hint": "The book that I bought is good."
+          },
+          {
+            "sentence": "Este é o lugar onde moramos. Conheço uma mulher ________ fala português.",
+            "hint": "I know a woman who speaks Portuguese."
+          },
+          {
+            "sentence": "O amigo que chegou ontem é professor. Este é o lugar ________ moramos.",
+            "hint": "This is the place where we live."
+          },
+          {
+            "sentence": "A pessoa que trabalha aqui é minha amiga. O amigo ________ chegou ontem é professor.",
+            "hint": "The friend who arrived yesterday is a teacher."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Ontem conheci uma pessoa que trabalha com meu irmão. Ela falou sobre o projeto que começou no mês passado. Visitamos o escritório onde a equipe se reúne. O prédio fica em uma rua que tem muitas lojas. A pessoa que nos recebeu foi muito simpática e explicou como a equipe trabalha.",
+        "questions": [
+          "Quem o narrador conheceu ontem?",
+          "Como é a rua onde fica o prédio?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Quem é uma pessoa que você admira?",
+          "english": "Who is someone you admire?"
+        },
+        {
+          "question": "Onde fica um lugar onde você gosta de estudar?",
+          "english": "Where is a place where you like studying?"
+        },
+        {
+          "question": "Qual é um livro que você recomenda?",
+          "english": "What is a book you recommend?"
+        },
+        {
+          "question": "Descreva uma pessoa sem mencionar o nome dela.",
+          "english": "Describe someone without mentioning their name."
+        },
+        {
+          "question": "Descreva um lugar onde você trabalhou ou estudou.",
+          "english": "Describe a place where you worked or studied."
+        },
+        {
+          "question": "Como você combina “Tenho um amigo” com “Ele mora aqui”?",
+          "english": "How do you combine these sentences?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “The person who works here is my friend.”? A. A pessoa que trabalha aqui é minha amiga. B. Este é o lugar onde moramos. C. Esta é a cidade onde eu nasci.",
+        "worked_answer": "A. A pessoa que trabalha aqui é minha amiga. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "A pessoa ________ trabalha aqui é minha amiga. (The person who works here is my friend.)",
+        "worked_answer": "que → A pessoa que trabalha aqui é minha amiga. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "The book that I bought is good.",
+        "worked_answer": "O livro que comprei é bom. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "A pessoa que trabalha aqui é minha amiga.",
+        "worked_answer": "The person who works here is my friend. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Onde fica a escola em que Ana trabalha?",
+        "worked_answer": "A escola fica perto de casa. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Conheço uma mulher que fala português.” as a reference.",
+        "worked_answer": "Model: Este é o lugar onde moramos. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: O amigo que chegou ontem é professor. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “This is the city where I was born.”?",
+            "options": {
+              "A": "O livro que comprei é bom.",
+              "B": "Esta é a cidade onde eu nasci.",
+              "C": "Conheço uma mulher que fala português."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book that I bought is good.”?",
+            "options": {
+              "A": "O livro que comprei é bom.",
+              "B": "Este é o lugar onde moramos.",
+              "C": "A pessoa que trabalha aqui é minha amiga."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I know a woman who speaks Portuguese.”?",
+            "options": {
+              "A": "Este é o lugar onde moramos.",
+              "B": "Esta é a cidade onde eu nasci.",
+              "C": "Conheço uma mulher que fala português."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “This is the place where we live.”?",
+            "options": {
+              "A": "A pessoa que trabalha aqui é minha amiga.",
+              "B": "Este é o lugar onde moramos.",
+              "C": "O amigo que chegou ontem é professor."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The friend who arrived yesterday is a teacher.”?",
+            "options": {
+              "A": "A pessoa que trabalha aqui é minha amiga.",
+              "B": "Este é o lugar onde moramos.",
+              "C": "O amigo que chegou ontem é professor."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Esta é a cidade ________ eu nasci.",
+            "hint": "This is the city where I was born."
+          },
+          {
+            "sentence": "O livro ________ comprei é bom.",
+            "hint": "The book that I bought is good."
+          },
+          {
+            "sentence": "Conheço uma mulher ________ fala português.",
+            "hint": "I know a woman who speaks Portuguese."
+          },
+          {
+            "sentence": "Este é o lugar ________ moramos.",
+            "hint": "This is the place where we live."
+          },
+          {
+            "sentence": "O amigo ________ chegou ontem é professor.",
+            "hint": "The friend who arrived yesterday is a teacher."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "The person who works here is my friend.",
+          "This is the city where I was born.",
+          "The book that I bought is good.",
+          "I know a woman who speaks Portuguese.",
+          "This is the place where we live."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "O livro que comprei é bom.",
+          "Conheço uma mulher que fala português.",
+          "Este é o lugar onde moramos.",
+          "O amigo que chegou ontem é professor."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Eu tenho um livro que explica a história de uma cidade brasileira. O autor descreve os bairros onde as pessoas moravam antes. Ele também conta histórias de famílias que chegaram de outras regiões. O capítulo que li ontem fala de uma praça onde os moradores se encontravam para conversar.",
+        "questions": [
+          "O que o livro explica?",
+          "O que o autor descreve?",
+          "De quem ele também conta histórias?",
+          "De que fala o capítulo que o narrador leu ontem?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Describe a person and a place without naming them”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Quem é uma pessoa que você admira? / Onde fica um lugar onde você gosta de estudar? / Qual é um livro que você recomenda? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "That book is mine.",
+      "expected_answer": "Esse livro é meu."
+    },
+    "pronunciation_focus": "Link que lightly to its neighboring words.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "A pessoa que trabalha aqui é minha amiga."
+          },
+          {
+            "answer": "C",
+            "sentence": "Esta é a cidade onde eu nasci."
+          },
+          {
+            "answer": "A",
+            "sentence": "O livro que comprei é bom."
+          },
+          {
+            "answer": "A",
+            "sentence": "Conheço uma mulher que fala português."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "que",
+            "full_sentence": "A pessoa que trabalha aqui é minha amiga."
+          },
+          {
+            "answer": "onde",
+            "full_sentence": "Esta é a cidade onde eu nasci."
+          },
+          {
+            "answer": "que",
+            "full_sentence": "O livro que comprei é bom."
+          },
+          {
+            "answer": "que",
+            "full_sentence": "Conheço uma mulher que fala português."
+          }
+        ],
+        "mini_reading": {
+          "translation": "My friend Ana works at a school that is near my home. The teacher who teaches Portuguese also lives in the neighborhood. The city where they live is small but has many parks. We like the café that is in the square. It is a place where people talk and relax after work.",
+          "answers": [
+            {
+              "question": "Onde fica a escola em que Ana trabalha?",
+              "answer": "A escola fica perto de casa."
+            },
+            {
+              "question": "Como é a cidade onde eles vivem?",
+              "answer": "É pequena, mas tem muitos parques."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "É uma professora que ensina muito bem.",
+          "É uma biblioteca onde estudo.",
+          "Recomendo um livro que explica português."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "I know a woman who speaks Portuguese.",
+            "model": "Conheço uma mulher que fala português."
+          },
+          {
+            "cue": "This is the place where we live.",
+            "model": "Este é o lugar onde moramos."
+          },
+          {
+            "cue": "The friend who arrived yesterday is a teacher.",
+            "model": "O amigo que chegou ontem é professor."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "O livro que comprei é bom.",
+          "Conheço uma mulher que fala português.",
+          "Este é o lugar onde moramos.",
+          "O amigo que chegou ontem é professor."
+        ],
+        "fill_in": [
+          {
+            "answer": "que",
+            "full_sentence": "Conheço uma mulher que fala português. O livro que comprei é bom."
+          },
+          {
+            "answer": "que",
+            "full_sentence": "Este é o lugar onde moramos. Conheço uma mulher que fala português."
+          },
+          {
+            "answer": "onde",
+            "full_sentence": "O amigo que chegou ontem é professor. Este é o lugar onde moramos."
+          },
+          {
+            "answer": "que",
+            "full_sentence": "A pessoa que trabalha aqui é minha amiga. O amigo que chegou ontem é professor."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "A pessoa que trabalha aqui é minha amiga.",
+            "en": "The person who works here is my friend."
+          },
+          {
+            "pt": "O livro que comprei é bom.",
+            "en": "The book that I bought is good."
+          },
+          {
+            "pt": "Este é o lugar onde moramos.",
+            "en": "This is the place where we live."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Yesterday I met a person who works with my brother. She talked about the project that started last month. We visited the office where the team meets. The building is on a street that has many stores. The person who welcomed us was very friendly and explained how the team works.",
+          "answers": [
+            {
+              "question": "Quem o narrador conheceu ontem?",
+              "answer": "Uma pessoa que trabalha com o irmão dele."
+            },
+            {
+              "question": "Como é a rua onde fica o prédio?",
+              "answer": "É uma rua que tem muitas lojas."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Quem é uma pessoa que você admira?",
+          "model_answer": "É uma professora que ensina muito bem.",
+          "follow_up": "Por quê?",
+          "watch_for": "A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+        },
+        {
+          "question": "Onde fica um lugar onde você gosta de estudar?",
+          "model_answer": "É uma biblioteca onde estudo.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+        },
+        {
+          "question": "Qual é um livro que você recomenda?",
+          "model_answer": "Recomendo um livro que explica português.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+        },
+        {
+          "question": "Descreva uma pessoa sem mencionar o nome dela.",
+          "model_answer": "É uma pessoa que ensina português.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+        },
+        {
+          "question": "Descreva um lugar onde você trabalhou ou estudou.",
+          "model_answer": "É a escola onde estudei quando criança.",
+          "follow_up": "Por quê?",
+          "watch_for": "A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+        },
+        {
+          "question": "Como você combina “Tenho um amigo” com “Ele mora aqui”?",
+          "model_answer": "Tenho um amigo que mora aqui.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Esta é a cidade onde eu nasci."
+          },
+          {
+            "answer": "A",
+            "sentence": "O livro que comprei é bom."
+          },
+          {
+            "answer": "C",
+            "sentence": "Conheço uma mulher que fala português."
+          },
+          {
+            "answer": "B",
+            "sentence": "Este é o lugar onde moramos."
+          },
+          {
+            "answer": "C",
+            "sentence": "O amigo que chegou ontem é professor."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "onde",
+            "full_sentence": "Esta é a cidade onde eu nasci."
+          },
+          {
+            "answer": "que",
+            "full_sentence": "O livro que comprei é bom."
+          },
+          {
+            "answer": "que",
+            "full_sentence": "Conheço uma mulher que fala português."
+          },
+          {
+            "answer": "onde",
+            "full_sentence": "Este é o lugar onde moramos."
+          },
+          {
+            "answer": "que",
+            "full_sentence": "O amigo que chegou ontem é professor."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "A pessoa que trabalha aqui é minha amiga.",
+          "Esta é a cidade onde eu nasci.",
+          "O livro que comprei é bom.",
+          "Conheço uma mulher que fala português.",
+          "Este é o lugar onde moramos."
+        ],
+        "D_portuguese_to_english": [
+          "The book that I bought is good.",
+          "I know a woman who speaks Portuguese.",
+          "This is the place where we live.",
+          "The friend who arrived yesterday is a teacher."
+        ],
+        "E_reading": {
+          "translation": "I have a book that explains the history of a Brazilian city. The author describes neighborhoods where people used to live. He also tells stories of families who arrived from other regions. The chapter I read yesterday talks about a square where residents met to chat.",
+          "answers": [
+            {
+              "question": "O que o livro explica?",
+              "answer": "A história de uma cidade brasileira."
+            },
+            {
+              "question": "O que o autor descreve?",
+              "answer": "Os bairros onde as pessoas moravam antes."
+            },
+            {
+              "question": "De quem ele também conta histórias?",
+              "answer": "De famílias que chegaram de outras regiões."
+            },
+            {
+              "question": "De que fala o capítulo que o narrador leu ontem?",
+              "answer": "De uma praça onde os moradores se encontravam para conversar."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Eu tenho um livro que explica a história de uma cidade brasileira. O autor descreve os bairros onde as pessoas moravam antes. Ele também conta histórias de famílias que chegaram de outras regiões. O capítulo que li ontem fala de uma praça onde os moradores se encontravam para conversar.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "É uma professora que ensina muito bem.",
+            "É uma biblioteca onde estudo.",
+            "Recomendo um livro que explica português."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

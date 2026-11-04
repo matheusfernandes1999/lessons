@@ -1,0 +1,688 @@
+{
+  "lesson_number": 38,
+  "id": "L38",
+  "title": "Indirect Objects — Me, Te, Lhe and Para",
+  "module": "Módulo 7 — Pronomes, relações e estruturas complexas",
+  "level": "B1–B2",
+  "main_grammar": "expressão do destinatário ou beneficiário de uma ação.",
+  "previous_knowledge": "Lessons 1–37",
+  "key_vocabulary": [
+    "me",
+    "te",
+    "lhe",
+    "para",
+    "mandei",
+    "dei",
+    "livro",
+    "mensagem"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Messages and favors you gave to friends” using this lesson’s target structure.",
+    "basic_rule": "Use me/te for familiar indirect objects; lhe is more formal or regional; para + person is common spoken Brazilian Portuguese.",
+    "structure": "verb + para + person OR indirect pronoun + verb",
+    "english_comparison": "English give to/for someone parallels prepositional Portuguese objects.",
+    "model_sentences": [
+      {
+        "pt": "Ele me contou a história.",
+        "en": "He told me the story."
+      },
+      {
+        "pt": "Eu mandei uma mensagem para você.",
+        "en": "I sent you a message."
+      },
+      {
+        "pt": "Nós demos um presente para ela.",
+        "en": "We gave her a gift."
+      },
+      {
+        "pt": "Ela lhe enviou o documento.",
+        "en": "She sent him or her the document."
+      },
+      {
+        "pt": "Você me deu o livro.",
+        "en": "You gave me the book."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "me",
+        "meaning": "to me/for me",
+        "example": "Ele me contou a história."
+      },
+      {
+        "term": "te",
+        "meaning": "to you/for you",
+        "example": "Eu te contei a verdade."
+      },
+      {
+        "term": "lhe",
+        "meaning": "to him/her/you (indirect)",
+        "example": "Ela lhe enviou o documento."
+      },
+      {
+        "term": "para",
+        "meaning": "to/for",
+        "example": "Eu mandei uma mensagem para você."
+      },
+      {
+        "term": "mandei",
+        "meaning": "I sent",
+        "example": "Eu mandei uma mensagem para você."
+      },
+      {
+        "term": "dei",
+        "meaning": "I gave",
+        "example": "Eu dei o livro para ela."
+      },
+      {
+        "term": "livro",
+        "meaning": "book",
+        "example": "Você me deu o livro."
+      },
+      {
+        "term": "mensagem",
+        "meaning": "message",
+        "example": "Eu mandei uma mensagem para você."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “He told me the story.”?",
+            "options": {
+              "A": "Eu mandei uma mensagem para você.",
+              "B": "Ele me contou a história.",
+              "C": "Eu te contei a verdade."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I sent you a message.”?",
+            "options": {
+              "A": "Você me deu o livro.",
+              "B": "Eu mandei uma mensagem para você.",
+              "C": "Eu te contei a verdade."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We gave her a gift.”?",
+            "options": {
+              "A": "Nós demos um presente para ela.",
+              "B": "Ela lhe enviou o documento.",
+              "C": "Você me deu o livro."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She sent him or her the document.”?",
+            "options": {
+              "A": "Nós demos um presente para ela.",
+              "B": "Ela lhe enviou o documento.",
+              "C": "Eu te contei a verdade."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Ele ________ contou a história.",
+            "hint": "He told me the story."
+          },
+          {
+            "sentence": "Eu mandei uma mensagem ________ você.",
+            "hint": "I sent you a message."
+          },
+          {
+            "sentence": "Nós demos um presente ________ ela.",
+            "hint": "We gave her a gift."
+          },
+          {
+            "sentence": "Ela ________ enviou o documento.",
+            "hint": "She sent him or her the document."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Ana me enviou uma mensagem ontem. Ela perguntou se eu poderia ajudá-la com um projeto. Eu respondi que sim e mandei os arquivos para ela. Pedro também recebeu uma mensagem e nos contou a novidade. Na conversa diária, prefiro dizer “dei o livro para ela” quando quero deixar o destinatário explícito.",
+        "questions": [
+          "O que Ana enviou ao narrador?",
+          "Para quem o narrador mandou os arquivos?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Para quem você mandou uma mensagem ontem?",
+          "Quem te ajudou na última semana?",
+          "Você prefere dizer “para ela” ou “lhe” na fala?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Make the recipient explicit with para when the pronoun would confuse.",
+      "examples": [
+        {
+          "pt": "Ela lhe enviou o documento.",
+          "en": "She sent him or her the document."
+        },
+        {
+          "pt": "Você me deu o livro.",
+          "en": "You gave me the book."
+        },
+        {
+          "pt": "Eu te contei a verdade.",
+          "en": "I told you the truth."
+        }
+      ],
+      "compare": "Eu dei o livro para ela / Eu lhe dei o livro: conversational versus formal/concise.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu dei ela o livro.",
+          "correct": "Eu dei o livro para ela.",
+          "explanation": "Neutral spoken Brazilian normally marks recipient with para."
+        },
+        {
+          "wrong": "Eu lhe dei para ela o livro.",
+          "correct": "Eu lhe dei o livro.",
+          "explanation": "Avoid doubling recipient in this simple construction."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Ele me contou a história.",
+            "cue": "She sent him or her the document."
+          },
+          {
+            "base": "Eu mandei uma mensagem para você.",
+            "cue": "You gave me the book."
+          },
+          {
+            "base": "Nós demos um presente para ela.",
+            "cue": "I told you the truth."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We gave her a gift.",
+          "She sent him or her the document.",
+          "You gave me the book.",
+          "I told you the truth."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Ela lhe enviou o documento. Nós demos um presente ________ ela.",
+            "hint": "We gave her a gift."
+          },
+          {
+            "sentence": "Você me deu o livro. Ela ________ enviou o documento.",
+            "hint": "She sent him or her the document."
+          },
+          {
+            "sentence": "Eu te contei a verdade. Você ________ deu o livro.",
+            "hint": "You gave me the book."
+          },
+          {
+            "sentence": "Ele me contou a história. Eu ________ contei a verdade.",
+            "hint": "I told you the truth."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Na escola, a professora deu instruções aos alunos. Depois, ela lhes enviou um resumo escrito. Pedro pediu um exemplo, e a professora explicou a atividade para ele. Outro aluno me perguntou sobre o prazo. Eu lhe respondi de maneira objetiva e também mandei uma mensagem para a turma inteira.",
+        "questions": [
+          "O que a professora enviou aos alunos depois?",
+          "O que outro aluno perguntou ao narrador?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Para quem você mandou uma mensagem ontem?",
+          "english": "Whom did you send a message to yesterday?"
+        },
+        {
+          "question": "Quem te ajudou na última semana?",
+          "english": "Who helped you last week?"
+        },
+        {
+          "question": "Você prefere dizer “para ela” ou “lhe” na fala?",
+          "english": "Do you prefer “para ela” or “lhe” in speech?"
+        },
+        {
+          "question": "Como você informa a quem enviou um documento?",
+          "english": "How do you say to whom you sent a document?"
+        },
+        {
+          "question": "Que favor alguém fez para você recentemente?",
+          "english": "What favor did someone do for you recently?"
+        },
+        {
+          "question": "Como você diria “dei um livro para ela” de maneira mais formal?",
+          "english": "How would you say it more formally?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “He told me the story.”? A. Eu mandei uma mensagem para você. B. Ele me contou a história. C. Eu te contei a verdade.",
+        "worked_answer": "B. Ele me contou a história. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Ele ________ contou a história. (He told me the story.)",
+        "worked_answer": "me → Ele me contou a história. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We gave her a gift.",
+        "worked_answer": "Nós demos um presente para ela. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Ele me contou a história.",
+        "worked_answer": "He told me the story. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O que Ana enviou ao narrador?",
+        "worked_answer": "Ela lhe enviou uma mensagem. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Ela lhe enviou o documento.” as a reference.",
+        "worked_answer": "Model: Você me deu o livro. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu te contei a verdade. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I sent you a message.”?",
+            "options": {
+              "A": "Eu te contei a verdade.",
+              "B": "Ele me contou a história.",
+              "C": "Eu mandei uma mensagem para você."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We gave her a gift.”?",
+            "options": {
+              "A": "Você me deu o livro.",
+              "B": "Nós demos um presente para ela.",
+              "C": "Ela lhe enviou o documento."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She sent him or her the document.”?",
+            "options": {
+              "A": "Nós demos um presente para ela.",
+              "B": "Ela lhe enviou o documento.",
+              "C": "Você me deu o livro."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “You gave me the book.”?",
+            "options": {
+              "A": "Nós demos um presente para ela.",
+              "B": "Você me deu o livro.",
+              "C": "Ele me contou a história."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I told you the truth.”?",
+            "options": {
+              "A": "Ele me contou a história.",
+              "B": "Eu te contei a verdade.",
+              "C": "Você me deu o livro."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Eu mandei uma mensagem ________ você.",
+            "hint": "I sent you a message."
+          },
+          {
+            "sentence": "Nós demos um presente ________ ela.",
+            "hint": "We gave her a gift."
+          },
+          {
+            "sentence": "Ela ________ enviou o documento.",
+            "hint": "She sent him or her the document."
+          },
+          {
+            "sentence": "Você ________ deu o livro.",
+            "hint": "You gave me the book."
+          },
+          {
+            "sentence": "Eu ________ contei a verdade.",
+            "hint": "I told you the truth."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "He told me the story.",
+          "I sent you a message.",
+          "We gave her a gift.",
+          "She sent him or her the document.",
+          "You gave me the book."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós demos um presente para ela.",
+          "Ela lhe enviou o documento.",
+          "Você me deu o livro.",
+          "Eu te contei a verdade."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Ontem comprei um presente para minha irmã. Também escrevi um cartão para ela. Minha mãe me ajudou a escolher o presente e meu pai lhe mandou uma mensagem. À noite, nós entregamos o pacote à minha irmã. Ela nos agradeceu e disse que guardaria o cartão com carinho.",
+        "questions": [
+          "Para quem o narrador comprou um presente?",
+          "Quem ajudou o narrador a escolher o presente?",
+          "Quando eles entregaram o pacote?",
+          "O que a irmã disse sobre o cartão?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Messages and favors you gave to friends”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Para quem você mandou uma mensagem ontem? / Quem te ajudou na última semana? / Você prefere dizer “para ela” ou “lhe” na fala? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I saw Ana.",
+      "expected_answer": "Eu vi a Ana."
+    },
+    "pronunciation_focus": "Lhe has the LH sound; do not pronounce it as l+h.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ele me contou a história."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eu mandei uma mensagem para você."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós demos um presente para ela."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela lhe enviou o documento."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "me",
+            "full_sentence": "Ele me contou a história."
+          },
+          {
+            "answer": "para",
+            "full_sentence": "Eu mandei uma mensagem para você."
+          },
+          {
+            "answer": "para",
+            "full_sentence": "Nós demos um presente para ela."
+          },
+          {
+            "answer": "lhe",
+            "full_sentence": "Ela lhe enviou o documento."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Ana sent me a message yesterday. She asked whether I could help her with a project. I replied yes and sent the files to her. Pedro also received a message and told us the news. In everyday conversation, I prefer saying “dei o livro para ela” when I want to make the recipient explicit.",
+          "answers": [
+            {
+              "question": "O que Ana enviou ao narrador?",
+              "answer": "Ela lhe enviou uma mensagem."
+            },
+            {
+              "question": "Para quem o narrador mandou os arquivos?",
+              "answer": "Ele mandou os arquivos para Ana."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Mandei uma mensagem para minha irmã.",
+          "Minha amiga me ajudou.",
+          "Eu prefiro dizer “para ela”."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "She sent him or her the document.",
+            "model": "Ela lhe enviou o documento."
+          },
+          {
+            "cue": "You gave me the book.",
+            "model": "Você me deu o livro."
+          },
+          {
+            "cue": "I told you the truth.",
+            "model": "Eu te contei a verdade."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós demos um presente para ela.",
+          "Ela lhe enviou o documento.",
+          "Você me deu o livro.",
+          "Eu te contei a verdade."
+        ],
+        "fill_in": [
+          {
+            "answer": "para",
+            "full_sentence": "Ela lhe enviou o documento. Nós demos um presente para ela."
+          },
+          {
+            "answer": "lhe",
+            "full_sentence": "Você me deu o livro. Ela lhe enviou o documento."
+          },
+          {
+            "answer": "me",
+            "full_sentence": "Eu te contei a verdade. Você me deu o livro."
+          },
+          {
+            "answer": "te",
+            "full_sentence": "Ele me contou a história. Eu te contei a verdade."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Ele me contou a história.",
+            "en": "He told me the story."
+          },
+          {
+            "pt": "Nós demos um presente para ela.",
+            "en": "We gave her a gift."
+          },
+          {
+            "pt": "Você me deu o livro.",
+            "en": "You gave me the book."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "At school, the teacher gave instructions to the students. Then she sent them a written summary. Pedro asked for an example, and the teacher explained the activity to him. Another student asked me about the deadline. I replied to him clearly and also sent a message to the entire class.",
+          "answers": [
+            {
+              "question": "O que a professora enviou aos alunos depois?",
+              "answer": "Ela lhes enviou um resumo escrito."
+            },
+            {
+              "question": "O que outro aluno perguntou ao narrador?",
+              "answer": "Ele perguntou sobre o prazo."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Para quem você mandou uma mensagem ontem?",
+          "model_answer": "Mandei uma mensagem para minha irmã.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu dei ela o livro. → Eu dei o livro para ela. (Neutral spoken Brazilian normally marks recipient with para.) Eu lhe dei para ela o livro. → Eu lhe dei o livro. (Avoid doubling recipient in this simple construction.)"
+        },
+        {
+          "question": "Quem te ajudou na última semana?",
+          "model_answer": "Minha amiga me ajudou.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu dei ela o livro. → Eu dei o livro para ela. (Neutral spoken Brazilian normally marks recipient with para.) Eu lhe dei para ela o livro. → Eu lhe dei o livro. (Avoid doubling recipient in this simple construction.)"
+        },
+        {
+          "question": "Você prefere dizer “para ela” ou “lhe” na fala?",
+          "model_answer": "Eu prefiro dizer “para ela”.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Eu dei ela o livro. → Eu dei o livro para ela. (Neutral spoken Brazilian normally marks recipient with para.) Eu lhe dei para ela o livro. → Eu lhe dei o livro. (Avoid doubling recipient in this simple construction.)"
+        },
+        {
+          "question": "Como você informa a quem enviou um documento?",
+          "model_answer": "Enviei o documento para Ana.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Eu dei ela o livro. → Eu dei o livro para ela. (Neutral spoken Brazilian normally marks recipient with para.) Eu lhe dei para ela o livro. → Eu lhe dei o livro. (Avoid doubling recipient in this simple construction.)"
+        },
+        {
+          "question": "Que favor alguém fez para você recentemente?",
+          "model_answer": "Meu irmão me ajudou com uma tarefa.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu dei ela o livro. → Eu dei o livro para ela. (Neutral spoken Brazilian normally marks recipient with para.) Eu lhe dei para ela o livro. → Eu lhe dei o livro. (Avoid doubling recipient in this simple construction.)"
+        },
+        {
+          "question": "Como você diria “dei um livro para ela” de maneira mais formal?",
+          "model_answer": "Eu lhe dei um livro.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu dei ela o livro. → Eu dei o livro para ela. (Neutral spoken Brazilian normally marks recipient with para.) Eu lhe dei para ela o livro. → Eu lhe dei o livro. (Avoid doubling recipient in this simple construction.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu mandei uma mensagem para você."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós demos um presente para ela."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela lhe enviou o documento."
+          },
+          {
+            "answer": "B",
+            "sentence": "Você me deu o livro."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eu te contei a verdade."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "para",
+            "full_sentence": "Eu mandei uma mensagem para você."
+          },
+          {
+            "answer": "para",
+            "full_sentence": "Nós demos um presente para ela."
+          },
+          {
+            "answer": "lhe",
+            "full_sentence": "Ela lhe enviou o documento."
+          },
+          {
+            "answer": "me",
+            "full_sentence": "Você me deu o livro."
+          },
+          {
+            "answer": "te",
+            "full_sentence": "Eu te contei a verdade."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Ele me contou a história.",
+          "Eu mandei uma mensagem para você.",
+          "Nós demos um presente para ela.",
+          "Ela lhe enviou o documento.",
+          "Você me deu o livro."
+        ],
+        "D_portuguese_to_english": [
+          "We gave her a gift.",
+          "She sent him or her the document.",
+          "You gave me the book.",
+          "I told you the truth."
+        ],
+        "E_reading": {
+          "translation": "Yesterday I bought a gift for my sister. I also wrote her a card. My mother helped me choose the gift, and my father sent her a message. At night we gave the package to my sister. She thanked us and said she would keep the card fondly.",
+          "answers": [
+            {
+              "question": "Para quem o narrador comprou um presente?",
+              "answer": "Ele comprou um presente para a irmã."
+            },
+            {
+              "question": "Quem ajudou o narrador a escolher o presente?",
+              "answer": "A mãe dele o ajudou."
+            },
+            {
+              "question": "Quando eles entregaram o pacote?",
+              "answer": "Eles entregaram o pacote à noite."
+            },
+            {
+              "question": "O que a irmã disse sobre o cartão?",
+              "answer": "Disse que guardaria o cartão com carinho."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Ontem comprei um presente para minha irmã. Também escrevi um cartão para ela. Minha mãe me ajudou a escolher o presente e meu pai lhe mandou uma mensagem. À noite, nós entregamos o pacote à minha irmã. Ela nos agradeceu e disse que guardaria o cartão com carinho.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Mandei uma mensagem para minha irmã.",
+            "Minha amiga me ajudou.",
+            "Eu prefiro dizer “para ela”."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "lesson_number": 9,
+  "id": "L09",
+  "title": "Possessive Adjectives — Meu, Seu, Nosso",
+  "module": "Módulo 2 — Objetos, descrições e ações cotidianas",
+  "level": "A0–A1",
+  "main_grammar": "possessivos básicos.",
+  "previous_knowledge": "Lessons 1–8",
+  "key_vocabulary": [
+    "meu",
+    "minha",
+    "seus",
+    "nossa",
+    "dele",
+    "dela",
+    "carro",
+    "amiga"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your belongings and a family member” using this lesson’s target structure.",
+    "basic_rule": "Possessives agree with what is possessed, not the possessor; dele/dela resolves ambiguity.",
+    "structure": "meu/minha/meus/minhas + noun",
+    "english_comparison": "My never changes in English; meu changes with the noun.",
+    "model_sentences": [
+      {
+        "pt": "Meu carro é branco.",
+        "en": "My car is white."
+      },
+      {
+        "pt": "A casa dela é grande.",
+        "en": "Her house is big."
+      },
+      {
+        "pt": "Nossa professora é brasileira.",
+        "en": "Our teacher is Brazilian."
+      },
+      {
+        "pt": "Seus livros estão aqui.",
+        "en": "Your books are here."
+      },
+      {
+        "pt": "Minha amiga é americana.",
+        "en": "My friend is American."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "meu",
+        "meaning": "my (m.)",
+        "example": "Meu carro é branco."
+      },
+      {
+        "term": "minha",
+        "meaning": "my (f.)",
+        "example": "Minha amiga é americana."
+      },
+      {
+        "term": "seus",
+        "meaning": "your/his/her (m. plural)",
+        "example": "Seus livros estão aqui."
+      },
+      {
+        "term": "nossa",
+        "meaning": "our (f.)",
+        "example": "Nossa professora é brasileira."
+      },
+      {
+        "term": "dele",
+        "meaning": "his",
+        "example": "Os amigos dele são alunos."
+      },
+      {
+        "term": "dela",
+        "meaning": "her",
+        "example": "A casa dela é grande."
+      },
+      {
+        "term": "carro",
+        "meaning": "car",
+        "example": "Meu carro é branco."
+      },
+      {
+        "term": "amiga",
+        "meaning": "friend (f.)",
+        "example": "Minha amiga é americana."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “My car is white.”?",
+            "options": {
+              "A": "Meu carro é branco.",
+              "B": "A casa dela é grande.",
+              "C": "Os amigos dele são alunos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Her house is big.”?",
+            "options": {
+              "A": "A casa dela é grande.",
+              "B": "Seus livros estão aqui.",
+              "C": "Meu carro é branco."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Our teacher is Brazilian.”?",
+            "options": {
+              "A": "A casa dela é grande.",
+              "B": "Seus livros estão aqui.",
+              "C": "Nossa professora é brasileira."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Your books are here.”?",
+            "options": {
+              "A": "Os amigos dele são alunos.",
+              "B": "Seus livros estão aqui.",
+              "C": "Meu carro é branco."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ carro é branco.",
+            "hint": "My car is white."
+          },
+          {
+            "sentence": "A casa ________ é grande.",
+            "hint": "Her house is big."
+          },
+          {
+            "sentence": "________ professora é brasileira.",
+            "hint": "Our teacher is Brazilian."
+          },
+          {
+            "sentence": "________ livros estão aqui.",
+            "hint": "Your books are here."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Meu livro está na mesa. Minha bolsa está na cadeira. Nossa professora é brasileira. Seus alunos são americanos. O carro dele é novo, mas a casa dela é antiga. Meus amigos estão na escola.",
+        "questions": [
+          "A bolsa está na mesa ou na cadeira?",
+          "O carro dele é novo ou antigo?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Onde está seu livro?",
+          "A casa dela é grande?",
+          "Como é nossa professora?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Ask what the owned object is; choose gender and number from it.",
+      "examples": [
+        {
+          "pt": "Seus livros estão aqui.",
+          "en": "Your books are here."
+        },
+        {
+          "pt": "Minha amiga é americana.",
+          "en": "My friend is American."
+        },
+        {
+          "pt": "Os amigos dele são alunos.",
+          "en": "His friends are students."
+        }
+      ],
+      "compare": "meu livro / minha casa: possessor unchanged, noun changes.",
+      "common_mistakes": [
+        {
+          "wrong": "Meu casa é grande.",
+          "correct": "Minha casa é grande.",
+          "explanation": "Casa is feminine."
+        },
+        {
+          "wrong": "Ela é meu amiga.",
+          "correct": "Ela é minha amiga.",
+          "explanation": "Amiga is feminine."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Meu carro é branco.",
+            "cue": "Your books are here."
+          },
+          {
+            "base": "A casa dela é grande.",
+            "cue": "My friend is American."
+          },
+          {
+            "base": "Nossa professora é brasileira.",
+            "cue": "His friends are students."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "Our teacher is Brazilian.",
+          "Your books are here.",
+          "My friend is American.",
+          "His friends are students."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Seus livros estão aqui. ________ professora é brasileira.",
+            "hint": "Our teacher is Brazilian."
+          },
+          {
+            "sentence": "Minha amiga é americana. ________ livros estão aqui.",
+            "hint": "Your books are here."
+          },
+          {
+            "sentence": "Os amigos dele são alunos. ________ amiga é americana.",
+            "hint": "My friend is American."
+          },
+          {
+            "sentence": "Meu carro é branco. Os amigos ________ são alunos.",
+            "hint": "His friends are students."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Ana e seu irmão são amigos. O carro dele é azul. A casa dela é branca. Nossa professora é simpática. Meus livros são novos. Suas bolsas são pequenas. Os amigos dela são estudantes.",
+        "questions": [
+          "O carro dele é azul ou branco?",
+          "A casa dela é branca ou azul?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Onde está seu livro?",
+          "english": "Where is your book?"
+        },
+        {
+          "question": "A casa dela é grande?",
+          "english": "Is her house large?"
+        },
+        {
+          "question": "Como é nossa professora?",
+          "english": "What is our teacher like?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “My car is white.”? A. Meu carro é branco. B. A casa dela é grande. C. Os amigos dele são alunos.",
+        "worked_answer": "A. Meu carro é branco. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ carro é branco. (My car is white.)",
+        "worked_answer": "Meu → Meu carro é branco. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Our teacher is Brazilian.",
+        "worked_answer": "Nossa professora é brasileira. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Meu carro é branco.",
+        "worked_answer": "My car is white. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "A bolsa está na mesa ou na cadeira?",
+        "worked_answer": "A bolsa está na cadeira. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Seus livros estão aqui.” as a reference.",
+        "worked_answer": "Model: Minha amiga é americana. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Os amigos dele são alunos. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “Her house is big.”?",
+            "options": {
+              "A": "Seus livros estão aqui.",
+              "B": "Nossa professora é brasileira.",
+              "C": "A casa dela é grande."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Our teacher is Brazilian.”?",
+            "options": {
+              "A": "Nossa professora é brasileira.",
+              "B": "Seus livros estão aqui.",
+              "C": "Os amigos dele são alunos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Your books are here.”?",
+            "options": {
+              "A": "Os amigos dele são alunos.",
+              "B": "Seus livros estão aqui.",
+              "C": "Nossa professora é brasileira."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My friend is American.”?",
+            "options": {
+              "A": "Minha amiga é americana.",
+              "B": "Nossa professora é brasileira.",
+              "C": "Meu carro é branco."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “His friends are students.”?",
+            "options": {
+              "A": "Seus livros estão aqui.",
+              "B": "Os amigos dele são alunos.",
+              "C": "Nossa professora é brasileira."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "A casa ________ é grande.",
+            "hint": "Her house is big."
+          },
+          {
+            "sentence": "________ professora é brasileira.",
+            "hint": "Our teacher is Brazilian."
+          },
+          {
+            "sentence": "________ livros estão aqui.",
+            "hint": "Your books are here."
+          },
+          {
+            "sentence": "________ amiga é americana.",
+            "hint": "My friend is American."
+          },
+          {
+            "sentence": "Os amigos ________ são alunos.",
+            "hint": "His friends are students."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "My car is white.",
+          "Her house is big.",
+          "Our teacher is Brazilian.",
+          "Your books are here.",
+          "My friend is American."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nossa professora é brasileira.",
+          "Seus livros estão aqui.",
+          "Minha amiga é americana.",
+          "Os amigos dele são alunos."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Minha família é do Brasil. Nosso carro é pequeno. Nossa casa é grande. Meu pai está em casa. Minha mãe está na escola. Os livros dela estão na sala. A amiga dela é professora. Os amigos dele são alunos.",
+        "questions": [
+          "A família é do Brasil?",
+          "O carro da família é grande ou pequeno?",
+          "O pai está em casa ou na escola?",
+          "A amiga dela é professora ou aluna?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Your belongings and a family member”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Onde está seu livro? / A casa dela é grande? / Como é nossa professora? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "The house is beautiful.",
+      "expected_answer": "A casa é bonita."
+    },
+    "pronunciation_focus": "Contrast nasal minha with the LH sound in filho.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Meu carro é branco."
+          },
+          {
+            "answer": "A",
+            "sentence": "A casa dela é grande."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nossa professora é brasileira."
+          },
+          {
+            "answer": "B",
+            "sentence": "Seus livros estão aqui."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Meu",
+            "full_sentence": "Meu carro é branco."
+          },
+          {
+            "answer": "dela",
+            "full_sentence": "A casa dela é grande."
+          },
+          {
+            "answer": "Nossa",
+            "full_sentence": "Nossa professora é brasileira."
+          },
+          {
+            "answer": "Seus",
+            "full_sentence": "Seus livros estão aqui."
+          }
+        ],
+        "mini_reading": {
+          "translation": "My book is on the table. My bag is on the chair. Our teacher is Brazilian. Her students are American. His car is new, but her house is old. My friends are at school.",
+          "answers": [
+            {
+              "question": "A bolsa está na mesa ou na cadeira?",
+              "answer": "A bolsa está na cadeira."
+            },
+            {
+              "question": "O carro dele é novo ou antigo?",
+              "answer": "O carro dele é novo."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Meu livro está na mesa.",
+          "Sim, a casa dela é grande.",
+          "Nossa professora é simpática."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "Your books are here.",
+            "model": "Seus livros estão aqui."
+          },
+          {
+            "cue": "My friend is American.",
+            "model": "Minha amiga é americana."
+          },
+          {
+            "cue": "His friends are students.",
+            "model": "Os amigos dele são alunos."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nossa professora é brasileira.",
+          "Seus livros estão aqui.",
+          "Minha amiga é americana.",
+          "Os amigos dele são alunos."
+        ],
+        "fill_in": [
+          {
+            "answer": "Nossa",
+            "full_sentence": "Seus livros estão aqui. Nossa professora é brasileira."
+          },
+          {
+            "answer": "Seus",
+            "full_sentence": "Minha amiga é americana. Seus livros estão aqui."
+          },
+          {
+            "answer": "Minha",
+            "full_sentence": "Os amigos dele são alunos. Minha amiga é americana."
+          },
+          {
+            "answer": "dele",
+            "full_sentence": "Meu carro é branco. Os amigos dele são alunos."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Meu carro é branco.",
+            "en": "My car is white."
+          },
+          {
+            "pt": "Nossa professora é brasileira.",
+            "en": "Our teacher is Brazilian."
+          },
+          {
+            "pt": "Minha amiga é americana.",
+            "en": "My friend is American."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Ana and her brother are friends. His car is blue. Her house is white. Our teacher is friendly. My books are new. Her bags are small. Her friends are students.",
+          "answers": [
+            {
+              "question": "O carro dele é azul ou branco?",
+              "answer": "O carro dele é azul."
+            },
+            {
+              "question": "A casa dela é branca ou azul?",
+              "answer": "A casa dela é branca."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Onde está seu livro?",
+          "model_answer": "Meu livro está na mesa.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Meu casa é grande. → Minha casa é grande. (Casa is feminine.) Ela é meu amiga. → Ela é minha amiga. (Amiga is feminine.)"
+        },
+        {
+          "question": "A casa dela é grande?",
+          "model_answer": "Sim, a casa dela é grande.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "Meu casa é grande. → Minha casa é grande. (Casa is feminine.) Ela é meu amiga. → Ela é minha amiga. (Amiga is feminine.)"
+        },
+        {
+          "question": "Como é nossa professora?",
+          "model_answer": "Nossa professora é simpática.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "Meu casa é grande. → Minha casa é grande. (Casa is feminine.) Ela é meu amiga. → Ela é minha amiga. (Amiga is feminine.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "A casa dela é grande."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nossa professora é brasileira."
+          },
+          {
+            "answer": "B",
+            "sentence": "Seus livros estão aqui."
+          },
+          {
+            "answer": "A",
+            "sentence": "Minha amiga é americana."
+          },
+          {
+            "answer": "B",
+            "sentence": "Os amigos dele são alunos."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "dela",
+            "full_sentence": "A casa dela é grande."
+          },
+          {
+            "answer": "Nossa",
+            "full_sentence": "Nossa professora é brasileira."
+          },
+          {
+            "answer": "Seus",
+            "full_sentence": "Seus livros estão aqui."
+          },
+          {
+            "answer": "Minha",
+            "full_sentence": "Minha amiga é americana."
+          },
+          {
+            "answer": "dele",
+            "full_sentence": "Os amigos dele são alunos."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Meu carro é branco.",
+          "A casa dela é grande.",
+          "Nossa professora é brasileira.",
+          "Seus livros estão aqui.",
+          "Minha amiga é americana."
+        ],
+        "D_portuguese_to_english": [
+          "Our teacher is Brazilian.",
+          "Your books are here.",
+          "My friend is American.",
+          "His friends are students."
+        ],
+        "E_reading": {
+          "translation": "My family is from Brazil. Our car is small. Our house is big. My father is at home. My mother is at school. Her books are in the living room. Her friend is a teacher. His friends are students.",
+          "answers": [
+            {
+              "question": "A família é do Brasil?",
+              "answer": "Sim, a família é do Brasil."
+            },
+            {
+              "question": "O carro da família é grande ou pequeno?",
+              "answer": "O carro é pequeno."
+            },
+            {
+              "question": "O pai está em casa ou na escola?",
+              "answer": "O pai está em casa."
+            },
+            {
+              "question": "A amiga dela é professora ou aluna?",
+              "answer": "A amiga dela é professora."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Minha família é do Brasil. Nosso carro é pequeno. Nossa casa é grande. Meu pai está em casa. Minha mãe está na escola. Os livros dela estão na sala. A amiga dela é professora. Os amigos dele são alunos.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Meu livro está na mesa.",
+            "Sim, a casa dela é grande.",
+            "Nossa professora é simpática."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

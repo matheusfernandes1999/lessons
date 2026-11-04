@@ -1,0 +1,678 @@
+{
+  "lesson_number": 36,
+  "id": "L36",
+  "title": "Review 6 — Comparing Past and Present",
+  "module": "Módulo 6 — Hábitos, comparações e descrições do passado",
+  "level": "B1",
+  "main_grammar": "consolidação das aulas 31–35.",
+  "previous_knowledge": "Lessons 1–35",
+  "key_vocabulary": [
+    "antes",
+    "agora",
+    "era",
+    "tinha",
+    "morava",
+    "melhor",
+    "mais",
+    "menos"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your life before versus now” using this lesson’s target structure.",
+    "basic_rule": "Review past descriptions, completed events, comparisons and superlatives.",
+    "structure": "past + contrast + comparative",
+    "english_comparison": "English used to can help with past habits, but not all past forms.",
+    "model_sentences": [
+      {
+        "pt": "Antes, eu morava numa casa pequena.",
+        "en": "Before, I lived in a small house."
+      },
+      {
+        "pt": "Hoje eu moro num apartamento maior.",
+        "en": "Today I live in a bigger apartment."
+      },
+      {
+        "pt": "Minha escola era muito longe.",
+        "en": "My school used to be very far away."
+      },
+      {
+        "pt": "Ontem eu visitei meu amigo.",
+        "en": "Yesterday I visited my friend."
+      },
+      {
+        "pt": "Agora trabalho mais que antes.",
+        "en": "Now I work more than before."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "antes",
+        "meaning": "before",
+        "example": "Antes, eu morava numa casa pequena."
+      },
+      {
+        "term": "agora",
+        "meaning": "now",
+        "example": "Agora trabalho mais que antes."
+      },
+      {
+        "term": "era",
+        "meaning": "was",
+        "example": "Minha escola era muito longe."
+      },
+      {
+        "term": "tinha",
+        "meaning": "had",
+        "example": "Antes, Ana era mais tímida e tinha poucos amigos."
+      },
+      {
+        "term": "morava",
+        "meaning": "used to live",
+        "example": "Antes, eu morava numa casa pequena."
+      },
+      {
+        "term": "melhor",
+        "meaning": "better",
+        "example": "Hoje minha rotina é melhor."
+      },
+      {
+        "term": "mais",
+        "meaning": "more",
+        "example": "Agora trabalho mais que antes."
+      },
+      {
+        "term": "menos",
+        "meaning": "less",
+        "example": "Minha rotina atual é menos previsível, porém tenho mais autonomia."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “Before, I lived in a small house.”?",
+            "options": {
+              "A": "Agora trabalho mais que antes.",
+              "B": "Antes, eu morava numa casa pequena.",
+              "C": "Hoje eu moro num apartamento maior."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Today I live in a bigger apartment.”?",
+            "options": {
+              "A": "Hoje eu moro num apartamento maior.",
+              "B": "Ontem eu visitei meu amigo.",
+              "C": "Nossa cidade ficou maior."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My school used to be very far away.”?",
+            "options": {
+              "A": "Antes, eu morava numa casa pequena.",
+              "B": "Hoje eu moro num apartamento maior.",
+              "C": "Minha escola era muito longe."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Yesterday I visited my friend.”?",
+            "options": {
+              "A": "Hoje eu moro num apartamento maior.",
+              "B": "Agora trabalho mais que antes.",
+              "C": "Ontem eu visitei meu amigo."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Antes, eu ________ numa casa pequena.",
+            "hint": "Before, I lived in a small house."
+          },
+          {
+            "sentence": "Hoje eu moro num apartamento ________.",
+            "hint": "Today I live in a bigger apartment."
+          },
+          {
+            "sentence": "Minha escola ________ muito longe.",
+            "hint": "My school used to be very far away."
+          },
+          {
+            "sentence": "Ontem eu ________ meu amigo.",
+            "hint": "Yesterday I visited my friend."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Quando eu era criança, minha família morava numa casa pequena. Meu pai trabalhava perto e minha mãe estudava à noite. Hoje moramos em outra cidade e a casa é maior. A vida ficou mais movimentada, mas também temos mais oportunidades. No ano passado, visitei nosso antigo bairro e encontrei um vizinho.",
+        "questions": [
+          "Como era a casa da família quando o narrador era criança?",
+          "O que o narrador fez no ano passado?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Sua vida é mais tranquila agora?",
+          "Onde você morava antes?",
+          "Qual foi sua melhor experiência recente?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Compare two life stages using specific evidence.",
+      "examples": [
+        {
+          "pt": "Ontem eu visitei meu amigo.",
+          "en": "Yesterday I visited my friend."
+        },
+        {
+          "pt": "Agora trabalho mais que antes.",
+          "en": "Now I work more than before."
+        },
+        {
+          "pt": "Nossa cidade ficou maior.",
+          "en": "Our city became bigger."
+        }
+      ],
+      "compare": "Eu morava lá / Eu morei lá: background versus bounded period.",
+      "common_mistakes": [
+        {
+          "wrong": "Antes eu era mais tímido de hoje.",
+          "correct": "Antes eu era mais tímido do que hoje.",
+          "explanation": "Compare using que/do que."
+        },
+        {
+          "wrong": "Ela tinha mais melhor carro.",
+          "correct": "Ela tinha um carro melhor.",
+          "explanation": "Do not use mais melhor."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Antes, eu morava numa casa pequena.",
+            "cue": "Yesterday I visited my friend."
+          },
+          {
+            "base": "Hoje eu moro num apartamento maior.",
+            "cue": "Now I work more than before."
+          },
+          {
+            "base": "Minha escola era muito longe.",
+            "cue": "Our city became bigger."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "My school used to be very far away.",
+          "Yesterday I visited my friend.",
+          "Now I work more than before.",
+          "Our city became bigger."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Ontem eu visitei meu amigo. Minha escola ________ muito longe.",
+            "hint": "My school used to be very far away."
+          },
+          {
+            "sentence": "Agora trabalho mais que antes. Ontem eu ________ meu amigo.",
+            "hint": "Yesterday I visited my friend."
+          },
+          {
+            "sentence": "Nossa cidade ficou maior. Agora trabalho ________ que antes.",
+            "hint": "Now I work more than before."
+          },
+          {
+            "sentence": "Antes, eu morava numa casa pequena. Nossa cidade ficou ________.",
+            "hint": "Our city became bigger."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Antes, Ana era mais tímida e tinha poucos amigos. Ela estudava sozinha e ficava em casa nos fins de semana. Há dois anos, começou a participar de um grupo de leitura. Agora tem muitos amigos e se sente mais confiante. O grupo atual é maior que o antigo e as conversas são muito interessantes.",
+        "questions": [
+          "Como Ana era antes?",
+          "O que Ana começou a fazer há dois anos?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Sua vida é mais tranquila agora?",
+          "english": "Is your life calmer now?"
+        },
+        {
+          "question": "Onde você morava antes?",
+          "english": "Where did you live before?"
+        },
+        {
+          "question": "Qual foi sua melhor experiência recente?",
+          "english": "What was your best recent experience?"
+        },
+        {
+          "question": "O que era mais fácil na sua infância do que agora?",
+          "english": "What was easier in childhood than now?"
+        },
+        {
+          "question": "O que melhorou muito na sua vida?",
+          "english": "What has improved greatly in your life?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “Before, I lived in a small house.”? A. Agora trabalho mais que antes. B. Antes, eu morava numa casa pequena. C. Hoje eu moro num apartamento maior.",
+        "worked_answer": "B. Antes, eu morava numa casa pequena. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Antes, eu ________ numa casa pequena. (Before, I lived in a small house.)",
+        "worked_answer": "morava → Antes, eu morava numa casa pequena. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "My school used to be very far away.",
+        "worked_answer": "Minha escola era muito longe. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Antes, eu morava numa casa pequena.",
+        "worked_answer": "Before, I lived in a small house. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Como era a casa da família quando o narrador era criança?",
+        "worked_answer": "Era uma casa pequena. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Ontem eu visitei meu amigo.” as a reference.",
+        "worked_answer": "Model: Agora trabalho mais que antes. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Nossa cidade ficou maior. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “Today I live in a bigger apartment.”?",
+            "options": {
+              "A": "Agora trabalho mais que antes.",
+              "B": "Antes, eu morava numa casa pequena.",
+              "C": "Hoje eu moro num apartamento maior."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My school used to be very far away.”?",
+            "options": {
+              "A": "Agora trabalho mais que antes.",
+              "B": "Minha escola era muito longe.",
+              "C": "Nossa cidade ficou maior."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Yesterday I visited my friend.”?",
+            "options": {
+              "A": "Ontem eu visitei meu amigo.",
+              "B": "Hoje eu moro num apartamento maior.",
+              "C": "Nossa cidade ficou maior."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Now I work more than before.”?",
+            "options": {
+              "A": "Agora trabalho mais que antes.",
+              "B": "Ontem eu visitei meu amigo.",
+              "C": "Hoje eu moro num apartamento maior."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Our city became bigger.”?",
+            "options": {
+              "A": "Minha escola era muito longe.",
+              "B": "Hoje eu moro num apartamento maior.",
+              "C": "Nossa cidade ficou maior."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Hoje eu moro num apartamento ________.",
+            "hint": "Today I live in a bigger apartment."
+          },
+          {
+            "sentence": "Minha escola ________ muito longe.",
+            "hint": "My school used to be very far away."
+          },
+          {
+            "sentence": "Ontem eu ________ meu amigo.",
+            "hint": "Yesterday I visited my friend."
+          },
+          {
+            "sentence": "Agora trabalho ________ que antes.",
+            "hint": "Now I work more than before."
+          },
+          {
+            "sentence": "Nossa cidade ficou ________.",
+            "hint": "Our city became bigger."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "Before, I lived in a small house.",
+          "Today I live in a bigger apartment.",
+          "My school used to be very far away.",
+          "Yesterday I visited my friend.",
+          "Now I work more than before."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Minha escola era muito longe.",
+          "Ontem eu visitei meu amigo.",
+          "Agora trabalho mais que antes.",
+          "Nossa cidade ficou maior."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Quando eu estudava na escola, tinha aulas muito cedo. Na universidade, as aulas começaram mais tarde, mas os trabalhos ficaram mais difíceis. Hoje trabalho e estudo português. Minha rotina atual é menos previsível, porém tenho mais autonomia. No mês passado, encontrei antigos colegas e comparamos nossas experiências.",
+        "questions": [
+          "Como eram as aulas na escola?",
+          "O que mudou na universidade?",
+          "O que o narrador faz hoje?",
+          "O que ele fez no mês passado?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Your life before versus now”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Sua vida é mais tranquila agora? / Onde você morava antes? / Qual foi sua melhor experiência recente? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "This is the best restaurant.",
+      "expected_answer": "Este é o melhor restaurante."
+    },
+    "pronunciation_focus": "Mix short and long vowel patterns at natural speed.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Antes, eu morava numa casa pequena."
+          },
+          {
+            "answer": "A",
+            "sentence": "Hoje eu moro num apartamento maior."
+          },
+          {
+            "answer": "C",
+            "sentence": "Minha escola era muito longe."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ontem eu visitei meu amigo."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "morava",
+            "full_sentence": "Antes, eu morava numa casa pequena."
+          },
+          {
+            "answer": "maior",
+            "full_sentence": "Hoje eu moro num apartamento maior."
+          },
+          {
+            "answer": "era",
+            "full_sentence": "Minha escola era muito longe."
+          },
+          {
+            "answer": "visitei",
+            "full_sentence": "Ontem eu visitei meu amigo."
+          }
+        ],
+        "mini_reading": {
+          "translation": "When I was a child, my family lived in a small house. My father worked nearby and my mother studied at night. Today we live in another city and the house is bigger. Life has become busier, but we also have more opportunities. Last year I visited our old neighborhood and met a neighbor.",
+          "answers": [
+            {
+              "question": "Como era a casa da família quando o narrador era criança?",
+              "answer": "Era uma casa pequena."
+            },
+            {
+              "question": "O que o narrador fez no ano passado?",
+              "answer": "Ele visitou o antigo bairro e encontrou um vizinho."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Minha vida é mais tranquila agora.",
+          "Eu morava em outra cidade.",
+          "Minha melhor experiência foi uma viagem."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "Yesterday I visited my friend.",
+            "model": "Ontem eu visitei meu amigo."
+          },
+          {
+            "cue": "Now I work more than before.",
+            "model": "Agora trabalho mais que antes."
+          },
+          {
+            "cue": "Our city became bigger.",
+            "model": "Nossa cidade ficou maior."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Minha escola era muito longe.",
+          "Ontem eu visitei meu amigo.",
+          "Agora trabalho mais que antes.",
+          "Nossa cidade ficou maior."
+        ],
+        "fill_in": [
+          {
+            "answer": "era",
+            "full_sentence": "Ontem eu visitei meu amigo. Minha escola era muito longe."
+          },
+          {
+            "answer": "visitei",
+            "full_sentence": "Agora trabalho mais que antes. Ontem eu visitei meu amigo."
+          },
+          {
+            "answer": "mais",
+            "full_sentence": "Nossa cidade ficou maior. Agora trabalho mais que antes."
+          },
+          {
+            "answer": "maior",
+            "full_sentence": "Antes, eu morava numa casa pequena. Nossa cidade ficou maior."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Antes, eu morava numa casa pequena.",
+            "en": "Before, I lived in a small house."
+          },
+          {
+            "pt": "Minha escola era muito longe.",
+            "en": "My school used to be very far away."
+          },
+          {
+            "pt": "Agora trabalho mais que antes.",
+            "en": "Now I work more than before."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "In the past, Ana was shyer and had few friends. She studied alone and stayed home on weekends. Two years ago she began participating in a reading group. Now she has many friends and feels more confident. The current group is larger than the old one, and the conversations are very interesting.",
+          "answers": [
+            {
+              "question": "Como Ana era antes?",
+              "answer": "Ela era mais tímida e tinha poucos amigos."
+            },
+            {
+              "question": "O que Ana começou a fazer há dois anos?",
+              "answer": "Ela começou a participar de um grupo de leitura."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Sua vida é mais tranquila agora?",
+          "model_answer": "Minha vida é mais tranquila agora.",
+          "follow_up": "Por quê?",
+          "watch_for": "Antes eu era mais tímido de hoje. → Antes eu era mais tímido do que hoje. (Compare using que/do que.) Ela tinha mais melhor carro. → Ela tinha um carro melhor. (Do not use mais melhor.)"
+        },
+        {
+          "question": "Onde você morava antes?",
+          "model_answer": "Eu morava em outra cidade.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Antes eu era mais tímido de hoje. → Antes eu era mais tímido do que hoje. (Compare using que/do que.) Ela tinha mais melhor carro. → Ela tinha um carro melhor. (Do not use mais melhor.)"
+        },
+        {
+          "question": "Qual foi sua melhor experiência recente?",
+          "model_answer": "Minha melhor experiência foi uma viagem.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Antes eu era mais tímido de hoje. → Antes eu era mais tímido do que hoje. (Compare using que/do que.) Ela tinha mais melhor carro. → Ela tinha um carro melhor. (Do not use mais melhor.)"
+        },
+        {
+          "question": "O que era mais fácil na sua infância do que agora?",
+          "model_answer": "Eu tinha mais tempo para brincar.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Antes eu era mais tímido de hoje. → Antes eu era mais tímido do que hoje. (Compare using que/do que.) Ela tinha mais melhor carro. → Ela tinha um carro melhor. (Do not use mais melhor.)"
+        },
+        {
+          "question": "O que melhorou muito na sua vida?",
+          "model_answer": "Hoje minha rotina de estudo é muito melhor.",
+          "follow_up": "Por quê?",
+          "watch_for": "Antes eu era mais tímido de hoje. → Antes eu era mais tímido do que hoje. (Compare using que/do que.) Ela tinha mais melhor carro. → Ela tinha um carro melhor. (Do not use mais melhor.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Hoje eu moro num apartamento maior."
+          },
+          {
+            "answer": "B",
+            "sentence": "Minha escola era muito longe."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ontem eu visitei meu amigo."
+          },
+          {
+            "answer": "A",
+            "sentence": "Agora trabalho mais que antes."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nossa cidade ficou maior."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "maior",
+            "full_sentence": "Hoje eu moro num apartamento maior."
+          },
+          {
+            "answer": "era",
+            "full_sentence": "Minha escola era muito longe."
+          },
+          {
+            "answer": "visitei",
+            "full_sentence": "Ontem eu visitei meu amigo."
+          },
+          {
+            "answer": "mais",
+            "full_sentence": "Agora trabalho mais que antes."
+          },
+          {
+            "answer": "maior",
+            "full_sentence": "Nossa cidade ficou maior."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Antes, eu morava numa casa pequena.",
+          "Hoje eu moro num apartamento maior.",
+          "Minha escola era muito longe.",
+          "Ontem eu visitei meu amigo.",
+          "Agora trabalho mais que antes."
+        ],
+        "D_portuguese_to_english": [
+          "My school used to be very far away.",
+          "Yesterday I visited my friend.",
+          "Now I work more than before.",
+          "Our city became bigger."
+        ],
+        "E_reading": {
+          "translation": "When I was in school, I had classes very early. At university, classes started later, but the assignments became harder. Today I work and study Portuguese. My current routine is less predictable, but I have more independence. Last month I met former classmates and we compared our experiences.",
+          "answers": [
+            {
+              "question": "Como eram as aulas na escola?",
+              "answer": "As aulas eram muito cedo."
+            },
+            {
+              "question": "O que mudou na universidade?",
+              "answer": "As aulas começaram mais tarde, mas os trabalhos ficaram mais difíceis."
+            },
+            {
+              "question": "O que o narrador faz hoje?",
+              "answer": "Ele trabalha e estuda português."
+            },
+            {
+              "question": "O que ele fez no mês passado?",
+              "answer": "Ele encontrou antigos colegas e comparou experiências com eles."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Quando eu estudava na escola, tinha aulas muito cedo. Na universidade, as aulas começaram mais tarde, mas os trabalhos ficaram mais difíceis. Hoje trabalho e estudo português. Minha rotina atual é menos previsível, porém tenho mais autonomia. No mês passado, encontrei antigos colegas e comparamos nossas experiências.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Minha vida é mais tranquila agora.",
+            "Eu morava em outra cidade.",
+            "Minha melhor experiência foi uma viagem."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "lesson_number": 4,
+  "id": "L04",
+  "title": "The Verb Estar — Location and Temporary States",
+  "module": "Módulo 1 — Primeiras estruturas e frases essenciais",
+  "level": "A0–A1",
+  "main_grammar": "presente de estar e seus usos básicos.",
+  "previous_knowledge": "Lessons 1–3",
+  "key_vocabulary": [
+    "estou",
+    "está",
+    "estamos",
+    "estão",
+    "casa",
+    "cansada",
+    "aqui",
+    "feliz"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your location and how people feel today” using this lesson’s target structure.",
+    "basic_rule": "Use estar for where someone or something is and for current states.",
+    "structure": "subject + estar + em/place OR state",
+    "english_comparison": "English be maps to both ser and estar.",
+    "model_sentences": [
+      {
+        "pt": "Eu estou em casa.",
+        "en": "I am at home."
+      },
+      {
+        "pt": "Ela está cansada.",
+        "en": "She is tired."
+      },
+      {
+        "pt": "Nós estamos bem.",
+        "en": "We are well."
+      },
+      {
+        "pt": "O livro está aqui.",
+        "en": "The book is here."
+      },
+      {
+        "pt": "Eles estão no trabalho.",
+        "en": "They are at work."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "estou",
+        "meaning": "am (state)",
+        "example": "Eu estou em casa."
+      },
+      {
+        "term": "está",
+        "meaning": "is (state)",
+        "example": "Ela está cansada."
+      },
+      {
+        "term": "estamos",
+        "meaning": "are (we)",
+        "example": "Nós estamos bem."
+      },
+      {
+        "term": "estão",
+        "meaning": "are (they)",
+        "example": "Eles estão no trabalho."
+      },
+      {
+        "term": "casa",
+        "meaning": "home",
+        "example": "Eu estou em casa."
+      },
+      {
+        "term": "cansada",
+        "meaning": "tired (f.)",
+        "example": "Ela está cansada."
+      },
+      {
+        "term": "aqui",
+        "meaning": "here",
+        "example": "O livro está aqui."
+      },
+      {
+        "term": "feliz",
+        "meaning": "happy",
+        "example": "Você está feliz?"
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I am at home.”?",
+            "options": {
+              "A": "Eles estão no trabalho.",
+              "B": "Ela está cansada.",
+              "C": "Eu estou em casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is tired.”?",
+            "options": {
+              "A": "Nós estamos bem.",
+              "B": "Ela está cansada.",
+              "C": "Eu estou em casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are well.”?",
+            "options": {
+              "A": "Eles estão no trabalho.",
+              "B": "O livro está aqui.",
+              "C": "Nós estamos bem."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book is here.”?",
+            "options": {
+              "A": "Nós estamos bem.",
+              "B": "O livro está aqui.",
+              "C": "Eu estou em casa."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ em casa.",
+            "hint": "I am at home."
+          },
+          {
+            "sentence": "Ela ________ cansada.",
+            "hint": "She is tired."
+          },
+          {
+            "sentence": "Nós ________ bem.",
+            "hint": "We are well."
+          },
+          {
+            "sentence": "O livro ________ aqui.",
+            "hint": "The book is here."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Hoje eu estou em casa. Minha irmã está no trabalho. Meu livro está na mesa. Eu estou bem, mas minha irmã está cansada. Nós estamos felizes. Os amigos estão aqui e o professor está na escola.",
+        "questions": [
+          "A irmã está em casa ou no trabalho?",
+          "A irmã está bem ou cansada?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Onde você está agora?",
+          "Você está cansado hoje?",
+          "Onde está seu livro?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Location answers onde; states answer como.",
+      "examples": [
+        {
+          "pt": "O livro está aqui.",
+          "en": "The book is here."
+        },
+        {
+          "pt": "Eles estão no trabalho.",
+          "en": "They are at work."
+        },
+        {
+          "pt": "Você está feliz?",
+          "en": "Are you happy?"
+        }
+      ],
+      "compare": "Ela está cansada / Ela é professora: state versus identity.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu está aqui.",
+          "correct": "Eu estou aqui.",
+          "explanation": "Eu uses estou."
+        },
+        {
+          "wrong": "O livro é na mesa.",
+          "correct": "O livro está na mesa.",
+          "explanation": "Use estar for location."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu estou em casa.",
+            "cue": "The book is here."
+          },
+          {
+            "base": "Ela está cansada.",
+            "cue": "They are at work."
+          },
+          {
+            "base": "Nós estamos bem.",
+            "cue": "Are you happy?"
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We are well.",
+          "The book is here.",
+          "They are at work.",
+          "Are you happy?"
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "O livro está aqui. Nós ________ bem.",
+            "hint": "We are well."
+          },
+          {
+            "sentence": "Eles estão no trabalho. O livro ________ aqui.",
+            "hint": "The book is here."
+          },
+          {
+            "sentence": "Você está feliz? Eles ________ no trabalho.",
+            "hint": "They are at work."
+          },
+          {
+            "sentence": "Eu estou em casa. Você ________ feliz?",
+            "hint": "Are you happy?"
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Ana está no quarto. O pai está na cozinha. A mãe está no trabalho. Todos estão bem. O cachorro está perto da porta. Eu estou aqui, na sala. Minha amiga está feliz hoje.",
+        "questions": [
+          "O pai está na cozinha ou no quarto?",
+          "O cachorro está perto da porta ou da mesa?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Onde você está agora?",
+          "english": "Where are you now?"
+        },
+        {
+          "question": "Você está cansado hoje?",
+          "english": "Are you tired today?"
+        },
+        {
+          "question": "Onde está seu livro?",
+          "english": "Where is your book?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I am at home.”? A. Eles estão no trabalho. B. Ela está cansada. C. Eu estou em casa.",
+        "worked_answer": "C. Eu estou em casa. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ em casa. (I am at home.)",
+        "worked_answer": "estou → Eu estou em casa. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We are well.",
+        "worked_answer": "Nós estamos bem. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu estou em casa.",
+        "worked_answer": "I am at home. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "A irmã está em casa ou no trabalho?",
+        "worked_answer": "A irmã está no trabalho. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “O livro está aqui.” as a reference.",
+        "worked_answer": "Model: Eles estão no trabalho. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Você está feliz? — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She is tired.”?",
+            "options": {
+              "A": "Você está feliz?",
+              "B": "Ela está cansada.",
+              "C": "O livro está aqui."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are well.”?",
+            "options": {
+              "A": "O livro está aqui.",
+              "B": "Nós estamos bem.",
+              "C": "Ela está cansada."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book is here.”?",
+            "options": {
+              "A": "O livro está aqui.",
+              "B": "Eu estou em casa.",
+              "C": "Eles estão no trabalho."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They are at work.”?",
+            "options": {
+              "A": "Eles estão no trabalho.",
+              "B": "Nós estamos bem.",
+              "C": "Ela está cansada."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Are you happy?”?",
+            "options": {
+              "A": "Nós estamos bem.",
+              "B": "Ela está cansada.",
+              "C": "Você está feliz?"
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ cansada.",
+            "hint": "She is tired."
+          },
+          {
+            "sentence": "Nós ________ bem.",
+            "hint": "We are well."
+          },
+          {
+            "sentence": "O livro ________ aqui.",
+            "hint": "The book is here."
+          },
+          {
+            "sentence": "Eles ________ no trabalho.",
+            "hint": "They are at work."
+          },
+          {
+            "sentence": "Você ________ feliz?",
+            "hint": "Are you happy?"
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I am at home.",
+          "She is tired.",
+          "We are well.",
+          "The book is here.",
+          "They are at work."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós estamos bem.",
+          "O livro está aqui.",
+          "Eles estão no trabalho.",
+          "Você está feliz?"
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Nós estamos em casa hoje. A mesa está na sala e o livro está no quarto. Eu estou cansado, mas meu irmão está feliz. Nossa mãe está no trabalho. O professor está na escola. Vocês estão bem?",
+        "questions": [
+          "O livro está na sala ou no quarto?",
+          "O irmão está cansado ou feliz?",
+          "A mãe está em casa ou no trabalho?",
+          "O professor está na escola ou em casa?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Your location and how people feel today”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Onde você está agora? / Você está cansado hoje? / Onde está seu livro? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "It is a book.",
+      "expected_answer": "É um livro."
+    },
+    "pronunciation_focus": "Final unstressed -e in triste may sound [i].",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu estou em casa."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela está cansada."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós estamos bem."
+          },
+          {
+            "answer": "B",
+            "sentence": "O livro está aqui."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "estou",
+            "full_sentence": "Eu estou em casa."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Ela está cansada."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Nós estamos bem."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "O livro está aqui."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Today I am at home. My sister is at work. My book is on the table. I am well, but my sister is tired. We are happy. The friends are here and the teacher is at school.",
+          "answers": [
+            {
+              "question": "A irmã está em casa ou no trabalho?",
+              "answer": "A irmã está no trabalho."
+            },
+            {
+              "question": "A irmã está bem ou cansada?",
+              "answer": "A irmã está cansada."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu estou em casa.",
+          "Não, estou bem.",
+          "O livro está na mesa."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "The book is here.",
+            "model": "O livro está aqui."
+          },
+          {
+            "cue": "They are at work.",
+            "model": "Eles estão no trabalho."
+          },
+          {
+            "cue": "Are you happy?",
+            "model": "Você está feliz?"
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós estamos bem.",
+          "O livro está aqui.",
+          "Eles estão no trabalho.",
+          "Você está feliz?"
+        ],
+        "fill_in": [
+          {
+            "answer": "estamos",
+            "full_sentence": "O livro está aqui. Nós estamos bem."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Eles estão no trabalho. O livro está aqui."
+          },
+          {
+            "answer": "estão",
+            "full_sentence": "Você está feliz? Eles estão no trabalho."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Eu estou em casa. Você está feliz?"
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu estou em casa.",
+            "en": "I am at home."
+          },
+          {
+            "pt": "Nós estamos bem.",
+            "en": "We are well."
+          },
+          {
+            "pt": "Eles estão no trabalho.",
+            "en": "They are at work."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Ana is in the bedroom. The father is in the kitchen. The mother is at work. Everyone is well. The dog is near the door. I am here in the living room. My friend is happy today.",
+          "answers": [
+            {
+              "question": "O pai está na cozinha ou no quarto?",
+              "answer": "O pai está na cozinha."
+            },
+            {
+              "question": "O cachorro está perto da porta ou da mesa?",
+              "answer": "O cachorro está perto da porta."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Onde você está agora?",
+          "model_answer": "Eu estou em casa.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu está aqui. → Eu estou aqui. (Eu uses estou.) O livro é na mesa. → O livro está na mesa. (Use estar for location.)"
+        },
+        {
+          "question": "Você está cansado hoje?",
+          "model_answer": "Não, estou bem.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "Eu está aqui. → Eu estou aqui. (Eu uses estou.) O livro é na mesa. → O livro está na mesa. (Use estar for location.)"
+        },
+        {
+          "question": "Onde está seu livro?",
+          "model_answer": "O livro está na mesa.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "Eu está aqui. → Eu estou aqui. (Eu uses estou.) O livro é na mesa. → O livro está na mesa. (Use estar for location.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ela está cansada."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós estamos bem."
+          },
+          {
+            "answer": "A",
+            "sentence": "O livro está aqui."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles estão no trabalho."
+          },
+          {
+            "answer": "C",
+            "sentence": "Você está feliz?"
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "está",
+            "full_sentence": "Ela está cansada."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Nós estamos bem."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "O livro está aqui."
+          },
+          {
+            "answer": "estão",
+            "full_sentence": "Eles estão no trabalho."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Você está feliz?"
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu estou em casa.",
+          "Ela está cansada.",
+          "Nós estamos bem.",
+          "O livro está aqui.",
+          "Eles estão no trabalho."
+        ],
+        "D_portuguese_to_english": [
+          "We are well.",
+          "The book is here.",
+          "They are at work.",
+          "Are you happy?"
+        ],
+        "E_reading": {
+          "translation": "We are at home today. The table is in the living room and the book is in the bedroom. I am tired, but my brother is happy. Our mother is at work. The teacher is at school. Are you all well?",
+          "answers": [
+            {
+              "question": "O livro está na sala ou no quarto?",
+              "answer": "O livro está no quarto."
+            },
+            {
+              "question": "O irmão está cansado ou feliz?",
+              "answer": "O irmão está feliz."
+            },
+            {
+              "question": "A mãe está em casa ou no trabalho?",
+              "answer": "A mãe está no trabalho."
+            },
+            {
+              "question": "O professor está na escola ou em casa?",
+              "answer": "O professor está na escola."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Nós estamos em casa hoje. A mesa está na sala e o livro está no quarto. Eu estou cansado, mas meu irmão está feliz. Nossa mãe está no trabalho. O professor está na escola. Vocês estão bem?",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu estou em casa.",
+            "Não, estou bem.",
+            "O livro está na mesa."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

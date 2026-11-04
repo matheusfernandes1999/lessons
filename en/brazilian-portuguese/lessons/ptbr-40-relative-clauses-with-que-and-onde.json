@@ -1,0 +1,3826 @@
+{
+  "id": "ptbr-40",
+  "language": "en",
+  "mainTopic": "Brazilian Portuguese",
+  "course": "Brazilian Portuguese",
+  "unit": "Módulo 7 — Pronomes, relações e estruturas complexas",
+  "lessonNumber": 40,
+  "title": "Relative Clauses with Que and Onde",
+  "level": "B1–B2",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "focus": "orações relativas básicas.",
+  "verifiableTask": "Produce at least five accurate sentences and answer at least three questions on the topic “Describe a person and a place without naming them” using this lesson’s target structure.",
+  "skills": [
+    "speaking",
+    "vocabulary",
+    "listening",
+    "reading",
+    "writing"
+  ],
+  "sourceFormat": "workbook-json",
+  "legacyId": "L40",
+  "quizCount": 3,
+  "questionCount": 22,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Lesson objective"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Module: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Módulo 7 — Pronomes, relações e estruturas complexas"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Level: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "B1–B2"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Main grammar: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "orações relativas básicas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Previous knowledge: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lessons 1–39"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Key vocabulary: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "que, onde, cidade, pessoa, trabalha, amiga, casa, nasci"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Lesson task: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Produce at least five accurate sentences and answer at least three questions on the topic “Describe a person and a place without naming them” using this lesson’s target structure."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Let's begin and explanation (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Basic rule: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Use que for person/object relative clauses and onde for locations."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "noun + que + clause; place + onde + clause"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "English comparison: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "English who/that/which often map to que; where maps to onde."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Model sentences"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A pessoa que trabalha aqui é minha amiga.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The person who works here is my friend."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Esta é a cidade onde eu nasci.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "This is the city where I was born."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O livro que comprei é bom.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The book that I bought is good."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Conheço uma mulher que fala português.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I know a woman who speaks Portuguese."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Este é o lugar onde moramos.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "This is the place where we live."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Useful words"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Term"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Meaning"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Example"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "que"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "who/that/which"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A pessoa que trabalha aqui é minha amiga."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "onde"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "where"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Esta é a cidade onde eu nasci."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "cidade"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "city"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Esta é a cidade onde eu nasci."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "pessoa"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "person"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A pessoa que trabalha aqui é minha amiga."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "trabalha"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "works"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A pessoa que trabalha aqui é minha amiga."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "amiga"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "friend"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A pessoa que trabalha aqui é minha amiga."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "casa"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "house"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Minha amiga Ana trabalha em uma escola que fica perto de casa."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "nasci"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "I was born"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Esta é a cidade onde eu nasci."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Practice 1 (9 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Multiple choice and gap fill"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Choose one option for each meaning; say the chosen sentence aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ptbr40_practice1",
+          "questions": [
+            {
+              "id": "practice1-mc-1",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “The person who works here is my friend.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "A pessoa que trabalha aqui é minha amiga."
+                },
+                {
+                  "id": "B",
+                  "text": "Este é o lugar onde moramos."
+                },
+                {
+                  "id": "C",
+                  "text": "Esta é a cidade onde eu nasci."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "A pessoa que trabalha aqui é minha amiga."
+              }
+            },
+            {
+              "id": "practice1-mc-2",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “This is the city where I was born.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "A pessoa que trabalha aqui é minha amiga."
+                },
+                {
+                  "id": "B",
+                  "text": "O livro que comprei é bom."
+                },
+                {
+                  "id": "C",
+                  "text": "Esta é a cidade onde eu nasci."
+                }
+              ],
+              "correctOptionId": "C",
+              "explanations": {
+                "general": "Esta é a cidade onde eu nasci."
+              }
+            },
+            {
+              "id": "practice1-mc-3",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “The book that I bought is good.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "O livro que comprei é bom."
+                },
+                {
+                  "id": "B",
+                  "text": "O amigo que chegou ontem é professor."
+                },
+                {
+                  "id": "C",
+                  "text": "Conheço uma mulher que fala português."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "O livro que comprei é bom."
+              }
+            },
+            {
+              "id": "practice1-mc-4",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “I know a woman who speaks Portuguese.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Conheço uma mulher que fala português."
+                },
+                {
+                  "id": "B",
+                  "text": "A pessoa que trabalha aqui é minha amiga."
+                },
+                {
+                  "id": "C",
+                  "text": "Este é o lugar onde moramos."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "Conheço uma mulher que fala português."
+              }
+            },
+            {
+              "id": "practice1-gap-1",
+              "category": "grammar",
+              "questionText": "A pessoa ________ trabalha aqui é minha amiga. (The person who works here is my friend.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "A pessoa que trabalha aqui é minha amiga."
+              }
+            },
+            {
+              "id": "practice1-gap-2",
+              "category": "grammar",
+              "questionText": "Esta é a cidade ________ eu nasci. (This is the city where I was born.)",
+              "type": "written",
+              "correctWrittenAnswer": "onde",
+              "explanations": {
+                "general": "Esta é a cidade onde eu nasci."
+              }
+            },
+            {
+              "id": "practice1-gap-3",
+              "category": "grammar",
+              "questionText": "O livro ________ comprei é bom. (The book that I bought is good.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "O livro que comprei é bom."
+              }
+            },
+            {
+              "id": "practice1-gap-4",
+              "category": "grammar",
+              "questionText": "Conheço uma mulher ________ fala português. (I know a woman who speaks Portuguese.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "Conheço uma mulher que fala português."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mini reading"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the text aloud. Then answer the questions in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Minha amiga Ana trabalha em uma escola que fica perto de casa. O professor que ensina português também mora no bairro. A cidade onde eles vivem é pequena, mas tem muitos parques. Nós gostamos do café que fica na praça. É um lugar onde as pessoas conversam e descansam depois do trabalho."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onde fica a escola em que Ana trabalha?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Como é a cidade onde eles vivem?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Speaking practice"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer aloud in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quem é uma pessoa que você admira?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onde fica um lugar onde você gosta de estudar?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Qual é um livro que você recomenda?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Review (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Another way to understand it: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Link descriptions to a known noun instead of repeating it."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Conheço uma mulher que fala português.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I know a woman who speaks Portuguese."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Este é o lugar onde moramos.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "This is the place where we live."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O amigo que chegou ontem é professor.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The friend who arrived yesterday is a teacher."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Compare: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A pessoa que chegou / O lugar onde moro: person versus place."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Common mistakes"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "A casa que eu moro é pequena."
+                  },
+                  {
+                    "type": "text",
+                    "text": "  "
+                  },
+                  {
+                    "type": "text",
+                    "text": "✓ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "A casa onde eu moro é pequena."
+                  },
+                  {
+                    "type": "text",
+                    "text": " — Onde identifies place; em que is also possible."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✗ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "A pessoa onde trabalha é minha amiga."
+                  },
+                  {
+                    "type": "text",
+                    "text": "  "
+                  },
+                  {
+                    "type": "text",
+                    "text": "✓ ",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "A pessoa que trabalha é minha amiga."
+                  },
+                  {
+                    "type": "text",
+                    "text": " — Que refers to a person here."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Oral substitution drill"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A pessoa que trabalha aqui é minha amiga.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → I know a woman who speaks Portuguese."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Esta é a cidade onde eu nasci.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → This is the place where we live."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O livro que comprei é bom.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → The friend who arrived yesterday is a teacher."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Practice 2 (10 min)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate into Portuguese and say each sentence aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The book that I bought is good."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I know a woman who speaks Portuguese."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This is the place where we live."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The friend who arrived yesterday is a teacher."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Fill in"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ptbr40_practice2",
+          "questions": [
+            {
+              "id": "practice2-gap-1",
+              "category": "grammar",
+              "questionText": "Conheço uma mulher que fala português. O livro ________ comprei é bom. (The book that I bought is good.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "Conheço uma mulher que fala português. O livro que comprei é bom."
+              }
+            },
+            {
+              "id": "practice2-gap-2",
+              "category": "grammar",
+              "questionText": "Este é o lugar onde moramos. Conheço uma mulher ________ fala português. (I know a woman who speaks Portuguese.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "Este é o lugar onde moramos. Conheço uma mulher que fala português."
+              }
+            },
+            {
+              "id": "practice2-gap-3",
+              "category": "grammar",
+              "questionText": "O amigo que chegou ontem é professor. Este é o lugar ________ moramos. (This is the place where we live.)",
+              "type": "written",
+              "correctWrittenAnswer": "onde",
+              "explanations": {
+                "general": "O amigo que chegou ontem é professor. Este é o lugar onde moramos."
+              }
+            },
+            {
+              "id": "practice2-gap-4",
+              "category": "grammar",
+              "questionText": "A pessoa que trabalha aqui é minha amiga. O amigo ________ chegou ontem é professor. (The friend who arrived yesterday is a teacher.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "A pessoa que trabalha aqui é minha amiga. O amigo que chegou ontem é professor."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Listen and translate"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Utterances: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Reading aloud and translation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the text aloud, translate it orally into English, then answer the questions.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ontem conheci uma pessoa que trabalha com meu irmão. Ela falou sobre o projeto que começou no mês passado. Visitamos o escritório onde a equipe se reúne. O prédio fica em uma rua que tem muitas lojas. A pessoa que nos recebeu foi muito simpática e explicou como a equipe trabalha."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quem o narrador conheceu ontem?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Como é a rua onde fica o prédio?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Speaking practice (11 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quem é uma pessoa que você admira?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Who is someone you admire?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onde fica um lugar onde você gosta de estudar?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Where is a place where you like studying?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Qual é um livro que você recomenda?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "What is a book you recommend?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Descreva uma pessoa sem mencionar o nome dela.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Describe someone without mentioning their name."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Descreva um lugar onde você trabalhou ou estudou.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Describe a place where you worked or studied."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Como você combina “Tenho um amigo” com “Ele mora aqui”?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "How do you combine these sentences?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Homework explanation (5 min)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A · Multiple choice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Which sentence expresses “The person who works here is my friend.”? A. A pessoa que trabalha aqui é minha amiga. B. Este é o lugar onde moramos. C. Esta é a cidade onde eu nasci."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A. A pessoa que trabalha aqui é minha amiga. — compare the exact meaning, then read it aloud."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "B · Gap fill",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — A pessoa ________ trabalha aqui é minha amiga. (The person who works here is my friend.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "que → A pessoa que trabalha aqui é minha amiga. — use the English hint and the rest of the sentence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "C · English to portuguese",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — The book that I bought is good."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "O livro que comprei é bom. — identify the subject, choose the verb form, then say it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "D · Portuguese to english",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — A pessoa que trabalha aqui é minha amiga."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The person who works here is my friend. — translate the meaning, not word for word."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "E · Reading comprehension",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Onde fica a escola em que Ana trabalha?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A escola fica perto de casa. — find the sentence in the text that gives the answer, then answer in a full sentence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Written production",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Write one new sentence with the target form, using “Conheço uma mulher que fala português.” as a reference."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Model: Este é o lugar onde moramos. — change the information, keep the target structure correct."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "G · Speaking",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — Say one sentence with today’s structure about your own life."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Worked answer: ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Model: O amigo que chegou ontem é professor. — say it, then change one real-life detail."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Homework — Your homework"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Estimated time: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "25–30 minutes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Give independent answers and speak all written sentences once.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A and B · Choose and complete"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Choose the sentence with the given meaning.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Complete the missing target form.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "attrs": {
+          "nodeId": "quiz_ptbr40_homework",
+          "questions": [
+            {
+              "id": "homework-mc-1",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “This is the city where I was born.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "O livro que comprei é bom."
+                },
+                {
+                  "id": "B",
+                  "text": "Esta é a cidade onde eu nasci."
+                },
+                {
+                  "id": "C",
+                  "text": "Conheço uma mulher que fala português."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Esta é a cidade onde eu nasci."
+              }
+            },
+            {
+              "id": "homework-mc-2",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “The book that I bought is good.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "O livro que comprei é bom."
+                },
+                {
+                  "id": "B",
+                  "text": "Este é o lugar onde moramos."
+                },
+                {
+                  "id": "C",
+                  "text": "A pessoa que trabalha aqui é minha amiga."
+                }
+              ],
+              "correctOptionId": "A",
+              "explanations": {
+                "general": "O livro que comprei é bom."
+              }
+            },
+            {
+              "id": "homework-mc-3",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “I know a woman who speaks Portuguese.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Este é o lugar onde moramos."
+                },
+                {
+                  "id": "B",
+                  "text": "Esta é a cidade onde eu nasci."
+                },
+                {
+                  "id": "C",
+                  "text": "Conheço uma mulher que fala português."
+                }
+              ],
+              "correctOptionId": "C",
+              "explanations": {
+                "general": "Conheço uma mulher que fala português."
+              }
+            },
+            {
+              "id": "homework-mc-4",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “This is the place where we live.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "A pessoa que trabalha aqui é minha amiga."
+                },
+                {
+                  "id": "B",
+                  "text": "Este é o lugar onde moramos."
+                },
+                {
+                  "id": "C",
+                  "text": "O amigo que chegou ontem é professor."
+                }
+              ],
+              "correctOptionId": "B",
+              "explanations": {
+                "general": "Este é o lugar onde moramos."
+              }
+            },
+            {
+              "id": "homework-mc-5",
+              "category": "grammar",
+              "questionText": "Which sentence expresses “The friend who arrived yesterday is a teacher.”?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "A pessoa que trabalha aqui é minha amiga."
+                },
+                {
+                  "id": "B",
+                  "text": "Este é o lugar onde moramos."
+                },
+                {
+                  "id": "C",
+                  "text": "O amigo que chegou ontem é professor."
+                }
+              ],
+              "correctOptionId": "C",
+              "explanations": {
+                "general": "O amigo que chegou ontem é professor."
+              }
+            },
+            {
+              "id": "homework-gap-1",
+              "category": "grammar",
+              "questionText": "Esta é a cidade ________ eu nasci. (This is the city where I was born.)",
+              "type": "written",
+              "correctWrittenAnswer": "onde",
+              "explanations": {
+                "general": "Esta é a cidade onde eu nasci."
+              }
+            },
+            {
+              "id": "homework-gap-2",
+              "category": "grammar",
+              "questionText": "O livro ________ comprei é bom. (The book that I bought is good.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "O livro que comprei é bom."
+              }
+            },
+            {
+              "id": "homework-gap-3",
+              "category": "grammar",
+              "questionText": "Conheço uma mulher ________ fala português. (I know a woman who speaks Portuguese.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "Conheço uma mulher que fala português."
+              }
+            },
+            {
+              "id": "homework-gap-4",
+              "category": "grammar",
+              "questionText": "Este é o lugar ________ moramos. (This is the place where we live.)",
+              "type": "written",
+              "correctWrittenAnswer": "onde",
+              "explanations": {
+                "general": "Este é o lugar onde moramos."
+              }
+            },
+            {
+              "id": "homework-gap-5",
+              "category": "grammar",
+              "questionText": "O amigo ________ chegou ontem é professor. (The friend who arrived yesterday is a teacher.)",
+              "type": "written",
+              "correctWrittenAnswer": "que",
+              "explanations": {
+                "general": "O amigo que chegou ontem é professor."
+              }
+            }
+          ],
+          "studentAnswers": {},
+          "submitted": false
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "C · English to Portuguese"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate into Portuguese.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The person who works here is my friend."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This is the city where I was born."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The book that I bought is good."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I know a woman who speaks Portuguese."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This is the place where we live."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "D · Portuguese to English"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate into English.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O livro que comprei é bom."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Conheço uma mulher que fala português."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Este é o lugar onde moramos."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O amigo que chegou ontem é professor."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "E · Reading"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the text and answer the questions in full sentences.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Eu tenho um livro que explica a história de uma cidade brasileira. O autor descreve os bairros onde as pessoas moravam antes. Ele também conta histórias de famílias que chegaram de outras regiões. O capítulo que li ontem fala de uma praça onde os moradores se encontravam para conversar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que o livro explica?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que o autor descreve?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De quem ele também conta histórias?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De que fala o capítulo que o narrador leu ontem?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Written production"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Write 80–120 words on the topic “Describe a person and a place without naming them”. Use at least three different relevant examples of the target structure; add context and original details."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "G · Speaking"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Record one uninterrupted spoken response to these three lesson prompts — Quem é uma pessoa que você admira? / Onde fica um lugar onde você gosta de estudar? / Qual é um livro que você recomenda? — giving complete sentences and without reading a script."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Teacher notes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Spaced review: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "That book is mine. → Esse livro é meu."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Pronunciation focus: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Link que lightly to its neighboring words."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Practice 1"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Multiple choice: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. A (A pessoa que trabalha aqui é minha amiga.); 2. C (Esta é a cidade onde eu nasci.); 3. A (O livro que comprei é bom.); 4. A (Conheço uma mulher que fala português.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gap fill: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. A pessoa que trabalha aqui é minha amiga.; 2. Esta é a cidade onde eu nasci.; 3. O livro que comprei é bom.; 4. Conheço uma mulher que fala português."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Mini reading, translation: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "My friend Ana works at a school that is near my home. The teacher who teaches Portuguese also lives in the neighborhood. The city where they live is small but has many parks. We like the café that is in the square. It is a place where people talk and relax after work."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onde fica a escola em que Ana trabalha? → A escola fica perto de casa."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Como é a cidade onde eles vivem? → É pequena, mas tem muitos parques."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Speaking models: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "É uma professora que ensina muito bem. / É uma biblioteca onde estudo. / Recomendo um livro que explica português."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Review"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I know a woman who speaks Portuguese. → Conheço uma mulher que fala português."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This is the place where we live. → Este é o lugar onde moramos."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The friend who arrived yesterday is a teacher. → O amigo que chegou ontem é professor."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Practice 2"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. O livro que comprei é bom.; 2. Conheço uma mulher que fala português.; 3. Este é o lugar onde moramos.; 4. O amigo que chegou ontem é professor."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Fill in: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. Conheço uma mulher que fala português. O livro que comprei é bom.; 2. Este é o lugar onde moramos. Conheço uma mulher que fala português.; 3. O amigo que chegou ontem é professor. Este é o lugar onde moramos.; 4. A pessoa que trabalha aqui é minha amiga. O amigo que chegou ontem é professor."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Listening scripts"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A pessoa que trabalha aqui é minha amiga.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The person who works here is my friend."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O livro que comprei é bom.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The book that I bought is good."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Este é o lugar onde moramos.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " — "
+                  },
+                  {
+                    "type": "text",
+                    "text": "This is the place where we live."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Reading aloud, translation: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Yesterday I met a person who works with my brother. She talked about the project that started last month. We visited the office where the team meets. The building is on a street that has many stores. The person who welcomed us was very friendly and explained how the team works."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quem o narrador conheceu ontem? → Uma pessoa que trabalha com o irmão dele."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Como é a rua onde fica o prédio? → É uma rua que tem muitas lojas."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Speaking practice models"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quem é uma pessoa que você admira?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: É uma professora que ensina muito bem. Follow-up: Por quê? Watch for: A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onde fica um lugar onde você gosta de estudar?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: É uma biblioteca onde estudo. Follow-up: Pode dar um exemplo da sua vida? Watch for: A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Qual é um livro que você recomenda?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: Recomendo um livro que explica português. Follow-up: E se a situação fosse diferente? Watch for: A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Descreva uma pessoa sem mencionar o nome dela.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: É uma pessoa que ensina português. Follow-up: Pode explicar com outras palavras? Watch for: A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Descreva um lugar onde você trabalhou ou estudou.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: É a escola onde estudei quando criança. Follow-up: Por quê? Watch for: A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Como você combina “Tenho um amigo” com “Ele mora aqui”?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Model: Tenho um amigo que mora aqui. Follow-up: Pode dar um exemplo da sua vida? Watch for: A casa que eu moro é pequena. → A casa onde eu moro é pequena. (Onde identifies place; em que is also possible.) A pessoa onde trabalha é minha amiga. → A pessoa que trabalha é minha amiga. (Que refers to a person here.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer key · Homework"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A · Multiple choice: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. B (Esta é a cidade onde eu nasci.); 2. A (O livro que comprei é bom.); 3. C (Conheço uma mulher que fala português.); 4. B (Este é o lugar onde moramos.); 5. C (O amigo que chegou ontem é professor.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "B · Gap fill: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. Esta é a cidade onde eu nasci.; 2. O livro que comprei é bom.; 3. Conheço uma mulher que fala português.; 4. Este é o lugar onde moramos.; 5. O amigo que chegou ontem é professor."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "C · English to Portuguese: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. A pessoa que trabalha aqui é minha amiga.; 2. Esta é a cidade onde eu nasci.; 3. O livro que comprei é bom.; 4. Conheço uma mulher que fala português.; 5. Este é o lugar onde moramos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "D · Portuguese to English: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. The book that I bought is good.; 2. I know a woman who speaks Portuguese.; 3. This is the place where we live.; 4. The friend who arrived yesterday is a teacher."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "E · Reading, translation: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "I have a book that explains the history of a Brazilian city. The author describes neighborhoods where people used to live. He also tells stories of families who arrived from other regions. The chapter I read yesterday talks about a square where residents met to chat."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que o livro explica? → A história de uma cidade brasileira."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que o autor descreve? → Os bairros onde as pessoas moravam antes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De quem ele também conta histórias? → De famílias que chegaram de outras regiões."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De que fala o capítulo que o narrador leu ontem? → De uma praça onde os moradores se encontravam para conversar."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Model text: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Eu tenho um livro que explica a história de uma cidade brasileira. O autor descreve os bairros onde as pessoas moravam antes. Ele também conta histórias de famílias que chegaram de outras regiões. O capítulo que li ontem fala de uma praça onde os moradores se encontravam para conversar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "F · Assessment: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "G · Speaking models: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "É uma professora que ensina muito bem. / É uma biblioteca onde estudo. / Recomendo um livro que explica português."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Acceptable alternatives: ",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+          }
+        ]
+      }
+    ]
+  }
+}

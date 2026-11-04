@@ -1,0 +1,668 @@
+{
+  "lesson_number": 17,
+  "id": "L17",
+  "title": "Ir, Vir and Basic Movement",
+  "module": "Módulo 3 — Perguntas, preferências e rotina",
+  "level": "A1–A2",
+  "main_grammar": "presente de ir e vir.",
+  "previous_knowledge": "Lessons 1–16",
+  "key_vocabulary": [
+    "vou",
+    "vai",
+    "vamos",
+    "vêm",
+    "venho",
+    "vem",
+    "mercado",
+    "escola"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Places you go during the week” using this lesson’s target structure.",
+    "basic_rule": "Ir expresses motion away or to a destination; vir expresses motion toward the reference point.",
+    "structure": "ir + a/para + place; vir + de/para + place",
+    "english_comparison": "English go/come also depend on a reference point.",
+    "model_sentences": [
+      {
+        "pt": "Eu vou ao mercado.",
+        "en": "I go to the market."
+      },
+      {
+        "pt": "Ela vem do trabalho.",
+        "en": "She comes from work."
+      },
+      {
+        "pt": "Nós vamos à escola.",
+        "en": "We go to school."
+      },
+      {
+        "pt": "Eles vêm para casa.",
+        "en": "They come home."
+      },
+      {
+        "pt": "Você vai ao banco?",
+        "en": "Do you go to the bank?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "vou",
+        "meaning": "I go",
+        "example": "Eu vou ao mercado."
+      },
+      {
+        "term": "vai",
+        "meaning": "goes",
+        "example": "Você vai ao banco?"
+      },
+      {
+        "term": "vamos",
+        "meaning": "we go",
+        "example": "Nós vamos à escola."
+      },
+      {
+        "term": "vêm",
+        "meaning": "they come",
+        "example": "Eles vêm para casa."
+      },
+      {
+        "term": "venho",
+        "meaning": "I come",
+        "example": "Eu venho da escola."
+      },
+      {
+        "term": "vem",
+        "meaning": "comes",
+        "example": "Ela vem do trabalho."
+      },
+      {
+        "term": "mercado",
+        "meaning": "market",
+        "example": "Eu vou ao mercado."
+      },
+      {
+        "term": "escola",
+        "meaning": "school",
+        "example": "Nós vamos à escola."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I go to the market.”?",
+            "options": {
+              "A": "Ela vem do trabalho.",
+              "B": "Eu vou ao mercado.",
+              "C": "Eles vêm para casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She comes from work.”?",
+            "options": {
+              "A": "Eles vêm para casa.",
+              "B": "Eu venho da escola.",
+              "C": "Ela vem do trabalho."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We go to school.”?",
+            "options": {
+              "A": "Nós vamos à escola.",
+              "B": "Eles vêm para casa.",
+              "C": "Você vai ao banco?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They come home.”?",
+            "options": {
+              "A": "Eu vou ao mercado.",
+              "B": "Eles vêm para casa.",
+              "C": "Nós vamos à escola."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ ao mercado.",
+            "hint": "I go to the market."
+          },
+          {
+            "sentence": "Ela ________ do trabalho.",
+            "hint": "She comes from work."
+          },
+          {
+            "sentence": "Nós ________ à escola.",
+            "hint": "We go to school."
+          },
+          {
+            "sentence": "Eles ________ para casa.",
+            "hint": "They come home."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Eu vou ao mercado de manhã. Minha irmã vai à escola. Ela vem da escola às cinco. Nós vamos ao trabalho de ônibus. Meu pai vem do trabalho à noite. Os amigos vão para casa depois da aula.",
+        "questions": [
+          "Para onde o narrador vai de manhã?",
+          "Como eles vão ao trabalho?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Onde você vai de manhã?",
+          "Você vem da escola agora?",
+          "Onde seus amigos vão à noite?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Choose a reference point for who comes and who goes.",
+      "examples": [
+        {
+          "pt": "Eles vêm para casa.",
+          "en": "They come home."
+        },
+        {
+          "pt": "Você vai ao banco?",
+          "en": "Do you go to the bank?"
+        },
+        {
+          "pt": "Eu venho da escola.",
+          "en": "I come from school."
+        }
+      ],
+      "compare": "Vou ao mercado / Venho do mercado: destination versus origin.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu vai à escola.",
+          "correct": "Eu vou à escola.",
+          "explanation": "Eu uses vou."
+        },
+        {
+          "wrong": "Ela vêm de casa.",
+          "correct": "Ela vem de casa.",
+          "explanation": "Singular vem, plural vêm."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu vou ao mercado.",
+            "cue": "They come home."
+          },
+          {
+            "base": "Ela vem do trabalho.",
+            "cue": "Do you go to the bank?"
+          },
+          {
+            "base": "Nós vamos à escola.",
+            "cue": "I come from school."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We go to school.",
+          "They come home.",
+          "Do you go to the bank?",
+          "I come from school."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles vêm para casa. Nós ________ à escola.",
+            "hint": "We go to school."
+          },
+          {
+            "sentence": "Você vai ao banco? Eles ________ para casa.",
+            "hint": "They come home."
+          },
+          {
+            "sentence": "Eu venho da escola. Você ________ ao banco?",
+            "hint": "Do you go to the bank?"
+          },
+          {
+            "sentence": "Eu vou ao mercado. Eu ________ da escola.",
+            "hint": "I come from school."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Pedro vai ao banco e depois vai ao mercado. Ana vem de casa para a escola. Nós vamos ao centro às nove. À tarde, os alunos vêm da escola. Você vai ao mercado hoje?",
+        "questions": [
+          "Para onde Pedro vai depois do banco?",
+          "A que horas eles vão ao centro?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Onde você vai de manhã?",
+          "english": "Where do you go in the morning?"
+        },
+        {
+          "question": "Você vem da escola agora?",
+          "english": "Are you coming from school now?"
+        },
+        {
+          "question": "Onde seus amigos vão à noite?",
+          "english": "Where do your friends go at night?"
+        },
+        {
+          "question": "Quem vem à sua casa nos fins de semana?",
+          "english": "Who comes to your home on weekends?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I go to the market.”? A. Ela vem do trabalho. B. Eu vou ao mercado. C. Eles vêm para casa.",
+        "worked_answer": "B. Eu vou ao mercado. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ ao mercado. (I go to the market.)",
+        "worked_answer": "vou → Eu vou ao mercado. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We go to school.",
+        "worked_answer": "Nós vamos à escola. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu vou ao mercado.",
+        "worked_answer": "I go to the market. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Para onde o narrador vai de manhã?",
+        "worked_answer": "Ele vai ao mercado. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles vêm para casa.” as a reference.",
+        "worked_answer": "Model: Você vai ao banco? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu venho da escola. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "20–25 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She comes from work.”?",
+            "options": {
+              "A": "Ela vem do trabalho.",
+              "B": "Eu venho da escola.",
+              "C": "Eles vêm para casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We go to school.”?",
+            "options": {
+              "A": "Nós vamos à escola.",
+              "B": "Eu vou ao mercado.",
+              "C": "Eles vêm para casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They come home.”?",
+            "options": {
+              "A": "Ela vem do trabalho.",
+              "B": "Eles vêm para casa.",
+              "C": "Você vai ao banco?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Do you go to the bank?”?",
+            "options": {
+              "A": "Você vai ao banco?",
+              "B": "Ela vem do trabalho.",
+              "C": "Eles vêm para casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I come from school.”?",
+            "options": {
+              "A": "Eu venho da escola.",
+              "B": "Ela vem do trabalho.",
+              "C": "Nós vamos à escola."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ do trabalho.",
+            "hint": "She comes from work."
+          },
+          {
+            "sentence": "Nós ________ à escola.",
+            "hint": "We go to school."
+          },
+          {
+            "sentence": "Eles ________ para casa.",
+            "hint": "They come home."
+          },
+          {
+            "sentence": "Você ________ ao banco?",
+            "hint": "Do you go to the bank?"
+          },
+          {
+            "sentence": "Eu ________ da escola.",
+            "hint": "I come from school."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I go to the market.",
+          "She comes from work.",
+          "We go to school.",
+          "They come home.",
+          "Do you go to the bank?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós vamos à escola.",
+          "Eles vêm para casa.",
+          "Você vai ao banco?",
+          "Eu venho da escola."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Eu vou à escola todos os dias. Minha amiga vem do trabalho para estudar. Nós vamos ao parque aos sábados. Meu irmão vai ao mercado para comprar arroz. Depois ele vem para casa. Onde vocês vão hoje?",
+        "questions": [
+          "Para onde o narrador vai todos os dias?",
+          "De onde a amiga vem?",
+          "Quando eles vão ao parque?",
+          "Por que o irmão vai ao mercado?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 6–8 sentences on the topic “Places you go during the week”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Onde você vai de manhã? / Você vem da escola agora? / Onde seus amigos vão à noite? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "It is three o’clock.",
+      "expected_answer": "São três horas."
+    },
+    "pronunciation_focus": "Compare nasal vem / vêm without exaggerating regional differences.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Eu vou ao mercado."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela vem do trabalho."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eles vêm para casa."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "vou",
+            "full_sentence": "Eu vou ao mercado."
+          },
+          {
+            "answer": "vem",
+            "full_sentence": "Ela vem do trabalho."
+          },
+          {
+            "answer": "vamos",
+            "full_sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "vêm",
+            "full_sentence": "Eles vêm para casa."
+          }
+        ],
+        "mini_reading": {
+          "translation": "I go to the market in the morning. My sister goes to school. She comes from school at five. We go to work by bus. My father comes from work at night. Our friends go home after class.",
+          "answers": [
+            {
+              "question": "Para onde o narrador vai de manhã?",
+              "answer": "Ele vai ao mercado."
+            },
+            {
+              "question": "Como eles vão ao trabalho?",
+              "answer": "Eles vão ao trabalho de ônibus."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu vou ao trabalho.",
+          "Não, eu venho de casa.",
+          "Eles vão para casa."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They come home.",
+            "model": "Eles vêm para casa."
+          },
+          {
+            "cue": "Do you go to the bank?",
+            "model": "Você vai ao banco?"
+          },
+          {
+            "cue": "I come from school.",
+            "model": "Eu venho da escola."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós vamos à escola.",
+          "Eles vêm para casa.",
+          "Você vai ao banco?",
+          "Eu venho da escola."
+        ],
+        "fill_in": [
+          {
+            "answer": "vamos",
+            "full_sentence": "Eles vêm para casa. Nós vamos à escola."
+          },
+          {
+            "answer": "vêm",
+            "full_sentence": "Você vai ao banco? Eles vêm para casa."
+          },
+          {
+            "answer": "vai",
+            "full_sentence": "Eu venho da escola. Você vai ao banco?"
+          },
+          {
+            "answer": "venho",
+            "full_sentence": "Eu vou ao mercado. Eu venho da escola."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu vou ao mercado.",
+            "en": "I go to the market."
+          },
+          {
+            "pt": "Nós vamos à escola.",
+            "en": "We go to school."
+          },
+          {
+            "pt": "Você vai ao banco?",
+            "en": "Do you go to the bank?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Pedro goes to the bank and then goes to the market. Ana comes from home to school. We go downtown at nine. In the afternoon, the students come from school. Are you going to the market today?",
+          "answers": [
+            {
+              "question": "Para onde Pedro vai depois do banco?",
+              "answer": "Ele vai ao mercado."
+            },
+            {
+              "question": "A que horas eles vão ao centro?",
+              "answer": "Eles vão ao centro às nove."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Onde você vai de manhã?",
+          "model_answer": "Eu vou ao trabalho.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu vai à escola. → Eu vou à escola. (Eu uses vou.) Ela vêm de casa. → Ela vem de casa. (Singular vem, plural vêm.)"
+        },
+        {
+          "question": "Você vem da escola agora?",
+          "model_answer": "Não, eu venho de casa.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu vai à escola. → Eu vou à escola. (Eu uses vou.) Ela vêm de casa. → Ela vem de casa. (Singular vem, plural vêm.)"
+        },
+        {
+          "question": "Onde seus amigos vão à noite?",
+          "model_answer": "Eles vão para casa.",
+          "follow_up": "E sua família?",
+          "watch_for": "Eu vai à escola. → Eu vou à escola. (Eu uses vou.) Ela vêm de casa. → Ela vem de casa. (Singular vem, plural vêm.)"
+        },
+        {
+          "question": "Quem vem à sua casa nos fins de semana?",
+          "model_answer": "Meus amigos vêm à minha casa.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Eu vai à escola. → Eu vou à escola. (Eu uses vou.) Ela vêm de casa. → Ela vem de casa. (Singular vem, plural vêm.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Ela vem do trabalho."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eles vêm para casa."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você vai ao banco?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu venho da escola."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "vem",
+            "full_sentence": "Ela vem do trabalho."
+          },
+          {
+            "answer": "vamos",
+            "full_sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "vêm",
+            "full_sentence": "Eles vêm para casa."
+          },
+          {
+            "answer": "vai",
+            "full_sentence": "Você vai ao banco?"
+          },
+          {
+            "answer": "venho",
+            "full_sentence": "Eu venho da escola."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu vou ao mercado.",
+          "Ela vem do trabalho.",
+          "Nós vamos à escola.",
+          "Eles vêm para casa.",
+          "Você vai ao banco?"
+        ],
+        "D_portuguese_to_english": [
+          "We go to school.",
+          "They come home.",
+          "Do you go to the bank?",
+          "I come from school."
+        ],
+        "E_reading": {
+          "translation": "I go to school every day. My friend comes from work to study. We go to the park on Saturdays. My brother goes to the market to buy rice. Then he comes home. Where are you going today?",
+          "answers": [
+            {
+              "question": "Para onde o narrador vai todos os dias?",
+              "answer": "Ele vai à escola."
+            },
+            {
+              "question": "De onde a amiga vem?",
+              "answer": "Ela vem do trabalho."
+            },
+            {
+              "question": "Quando eles vão ao parque?",
+              "answer": "Eles vão ao parque aos sábados."
+            },
+            {
+              "question": "Por que o irmão vai ao mercado?",
+              "answer": "Ele vai ao mercado para comprar arroz."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Eu vou à escola todos os dias. Minha amiga vem do trabalho para estudar. Nós vamos ao parque aos sábados. Meu irmão vai ao mercado para comprar arroz. Depois ele vem para casa. Onde vocês vão hoje?",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu vou ao trabalho.",
+            "Não, eu venho de casa.",
+            "Eles vão para casa."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "lesson_number": 54,
+  "id": "L54",
+  "title": "Review 9 — Complex Narratives and Meaning",
+  "module": "Módulo 9 — Narrativas e precisão avançada",
+  "level": "B2",
+  "main_grammar": "consolidação das aulas 49–53.",
+  "previous_knowledge": "Lessons 1–53",
+  "key_vocabulary": [
+    "tenho",
+    "tinha",
+    "conheço",
+    "consegui",
+    "ficou",
+    "por",
+    "para",
+    "projeto"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “A complex decision and its outcome” using this lesson’s target structure.",
+    "basic_rule": "Review recent repeated action, earlier past events, semantic verb differences and por/para.",
+    "structure": "compound past + verb choice + reason/purpose",
+    "english_comparison": "English present perfect does not map one-to-one to tenho feito.",
+    "model_sentences": [
+      {
+        "pt": "Tenho trabalhado muito ultimamente.",
+        "en": "I have been working a lot lately."
+      },
+      {
+        "pt": "Quando cheguei, ele tinha saído.",
+        "en": "When I arrived, he had left."
+      },
+      {
+        "pt": "Conheço essa cidade.",
+        "en": "I know this city."
+      },
+      {
+        "pt": "Consegui terminar o projeto.",
+        "en": "I managed to finish the project."
+      },
+      {
+        "pt": "Fiz o trabalho para minha amiga.",
+        "en": "I did the work for my friend."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "tenho",
+        "meaning": "I have",
+        "example": "Tenho trabalhado muito ultimamente."
+      },
+      {
+        "term": "tinha",
+        "meaning": "had",
+        "example": "Quando cheguei, ele tinha saído."
+      },
+      {
+        "term": "conheço",
+        "meaning": "I know",
+        "example": "Conheço essa cidade."
+      },
+      {
+        "term": "consegui",
+        "meaning": "I managed",
+        "example": "Consegui terminar o projeto."
+      },
+      {
+        "term": "ficou",
+        "meaning": "became",
+        "example": "Ele ficou cansado depois da viagem."
+      },
+      {
+        "term": "por",
+        "meaning": "because/for",
+        "example": "Fiz algumas mudanças por causa das observações."
+      },
+      {
+        "term": "para",
+        "meaning": "to/for",
+        "example": "Fiz o trabalho para minha amiga."
+      },
+      {
+        "term": "projeto",
+        "meaning": "project",
+        "example": "Consegui terminar o projeto."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I have been working a lot lately.”?",
+            "options": {
+              "A": "Quando cheguei, ele tinha saído.",
+              "B": "Fiz o trabalho para minha amiga.",
+              "C": "Tenho trabalhado muito ultimamente."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “When I arrived, he had left.”?",
+            "options": {
+              "A": "Ele ficou cansado depois da viagem.",
+              "B": "Quando cheguei, ele tinha saído.",
+              "C": "Conheço essa cidade."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I know this city.”?",
+            "options": {
+              "A": "Conheço essa cidade.",
+              "B": "Ele ficou cansado depois da viagem.",
+              "C": "Consegui terminar o projeto."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I managed to finish the project.”?",
+            "options": {
+              "A": "Fiz o trabalho para minha amiga.",
+              "B": "Quando cheguei, ele tinha saído.",
+              "C": "Consegui terminar o projeto."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ trabalhado muito ultimamente.",
+            "hint": "I have been working a lot lately."
+          },
+          {
+            "sentence": "Quando cheguei, ele ________ saído.",
+            "hint": "When I arrived, he had left."
+          },
+          {
+            "sentence": "________ essa cidade.",
+            "hint": "I know this city."
+          },
+          {
+            "sentence": "________ terminar o projeto.",
+            "hint": "I managed to finish the project."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Tenho estudado português com frequência nas últimas semanas. Antes de começar esse plano, eu já tinha participado de outras aulas. Conheço a professora há algum tempo e sei que ela organiza atividades claras. Na semana passada, consegui terminar um projeto difícil. Fiz o trabalho para um colega porque ele precisava de ajuda. Depois da entrega, fiquei cansado, mas satisfeito com o resultado.",
+        "questions": [
+          "O que o narrador já tinha feito antes de começar esse plano?",
+          "Para quem ele fez o trabalho?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que você tem feito ultimamente?",
+          "O que já tinha acontecido quando você chegou?",
+          "O que você conseguiu fazer apesar das dificuldades?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Link a narrative's time sequence to reasons and outcomes.",
+      "examples": [
+        {
+          "pt": "Consegui terminar o projeto.",
+          "en": "I managed to finish the project."
+        },
+        {
+          "pt": "Fiz o trabalho para minha amiga.",
+          "en": "I did the work for my friend."
+        },
+        {
+          "pt": "Ele ficou cansado depois da viagem.",
+          "en": "He got tired after the trip."
+        }
+      ],
+      "compare": "Tenho estudado / Tinha estudado: recent repetition versus past anteriority.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu tenho estudou muito.",
+          "correct": "Eu tenho estudado muito.",
+          "explanation": "Use participle."
+        },
+        {
+          "wrong": "Fiz isso por conseguir tempo.",
+          "correct": "Fiz isso para conseguir tempo.",
+          "explanation": "Purpose uses para."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Tenho trabalhado muito ultimamente.",
+            "cue": "I managed to finish the project."
+          },
+          {
+            "base": "Quando cheguei, ele tinha saído.",
+            "cue": "I did the work for my friend."
+          },
+          {
+            "base": "Conheço essa cidade.",
+            "cue": "He got tired after the trip."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "I know this city.",
+          "I managed to finish the project.",
+          "I did the work for my friend.",
+          "He got tired after the trip."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Consegui terminar o projeto. ________ essa cidade.",
+            "hint": "I know this city."
+          },
+          {
+            "sentence": "Fiz o trabalho para minha amiga. ________ terminar o projeto.",
+            "hint": "I managed to finish the project."
+          },
+          {
+            "sentence": "Ele ficou cansado depois da viagem. Fiz o trabalho ________ minha amiga.",
+            "hint": "I did the work for my friend."
+          },
+          {
+            "sentence": "Tenho trabalhado muito ultimamente. Ele ________ cansado depois da viagem.",
+            "hint": "He got tired after the trip."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Ana tem trabalhado muito desde o começo do mês. Quando recebeu um novo pedido, já tinha preparado parte do material. Ela conhece bem o cliente, mas nem sempre sabe quais decisões ele vai tomar. Apesar das dificuldades, conseguiu organizar a entrega. Fez algumas mudanças para melhorar o documento e outras por causa das observações recebidas. No fim, a equipe ficou aliviada.",
+        "questions": [
+          "O que Ana já tinha preparado quando recebeu o novo pedido?",
+          "Por que ela fez mudanças no documento?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que você tem feito ultimamente?",
+          "english": "What have you been doing lately?"
+        },
+        {
+          "question": "O que já tinha acontecido quando você chegou?",
+          "english": "What had already happened when you arrived?"
+        },
+        {
+          "question": "O que você conseguiu fazer apesar das dificuldades?",
+          "english": "What did you manage to do despite difficulties?"
+        },
+        {
+          "question": "Que atividade você tem repetido e qual evento concluiu ontem?",
+          "english": "What repeated activity and completed event?"
+        },
+        {
+          "question": "O que já tinha ocorrido antes de uma decisão importante?",
+          "english": "What had happened before an important decision?"
+        },
+        {
+          "question": "Quando você usa conseguir em vez de poder para relatar sucesso?",
+          "english": "When do you use conseguir rather than poder?"
+        },
+        {
+          "question": "Explique um objetivo com para e uma causa com por.",
+          "english": "Give a purpose and a cause."
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I have been working a lot lately.”? A. Quando cheguei, ele tinha saído. B. Fiz o trabalho para minha amiga. C. Tenho trabalhado muito ultimamente.",
+        "worked_answer": "C. Tenho trabalhado muito ultimamente. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ trabalhado muito ultimamente. (I have been working a lot lately.)",
+        "worked_answer": "Tenho → Tenho trabalhado muito ultimamente. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "I know this city.",
+        "worked_answer": "Conheço essa cidade. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Tenho trabalhado muito ultimamente.",
+        "worked_answer": "I have been working a lot lately. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O que o narrador já tinha feito antes de começar esse plano?",
+        "worked_answer": "Ele já tinha participado de outras aulas. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Consegui terminar o projeto.” as a reference.",
+        "worked_answer": "Model: Fiz o trabalho para minha amiga. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Ele ficou cansado depois da viagem. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "30–40 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “When I arrived, he had left.”?",
+            "options": {
+              "A": "Quando cheguei, ele tinha saído.",
+              "B": "Ele ficou cansado depois da viagem.",
+              "C": "Conheço essa cidade."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I know this city.”?",
+            "options": {
+              "A": "Ele ficou cansado depois da viagem.",
+              "B": "Conheço essa cidade.",
+              "C": "Fiz o trabalho para minha amiga."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I managed to finish the project.”?",
+            "options": {
+              "A": "Tenho trabalhado muito ultimamente.",
+              "B": "Conheço essa cidade.",
+              "C": "Consegui terminar o projeto."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I did the work for my friend.”?",
+            "options": {
+              "A": "Consegui terminar o projeto.",
+              "B": "Fiz o trabalho para minha amiga.",
+              "C": "Tenho trabalhado muito ultimamente."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “He got tired after the trip.”?",
+            "options": {
+              "A": "Fiz o trabalho para minha amiga.",
+              "B": "Ele ficou cansado depois da viagem.",
+              "C": "Tenho trabalhado muito ultimamente."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Quando cheguei, ele ________ saído.",
+            "hint": "When I arrived, he had left."
+          },
+          {
+            "sentence": "________ essa cidade.",
+            "hint": "I know this city."
+          },
+          {
+            "sentence": "________ terminar o projeto.",
+            "hint": "I managed to finish the project."
+          },
+          {
+            "sentence": "Fiz o trabalho ________ minha amiga.",
+            "hint": "I did the work for my friend."
+          },
+          {
+            "sentence": "Ele ________ cansado depois da viagem.",
+            "hint": "He got tired after the trip."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I have been working a lot lately.",
+          "When I arrived, he had left.",
+          "I know this city.",
+          "I managed to finish the project.",
+          "I did the work for my friend."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Conheço essa cidade.",
+          "Consegui terminar o projeto.",
+          "Fiz o trabalho para minha amiga.",
+          "Ele ficou cansado depois da viagem."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Nossa equipe tem realizado reuniões semanais. Quando começamos a última etapa, os colegas já tinham revisado o orçamento. Eu conhecia bem os riscos e sabia que nem todos poderiam participar. Mesmo assim, conseguimos terminar a proposta. Enviamos o documento para o cliente e explicamos por que algumas decisões foram necessárias. Depois da reunião, vários participantes ficaram mais confiantes quanto ao cronograma.",
+        "questions": [
+          "Com que frequência a equipe tem se reunido?",
+          "O que os colegas já tinham revisado?",
+          "O que o narrador sabia?",
+          "Para quem eles enviaram o documento?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 120–180 words on the topic “A complex decision and its outcome”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que você tem feito ultimamente? / O que já tinha acontecido quando você chegou? / O que você conseguiu fazer apesar das dificuldades? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I did that for your sake.",
+      "expected_answer": "Fiz isso por você."
+    },
+    "pronunciation_focus": "Speak naturally through multi-clause explanations.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Tenho trabalhado muito ultimamente."
+          },
+          {
+            "answer": "B",
+            "sentence": "Quando cheguei, ele tinha saído."
+          },
+          {
+            "answer": "A",
+            "sentence": "Conheço essa cidade."
+          },
+          {
+            "answer": "C",
+            "sentence": "Consegui terminar o projeto."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Tenho",
+            "full_sentence": "Tenho trabalhado muito ultimamente."
+          },
+          {
+            "answer": "tinha",
+            "full_sentence": "Quando cheguei, ele tinha saído."
+          },
+          {
+            "answer": "Conheço",
+            "full_sentence": "Conheço essa cidade."
+          },
+          {
+            "answer": "Consegui",
+            "full_sentence": "Consegui terminar o projeto."
+          }
+        ],
+        "mini_reading": {
+          "translation": "I have been studying Portuguese frequently in recent weeks. Before starting this plan, I had already taken other classes. I have known the teacher for some time and know she organizes clear activities. Last week I managed to finish a difficult project. I did the work for a colleague because he needed help. After submitting it, I became tired but satisfied with the result.",
+          "answers": [
+            {
+              "question": "O que o narrador já tinha feito antes de começar esse plano?",
+              "answer": "Ele já tinha participado de outras aulas."
+            },
+            {
+              "question": "Para quem ele fez o trabalho?",
+              "answer": "Para um colega que precisava de ajuda."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Tenho estudado bastante.",
+          "O colega já tinha saído.",
+          "Consegui terminar o relatório."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "I managed to finish the project.",
+            "model": "Consegui terminar o projeto."
+          },
+          {
+            "cue": "I did the work for my friend.",
+            "model": "Fiz o trabalho para minha amiga."
+          },
+          {
+            "cue": "He got tired after the trip.",
+            "model": "Ele ficou cansado depois da viagem."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Conheço essa cidade.",
+          "Consegui terminar o projeto.",
+          "Fiz o trabalho para minha amiga.",
+          "Ele ficou cansado depois da viagem."
+        ],
+        "fill_in": [
+          {
+            "answer": "Conheço",
+            "full_sentence": "Consegui terminar o projeto. Conheço essa cidade."
+          },
+          {
+            "answer": "Consegui",
+            "full_sentence": "Fiz o trabalho para minha amiga. Consegui terminar o projeto."
+          },
+          {
+            "answer": "para",
+            "full_sentence": "Ele ficou cansado depois da viagem. Fiz o trabalho para minha amiga."
+          },
+          {
+            "answer": "ficou",
+            "full_sentence": "Tenho trabalhado muito ultimamente. Ele ficou cansado depois da viagem."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Tenho trabalhado muito ultimamente.",
+            "en": "I have been working a lot lately."
+          },
+          {
+            "pt": "Conheço essa cidade.",
+            "en": "I know this city."
+          },
+          {
+            "pt": "Fiz o trabalho para minha amiga.",
+            "en": "I did the work for my friend."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Ana has been working a lot since the start of the month. When she received a new request, she had already prepared part of the material. She knows the client well, but does not always know what decisions he will make. Despite the difficulties, she managed to organize the delivery. She made some changes to improve the document and others because of the feedback she received. In the end, the team felt relieved.",
+          "answers": [
+            {
+              "question": "O que Ana já tinha preparado quando recebeu o novo pedido?",
+              "answer": "Ela já tinha preparado parte do material."
+            },
+            {
+              "question": "Por que ela fez mudanças no documento?",
+              "answer": "Para melhorar o documento e por causa das observações recebidas."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que você tem feito ultimamente?",
+          "model_answer": "Tenho estudado bastante.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu tenho estudou muito. → Eu tenho estudado muito. (Use participle.) Fiz isso por conseguir tempo. → Fiz isso para conseguir tempo. (Purpose uses para.)"
+        },
+        {
+          "question": "O que já tinha acontecido quando você chegou?",
+          "model_answer": "O colega já tinha saído.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu tenho estudou muito. → Eu tenho estudado muito. (Use participle.) Fiz isso por conseguir tempo. → Fiz isso para conseguir tempo. (Purpose uses para.)"
+        },
+        {
+          "question": "O que você conseguiu fazer apesar das dificuldades?",
+          "model_answer": "Consegui terminar o relatório.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Eu tenho estudou muito. → Eu tenho estudado muito. (Use participle.) Fiz isso por conseguir tempo. → Fiz isso para conseguir tempo. (Purpose uses para.)"
+        },
+        {
+          "question": "Que atividade você tem repetido e qual evento concluiu ontem?",
+          "model_answer": "Tenho estudado português e ontem terminei uma lição.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Eu tenho estudou muito. → Eu tenho estudado muito. (Use participle.) Fiz isso por conseguir tempo. → Fiz isso para conseguir tempo. (Purpose uses para.)"
+        },
+        {
+          "question": "O que já tinha ocorrido antes de uma decisão importante?",
+          "model_answer": "Eu já tinha conversado com a equipe.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu tenho estudou muito. → Eu tenho estudado muito. (Use participle.) Fiz isso por conseguir tempo. → Fiz isso para conseguir tempo. (Purpose uses para.)"
+        },
+        {
+          "question": "Quando você usa conseguir em vez de poder para relatar sucesso?",
+          "model_answer": "Uso consegui quando realmente terminei a tarefa.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu tenho estudou muito. → Eu tenho estudado muito. (Use participle.) Fiz isso por conseguir tempo. → Fiz isso para conseguir tempo. (Purpose uses para.)"
+        },
+        {
+          "question": "Explique um objetivo com para e uma causa com por.",
+          "model_answer": "Estudei para aprender e faltei por causa da chuva.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Eu tenho estudou muito. → Eu tenho estudado muito. (Use participle.) Fiz isso por conseguir tempo. → Fiz isso para conseguir tempo. (Purpose uses para.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Quando cheguei, ele tinha saído."
+          },
+          {
+            "answer": "B",
+            "sentence": "Conheço essa cidade."
+          },
+          {
+            "answer": "C",
+            "sentence": "Consegui terminar o projeto."
+          },
+          {
+            "answer": "B",
+            "sentence": "Fiz o trabalho para minha amiga."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ele ficou cansado depois da viagem."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "tinha",
+            "full_sentence": "Quando cheguei, ele tinha saído."
+          },
+          {
+            "answer": "Conheço",
+            "full_sentence": "Conheço essa cidade."
+          },
+          {
+            "answer": "Consegui",
+            "full_sentence": "Consegui terminar o projeto."
+          },
+          {
+            "answer": "para",
+            "full_sentence": "Fiz o trabalho para minha amiga."
+          },
+          {
+            "answer": "ficou",
+            "full_sentence": "Ele ficou cansado depois da viagem."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Tenho trabalhado muito ultimamente.",
+          "Quando cheguei, ele tinha saído.",
+          "Conheço essa cidade.",
+          "Consegui terminar o projeto.",
+          "Fiz o trabalho para minha amiga."
+        ],
+        "D_portuguese_to_english": [
+          "I know this city.",
+          "I managed to finish the project.",
+          "I did the work for my friend.",
+          "He got tired after the trip."
+        ],
+        "E_reading": {
+          "translation": "Our team has been holding weekly meetings. When we started the last stage, the colleagues had already reviewed the budget. I knew the risks well and knew not everyone would be able to participate. Even so, we managed to finish the proposal. We sent the document to the client and explained why some decisions were necessary. After the meeting, several participants became more confident about the schedule.",
+          "answers": [
+            {
+              "question": "Com que frequência a equipe tem se reunido?",
+              "answer": "Ela tem realizado reuniões semanais."
+            },
+            {
+              "question": "O que os colegas já tinham revisado?",
+              "answer": "Eles já tinham revisado o orçamento."
+            },
+            {
+              "question": "O que o narrador sabia?",
+              "answer": "Ele sabia que nem todos poderiam participar."
+            },
+            {
+              "question": "Para quem eles enviaram o documento?",
+              "answer": "Para o cliente."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Nossa equipe tem realizado reuniões semanais. Quando começamos a última etapa, os colegas já tinham revisado o orçamento. Eu conhecia bem os riscos e sabia que nem todos poderiam participar. Mesmo assim, conseguimos terminar a proposta. Enviamos o documento para o cliente e explicamos por que algumas decisões foram necessárias. Depois da reunião, vários participantes ficaram mais confiantes quanto ao cronograma.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Tenho estudado bastante.",
+            "O colega já tinha saído.",
+            "Consegui terminar o relatório."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

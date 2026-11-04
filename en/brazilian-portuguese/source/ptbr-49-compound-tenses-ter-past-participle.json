@@ -1,0 +1,698 @@
+{
+  "lesson_number": 49,
+  "id": "L49",
+  "title": "Compound Tenses — Ter + Past Participle",
+  "module": "Módulo 9 — Narrativas e precisão avançada",
+  "level": "B2",
+  "main_grammar": "tempos compostos com ter + particípio.",
+  "previous_knowledge": "Lessons 1–48",
+  "key_vocabulary": [
+    "tenho",
+    "tem",
+    "estudado",
+    "trabalhado",
+    "ultimamente",
+    "repetido",
+    "semana",
+    "português"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Recent habits you have kept up” using this lesson’s target structure.",
+    "basic_rule": "Ter + past participle in contemporary Brazilian Portuguese often marks activity repeated or continuing recently.",
+    "structure": "tenho/tem/temos + participle",
+    "english_comparison": "English I have studied is not always equivalent: Portuguese tenho estudado often implies repeated or continuing activity.",
+    "model_sentences": [
+      {
+        "pt": "Tenho estudado muito.",
+        "en": "I have been studying a lot lately."
+      },
+      {
+        "pt": "Ela tem trabalhado bastante.",
+        "en": "She has been working quite a lot lately."
+      },
+      {
+        "pt": "Nós temos conversado todos os dias.",
+        "en": "We have been talking every day."
+      },
+      {
+        "pt": "Eles têm viajado com frequência.",
+        "en": "They have been traveling frequently."
+      },
+      {
+        "pt": "Você tem lido ultimamente?",
+        "en": "Have you been reading lately?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "tenho",
+        "meaning": "I have",
+        "example": "Tenho estudado muito."
+      },
+      {
+        "term": "tem",
+        "meaning": "has",
+        "example": "Ela tem trabalhado bastante."
+      },
+      {
+        "term": "estudado",
+        "meaning": "studied (participle)",
+        "example": "Tenho estudado muito."
+      },
+      {
+        "term": "trabalhado",
+        "meaning": "worked (participle)",
+        "example": "Ela tem trabalhado bastante."
+      },
+      {
+        "term": "ultimamente",
+        "meaning": "lately",
+        "example": "Você tem lido ultimamente?"
+      },
+      {
+        "term": "repetido",
+        "meaning": "repeated",
+        "example": "Tenho repetido as palavras novas."
+      },
+      {
+        "term": "semana",
+        "meaning": "week",
+        "example": "Nesta semana tenho trabalhado muito."
+      },
+      {
+        "term": "português",
+        "meaning": "Portuguese",
+        "example": "Ultimamente, tenho estudado português quase todos os dias."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I have been studying a lot lately.”?",
+            "options": {
+              "A": "Tenho estudado muito.",
+              "B": "Você tem lido ultimamente?",
+              "C": "Tenho dormido pouco."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She has been working quite a lot lately.”?",
+            "options": {
+              "A": "Você tem lido ultimamente?",
+              "B": "Nós temos conversado todos os dias.",
+              "C": "Ela tem trabalhado bastante."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We have been talking every day.”?",
+            "options": {
+              "A": "Você tem lido ultimamente?",
+              "B": "Nós temos conversado todos os dias.",
+              "C": "Tenho estudado muito."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They have been traveling frequently.”?",
+            "options": {
+              "A": "Ela tem trabalhado bastante.",
+              "B": "Você tem lido ultimamente?",
+              "C": "Eles têm viajado com frequência."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ estudado muito.",
+            "hint": "I have been studying a lot lately."
+          },
+          {
+            "sentence": "Ela ________ trabalhado bastante.",
+            "hint": "She has been working quite a lot lately."
+          },
+          {
+            "sentence": "Nós ________ conversado todos os dias.",
+            "hint": "We have been talking every day."
+          },
+          {
+            "sentence": "Eles ________ viajado com frequência.",
+            "hint": "They have been traveling frequently."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Ultimamente, tenho estudado português quase todos os dias. Também tenho escutado programas de rádio e praticado conversação com meus amigos. Antes, eu estudava somente aos sábados. Agora tenho dedicado mais tempo à língua porque quero participar de reuniões em português. Minha professora tem sugerido textos curtos e tem acompanhado meu progresso ao longo das últimas semanas.",
+        "questions": [
+          "Com que frequência o narrador tem estudado?",
+          "Por que ele tem dedicado mais tempo à língua?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que você tem estudado ultimamente?",
+          "Quais atividades você tem repetido?",
+          "O que você fez ontem, uma vez só?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Look for ultimamente or a recent period of repeated activity.",
+      "examples": [
+        {
+          "pt": "Eles têm viajado com frequência.",
+          "en": "They have been traveling frequently."
+        },
+        {
+          "pt": "Você tem lido ultimamente?",
+          "en": "Have you been reading lately?"
+        },
+        {
+          "pt": "Tenho dormido pouco.",
+          "en": "I have been sleeping little lately."
+        }
+      ],
+      "compare": "Estudei ontem / Tenho estudado ultimamente: one completed event versus recent ongoing pattern.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu tenho estudo português.",
+          "correct": "Eu tenho estudado português.",
+          "explanation": "After ter, use participle."
+        },
+        {
+          "wrong": "Ela tem trabalhou muito.",
+          "correct": "Ela tem trabalhado muito.",
+          "explanation": "Do not use a finite past verb after tem."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Tenho estudado muito.",
+            "cue": "They have been traveling frequently."
+          },
+          {
+            "base": "Ela tem trabalhado bastante.",
+            "cue": "Have you been reading lately?"
+          },
+          {
+            "base": "Nós temos conversado todos os dias.",
+            "cue": "I have been sleeping little lately."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We have been talking every day.",
+          "They have been traveling frequently.",
+          "Have you been reading lately?",
+          "I have been sleeping little lately."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles têm viajado com frequência. Nós ________ conversado todos os dias.",
+            "hint": "We have been talking every day."
+          },
+          {
+            "sentence": "Você tem lido ultimamente? Eles ________ viajado com frequência.",
+            "hint": "They have been traveling frequently."
+          },
+          {
+            "sentence": "Tenho dormido pouco. Você ________ lido ultimamente?",
+            "hint": "Have you been reading lately?"
+          },
+          {
+            "sentence": "Tenho estudado muito. ________ dormido pouco.",
+            "hint": "I have been sleeping little lately."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Minha irmã tem trabalhado em um projeto novo. Nas últimas semanas, ela tem conversado com clientes e revisado documentos quase diariamente. O trabalho tem exigido muita atenção, mas ela também tem aprendido bastante. Ontem, terminou uma apresentação específica. Isso foi um evento concluído; já a rotina de revisão e contato com clientes continua até o fim do mês.",
+        "questions": [
+          "Em que a irmã tem trabalhado?",
+          "O que ela terminou ontem?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que você tem estudado ultimamente?",
+          "english": "What have you been studying lately?"
+        },
+        {
+          "question": "Quais atividades você tem repetido?",
+          "english": "What activities have you been repeating?"
+        },
+        {
+          "question": "O que você fez ontem, uma vez só?",
+          "english": "What did you do once yesterday?"
+        },
+        {
+          "question": "Que atividade profissional você tem realizado repetidamente?",
+          "english": "Which professional activity have you repeatedly carried out?"
+        },
+        {
+          "question": "Qual é a diferença entre “estudei ontem” e “tenho estudado”?",
+          "english": "What is the difference?"
+        },
+        {
+          "question": "Que mudança você tem observado em sua rotina?",
+          "english": "What change have you been observing in your routine?"
+        },
+        {
+          "question": "Diga uma ação única que contrasta com sua rotina recente.",
+          "english": "Give a single action contrasting with your recent routine."
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I have been studying a lot lately.”? A. Tenho estudado muito. B. Você tem lido ultimamente? C. Tenho dormido pouco.",
+        "worked_answer": "A. Tenho estudado muito. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ estudado muito. (I have been studying a lot lately.)",
+        "worked_answer": "Tenho → Tenho estudado muito. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We have been talking every day.",
+        "worked_answer": "Nós temos conversado todos os dias. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Tenho estudado muito.",
+        "worked_answer": "I have been studying a lot lately. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Com que frequência o narrador tem estudado?",
+        "worked_answer": "Ele tem estudado quase todos os dias. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles têm viajado com frequência.” as a reference.",
+        "worked_answer": "Model: Você tem lido ultimamente? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Tenho dormido pouco. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "30–40 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She has been working quite a lot lately.”?",
+            "options": {
+              "A": "Eles têm viajado com frequência.",
+              "B": "Ela tem trabalhado bastante.",
+              "C": "Você tem lido ultimamente?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We have been talking every day.”?",
+            "options": {
+              "A": "Nós temos conversado todos os dias.",
+              "B": "Você tem lido ultimamente?",
+              "C": "Tenho estudado muito."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They have been traveling frequently.”?",
+            "options": {
+              "A": "Nós temos conversado todos os dias.",
+              "B": "Eles têm viajado com frequência.",
+              "C": "Tenho dormido pouco."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Have you been reading lately?”?",
+            "options": {
+              "A": "Tenho estudado muito.",
+              "B": "Nós temos conversado todos os dias.",
+              "C": "Você tem lido ultimamente?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I have been sleeping little lately.”?",
+            "options": {
+              "A": "Nós temos conversado todos os dias.",
+              "B": "Tenho estudado muito.",
+              "C": "Tenho dormido pouco."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ trabalhado bastante.",
+            "hint": "She has been working quite a lot lately."
+          },
+          {
+            "sentence": "Nós ________ conversado todos os dias.",
+            "hint": "We have been talking every day."
+          },
+          {
+            "sentence": "Eles ________ viajado com frequência.",
+            "hint": "They have been traveling frequently."
+          },
+          {
+            "sentence": "Você ________ lido ultimamente?",
+            "hint": "Have you been reading lately?"
+          },
+          {
+            "sentence": "________ dormido pouco.",
+            "hint": "I have been sleeping little lately."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I have been studying a lot lately.",
+          "She has been working quite a lot lately.",
+          "We have been talking every day.",
+          "They have been traveling frequently.",
+          "Have you been reading lately?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós temos conversado todos os dias.",
+          "Eles têm viajado com frequência.",
+          "Você tem lido ultimamente?",
+          "Tenho dormido pouco."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Nos últimos meses, nossa equipe tem realizado encontros semanais para melhorar a comunicação. Temos registrado as principais decisões e distribuído tarefas com mais clareza. O gerente tem pedido exemplos concretos durante as reuniões. Na terça-feira passada, concluímos uma etapa importante, mas continuamos desenvolvendo as outras. Esse contraste mostra a diferença entre uma ação concluída e atividades que vêm se repetindo.",
+        "questions": [
+          "O que a equipe tem realizado nos últimos meses?",
+          "Para que servem esses encontros?",
+          "O que o gerente tem pedido?",
+          "O que aconteceu na terça-feira passada?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 120–180 words on the topic “Recent habits you have kept up”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que você tem estudado ultimamente? / Quais atividades você tem repetido? / O que você fez ontem, uma vez só? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I hope you are well.",
+      "expected_answer": "Espero que você esteja bem."
+    },
+    "pronunciation_focus": "Stress participle endings -ado and -ido naturally.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Tenho estudado muito."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela tem trabalhado bastante."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós temos conversado todos os dias."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles têm viajado com frequência."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Tenho",
+            "full_sentence": "Tenho estudado muito."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Ela tem trabalhado bastante."
+          },
+          {
+            "answer": "temos",
+            "full_sentence": "Nós temos conversado todos os dias."
+          },
+          {
+            "answer": "têm",
+            "full_sentence": "Eles têm viajado com frequência."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Lately I have been studying Portuguese almost every day. I have also been listening to radio programs and practicing conversation with friends. Before, I studied only on Saturdays. Now I have been devoting more time to the language because I want to participate in meetings in Portuguese. My teacher has been suggesting short texts and following my progress over the past few weeks.",
+          "answers": [
+            {
+              "question": "Com que frequência o narrador tem estudado?",
+              "answer": "Ele tem estudado quase todos os dias."
+            },
+            {
+              "question": "Por que ele tem dedicado mais tempo à língua?",
+              "answer": "Porque quer participar de reuniões em português."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Tenho estudado português.",
+          "Tenho praticado conversação.",
+          "Ontem eu terminei um livro."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They have been traveling frequently.",
+            "model": "Eles têm viajado com frequência."
+          },
+          {
+            "cue": "Have you been reading lately?",
+            "model": "Você tem lido ultimamente?"
+          },
+          {
+            "cue": "I have been sleeping little lately.",
+            "model": "Tenho dormido pouco."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós temos conversado todos os dias.",
+          "Eles têm viajado com frequência.",
+          "Você tem lido ultimamente?",
+          "Tenho dormido pouco."
+        ],
+        "fill_in": [
+          {
+            "answer": "temos",
+            "full_sentence": "Eles têm viajado com frequência. Nós temos conversado todos os dias."
+          },
+          {
+            "answer": "têm",
+            "full_sentence": "Você tem lido ultimamente? Eles têm viajado com frequência."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Tenho dormido pouco. Você tem lido ultimamente?"
+          },
+          {
+            "answer": "Tenho",
+            "full_sentence": "Tenho estudado muito. Tenho dormido pouco."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Tenho estudado muito.",
+            "en": "I have been studying a lot lately."
+          },
+          {
+            "pt": "Nós temos conversado todos os dias.",
+            "en": "We have been talking every day."
+          },
+          {
+            "pt": "Você tem lido ultimamente?",
+            "en": "Have you been reading lately?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "My sister has been working on a new project. In recent weeks, she has been talking with clients and reviewing documents almost daily. The work has required a lot of attention, but she has also been learning a lot. Yesterday she finished one specific presentation. That was a completed event; the routine of reviews and client contact continues until the end of the month.",
+          "answers": [
+            {
+              "question": "Em que a irmã tem trabalhado?",
+              "answer": "Ela tem trabalhado em um projeto novo."
+            },
+            {
+              "question": "O que ela terminou ontem?",
+              "answer": "Ela terminou uma apresentação específica."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que você tem estudado ultimamente?",
+          "model_answer": "Tenho estudado português.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu tenho estudo português. → Eu tenho estudado português. (After ter, use participle.) Ela tem trabalhou muito. → Ela tem trabalhado muito. (Do not use a finite past verb after tem.)"
+        },
+        {
+          "question": "Quais atividades você tem repetido?",
+          "model_answer": "Tenho praticado conversação.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu tenho estudo português. → Eu tenho estudado português. (After ter, use participle.) Ela tem trabalhou muito. → Ela tem trabalhado muito. (Do not use a finite past verb after tem.)"
+        },
+        {
+          "question": "O que você fez ontem, uma vez só?",
+          "model_answer": "Ontem eu terminei um livro.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Eu tenho estudo português. → Eu tenho estudado português. (After ter, use participle.) Ela tem trabalhou muito. → Ela tem trabalhado muito. (Do not use a finite past verb after tem.)"
+        },
+        {
+          "question": "Que atividade profissional você tem realizado repetidamente?",
+          "model_answer": "Tenho participado de reuniões semanais.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Eu tenho estudo português. → Eu tenho estudado português. (After ter, use participle.) Ela tem trabalhou muito. → Ela tem trabalhado muito. (Do not use a finite past verb after tem.)"
+        },
+        {
+          "question": "Qual é a diferença entre “estudei ontem” e “tenho estudado”?",
+          "model_answer": "Estudei ontem indica um evento; tenho estudado indica repetição recente.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu tenho estudo português. → Eu tenho estudado português. (After ter, use participle.) Ela tem trabalhou muito. → Ela tem trabalhado muito. (Do not use a finite past verb after tem.)"
+        },
+        {
+          "question": "Que mudança você tem observado em sua rotina?",
+          "model_answer": "Tenho observado mais tempo para estudar.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu tenho estudo português. → Eu tenho estudado português. (After ter, use participle.) Ela tem trabalhou muito. → Ela tem trabalhado muito. (Do not use a finite past verb after tem.)"
+        },
+        {
+          "question": "Diga uma ação única que contrasta com sua rotina recente.",
+          "model_answer": "Tenho estudado diariamente, mas ontem descansei.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Eu tenho estudo português. → Eu tenho estudado português. (After ter, use participle.) Ela tem trabalhou muito. → Ela tem trabalhado muito. (Do not use a finite past verb after tem.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ela tem trabalhado bastante."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós temos conversado todos os dias."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eles têm viajado com frequência."
+          },
+          {
+            "answer": "C",
+            "sentence": "Você tem lido ultimamente?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Tenho dormido pouco."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "tem",
+            "full_sentence": "Ela tem trabalhado bastante."
+          },
+          {
+            "answer": "temos",
+            "full_sentence": "Nós temos conversado todos os dias."
+          },
+          {
+            "answer": "têm",
+            "full_sentence": "Eles têm viajado com frequência."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Você tem lido ultimamente?"
+          },
+          {
+            "answer": "Tenho",
+            "full_sentence": "Tenho dormido pouco."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Tenho estudado muito.",
+          "Ela tem trabalhado bastante.",
+          "Nós temos conversado todos os dias.",
+          "Eles têm viajado com frequência.",
+          "Você tem lido ultimamente?"
+        ],
+        "D_portuguese_to_english": [
+          "We have been talking every day.",
+          "They have been traveling frequently.",
+          "Have you been reading lately?",
+          "I have been sleeping little lately."
+        ],
+        "E_reading": {
+          "translation": "Over the last few months, our team has been holding weekly meetings to improve communication. We have been recording the main decisions and assigning tasks more clearly. The manager has been asking for concrete examples during meetings. Last Tuesday, we finished one important stage, but we continue developing the others. This contrast shows the difference between a completed action and activities that have been recurring.",
+          "answers": [
+            {
+              "question": "O que a equipe tem realizado nos últimos meses?",
+              "answer": "Tem realizado encontros semanais."
+            },
+            {
+              "question": "Para que servem esses encontros?",
+              "answer": "Para melhorar a comunicação."
+            },
+            {
+              "question": "O que o gerente tem pedido?",
+              "answer": "Ele tem pedido exemplos concretos."
+            },
+            {
+              "question": "O que aconteceu na terça-feira passada?",
+              "answer": "A equipe concluiu uma etapa importante."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Nos últimos meses, nossa equipe tem realizado encontros semanais para melhorar a comunicação. Temos registrado as principais decisões e distribuído tarefas com mais clareza. O gerente tem pedido exemplos concretos durante as reuniões. Na terça-feira passada, concluímos uma etapa importante, mas continuamos desenvolvendo as outras. Esse contraste mostra a diferença entre uma ação concluída e atividades que vêm se repetindo.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Tenho estudado português.",
+            "Tenho praticado conversação.",
+            "Ontem eu terminei um livro."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

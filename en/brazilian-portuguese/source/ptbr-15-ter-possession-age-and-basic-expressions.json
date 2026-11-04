@@ -1,0 +1,668 @@
+{
+  "lesson_number": 15,
+  "id": "L15",
+  "title": "Ter — Possession, Age and Basic Expressions",
+  "module": "Módulo 3 — Perguntas, preferências e rotina",
+  "level": "A1–A2",
+  "main_grammar": "presente irregular de ter.",
+  "previous_knowledge": "Lessons 1–14",
+  "key_vocabulary": [
+    "tenho",
+    "tem",
+    "têm",
+    "temos",
+    "anos",
+    "irmãos",
+    "fome",
+    "sede"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your family, age and needs” using this lesson’s target structure.",
+    "basic_rule": "Ter: eu tenho, você/ela tem, nós temos, vocês/eles têm; also used for age, hunger and thirst.",
+    "structure": "subject + ter + noun/age/need",
+    "english_comparison": "English uses be for age/hunger; Portuguese uses ter.",
+    "model_sentences": [
+      {
+        "pt": "Eu tenho vinte anos.",
+        "en": "I am twenty years old."
+      },
+      {
+        "pt": "Ela tem dois irmãos.",
+        "en": "She has two siblings."
+      },
+      {
+        "pt": "Nós temos fome.",
+        "en": "We are hungry."
+      },
+      {
+        "pt": "Eles têm sede.",
+        "en": "They are thirsty."
+      },
+      {
+        "pt": "Você tem tempo hoje?",
+        "en": "Do you have time today?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "tenho",
+        "meaning": "I have",
+        "example": "Eu tenho vinte anos."
+      },
+      {
+        "term": "tem",
+        "meaning": "has",
+        "example": "Ela tem dois irmãos."
+      },
+      {
+        "term": "têm",
+        "meaning": "they have",
+        "example": "Eles têm sede."
+      },
+      {
+        "term": "temos",
+        "meaning": "we have",
+        "example": "Nós temos fome."
+      },
+      {
+        "term": "anos",
+        "meaning": "years",
+        "example": "Eu tenho vinte anos."
+      },
+      {
+        "term": "irmãos",
+        "meaning": "siblings",
+        "example": "Ela tem dois irmãos."
+      },
+      {
+        "term": "fome",
+        "meaning": "hunger",
+        "example": "Nós temos fome."
+      },
+      {
+        "term": "sede",
+        "meaning": "thirst",
+        "example": "Eles têm sede."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I am twenty years old.”?",
+            "options": {
+              "A": "Nós temos fome.",
+              "B": "Eu tenho vinte anos.",
+              "C": "Eles têm sede."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She has two siblings.”?",
+            "options": {
+              "A": "Ela tem dois irmãos.",
+              "B": "Eu tenho vinte anos.",
+              "C": "Eu tenho sono à noite."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are hungry.”?",
+            "options": {
+              "A": "Nós temos fome.",
+              "B": "Eles têm sede.",
+              "C": "Você tem tempo hoje?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They are thirsty.”?",
+            "options": {
+              "A": "Eu tenho sono à noite.",
+              "B": "Nós temos fome.",
+              "C": "Eles têm sede."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ vinte anos.",
+            "hint": "I am twenty years old."
+          },
+          {
+            "sentence": "Ela ________ dois irmãos.",
+            "hint": "She has two siblings."
+          },
+          {
+            "sentence": "Nós ________ fome.",
+            "hint": "We are hungry."
+          },
+          {
+            "sentence": "Eles ________ sede.",
+            "hint": "They are thirsty."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Eu tenho vinte e cinco anos. Minha irmã tem vinte anos. Nós temos dois irmãos. Nossa mãe tem um carro. Hoje eu tenho fome e meu irmão tem sede. Você tem tempo para almoçar? Nós temos tempo agora.",
+        "questions": [
+          "Quantos anos a irmã tem?",
+          "O que a mãe tem?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Quantos anos você tem?",
+          "Você tem irmãos?",
+          "Você tem fome agora?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Use the same verb to name possession and bodily need.",
+      "examples": [
+        {
+          "pt": "Eles têm sede.",
+          "en": "They are thirsty."
+        },
+        {
+          "pt": "Você tem tempo hoje?",
+          "en": "Do you have time today?"
+        },
+        {
+          "pt": "Eu tenho sono à noite.",
+          "en": "I am sleepy at night."
+        }
+      ],
+      "compare": "Tenho 25 anos / Tenho fome: age versus need.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu sou vinte anos.",
+          "correct": "Eu tenho vinte anos.",
+          "explanation": "Age uses ter."
+        },
+        {
+          "wrong": "Eles tem fome.",
+          "correct": "Eles têm fome.",
+          "explanation": "Plural têm has accent."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu tenho vinte anos.",
+            "cue": "They are thirsty."
+          },
+          {
+            "base": "Ela tem dois irmãos.",
+            "cue": "Do you have time today?"
+          },
+          {
+            "base": "Nós temos fome.",
+            "cue": "I am sleepy at night."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We are hungry.",
+          "They are thirsty.",
+          "Do you have time today?",
+          "I am sleepy at night."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles têm sede. Nós ________ fome.",
+            "hint": "We are hungry."
+          },
+          {
+            "sentence": "Você tem tempo hoje? Eles ________ sede.",
+            "hint": "They are thirsty."
+          },
+          {
+            "sentence": "Eu tenho sono à noite. Você ________ tempo hoje?",
+            "hint": "Do you have time today?"
+          },
+          {
+            "sentence": "Eu tenho vinte anos. Eu ________ sono à noite.",
+            "hint": "I am sleepy at night."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Minha amiga tem dois cachorros. Ela tem uma casa pequena. Eu tenho uma bicicleta. Nós temos aula de português às oito. Depois da aula, eu tenho sono. Meus amigos têm fome. Eles têm tempo para comer.",
+        "questions": [
+          "Quantos cachorros a amiga tem?",
+          "Quando o narrador tem sono?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Quantos anos você tem?",
+          "english": "How old are you?"
+        },
+        {
+          "question": "Você tem irmãos?",
+          "english": "Do you have siblings?"
+        },
+        {
+          "question": "Você tem fome agora?",
+          "english": "Are you hungry now?"
+        },
+        {
+          "question": "O que sua família tem em casa?",
+          "english": "What does your family have at home?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I am twenty years old.”? A. Nós temos fome. B. Eu tenho vinte anos. C. Eles têm sede.",
+        "worked_answer": "B. Eu tenho vinte anos. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ vinte anos. (I am twenty years old.)",
+        "worked_answer": "tenho → Eu tenho vinte anos. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We are hungry.",
+        "worked_answer": "Nós temos fome. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu tenho vinte anos.",
+        "worked_answer": "I am twenty years old. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Quantos anos a irmã tem?",
+        "worked_answer": "Ela tem vinte anos. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles têm sede.” as a reference.",
+        "worked_answer": "Model: Você tem tempo hoje? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu tenho sono à noite. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "20–25 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She has two siblings.”?",
+            "options": {
+              "A": "Ela tem dois irmãos.",
+              "B": "Eu tenho vinte anos.",
+              "C": "Você tem tempo hoje?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are hungry.”?",
+            "options": {
+              "A": "Eu tenho vinte anos.",
+              "B": "Eles têm sede.",
+              "C": "Nós temos fome."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They are thirsty.”?",
+            "options": {
+              "A": "Eu tenho sono à noite.",
+              "B": "Eles têm sede.",
+              "C": "Você tem tempo hoje?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Do you have time today?”?",
+            "options": {
+              "A": "Nós temos fome.",
+              "B": "Eu tenho vinte anos.",
+              "C": "Você tem tempo hoje?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I am sleepy at night.”?",
+            "options": {
+              "A": "Eu tenho vinte anos.",
+              "B": "Eu tenho sono à noite.",
+              "C": "Eles têm sede."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ dois irmãos.",
+            "hint": "She has two siblings."
+          },
+          {
+            "sentence": "Nós ________ fome.",
+            "hint": "We are hungry."
+          },
+          {
+            "sentence": "Eles ________ sede.",
+            "hint": "They are thirsty."
+          },
+          {
+            "sentence": "Você ________ tempo hoje?",
+            "hint": "Do you have time today?"
+          },
+          {
+            "sentence": "Eu ________ sono à noite.",
+            "hint": "I am sleepy at night."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I am twenty years old.",
+          "She has two siblings.",
+          "We are hungry.",
+          "They are thirsty.",
+          "Do you have time today?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós temos fome.",
+          "Eles têm sede.",
+          "Você tem tempo hoje?",
+          "Eu tenho sono à noite."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Pedro tem trinta anos. Ele tem uma irmã e dois amigos brasileiros. A irmã tem um livro novo. Eles têm uma aula hoje. Eu tenho sede, mas não tenho água. Nossa professora tem tempo para ajudar.",
+        "questions": [
+          "Quantos anos Pedro tem?",
+          "O que a irmã de Pedro tem?",
+          "O narrador tem água?",
+          "A professora tem tempo para ajudar?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 6–8 sentences on the topic “Your family, age and needs”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Quantos anos você tem? / Você tem irmãos? / Você tem fome agora? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I like music.",
+      "expected_answer": "Eu gosto de música."
+    },
+    "pronunciation_focus": "NH in tenho resembles Spanish ñ, not n+h.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Eu tenho vinte anos."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela tem dois irmãos."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós temos fome."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles têm sede."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "tenho",
+            "full_sentence": "Eu tenho vinte anos."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Ela tem dois irmãos."
+          },
+          {
+            "answer": "temos",
+            "full_sentence": "Nós temos fome."
+          },
+          {
+            "answer": "têm",
+            "full_sentence": "Eles têm sede."
+          }
+        ],
+        "mini_reading": {
+          "translation": "I am twenty-five years old. My sister is twenty. We have two siblings. Our mother has a car. Today I am hungry and my brother is thirsty. Do you have time for lunch? We have time now.",
+          "answers": [
+            {
+              "question": "Quantos anos a irmã tem?",
+              "answer": "Ela tem vinte anos."
+            },
+            {
+              "question": "O que a mãe tem?",
+              "answer": "A mãe tem um carro."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu tenho trinta anos.",
+          "Sim, tenho dois irmãos.",
+          "Não, eu não tenho fome."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They are thirsty.",
+            "model": "Eles têm sede."
+          },
+          {
+            "cue": "Do you have time today?",
+            "model": "Você tem tempo hoje?"
+          },
+          {
+            "cue": "I am sleepy at night.",
+            "model": "Eu tenho sono à noite."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós temos fome.",
+          "Eles têm sede.",
+          "Você tem tempo hoje?",
+          "Eu tenho sono à noite."
+        ],
+        "fill_in": [
+          {
+            "answer": "temos",
+            "full_sentence": "Eles têm sede. Nós temos fome."
+          },
+          {
+            "answer": "têm",
+            "full_sentence": "Você tem tempo hoje? Eles têm sede."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Eu tenho sono à noite. Você tem tempo hoje?"
+          },
+          {
+            "answer": "tenho",
+            "full_sentence": "Eu tenho vinte anos. Eu tenho sono à noite."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu tenho vinte anos.",
+            "en": "I am twenty years old."
+          },
+          {
+            "pt": "Nós temos fome.",
+            "en": "We are hungry."
+          },
+          {
+            "pt": "Você tem tempo hoje?",
+            "en": "Do you have time today?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "My friend has two dogs. She has a small house. I have a bicycle. We have Portuguese class at eight. After class, I am sleepy. My friends are hungry. They have time to eat.",
+          "answers": [
+            {
+              "question": "Quantos cachorros a amiga tem?",
+              "answer": "Ela tem dois cachorros."
+            },
+            {
+              "question": "Quando o narrador tem sono?",
+              "answer": "Ele tem sono depois da aula."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Quantos anos você tem?",
+          "model_answer": "Eu tenho trinta anos.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu sou vinte anos. → Eu tenho vinte anos. (Age uses ter.) Eles tem fome. → Eles têm fome. (Plural têm has accent.)"
+        },
+        {
+          "question": "Você tem irmãos?",
+          "model_answer": "Sim, tenho dois irmãos.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu sou vinte anos. → Eu tenho vinte anos. (Age uses ter.) Eles tem fome. → Eles têm fome. (Plural têm has accent.)"
+        },
+        {
+          "question": "Você tem fome agora?",
+          "model_answer": "Não, eu não tenho fome.",
+          "follow_up": "E sua família?",
+          "watch_for": "Eu sou vinte anos. → Eu tenho vinte anos. (Age uses ter.) Eles tem fome. → Eles têm fome. (Plural têm has accent.)"
+        },
+        {
+          "question": "O que sua família tem em casa?",
+          "model_answer": "Minha família tem dois cachorros.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Eu sou vinte anos. → Eu tenho vinte anos. (Age uses ter.) Eles tem fome. → Eles têm fome. (Plural têm has accent.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Ela tem dois irmãos."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós temos fome."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eles têm sede."
+          },
+          {
+            "answer": "C",
+            "sentence": "Você tem tempo hoje?"
+          },
+          {
+            "answer": "B",
+            "sentence": "Eu tenho sono à noite."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "tem",
+            "full_sentence": "Ela tem dois irmãos."
+          },
+          {
+            "answer": "temos",
+            "full_sentence": "Nós temos fome."
+          },
+          {
+            "answer": "têm",
+            "full_sentence": "Eles têm sede."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Você tem tempo hoje?"
+          },
+          {
+            "answer": "tenho",
+            "full_sentence": "Eu tenho sono à noite."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu tenho vinte anos.",
+          "Ela tem dois irmãos.",
+          "Nós temos fome.",
+          "Eles têm sede.",
+          "Você tem tempo hoje?"
+        ],
+        "D_portuguese_to_english": [
+          "We are hungry.",
+          "They are thirsty.",
+          "Do you have time today?",
+          "I am sleepy at night."
+        ],
+        "E_reading": {
+          "translation": "Pedro is thirty years old. He has a sister and two Brazilian friends. His sister has a new book. They have class today. I am thirsty, but I do not have water. Our teacher has time to help.",
+          "answers": [
+            {
+              "question": "Quantos anos Pedro tem?",
+              "answer": "Pedro tem trinta anos."
+            },
+            {
+              "question": "O que a irmã de Pedro tem?",
+              "answer": "Ela tem um livro novo."
+            },
+            {
+              "question": "O narrador tem água?",
+              "answer": "Não. Ele tem sede, mas não tem água."
+            },
+            {
+              "question": "A professora tem tempo para ajudar?",
+              "answer": "Sim, a professora tem tempo para ajudar."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Pedro tem trinta anos. Ele tem uma irmã e dois amigos brasileiros. A irmã tem um livro novo. Eles têm uma aula hoje. Eu tenho sede, mas não tenho água. Nossa professora tem tempo para ajudar.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu tenho trinta anos.",
+            "Sim, tenho dois irmãos.",
+            "Não, eu não tenho fome."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

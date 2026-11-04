@@ -1,0 +1,668 @@
+{
+  "lesson_number": 16,
+  "id": "L16",
+  "title": "Numbers, Dates and Time",
+  "module": "Módulo 3 — Perguntas, preferências e rotina",
+  "level": "A1–A2",
+  "main_grammar": "expressões de tempo e estruturas com ser.",
+  "previous_knowledge": "Lessons 1–15",
+  "key_vocabulary": [
+    "são",
+    "é",
+    "horas",
+    "às",
+    "segunda-feira",
+    "maio",
+    "meio-dia",
+    "aniversário"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your weekly schedule” using this lesson’s target structure.",
+    "basic_rule": "Use é uma hora for 1:00, são + number + horas for other hours, and às for scheduled times.",
+    "structure": "é/são + time; event + é às + time",
+    "english_comparison": "English says it is three; Portuguese literally says they are three hours.",
+    "model_sentences": [
+      {
+        "pt": "São três horas.",
+        "en": "It is three o’clock."
+      },
+      {
+        "pt": "A aula é às oito.",
+        "en": "Class is at eight."
+      },
+      {
+        "pt": "Hoje é segunda-feira.",
+        "en": "Today is Monday."
+      },
+      {
+        "pt": "Meu aniversário é em maio.",
+        "en": "My birthday is in May."
+      },
+      {
+        "pt": "É uma hora.",
+        "en": "It is one o’clock."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "são",
+        "meaning": "are (time)",
+        "example": "São três horas."
+      },
+      {
+        "term": "é",
+        "meaning": "is (time)",
+        "example": "A aula é às oito."
+      },
+      {
+        "term": "horas",
+        "meaning": "hours",
+        "example": "São três horas."
+      },
+      {
+        "term": "às",
+        "meaning": "at (clock time)",
+        "example": "A aula é às oito."
+      },
+      {
+        "term": "segunda-feira",
+        "meaning": "Monday",
+        "example": "Hoje é segunda-feira."
+      },
+      {
+        "term": "maio",
+        "meaning": "May",
+        "example": "Meu aniversário é em maio."
+      },
+      {
+        "term": "meio-dia",
+        "meaning": "noon",
+        "example": "Nós estudamos ao meio-dia."
+      },
+      {
+        "term": "aniversário",
+        "meaning": "birthday",
+        "example": "Meu aniversário é em maio."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “It is three o’clock.”?",
+            "options": {
+              "A": "São três horas.",
+              "B": "Nós estudamos ao meio-dia.",
+              "C": "Meu aniversário é em maio."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Class is at eight.”?",
+            "options": {
+              "A": "São três horas.",
+              "B": "Hoje é segunda-feira.",
+              "C": "A aula é às oito."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Today is Monday.”?",
+            "options": {
+              "A": "Meu aniversário é em maio.",
+              "B": "Hoje é segunda-feira.",
+              "C": "São três horas."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My birthday is in May.”?",
+            "options": {
+              "A": "Meu aniversário é em maio.",
+              "B": "Nós estudamos ao meio-dia.",
+              "C": "É uma hora."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ três horas.",
+            "hint": "It is three o’clock."
+          },
+          {
+            "sentence": "A aula ________ às oito.",
+            "hint": "Class is at eight."
+          },
+          {
+            "sentence": "Hoje ________ segunda-feira.",
+            "hint": "Today is Monday."
+          },
+          {
+            "sentence": "Meu aniversário ________ em maio.",
+            "hint": "My birthday is in May."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Hoje é segunda-feira. A aula de português é às oito horas. Agora são sete horas. Meu irmão trabalha ao meio-dia. O aniversário dele é em maio. Amanhã é terça-feira. Nós estudamos português às dez horas.",
+        "questions": [
+          "Que dia é hoje?",
+          "Quando é o aniversário do irmão?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Que horas são agora?",
+          "A que horas é sua aula?",
+          "Em que mês é seu aniversário?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Separate stating current time from naming an event's time.",
+      "examples": [
+        {
+          "pt": "Meu aniversário é em maio.",
+          "en": "My birthday is in May."
+        },
+        {
+          "pt": "É uma hora.",
+          "en": "It is one o’clock."
+        },
+        {
+          "pt": "Nós estudamos ao meio-dia.",
+          "en": "We study at noon."
+        }
+      ],
+      "compare": "São duas horas / A aula é às duas: clock time versus schedule.",
+      "common_mistakes": [
+        {
+          "wrong": "É três horas.",
+          "correct": "São três horas.",
+          "explanation": "Use plural são."
+        },
+        {
+          "wrong": "A aula é as oito.",
+          "correct": "A aula é às oito.",
+          "explanation": "Scheduled hours take às."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "São três horas.",
+            "cue": "My birthday is in May."
+          },
+          {
+            "base": "A aula é às oito.",
+            "cue": "It is one o’clock."
+          },
+          {
+            "base": "Hoje é segunda-feira.",
+            "cue": "We study at noon."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "Today is Monday.",
+          "My birthday is in May.",
+          "It is one o’clock.",
+          "We study at noon."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Meu aniversário é em maio. Hoje ________ segunda-feira.",
+            "hint": "Today is Monday."
+          },
+          {
+            "sentence": "É uma hora. Meu aniversário ________ em maio.",
+            "hint": "My birthday is in May."
+          },
+          {
+            "sentence": "Nós estudamos ao meio-dia. ________ uma hora.",
+            "hint": "It is one o’clock."
+          },
+          {
+            "sentence": "São três horas. Nós ________ ao meio-dia.",
+            "hint": "We study at noon."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Hoje são duas horas da tarde. Minha amiga estuda às três. Eu trabalho das oito ao meio-dia. Meu aniversário é em outubro. Na sexta-feira, nós temos aula às nove. Você tem tempo amanhã?",
+        "questions": [
+          "A que horas a amiga estuda?",
+          "Quando é o aniversário do narrador?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Que horas são agora?",
+          "english": "What time is it now?"
+        },
+        {
+          "question": "A que horas é sua aula?",
+          "english": "What time is your class?"
+        },
+        {
+          "question": "Em que mês é seu aniversário?",
+          "english": "What month is your birthday?"
+        },
+        {
+          "question": "A que horas você costuma trabalhar?",
+          "english": "What time do you usually work?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “It is three o’clock.”? A. São três horas. B. Nós estudamos ao meio-dia. C. Meu aniversário é em maio.",
+        "worked_answer": "A. São três horas. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ três horas. (It is three o’clock.)",
+        "worked_answer": "São → São três horas. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Today is Monday.",
+        "worked_answer": "Hoje é segunda-feira. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "São três horas.",
+        "worked_answer": "It is three o’clock. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Que dia é hoje?",
+        "worked_answer": "Hoje é segunda-feira. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Meu aniversário é em maio.” as a reference.",
+        "worked_answer": "Model: É uma hora. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Nós estudamos ao meio-dia. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "20–25 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “Class is at eight.”?",
+            "options": {
+              "A": "Hoje é segunda-feira.",
+              "B": "Meu aniversário é em maio.",
+              "C": "A aula é às oito."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Today is Monday.”?",
+            "options": {
+              "A": "Hoje é segunda-feira.",
+              "B": "A aula é às oito.",
+              "C": "Meu aniversário é em maio."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My birthday is in May.”?",
+            "options": {
+              "A": "Meu aniversário é em maio.",
+              "B": "A aula é às oito.",
+              "C": "Hoje é segunda-feira."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “It is one o’clock.”?",
+            "options": {
+              "A": "Meu aniversário é em maio.",
+              "B": "É uma hora.",
+              "C": "São três horas."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We study at noon.”?",
+            "options": {
+              "A": "São três horas.",
+              "B": "A aula é às oito.",
+              "C": "Nós estudamos ao meio-dia."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "A aula ________ às oito.",
+            "hint": "Class is at eight."
+          },
+          {
+            "sentence": "Hoje ________ segunda-feira.",
+            "hint": "Today is Monday."
+          },
+          {
+            "sentence": "Meu aniversário ________ em maio.",
+            "hint": "My birthday is in May."
+          },
+          {
+            "sentence": "________ uma hora.",
+            "hint": "It is one o’clock."
+          },
+          {
+            "sentence": "Nós ________ ao meio-dia.",
+            "hint": "We study at noon."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "It is three o’clock.",
+          "Class is at eight.",
+          "Today is Monday.",
+          "My birthday is in May.",
+          "It is one o’clock."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Hoje é segunda-feira.",
+          "Meu aniversário é em maio.",
+          "É uma hora.",
+          "Nós estudamos ao meio-dia."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Nossa aula é na quarta-feira, às sete horas da noite. Na quinta-feira, eu trabalho de manhã. Meu irmão estuda ao meio-dia. Hoje é dia vinte. A festa é em novembro. Agora é uma hora. Você estuda aos sábados?",
+        "questions": [
+          "Quando é a aula?",
+          "Quando o narrador trabalha na quinta-feira?",
+          "Quando o irmão estuda?",
+          "Quando é a festa?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 6–8 sentences on the topic “Your weekly schedule”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Que horas são agora? / A que horas é sua aula? / Em que mês é seu aniversário? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am twenty years old.",
+      "expected_answer": "Eu tenho vinte anos."
+    },
+    "pronunciation_focus": "Maintain stress in segunda-feira and terça-feira.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "São três horas."
+          },
+          {
+            "answer": "C",
+            "sentence": "A aula é às oito."
+          },
+          {
+            "answer": "B",
+            "sentence": "Hoje é segunda-feira."
+          },
+          {
+            "answer": "A",
+            "sentence": "Meu aniversário é em maio."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "São",
+            "full_sentence": "São três horas."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "A aula é às oito."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Hoje é segunda-feira."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Meu aniversário é em maio."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Today is Monday. Portuguese class is at eight o’clock. It is now seven o’clock. My brother works at noon. His birthday is in May. Tomorrow is Tuesday. We study Portuguese at ten.",
+          "answers": [
+            {
+              "question": "Que dia é hoje?",
+              "answer": "Hoje é segunda-feira."
+            },
+            {
+              "question": "Quando é o aniversário do irmão?",
+              "answer": "O aniversário dele é em maio."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "São três horas.",
+          "Minha aula é às oito.",
+          "Meu aniversário é em maio."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "My birthday is in May.",
+            "model": "Meu aniversário é em maio."
+          },
+          {
+            "cue": "It is one o’clock.",
+            "model": "É uma hora."
+          },
+          {
+            "cue": "We study at noon.",
+            "model": "Nós estudamos ao meio-dia."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Hoje é segunda-feira.",
+          "Meu aniversário é em maio.",
+          "É uma hora.",
+          "Nós estudamos ao meio-dia."
+        ],
+        "fill_in": [
+          {
+            "answer": "é",
+            "full_sentence": "Meu aniversário é em maio. Hoje é segunda-feira."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "É uma hora. Meu aniversário é em maio."
+          },
+          {
+            "answer": "É",
+            "full_sentence": "Nós estudamos ao meio-dia. É uma hora."
+          },
+          {
+            "answer": "estudamos",
+            "full_sentence": "São três horas. Nós estudamos ao meio-dia."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "São três horas.",
+            "en": "It is three o’clock."
+          },
+          {
+            "pt": "Hoje é segunda-feira.",
+            "en": "Today is Monday."
+          },
+          {
+            "pt": "É uma hora.",
+            "en": "It is one o’clock."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "It is two in the afternoon today. My friend studies at three. I work from eight until noon. My birthday is in October. On Friday, we have class at nine. Do you have time tomorrow?",
+          "answers": [
+            {
+              "question": "A que horas a amiga estuda?",
+              "answer": "Ela estuda às três."
+            },
+            {
+              "question": "Quando é o aniversário do narrador?",
+              "answer": "O aniversário dele é em outubro."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Que horas são agora?",
+          "model_answer": "São três horas.",
+          "follow_up": "Por quê?",
+          "watch_for": "É três horas. → São três horas. (Use plural são.) A aula é as oito. → A aula é às oito. (Scheduled hours take às.)"
+        },
+        {
+          "question": "A que horas é sua aula?",
+          "model_answer": "Minha aula é às oito.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "É três horas. → São três horas. (Use plural são.) A aula é as oito. → A aula é às oito. (Scheduled hours take às.)"
+        },
+        {
+          "question": "Em que mês é seu aniversário?",
+          "model_answer": "Meu aniversário é em maio.",
+          "follow_up": "E sua família?",
+          "watch_for": "É três horas. → São três horas. (Use plural são.) A aula é as oito. → A aula é às oito. (Scheduled hours take às.)"
+        },
+        {
+          "question": "A que horas você costuma trabalhar?",
+          "model_answer": "Eu trabalho às nove horas.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "É três horas. → São três horas. (Use plural são.) A aula é as oito. → A aula é às oito. (Scheduled hours take às.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "A aula é às oito."
+          },
+          {
+            "answer": "A",
+            "sentence": "Hoje é segunda-feira."
+          },
+          {
+            "answer": "A",
+            "sentence": "Meu aniversário é em maio."
+          },
+          {
+            "answer": "B",
+            "sentence": "É uma hora."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós estudamos ao meio-dia."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "é",
+            "full_sentence": "A aula é às oito."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Hoje é segunda-feira."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Meu aniversário é em maio."
+          },
+          {
+            "answer": "É",
+            "full_sentence": "É uma hora."
+          },
+          {
+            "answer": "estudamos",
+            "full_sentence": "Nós estudamos ao meio-dia."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "São três horas.",
+          "A aula é às oito.",
+          "Hoje é segunda-feira.",
+          "Meu aniversário é em maio.",
+          "É uma hora."
+        ],
+        "D_portuguese_to_english": [
+          "Today is Monday.",
+          "My birthday is in May.",
+          "It is one o’clock.",
+          "We study at noon."
+        ],
+        "E_reading": {
+          "translation": "Our class is on Wednesday at seven in the evening. On Thursday, I work in the morning. My brother studies at noon. Today is the twentieth. The party is in November. It is now one o’clock. Do you study on Saturdays?",
+          "answers": [
+            {
+              "question": "Quando é a aula?",
+              "answer": "A aula é na quarta-feira, às sete horas da noite."
+            },
+            {
+              "question": "Quando o narrador trabalha na quinta-feira?",
+              "answer": "Ele trabalha de manhã."
+            },
+            {
+              "question": "Quando o irmão estuda?",
+              "answer": "O irmão estuda ao meio-dia."
+            },
+            {
+              "question": "Quando é a festa?",
+              "answer": "A festa é em novembro."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Nossa aula é na quarta-feira, às sete horas da noite. Na quinta-feira, eu trabalho de manhã. Meu irmão estuda ao meio-dia. Hoje é dia vinte. A festa é em novembro. Agora é uma hora. Você estuda aos sábados?",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "São três horas.",
+            "Minha aula é às oito.",
+            "Meu aniversário é em maio."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "lesson_number": 26,
+  "id": "L26",
+  "title": "Simple Past — Regular -ER and -IR Verbs",
+  "module": "Módulo 5 — Narrando acontecimentos no passado",
+  "level": "A2–B1",
+  "main_grammar": "pretérito perfeito regular em -er e -ir.",
+  "previous_knowledge": "Lessons 1–25",
+  "key_vocabulary": [
+    "comi",
+    "abriu",
+    "aprendemos",
+    "beberam",
+    "vendeu",
+    "dividi",
+    "arroz",
+    "janela"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Meals and activities from last weekend” using this lesson’s target structure.",
+    "basic_rule": "Regular -er past uses -i/-eu/-emos/-eram; regular -ir past uses -i/-iu/-imos/-iram.",
+    "structure": "stem + i/eu/emos/eram OR i/iu/imos/iram",
+    "english_comparison": "English ate/opened differs irregularly; Portuguese groups endings by verb class.",
+    "model_sentences": [
+      {
+        "pt": "Eu comi arroz.",
+        "en": "I ate rice."
+      },
+      {
+        "pt": "Ela abriu a janela.",
+        "en": "She opened the window."
+      },
+      {
+        "pt": "Nós aprendemos muito.",
+        "en": "We learned a lot."
+      },
+      {
+        "pt": "Eles beberam água.",
+        "en": "They drank water."
+      },
+      {
+        "pt": "Você vendeu o carro?",
+        "en": "Did you sell the car?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "comi",
+        "meaning": "I ate",
+        "example": "Eu comi arroz."
+      },
+      {
+        "term": "abriu",
+        "meaning": "opened",
+        "example": "Ela abriu a janela."
+      },
+      {
+        "term": "aprendemos",
+        "meaning": "we learned",
+        "example": "Nós aprendemos muito."
+      },
+      {
+        "term": "beberam",
+        "meaning": "they drank",
+        "example": "Eles beberam água."
+      },
+      {
+        "term": "vendeu",
+        "meaning": "sold",
+        "example": "Você vendeu o carro?"
+      },
+      {
+        "term": "dividi",
+        "meaning": "I shared",
+        "example": "Eu dividi o bolo."
+      },
+      {
+        "term": "arroz",
+        "meaning": "rice",
+        "example": "Eu comi arroz."
+      },
+      {
+        "term": "janela",
+        "meaning": "window",
+        "example": "Ela abriu a janela."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I ate rice.”?",
+            "options": {
+              "A": "Você vendeu o carro?",
+              "B": "Eu comi arroz.",
+              "C": "Eu dividi o bolo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She opened the window.”?",
+            "options": {
+              "A": "Nós aprendemos muito.",
+              "B": "Eu dividi o bolo.",
+              "C": "Ela abriu a janela."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We learned a lot.”?",
+            "options": {
+              "A": "Eu comi arroz.",
+              "B": "Nós aprendemos muito.",
+              "C": "Eles beberam água."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They drank water.”?",
+            "options": {
+              "A": "Nós aprendemos muito.",
+              "B": "Eu dividi o bolo.",
+              "C": "Eles beberam água."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ arroz.",
+            "hint": "I ate rice."
+          },
+          {
+            "sentence": "Ela ________ a janela.",
+            "hint": "She opened the window."
+          },
+          {
+            "sentence": "Nós ________ muito.",
+            "hint": "We learned a lot."
+          },
+          {
+            "sentence": "Eles ________ água.",
+            "hint": "They drank water."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Ontem eu comi arroz e bebi água. Minha irmã abriu a janela cedo. Depois nós aprendemos palavras novas em português. Pedro vendeu um livro antigo. Ana dividiu o bolo com os amigos. À noite, todos dormiram cedo.",
+        "questions": [
+          "O que o narrador comeu ontem?",
+          "Com quem Ana dividiu o bolo?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que você comeu ontem?",
+          "Quem abriu a janela?",
+          "Você aprendeu algo novo?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Look at the infinitive before selecting the completed-past ending.",
+      "examples": [
+        {
+          "pt": "Eles beberam água.",
+          "en": "They drank water."
+        },
+        {
+          "pt": "Você vendeu o carro?",
+          "en": "Did you sell the car?"
+        },
+        {
+          "pt": "Eu dividi o bolo.",
+          "en": "I shared the cake."
+        }
+      ],
+      "compare": "Ela come / Ela comeu: present versus past.",
+      "common_mistakes": [
+        {
+          "wrong": "Ela comi arroz.",
+          "correct": "Ela comeu arroz.",
+          "explanation": "Ela takes -eu."
+        },
+        {
+          "wrong": "Ele abreu a porta.",
+          "correct": "Ele abriu a porta.",
+          "explanation": "Abrir takes -iu."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu comi arroz.",
+            "cue": "They drank water."
+          },
+          {
+            "base": "Ela abriu a janela.",
+            "cue": "Did you sell the car?"
+          },
+          {
+            "base": "Nós aprendemos muito.",
+            "cue": "I shared the cake."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We learned a lot.",
+          "They drank water.",
+          "Did you sell the car?",
+          "I shared the cake."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles beberam água. Nós ________ muito.",
+            "hint": "We learned a lot."
+          },
+          {
+            "sentence": "Você vendeu o carro? Eles ________ água.",
+            "hint": "They drank water."
+          },
+          {
+            "sentence": "Eu dividi o bolo. Você ________ o carro?",
+            "hint": "Did you sell the car?"
+          },
+          {
+            "sentence": "Eu comi arroz. Eu ________ o bolo.",
+            "hint": "I shared the cake."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Na segunda-feira, meu amigo bebeu café antes da aula. Ele abriu a porta e recebeu os colegas. Nós comemos pão no intervalo. Depois aprendemos muito. À tarde, minha irmã vendeu dois livros e dividiu o dinheiro com um amigo.",
+        "questions": [
+          "O que o amigo bebeu antes da aula?",
+          "Quantos livros a irmã vendeu?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que você comeu ontem?",
+          "english": "What did you eat yesterday?"
+        },
+        {
+          "question": "Quem abriu a janela?",
+          "english": "Who opened the window?"
+        },
+        {
+          "question": "Você aprendeu algo novo?",
+          "english": "Did you learn something new?"
+        },
+        {
+          "question": "Você bebeu algo diferente ontem?",
+          "english": "Did you drink something different yesterday?"
+        },
+        {
+          "question": "Você dividiu alguma coisa com alguém esta semana?",
+          "english": "Did you share something with someone this week?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I ate rice.”? A. Você vendeu o carro? B. Eu comi arroz. C. Eu dividi o bolo.",
+        "worked_answer": "B. Eu comi arroz. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ arroz. (I ate rice.)",
+        "worked_answer": "comi → Eu comi arroz. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We learned a lot.",
+        "worked_answer": "Nós aprendemos muito. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu comi arroz.",
+        "worked_answer": "I ate rice. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O que o narrador comeu ontem?",
+        "worked_answer": "Ele comeu arroz. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles beberam água.” as a reference.",
+        "worked_answer": "Model: Você vendeu o carro? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu dividi o bolo. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She opened the window.”?",
+            "options": {
+              "A": "Eles beberam água.",
+              "B": "Ela abriu a janela.",
+              "C": "Nós aprendemos muito."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We learned a lot.”?",
+            "options": {
+              "A": "Nós aprendemos muito.",
+              "B": "Ela abriu a janela.",
+              "C": "Eles beberam água."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They drank water.”?",
+            "options": {
+              "A": "Eles beberam água.",
+              "B": "Ela abriu a janela.",
+              "C": "Eu comi arroz."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Did you sell the car?”?",
+            "options": {
+              "A": "Você vendeu o carro?",
+              "B": "Ela abriu a janela.",
+              "C": "Eu dividi o bolo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I shared the cake.”?",
+            "options": {
+              "A": "Eu dividi o bolo.",
+              "B": "Eu comi arroz.",
+              "C": "Você vendeu o carro?"
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ a janela.",
+            "hint": "She opened the window."
+          },
+          {
+            "sentence": "Nós ________ muito.",
+            "hint": "We learned a lot."
+          },
+          {
+            "sentence": "Eles ________ água.",
+            "hint": "They drank water."
+          },
+          {
+            "sentence": "Você ________ o carro?",
+            "hint": "Did you sell the car?"
+          },
+          {
+            "sentence": "Eu ________ o bolo.",
+            "hint": "I shared the cake."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I ate rice.",
+          "She opened the window.",
+          "We learned a lot.",
+          "They drank water.",
+          "Did you sell the car?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós aprendemos muito.",
+          "Eles beberam água.",
+          "Você vendeu o carro?",
+          "Eu dividi o bolo."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "No sábado, eu abri a loja cedo. Vendi frutas e bebi muita água. Minha irmã comeu em casa. Os amigos aprenderam uma receita nova. Nós dividimos o almoço. Depois eu fechei a loja e descansei.",
+        "questions": [
+          "O que o narrador vendeu?",
+          "Onde a irmã comeu?",
+          "O que os amigos aprenderam?",
+          "O que aconteceu no fim do dia?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Meals and activities from last weekend”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que você comeu ontem? / Quem abriu a janela? / Você aprendeu algo novo? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I worked yesterday.",
+      "expected_answer": "Eu trabalhei ontem."
+    },
+    "pronunciation_focus": "Stress final -eu in comeu and -iu in abriu.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Eu comi arroz."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela abriu a janela."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós aprendemos muito."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles beberam água."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "comi",
+            "full_sentence": "Eu comi arroz."
+          },
+          {
+            "answer": "abriu",
+            "full_sentence": "Ela abriu a janela."
+          },
+          {
+            "answer": "aprendemos",
+            "full_sentence": "Nós aprendemos muito."
+          },
+          {
+            "answer": "beberam",
+            "full_sentence": "Eles beberam água."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Yesterday I ate rice and drank water. My sister opened the window early. Then we learned new words in Portuguese. Pedro sold an old book. Ana shared the cake with her friends. At night, everyone went to sleep early.",
+          "answers": [
+            {
+              "question": "O que o narrador comeu ontem?",
+              "answer": "Ele comeu arroz."
+            },
+            {
+              "question": "Com quem Ana dividiu o bolo?",
+              "answer": "Ela dividiu o bolo com os amigos."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu comi arroz.",
+          "Minha irmã abriu a janela.",
+          "Sim, aprendi palavras novas."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They drank water.",
+            "model": "Eles beberam água."
+          },
+          {
+            "cue": "Did you sell the car?",
+            "model": "Você vendeu o carro?"
+          },
+          {
+            "cue": "I shared the cake.",
+            "model": "Eu dividi o bolo."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós aprendemos muito.",
+          "Eles beberam água.",
+          "Você vendeu o carro?",
+          "Eu dividi o bolo."
+        ],
+        "fill_in": [
+          {
+            "answer": "aprendemos",
+            "full_sentence": "Eles beberam água. Nós aprendemos muito."
+          },
+          {
+            "answer": "beberam",
+            "full_sentence": "Você vendeu o carro? Eles beberam água."
+          },
+          {
+            "answer": "vendeu",
+            "full_sentence": "Eu dividi o bolo. Você vendeu o carro?"
+          },
+          {
+            "answer": "dividi",
+            "full_sentence": "Eu comi arroz. Eu dividi o bolo."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu comi arroz.",
+            "en": "I ate rice."
+          },
+          {
+            "pt": "Nós aprendemos muito.",
+            "en": "We learned a lot."
+          },
+          {
+            "pt": "Você vendeu o carro?",
+            "en": "Did you sell the car?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "On Monday, my friend drank coffee before class. He opened the door and welcomed his classmates. We ate bread during the break. Then we learned a lot. In the afternoon, my sister sold two books and split the money with a friend.",
+          "answers": [
+            {
+              "question": "O que o amigo bebeu antes da aula?",
+              "answer": "Ele bebeu café."
+            },
+            {
+              "question": "Quantos livros a irmã vendeu?",
+              "answer": "Ela vendeu dois livros."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que você comeu ontem?",
+          "model_answer": "Eu comi arroz.",
+          "follow_up": "Por quê?",
+          "watch_for": "Ela comi arroz. → Ela comeu arroz. (Ela takes -eu.) Ele abreu a porta. → Ele abriu a porta. (Abrir takes -iu.)"
+        },
+        {
+          "question": "Quem abriu a janela?",
+          "model_answer": "Minha irmã abriu a janela.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Ela comi arroz. → Ela comeu arroz. (Ela takes -eu.) Ele abreu a porta. → Ele abriu a porta. (Abrir takes -iu.)"
+        },
+        {
+          "question": "Você aprendeu algo novo?",
+          "model_answer": "Sim, aprendi palavras novas.",
+          "follow_up": "E sua família?",
+          "watch_for": "Ela comi arroz. → Ela comeu arroz. (Ela takes -eu.) Ele abreu a porta. → Ele abriu a porta. (Abrir takes -iu.)"
+        },
+        {
+          "question": "Você bebeu algo diferente ontem?",
+          "model_answer": "Ontem bebi suco de frutas.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Ela comi arroz. → Ela comeu arroz. (Ela takes -eu.) Ele abreu a porta. → Ele abriu a porta. (Abrir takes -iu.)"
+        },
+        {
+          "question": "Você dividiu alguma coisa com alguém esta semana?",
+          "model_answer": "Sim, dividi um bolo com meus amigos.",
+          "follow_up": "Por quê?",
+          "watch_for": "Ela comi arroz. → Ela comeu arroz. (Ela takes -eu.) Ele abreu a porta. → Ele abriu a porta. (Abrir takes -iu.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ela abriu a janela."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós aprendemos muito."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles beberam água."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você vendeu o carro?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu dividi o bolo."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "abriu",
+            "full_sentence": "Ela abriu a janela."
+          },
+          {
+            "answer": "aprendemos",
+            "full_sentence": "Nós aprendemos muito."
+          },
+          {
+            "answer": "beberam",
+            "full_sentence": "Eles beberam água."
+          },
+          {
+            "answer": "vendeu",
+            "full_sentence": "Você vendeu o carro?"
+          },
+          {
+            "answer": "dividi",
+            "full_sentence": "Eu dividi o bolo."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu comi arroz.",
+          "Ela abriu a janela.",
+          "Nós aprendemos muito.",
+          "Eles beberam água.",
+          "Você vendeu o carro?"
+        ],
+        "D_portuguese_to_english": [
+          "We learned a lot.",
+          "They drank water.",
+          "Did you sell the car?",
+          "I shared the cake."
+        ],
+        "E_reading": {
+          "translation": "On Saturday, I opened the store early. I sold fruit and drank lots of water. My sister ate at home. Our friends learned a new recipe. We shared lunch. Then I closed the store and rested.",
+          "answers": [
+            {
+              "question": "O que o narrador vendeu?",
+              "answer": "Ele vendeu frutas."
+            },
+            {
+              "question": "Onde a irmã comeu?",
+              "answer": "Ela comeu em casa."
+            },
+            {
+              "question": "O que os amigos aprenderam?",
+              "answer": "Eles aprenderam uma receita nova."
+            },
+            {
+              "question": "O que aconteceu no fim do dia?",
+              "answer": "O narrador fechou a loja e descansou."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "No sábado, eu abri a loja cedo. Vendi frutas e bebi muita água. Minha irmã comeu em casa. Os amigos aprenderam uma receita nova. Nós dividimos o almoço. Depois eu fechei a loja e descansei.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu comi arroz.",
+            "Minha irmã abriu a janela.",
+            "Sim, aprendi palavras novas."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

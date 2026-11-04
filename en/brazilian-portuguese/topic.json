@@ -1,0 +1,21 @@
+{
+  "language": "en",
+  "mainTopic": "Brazilian Portuguese",
+  "slug": "brazilian-portuguese",
+  "sourceFormat": "workbook-json",
+  "description": "Brazilian Portuguese for English speakers: 60 guided one-to-one lessons of 45 minutes (A0 → B2), with English explanations, Brazilian Portuguese practice, homework, and teacher-only material (answer keys, listening scripts, speaking models).",
+  "durationMinutes": 45,
+  "format": "online, individual",
+  "lessonPlan": "Let's begin and explanation 5 min · Practice 1 9 min · Review 5 min · Practice 2 10 min · Speaking practice 11 min · Homework explanation 5 min",
+  "levels": "A0 → B2",
+  "version": "2.0",
+  "structureNote": "Cada lição tem material do aluno (`student`) e do professor (`teacher`: revisão espaçada, gabaritos, scripts de listening e modelos de fala). O JSON original fica em `source/` e o Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`.",
+  "courses": [
+    {
+      "code": "ptbr",
+      "name": "Brazilian Portuguese",
+      "lessons": 60
+    }
+  ],
+  "officialReferences": []
+}

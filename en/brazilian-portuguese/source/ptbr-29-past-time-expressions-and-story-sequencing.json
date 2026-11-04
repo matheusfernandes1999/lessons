@@ -1,0 +1,678 @@
+{
+  "lesson_number": 29,
+  "id": "L29",
+  "title": "Past Time Expressions and Story Sequencing",
+  "module": "Módulo 5 — Narrando acontecimentos no passado",
+  "level": "A2–B1",
+  "main_grammar": "marcadores temporais e organização de narrativas no pretérito perfeito.",
+  "previous_knowledge": "Lessons 1–28",
+  "key_vocabulary": [
+    "primeiro",
+    "depois",
+    "então",
+    "mais tarde",
+    "por fim",
+    "antes",
+    "estudei",
+    "descansei"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Sequence a busy day you had” using this lesson’s target structure.",
+    "basic_rule": "Time markers first, then, later and finally organize completed past events.",
+    "structure": "primeiro + past; depois + past; por fim + past",
+    "english_comparison": "English time adverbs work similarly; the action remains past in Portuguese.",
+    "model_sentences": [
+      {
+        "pt": "Primeiro, estudei.",
+        "en": "First, I studied."
+      },
+      {
+        "pt": "Depois, trabalhei.",
+        "en": "Then I worked."
+      },
+      {
+        "pt": "Mais tarde, comi arroz.",
+        "en": "Later, I ate rice."
+      },
+      {
+        "pt": "Então, fui para casa.",
+        "en": "Then I went home."
+      },
+      {
+        "pt": "Por fim, descansei.",
+        "en": "Finally, I rested."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "primeiro",
+        "meaning": "first",
+        "example": "Primeiro, estudei."
+      },
+      {
+        "term": "depois",
+        "meaning": "then",
+        "example": "Depois, trabalhei."
+      },
+      {
+        "term": "então",
+        "meaning": "then",
+        "example": "Então, fui para casa."
+      },
+      {
+        "term": "mais tarde",
+        "meaning": "later",
+        "example": "Mais tarde, comi arroz."
+      },
+      {
+        "term": "por fim",
+        "meaning": "finally",
+        "example": "Por fim, descansei."
+      },
+      {
+        "term": "antes",
+        "meaning": "before",
+        "example": "Antes de sair, falei com ela."
+      },
+      {
+        "term": "estudei",
+        "meaning": "I studied",
+        "example": "Primeiro, estudei."
+      },
+      {
+        "term": "descansei",
+        "meaning": "I rested",
+        "example": "Por fim, descansei."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “First, I studied.”?",
+            "options": {
+              "A": "Primeiro, estudei.",
+              "B": "Mais tarde, comi arroz.",
+              "C": "Então, fui para casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Then I worked.”?",
+            "options": {
+              "A": "Depois, trabalhei.",
+              "B": "Primeiro, estudei.",
+              "C": "Mais tarde, comi arroz."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Later, I ate rice.”?",
+            "options": {
+              "A": "Então, fui para casa.",
+              "B": "Mais tarde, comi arroz.",
+              "C": "Primeiro, estudei."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Then I went home.”?",
+            "options": {
+              "A": "Depois, trabalhei.",
+              "B": "Então, fui para casa.",
+              "C": "Mais tarde, comi arroz."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________, estudei.",
+            "hint": "First, I studied."
+          },
+          {
+            "sentence": "________, trabalhei.",
+            "hint": "Then I worked."
+          },
+          {
+            "sentence": "________ tarde, comi arroz.",
+            "hint": "Later, I ate rice."
+          },
+          {
+            "sentence": "________, fui para casa.",
+            "hint": "Then I went home."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Ontem eu tive um dia cheio. Primeiro, trabalhei em casa. Depois, estudei português. Mais tarde, fui ao mercado. Antes de sair, falei com minha irmã. Então, preparei o jantar. Por fim, descansei e li um livro.",
+        "questions": [
+          "O que o narrador fez primeiro?",
+          "O que ele fez por fim?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que você fez primeiro ontem?",
+          "O que você fez depois?",
+          "O que você fez por fim?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Give the listener a timeline with no unnecessary tense switching.",
+      "examples": [
+        {
+          "pt": "Então, fui para casa.",
+          "en": "Then I went home."
+        },
+        {
+          "pt": "Por fim, descansei.",
+          "en": "Finally, I rested."
+        },
+        {
+          "pt": "Antes de sair, falei com ela.",
+          "en": "Before leaving, I spoke to her."
+        }
+      ],
+      "compare": "Antes de sair / Depois de chegar: before and after use infinitives.",
+      "common_mistakes": [
+        {
+          "wrong": "Primeiro estudei, depois estudo ontem.",
+          "correct": "Primeiro estudei, depois trabalhei ontem.",
+          "explanation": "Keep both yesterday events in the past."
+        },
+        {
+          "wrong": "Antes de saí, comi.",
+          "correct": "Antes de sair, comi.",
+          "explanation": "Depois de prepositions, use an infinitive."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Primeiro, estudei.",
+            "cue": "Then I went home."
+          },
+          {
+            "base": "Depois, trabalhei.",
+            "cue": "Finally, I rested."
+          },
+          {
+            "base": "Mais tarde, comi arroz.",
+            "cue": "Before leaving, I spoke to her."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "Later, I ate rice.",
+          "Then I went home.",
+          "Finally, I rested.",
+          "Before leaving, I spoke to her."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Então, fui para casa. ________ tarde, comi arroz.",
+            "hint": "Later, I ate rice."
+          },
+          {
+            "sentence": "Por fim, descansei. ________, fui para casa.",
+            "hint": "Then I went home."
+          },
+          {
+            "sentence": "Antes de sair, falei com ela. ________ fim, descansei.",
+            "hint": "Finally, I rested."
+          },
+          {
+            "sentence": "Primeiro, estudei. ________ de sair, falei com ela.",
+            "hint": "Before leaving, I spoke to her."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "No sábado, Ana visitou os pais. Primeiro, comprou um presente. Depois, foi para a casa deles. Mais tarde, todos almoçaram juntos. Antes de voltar, Ana ajudou na cozinha. Por fim, ela chegou em casa e descansou.",
+        "questions": [
+          "O que Ana comprou primeiro?",
+          "O que Ana fez antes de voltar?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que você fez primeiro ontem?",
+          "english": "What did you do first yesterday?"
+        },
+        {
+          "question": "O que você fez depois?",
+          "english": "What did you do next?"
+        },
+        {
+          "question": "O que você fez por fim?",
+          "english": "What did you do finally?"
+        },
+        {
+          "question": "O que você fez antes de sair de casa ontem?",
+          "english": "What did you do before leaving home yesterday?"
+        },
+        {
+          "question": "Como terminou seu último fim de semana?",
+          "english": "How did your last weekend end?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “First, I studied.”? A. Primeiro, estudei. B. Mais tarde, comi arroz. C. Então, fui para casa.",
+        "worked_answer": "A. Primeiro, estudei. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________, estudei. (First, I studied.)",
+        "worked_answer": "Primeiro → Primeiro, estudei. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Later, I ate rice.",
+        "worked_answer": "Mais tarde, comi arroz. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Primeiro, estudei.",
+        "worked_answer": "First, I studied. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O que o narrador fez primeiro?",
+        "worked_answer": "Primeiro, ele trabalhou em casa. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Então, fui para casa.” as a reference.",
+        "worked_answer": "Model: Por fim, descansei. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Antes de sair, falei com ela. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “Then I worked.”?",
+            "options": {
+              "A": "Depois, trabalhei.",
+              "B": "Mais tarde, comi arroz.",
+              "C": "Antes de sair, falei com ela."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Later, I ate rice.”?",
+            "options": {
+              "A": "Mais tarde, comi arroz.",
+              "B": "Depois, trabalhei.",
+              "C": "Então, fui para casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Then I went home.”?",
+            "options": {
+              "A": "Então, fui para casa.",
+              "B": "Antes de sair, falei com ela.",
+              "C": "Por fim, descansei."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Finally, I rested.”?",
+            "options": {
+              "A": "Mais tarde, comi arroz.",
+              "B": "Primeiro, estudei.",
+              "C": "Por fim, descansei."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Before leaving, I spoke to her.”?",
+            "options": {
+              "A": "Depois, trabalhei.",
+              "B": "Mais tarde, comi arroz.",
+              "C": "Antes de sair, falei com ela."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "________, trabalhei.",
+            "hint": "Then I worked."
+          },
+          {
+            "sentence": "________ tarde, comi arroz.",
+            "hint": "Later, I ate rice."
+          },
+          {
+            "sentence": "________, fui para casa.",
+            "hint": "Then I went home."
+          },
+          {
+            "sentence": "________ fim, descansei.",
+            "hint": "Finally, I rested."
+          },
+          {
+            "sentence": "________ de sair, falei com ela.",
+            "hint": "Before leaving, I spoke to her."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "First, I studied.",
+          "Then I worked.",
+          "Later, I ate rice.",
+          "Then I went home.",
+          "Finally, I rested."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Mais tarde, comi arroz.",
+          "Então, fui para casa.",
+          "Por fim, descansei.",
+          "Antes de sair, falei com ela."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Na terça-feira, Pedro estudou para uma prova. Primeiro, leu o livro. Depois, escreveu algumas respostas. Mais tarde, fez uma pausa para comer. Antes de dormir, revisou o conteúdo. Por fim, guardou o caderno e apagou a luz.",
+        "questions": [
+          "Para que Pedro estudou na terça-feira?",
+          "O que ele fez depois de ler o livro?",
+          "O que ele fez antes de dormir?",
+          "O que ele fez por fim?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Sequence a busy day you had”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que você fez primeiro ontem? / O que você fez depois? / O que você fez por fim? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I had a meeting.",
+      "expected_answer": "Eu tive uma reunião."
+    },
+    "pronunciation_focus": "Keep clear pauses after primeiro and por fim.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Primeiro, estudei."
+          },
+          {
+            "answer": "A",
+            "sentence": "Depois, trabalhei."
+          },
+          {
+            "answer": "B",
+            "sentence": "Mais tarde, comi arroz."
+          },
+          {
+            "answer": "B",
+            "sentence": "Então, fui para casa."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Primeiro",
+            "full_sentence": "Primeiro, estudei."
+          },
+          {
+            "answer": "Depois",
+            "full_sentence": "Depois, trabalhei."
+          },
+          {
+            "answer": "Mais",
+            "full_sentence": "Mais tarde, comi arroz."
+          },
+          {
+            "answer": "Então",
+            "full_sentence": "Então, fui para casa."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Yesterday I had a busy day. First I worked at home. Then I studied Portuguese. Later I went to the market. Before leaving, I spoke with my sister. Then I prepared dinner. Finally I rested and read a book.",
+          "answers": [
+            {
+              "question": "O que o narrador fez primeiro?",
+              "answer": "Primeiro, ele trabalhou em casa."
+            },
+            {
+              "question": "O que ele fez por fim?",
+              "answer": "Por fim, ele descansou e leu um livro."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Primeiro, estudei.",
+          "Depois, trabalhei.",
+          "Por fim, descansei."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "Then I went home.",
+            "model": "Então, fui para casa."
+          },
+          {
+            "cue": "Finally, I rested.",
+            "model": "Por fim, descansei."
+          },
+          {
+            "cue": "Before leaving, I spoke to her.",
+            "model": "Antes de sair, falei com ela."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Mais tarde, comi arroz.",
+          "Então, fui para casa.",
+          "Por fim, descansei.",
+          "Antes de sair, falei com ela."
+        ],
+        "fill_in": [
+          {
+            "answer": "Mais",
+            "full_sentence": "Então, fui para casa. Mais tarde, comi arroz."
+          },
+          {
+            "answer": "Então",
+            "full_sentence": "Por fim, descansei. Então, fui para casa."
+          },
+          {
+            "answer": "Por",
+            "full_sentence": "Antes de sair, falei com ela. Por fim, descansei."
+          },
+          {
+            "answer": "Antes",
+            "full_sentence": "Primeiro, estudei. Antes de sair, falei com ela."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Primeiro, estudei.",
+            "en": "First, I studied."
+          },
+          {
+            "pt": "Mais tarde, comi arroz.",
+            "en": "Later, I ate rice."
+          },
+          {
+            "pt": "Por fim, descansei.",
+            "en": "Finally, I rested."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "On Saturday, Ana visited her parents. First she bought a gift. Then she went to their house. Later everyone ate lunch together. Before returning, Ana helped in the kitchen. Finally she arrived home and rested.",
+          "answers": [
+            {
+              "question": "O que Ana comprou primeiro?",
+              "answer": "Ela comprou um presente."
+            },
+            {
+              "question": "O que Ana fez antes de voltar?",
+              "answer": "Ela ajudou na cozinha."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que você fez primeiro ontem?",
+          "model_answer": "Primeiro, estudei.",
+          "follow_up": "Por quê?",
+          "watch_for": "Primeiro estudei, depois estudo ontem. → Primeiro estudei, depois trabalhei ontem. (Keep both yesterday events in the past.) Antes de saí, comi. → Antes de sair, comi. (Depois de prepositions, use an infinitive.)"
+        },
+        {
+          "question": "O que você fez depois?",
+          "model_answer": "Depois, trabalhei.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Primeiro estudei, depois estudo ontem. → Primeiro estudei, depois trabalhei ontem. (Keep both yesterday events in the past.) Antes de saí, comi. → Antes de sair, comi. (Depois de prepositions, use an infinitive.)"
+        },
+        {
+          "question": "O que você fez por fim?",
+          "model_answer": "Por fim, descansei.",
+          "follow_up": "E sua família?",
+          "watch_for": "Primeiro estudei, depois estudo ontem. → Primeiro estudei, depois trabalhei ontem. (Keep both yesterday events in the past.) Antes de saí, comi. → Antes de sair, comi. (Depois de prepositions, use an infinitive.)"
+        },
+        {
+          "question": "O que você fez antes de sair de casa ontem?",
+          "model_answer": "Antes de sair, preparei café.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Primeiro estudei, depois estudo ontem. → Primeiro estudei, depois trabalhei ontem. (Keep both yesterday events in the past.) Antes de saí, comi. → Antes de sair, comi. (Depois de prepositions, use an infinitive.)"
+        },
+        {
+          "question": "Como terminou seu último fim de semana?",
+          "model_answer": "Por fim, conversei com amigos e descansei.",
+          "follow_up": "Por quê?",
+          "watch_for": "Primeiro estudei, depois estudo ontem. → Primeiro estudei, depois trabalhei ontem. (Keep both yesterday events in the past.) Antes de saí, comi. → Antes de sair, comi. (Depois de prepositions, use an infinitive.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Depois, trabalhei."
+          },
+          {
+            "answer": "A",
+            "sentence": "Mais tarde, comi arroz."
+          },
+          {
+            "answer": "A",
+            "sentence": "Então, fui para casa."
+          },
+          {
+            "answer": "C",
+            "sentence": "Por fim, descansei."
+          },
+          {
+            "answer": "C",
+            "sentence": "Antes de sair, falei com ela."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "Depois",
+            "full_sentence": "Depois, trabalhei."
+          },
+          {
+            "answer": "Mais",
+            "full_sentence": "Mais tarde, comi arroz."
+          },
+          {
+            "answer": "Então",
+            "full_sentence": "Então, fui para casa."
+          },
+          {
+            "answer": "Por",
+            "full_sentence": "Por fim, descansei."
+          },
+          {
+            "answer": "Antes",
+            "full_sentence": "Antes de sair, falei com ela."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Primeiro, estudei.",
+          "Depois, trabalhei.",
+          "Mais tarde, comi arroz.",
+          "Então, fui para casa.",
+          "Por fim, descansei."
+        ],
+        "D_portuguese_to_english": [
+          "Later, I ate rice.",
+          "Then I went home.",
+          "Finally, I rested.",
+          "Before leaving, I spoke to her."
+        ],
+        "E_reading": {
+          "translation": "On Tuesday, Pedro studied for a test. First he read the book. Then he wrote some answers. Later he took a break to eat. Before going to sleep, he reviewed the content. Finally he put away his notebook and turned off the light.",
+          "answers": [
+            {
+              "question": "Para que Pedro estudou na terça-feira?",
+              "answer": "Ele estudou para uma prova."
+            },
+            {
+              "question": "O que ele fez depois de ler o livro?",
+              "answer": "Ele escreveu algumas respostas."
+            },
+            {
+              "question": "O que ele fez antes de dormir?",
+              "answer": "Ele revisou o conteúdo."
+            },
+            {
+              "question": "O que ele fez por fim?",
+              "answer": "Ele guardou o caderno e apagou a luz."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Na terça-feira, Pedro estudou para uma prova. Primeiro, leu o livro. Depois, escreveu algumas respostas. Mais tarde, fez uma pausa para comer. Antes de dormir, revisou o conteúdo. Por fim, guardou o caderno e apagou a luz.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Primeiro, estudei.",
+            "Depois, trabalhei.",
+            "Por fim, descansei."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

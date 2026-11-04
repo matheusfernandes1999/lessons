@@ -1,0 +1,678 @@
+{
+  "lesson_number": 25,
+  "id": "L25",
+  "title": "Simple Past — Regular -AR Verbs",
+  "module": "Módulo 5 — Narrando acontecimentos no passado",
+  "level": "A2–B1",
+  "main_grammar": "pretérito perfeito de verbos regulares em -ar.",
+  "previous_knowledge": "Lessons 1–24",
+  "key_vocabulary": [
+    "trabalhei",
+    "estudou",
+    "conversamos",
+    "viajaram",
+    "comprou",
+    "ontem",
+    "sábado",
+    "amigo"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Activities you completed yesterday” using this lesson’s target structure.",
+    "basic_rule": "Regular -ar completed actions use -ei (eu), -ou (ela), -amos (nós), -aram (eles).",
+    "structure": "stem + ei/ou/amos/aram",
+    "english_comparison": "English simple past often takes -ed; Portuguese endings vary with subject.",
+    "model_sentences": [
+      {
+        "pt": "Eu trabalhei ontem.",
+        "en": "I worked yesterday."
+      },
+      {
+        "pt": "Ela estudou português.",
+        "en": "She studied Portuguese."
+      },
+      {
+        "pt": "Nós conversamos à noite.",
+        "en": "We talked at night."
+      },
+      {
+        "pt": "Eles viajaram no sábado.",
+        "en": "They traveled on Saturday."
+      },
+      {
+        "pt": "Você comprou um livro?",
+        "en": "Did you buy a book?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "trabalhei",
+        "meaning": "I worked",
+        "example": "Eu trabalhei ontem."
+      },
+      {
+        "term": "estudou",
+        "meaning": "studied",
+        "example": "Ela estudou português."
+      },
+      {
+        "term": "conversamos",
+        "meaning": "we talked",
+        "example": "Nós conversamos à noite."
+      },
+      {
+        "term": "viajaram",
+        "meaning": "they traveled",
+        "example": "Eles viajaram no sábado."
+      },
+      {
+        "term": "comprou",
+        "meaning": "bought",
+        "example": "Você comprou um livro?"
+      },
+      {
+        "term": "ontem",
+        "meaning": "yesterday",
+        "example": "Eu trabalhei ontem."
+      },
+      {
+        "term": "sábado",
+        "meaning": "Saturday",
+        "example": "Eles viajaram no sábado."
+      },
+      {
+        "term": "amigo",
+        "meaning": "friend",
+        "example": "Eu falei com meu amigo."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I worked yesterday.”?",
+            "options": {
+              "A": "Você comprou um livro?",
+              "B": "Nós conversamos à noite.",
+              "C": "Eu trabalhei ontem."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She studied Portuguese.”?",
+            "options": {
+              "A": "Ela estudou português.",
+              "B": "Nós conversamos à noite.",
+              "C": "Eles viajaram no sábado."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We talked at night.”?",
+            "options": {
+              "A": "Nós conversamos à noite.",
+              "B": "Eu trabalhei ontem.",
+              "C": "Eles viajaram no sábado."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They traveled on Saturday.”?",
+            "options": {
+              "A": "Eu trabalhei ontem.",
+              "B": "Você comprou um livro?",
+              "C": "Eles viajaram no sábado."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ ontem.",
+            "hint": "I worked yesterday."
+          },
+          {
+            "sentence": "Ela ________ português.",
+            "hint": "She studied Portuguese."
+          },
+          {
+            "sentence": "Nós ________ à noite.",
+            "hint": "We talked at night."
+          },
+          {
+            "sentence": "Eles ________ no sábado.",
+            "hint": "They traveled on Saturday."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Ontem eu trabalhei de manhã e estudei à noite. Minha irmã comprou um livro. Nós conversamos depois do jantar. Meu amigo viajou no sábado. Eu preparei café e organizei meus cadernos. O professor explicou uma palavra nova.",
+        "questions": [
+          "O que a irmã comprou?",
+          "Quando o amigo viajou?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que você estudou ontem?",
+          "Você trabalhou no sábado?",
+          "Com quem você conversou ontem?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Use yesterday or last week to anchor a completed action.",
+      "examples": [
+        {
+          "pt": "Eles viajaram no sábado.",
+          "en": "They traveled on Saturday."
+        },
+        {
+          "pt": "Você comprou um livro?",
+          "en": "Did you buy a book?"
+        },
+        {
+          "pt": "Eu falei com meu amigo.",
+          "en": "I talked to my friend."
+        }
+      ],
+      "compare": "Eu trabalho / Eu trabalhei ontem: routine versus completed event.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu trabalhou ontem.",
+          "correct": "Eu trabalhei ontem.",
+          "explanation": "Eu takes -ei."
+        },
+        {
+          "wrong": "Ela estudei ontem.",
+          "correct": "Ela estudou ontem.",
+          "explanation": "Ela takes -ou."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu trabalhei ontem.",
+            "cue": "They traveled on Saturday."
+          },
+          {
+            "base": "Ela estudou português.",
+            "cue": "Did you buy a book?"
+          },
+          {
+            "base": "Nós conversamos à noite.",
+            "cue": "I talked to my friend."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We talked at night.",
+          "They traveled on Saturday.",
+          "Did you buy a book?",
+          "I talked to my friend."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles viajaram no sábado. Nós ________ à noite.",
+            "hint": "We talked at night."
+          },
+          {
+            "sentence": "Você comprou um livro? Eles ________ no sábado.",
+            "hint": "They traveled on Saturday."
+          },
+          {
+            "sentence": "Eu falei com meu amigo. Você ________ um livro?",
+            "hint": "Did you buy a book?"
+          },
+          {
+            "sentence": "Eu trabalhei ontem. Eu ________ com meu amigo.",
+            "hint": "I talked to my friend."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Na sexta-feira, Ana visitou a família. Ela conversou com a mãe e ajudou o pai. Depois preparou o almoço. Eu trabalhei em casa. À noite, nós estudamos português e escutamos música brasileira. Todos descansaram no sábado.",
+        "questions": [
+          "Quem Ana visitou na sexta-feira?",
+          "O que eles escutaram à noite?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que você estudou ontem?",
+          "english": "What did you study yesterday?"
+        },
+        {
+          "question": "Você trabalhou no sábado?",
+          "english": "Did you work on Saturday?"
+        },
+        {
+          "question": "Com quem você conversou ontem?",
+          "english": "Whom did you talk with yesterday?"
+        },
+        {
+          "question": "Você preparou uma refeição ontem?",
+          "english": "Did you prepare a meal yesterday?"
+        },
+        {
+          "question": "Você visitou alguém na semana passada?",
+          "english": "Did you visit anyone last week?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I worked yesterday.”? A. Você comprou um livro? B. Nós conversamos à noite. C. Eu trabalhei ontem.",
+        "worked_answer": "C. Eu trabalhei ontem. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ ontem. (I worked yesterday.)",
+        "worked_answer": "trabalhei → Eu trabalhei ontem. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We talked at night.",
+        "worked_answer": "Nós conversamos à noite. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu trabalhei ontem.",
+        "worked_answer": "I worked yesterday. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O que a irmã comprou?",
+        "worked_answer": "Ela comprou um livro. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles viajaram no sábado.” as a reference.",
+        "worked_answer": "Model: Você comprou um livro? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu falei com meu amigo. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She studied Portuguese.”?",
+            "options": {
+              "A": "Ela estudou português.",
+              "B": "Eu falei com meu amigo.",
+              "C": "Nós conversamos à noite."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We talked at night.”?",
+            "options": {
+              "A": "Nós conversamos à noite.",
+              "B": "Eu trabalhei ontem.",
+              "C": "Eles viajaram no sábado."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They traveled on Saturday.”?",
+            "options": {
+              "A": "Eu falei com meu amigo.",
+              "B": "Eles viajaram no sábado.",
+              "C": "Ela estudou português."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Did you buy a book?”?",
+            "options": {
+              "A": "Você comprou um livro?",
+              "B": "Eles viajaram no sábado.",
+              "C": "Eu trabalhei ontem."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I talked to my friend.”?",
+            "options": {
+              "A": "Eu falei com meu amigo.",
+              "B": "Você comprou um livro?",
+              "C": "Eu trabalhei ontem."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ português.",
+            "hint": "She studied Portuguese."
+          },
+          {
+            "sentence": "Nós ________ à noite.",
+            "hint": "We talked at night."
+          },
+          {
+            "sentence": "Eles ________ no sábado.",
+            "hint": "They traveled on Saturday."
+          },
+          {
+            "sentence": "Você ________ um livro?",
+            "hint": "Did you buy a book?"
+          },
+          {
+            "sentence": "Eu ________ com meu amigo.",
+            "hint": "I talked to my friend."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I worked yesterday.",
+          "She studied Portuguese.",
+          "We talked at night.",
+          "They traveled on Saturday.",
+          "Did you buy a book?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós conversamos à noite.",
+          "Eles viajaram no sábado.",
+          "Você comprou um livro?",
+          "Eu falei com meu amigo."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "No último fim de semana, Pedro viajou para outra cidade. Ele comprou um presente e caminhou no centro. Sua irmã ficou em casa e estudou português. Eu telefonei para Pedro no domingo. Nós conversamos sobre a viagem e planejamos uma visita.",
+        "questions": [
+          "Para onde Pedro viajou?",
+          "O que Pedro comprou?",
+          "O que a irmã de Pedro estudou?",
+          "Quando o narrador telefonou para Pedro?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Activities you completed yesterday”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que você estudou ontem? / Você trabalhou no sábado? / Com quem você conversou ontem? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am going to work tomorrow.",
+      "expected_answer": "Eu vou trabalhar amanhã."
+    },
+    "pronunciation_focus": "Stress the final syllable of trabalhei and estudou.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu trabalhei ontem."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela estudou português."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós conversamos à noite."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles viajaram no sábado."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "trabalhei",
+            "full_sentence": "Eu trabalhei ontem."
+          },
+          {
+            "answer": "estudou",
+            "full_sentence": "Ela estudou português."
+          },
+          {
+            "answer": "conversamos",
+            "full_sentence": "Nós conversamos à noite."
+          },
+          {
+            "answer": "viajaram",
+            "full_sentence": "Eles viajaram no sábado."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Yesterday I worked in the morning and studied at night. My sister bought a book. We talked after dinner. My friend traveled on Saturday. I made coffee and organized my notebooks. The teacher explained a new word.",
+          "answers": [
+            {
+              "question": "O que a irmã comprou?",
+              "answer": "Ela comprou um livro."
+            },
+            {
+              "question": "Quando o amigo viajou?",
+              "answer": "Ele viajou no sábado."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu estudei português.",
+          "Sim, trabalhei no sábado.",
+          "Conversei com minha irmã."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They traveled on Saturday.",
+            "model": "Eles viajaram no sábado."
+          },
+          {
+            "cue": "Did you buy a book?",
+            "model": "Você comprou um livro?"
+          },
+          {
+            "cue": "I talked to my friend.",
+            "model": "Eu falei com meu amigo."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós conversamos à noite.",
+          "Eles viajaram no sábado.",
+          "Você comprou um livro?",
+          "Eu falei com meu amigo."
+        ],
+        "fill_in": [
+          {
+            "answer": "conversamos",
+            "full_sentence": "Eles viajaram no sábado. Nós conversamos à noite."
+          },
+          {
+            "answer": "viajaram",
+            "full_sentence": "Você comprou um livro? Eles viajaram no sábado."
+          },
+          {
+            "answer": "comprou",
+            "full_sentence": "Eu falei com meu amigo. Você comprou um livro?"
+          },
+          {
+            "answer": "falei",
+            "full_sentence": "Eu trabalhei ontem. Eu falei com meu amigo."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu trabalhei ontem.",
+            "en": "I worked yesterday."
+          },
+          {
+            "pt": "Nós conversamos à noite.",
+            "en": "We talked at night."
+          },
+          {
+            "pt": "Você comprou um livro?",
+            "en": "Did you buy a book?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "On Friday, Ana visited her family. She talked to her mother and helped her father. Then she prepared lunch. I worked at home. At night, we studied Portuguese and listened to Brazilian music. Everyone rested on Saturday.",
+          "answers": [
+            {
+              "question": "Quem Ana visitou na sexta-feira?",
+              "answer": "Ela visitou a família."
+            },
+            {
+              "question": "O que eles escutaram à noite?",
+              "answer": "Eles escutaram música brasileira."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que você estudou ontem?",
+          "model_answer": "Eu estudei português.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+        },
+        {
+          "question": "Você trabalhou no sábado?",
+          "model_answer": "Sim, trabalhei no sábado.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+        },
+        {
+          "question": "Com quem você conversou ontem?",
+          "model_answer": "Conversei com minha irmã.",
+          "follow_up": "E sua família?",
+          "watch_for": "Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+        },
+        {
+          "question": "Você preparou uma refeição ontem?",
+          "model_answer": "Sim, preparei o jantar.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+        },
+        {
+          "question": "Você visitou alguém na semana passada?",
+          "model_answer": "Sim, visitei uma amiga.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu trabalhou ontem. → Eu trabalhei ontem. (Eu takes -ei.) Ela estudei ontem. → Ela estudou ontem. (Ela takes -ou.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Ela estudou português."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós conversamos à noite."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eles viajaram no sábado."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você comprou um livro?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu falei com meu amigo."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "estudou",
+            "full_sentence": "Ela estudou português."
+          },
+          {
+            "answer": "conversamos",
+            "full_sentence": "Nós conversamos à noite."
+          },
+          {
+            "answer": "viajaram",
+            "full_sentence": "Eles viajaram no sábado."
+          },
+          {
+            "answer": "comprou",
+            "full_sentence": "Você comprou um livro?"
+          },
+          {
+            "answer": "falei",
+            "full_sentence": "Eu falei com meu amigo."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu trabalhei ontem.",
+          "Ela estudou português.",
+          "Nós conversamos à noite.",
+          "Eles viajaram no sábado.",
+          "Você comprou um livro?"
+        ],
+        "D_portuguese_to_english": [
+          "We talked at night.",
+          "They traveled on Saturday.",
+          "Did you buy a book?",
+          "I talked to my friend."
+        ],
+        "E_reading": {
+          "translation": "Last weekend Pedro traveled to another city. He bought a gift and walked downtown. His sister stayed home and studied Portuguese. I called Pedro on Sunday. We talked about the trip and planned a visit.",
+          "answers": [
+            {
+              "question": "Para onde Pedro viajou?",
+              "answer": "Ele viajou para outra cidade."
+            },
+            {
+              "question": "O que Pedro comprou?",
+              "answer": "Ele comprou um presente."
+            },
+            {
+              "question": "O que a irmã de Pedro estudou?",
+              "answer": "Ela estudou português."
+            },
+            {
+              "question": "Quando o narrador telefonou para Pedro?",
+              "answer": "Ele telefonou para Pedro no domingo."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "No último fim de semana, Pedro viajou para outra cidade. Ele comprou um presente e caminhou no centro. Sua irmã ficou em casa e estudou português. Eu telefonei para Pedro no domingo. Nós conversamos sobre a viagem e planejamos uma visita.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu estudei português.",
+            "Sim, trabalhei no sábado.",
+            "Conversei com minha irmã."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

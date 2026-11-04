@@ -1,0 +1,655 @@
+{
+  "lesson_number": 1,
+  "id": "L01",
+  "title": "Personal Pronouns and Basic Sentence Structure",
+  "module": "Módulo 1 — Primeiras estruturas e frases essenciais",
+  "level": "A0–A1",
+  "main_grammar": "pronomes pessoais do sujeito e ordem sujeito + verbo + complemento.",
+  "previous_knowledge": "None: true beginner",
+  "key_vocabulary": [
+    "eu",
+    "você",
+    "ela",
+    "ele",
+    "nós",
+    "vocês",
+    "aluno",
+    "professor"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Who you are and two people you know” using this lesson’s target structure.",
+    "basic_rule": "Brazilian Portuguese usually follows subject + verb + complement.",
+    "structure": "subject + ser + description",
+    "english_comparison": "English also uses subject–verb–complement; Portuguese verbs change with the subject.",
+    "model_sentences": [
+      {
+        "pt": "Eu sou aluno.",
+        "en": "I am a student."
+      },
+      {
+        "pt": "Você é professor.",
+        "en": "You are a teacher."
+      },
+      {
+        "pt": "Ela é brasileira.",
+        "en": "She is Brazilian."
+      },
+      {
+        "pt": "Ele é americano.",
+        "en": "He is American."
+      },
+      {
+        "pt": "Nós somos amigos.",
+        "en": "We are friends."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "eu",
+        "meaning": "I",
+        "example": "Eu sou aluno."
+      },
+      {
+        "term": "você",
+        "meaning": "you (singular)",
+        "example": "Você é professor."
+      },
+      {
+        "term": "ela",
+        "meaning": "she",
+        "example": "Ela é brasileira."
+      },
+      {
+        "term": "ele",
+        "meaning": "he",
+        "example": "Ele é americano."
+      },
+      {
+        "term": "nós",
+        "meaning": "we",
+        "example": "Nós somos amigos."
+      },
+      {
+        "term": "vocês",
+        "meaning": "you (plural)",
+        "example": "Vocês são alunos."
+      },
+      {
+        "term": "aluno",
+        "meaning": "student",
+        "example": "Eu sou aluno."
+      },
+      {
+        "term": "professor",
+        "meaning": "teacher",
+        "example": "Você é professor."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I am a student.”?",
+            "options": {
+              "A": "Eu sou aluno.",
+              "B": "Ele é americano.",
+              "C": "Você é professor."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “You are a teacher.”?",
+            "options": {
+              "A": "Nós somos amigos.",
+              "B": "Vocês são alunos.",
+              "C": "Você é professor."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is Brazilian.”?",
+            "options": {
+              "A": "Ela é brasileira.",
+              "B": "Ele é americano.",
+              "C": "Eu sou aluno."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “He is American.”?",
+            "options": {
+              "A": "Ele é americano.",
+              "B": "Você é professor.",
+              "C": "Ela é brasileira."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ sou aluno.",
+            "hint": "I am a student."
+          },
+          {
+            "sentence": "________ é professor.",
+            "hint": "You are a teacher."
+          },
+          {
+            "sentence": "________ é brasileira.",
+            "hint": "She is Brazilian."
+          },
+          {
+            "sentence": "________ é americano.",
+            "hint": "He is American."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Eu sou Ana. Eu sou aluna. Você é Pedro. Você é aluno. Ela é Lara. Ela é professora. Ele é Paulo. Ele é professor. Nós somos amigos. Vocês são alunos.",
+        "questions": [
+          "Ana é aluna ou professora?",
+          "Paulo é aluno ou professor?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Você é aluno?",
+          "Ela é professora?",
+          "Vocês são amigos?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Notice who does or is something before choosing the verb.",
+      "examples": [
+        {
+          "pt": "Ele é americano.",
+          "en": "He is American."
+        },
+        {
+          "pt": "Nós somos amigos.",
+          "en": "We are friends."
+        },
+        {
+          "pt": "Vocês são alunos.",
+          "en": "You are students."
+        }
+      ],
+      "compare": "Eu sou aluno / Ela é professora: the pronoun determines the form.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu é aluno.",
+          "correct": "Eu sou aluno.",
+          "explanation": "Eu requires sou."
+        },
+        {
+          "wrong": "Ela sou professora.",
+          "correct": "Ela é professora.",
+          "explanation": "Ela requires é."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu sou aluno.",
+            "cue": "He is American."
+          },
+          {
+            "base": "Você é professor.",
+            "cue": "We are friends."
+          },
+          {
+            "base": "Ela é brasileira.",
+            "cue": "You are students."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "She is Brazilian.",
+          "He is American.",
+          "We are friends.",
+          "You are students."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Ele é americano. ________ é brasileira.",
+            "hint": "She is Brazilian."
+          },
+          {
+            "sentence": "Nós somos amigos. ________ é americano.",
+            "hint": "He is American."
+          },
+          {
+            "sentence": "Vocês são alunos. ________ somos amigos.",
+            "hint": "We are friends."
+          },
+          {
+            "sentence": "Eu sou aluno. ________ são alunos.",
+            "hint": "You are students."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Eu sou Maria e ele é Leo. Eu sou aluna e ele é aluno. Ela é professora. Nós somos amigos. Vocês são alunos? Sim, vocês são alunos. Eu sou brasileira e ele é americano.",
+        "questions": [
+          "Maria é aluna ou professora?",
+          "Leo é brasileiro ou americano?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Você é aluno?",
+          "english": "Are you a student?"
+        },
+        {
+          "question": "Ela é professora?",
+          "english": "Is she a teacher?"
+        },
+        {
+          "question": "Vocês são amigos?",
+          "english": "Are you all friends?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I am a student.”? A. Eu sou aluno. B. Ele é americano. C. Você é professor.",
+        "worked_answer": "A. Eu sou aluno. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ sou aluno. (I am a student.)",
+        "worked_answer": "Eu → Eu sou aluno. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "She is Brazilian.",
+        "worked_answer": "Ela é brasileira. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu sou aluno.",
+        "worked_answer": "I am a student. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Ana é aluna ou professora?",
+        "worked_answer": "Ana é aluna. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Ele é americano.” as a reference.",
+        "worked_answer": "Model: Nós somos amigos. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Vocês são alunos. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “You are a teacher.”?",
+            "options": {
+              "A": "Ela é brasileira.",
+              "B": "Você é professor.",
+              "C": "Eu sou aluno."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is Brazilian.”?",
+            "options": {
+              "A": "Nós somos amigos.",
+              "B": "Ela é brasileira.",
+              "C": "Vocês são alunos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “He is American.”?",
+            "options": {
+              "A": "Eu sou aluno.",
+              "B": "Nós somos amigos.",
+              "C": "Ele é americano."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are friends.”?",
+            "options": {
+              "A": "Eu sou aluno.",
+              "B": "Ela é brasileira.",
+              "C": "Nós somos amigos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “You are students.”?",
+            "options": {
+              "A": "Vocês são alunos.",
+              "B": "Nós somos amigos.",
+              "C": "Ela é brasileira."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "________ é professor.",
+            "hint": "You are a teacher."
+          },
+          {
+            "sentence": "________ é brasileira.",
+            "hint": "She is Brazilian."
+          },
+          {
+            "sentence": "________ é americano.",
+            "hint": "He is American."
+          },
+          {
+            "sentence": "________ somos amigos.",
+            "hint": "We are friends."
+          },
+          {
+            "sentence": "________ são alunos.",
+            "hint": "You are students."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I am a student.",
+          "You are a teacher.",
+          "She is Brazilian.",
+          "He is American.",
+          "We are friends."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Ela é brasileira.",
+          "Ele é americano.",
+          "Nós somos amigos.",
+          "Vocês são alunos."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Eu sou Julia. Você é Daniel. Nós somos amigos. Ela é professora e ele é aluno. Vocês são alunos também. Eu sou brasileira. Ele é americano. Ela é brasileira. Nós somos pessoas diferentes e somos amigos.",
+        "questions": [
+          "Julia é brasileira ou americana?",
+          "Julia e Daniel são amigos?",
+          "No texto, ela é professora ou aluna?",
+          "Ele é brasileiro ou americano?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Who you are and two people you know”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Você é aluno? / Ela é professora? / Vocês são amigos? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": null,
+    "pronunciation_focus": "Stress the last syllable of você and the first of somos.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Eu sou aluno."
+          },
+          {
+            "answer": "C",
+            "sentence": "Você é professor."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela é brasileira."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ele é americano."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Eu",
+            "full_sentence": "Eu sou aluno."
+          },
+          {
+            "answer": "Você",
+            "full_sentence": "Você é professor."
+          },
+          {
+            "answer": "Ela",
+            "full_sentence": "Ela é brasileira."
+          },
+          {
+            "answer": "Ele",
+            "full_sentence": "Ele é americano."
+          }
+        ],
+        "mini_reading": {
+          "translation": "I am Ana. I am a student. You are Pedro. You are a student. She is Lara. She is a teacher. He is Paulo. He is a teacher. We are friends. You are students.",
+          "answers": [
+            {
+              "question": "Ana é aluna ou professora?",
+              "answer": "Ana é aluna."
+            },
+            {
+              "question": "Paulo é aluno ou professor?",
+              "answer": "Paulo é professor."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Sim, eu sou aluno.",
+          "Sim, ela é professora.",
+          "Sim, nós somos amigos."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "He is American.",
+            "model": "Ele é americano."
+          },
+          {
+            "cue": "We are friends.",
+            "model": "Nós somos amigos."
+          },
+          {
+            "cue": "You are students.",
+            "model": "Vocês são alunos."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Ela é brasileira.",
+          "Ele é americano.",
+          "Nós somos amigos.",
+          "Vocês são alunos."
+        ],
+        "fill_in": [
+          {
+            "answer": "Ela",
+            "full_sentence": "Ele é americano. Ela é brasileira."
+          },
+          {
+            "answer": "Ele",
+            "full_sentence": "Nós somos amigos. Ele é americano."
+          },
+          {
+            "answer": "Nós",
+            "full_sentence": "Vocês são alunos. Nós somos amigos."
+          },
+          {
+            "answer": "Vocês",
+            "full_sentence": "Eu sou aluno. Vocês são alunos."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu sou aluno.",
+            "en": "I am a student."
+          },
+          {
+            "pt": "Ela é brasileira.",
+            "en": "She is Brazilian."
+          },
+          {
+            "pt": "Nós somos amigos.",
+            "en": "We are friends."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "I am Maria and he is Leo. I am a student and he is a student. She is a teacher. We are friends. Are you all students? Yes, you are students. I am Brazilian and he is American.",
+          "answers": [
+            {
+              "question": "Maria é aluna ou professora?",
+              "answer": "Maria é aluna."
+            },
+            {
+              "question": "Leo é brasileiro ou americano?",
+              "answer": "Leo é americano."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Você é aluno?",
+          "model_answer": "Sim, eu sou aluno.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu é aluno. → Eu sou aluno. (Eu requires sou.) Ela sou professora. → Ela é professora. (Ela requires é.)"
+        },
+        {
+          "question": "Ela é professora?",
+          "model_answer": "Sim, ela é professora.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "Eu é aluno. → Eu sou aluno. (Eu requires sou.) Ela sou professora. → Ela é professora. (Ela requires é.)"
+        },
+        {
+          "question": "Vocês são amigos?",
+          "model_answer": "Sim, nós somos amigos.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "Eu é aluno. → Eu sou aluno. (Eu requires sou.) Ela sou professora. → Ela é professora. (Ela requires é.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Você é professor."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela é brasileira."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ele é americano."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós somos amigos."
+          },
+          {
+            "answer": "A",
+            "sentence": "Vocês são alunos."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "Você",
+            "full_sentence": "Você é professor."
+          },
+          {
+            "answer": "Ela",
+            "full_sentence": "Ela é brasileira."
+          },
+          {
+            "answer": "Ele",
+            "full_sentence": "Ele é americano."
+          },
+          {
+            "answer": "Nós",
+            "full_sentence": "Nós somos amigos."
+          },
+          {
+            "answer": "Vocês",
+            "full_sentence": "Vocês são alunos."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu sou aluno.",
+          "Você é professor.",
+          "Ela é brasileira.",
+          "Ele é americano.",
+          "Nós somos amigos."
+        ],
+        "D_portuguese_to_english": [
+          "She is Brazilian.",
+          "He is American.",
+          "We are friends.",
+          "You are students."
+        ],
+        "E_reading": {
+          "translation": "I am Julia. You are Daniel. We are friends. She is a teacher and he is a student. You are students too. I am Brazilian. He is American. She is Brazilian. We are different people and we are friends.",
+          "answers": [
+            {
+              "question": "Julia é brasileira ou americana?",
+              "answer": "Julia é brasileira."
+            },
+            {
+              "question": "Julia e Daniel são amigos?",
+              "answer": "Sim, Julia e Daniel são amigos."
+            },
+            {
+              "question": "No texto, ela é professora ou aluna?",
+              "answer": "Ela é professora."
+            },
+            {
+              "question": "Ele é brasileiro ou americano?",
+              "answer": "Ele é americano."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Eu sou Julia. Você é Daniel. Nós somos amigos. Ela é professora e ele é aluno. Vocês são alunos também. Eu sou brasileira. Ele é americano. Ela é brasileira. Nós somos pessoas diferentes e somos amigos.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Sim, eu sou aluno.",
+            "Sim, ela é professora.",
+            "Sim, nós somos amigos."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

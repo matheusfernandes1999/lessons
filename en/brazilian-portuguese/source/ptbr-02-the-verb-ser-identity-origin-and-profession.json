@@ -1,0 +1,658 @@
+{
+  "lesson_number": 2,
+  "id": "L02",
+  "title": "The Verb Ser — Identity, Origin and Profession",
+  "module": "Módulo 1 — Primeiras estruturas e frases essenciais",
+  "level": "A0–A1",
+  "main_grammar": "presente de ser com os pronomes estudados.",
+  "previous_knowledge": "Lessons 1–1",
+  "key_vocabulary": [
+    "sou",
+    "é",
+    "somos",
+    "são",
+    "brasileiro",
+    "americana",
+    "amigos",
+    "professora"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your origin and two people's jobs” using this lesson’s target structure.",
+    "basic_rule": "Use sou with eu, é with você/ele/ela, somos with nós and são with vocês/eles/elas.",
+    "structure": "subject + ser + identity/origin/profession",
+    "english_comparison": "English uses am/is/are, not one universal am.",
+    "model_sentences": [
+      {
+        "pt": "Eu sou brasileiro.",
+        "en": "I am Brazilian."
+      },
+      {
+        "pt": "Ela é professora.",
+        "en": "She is a teacher."
+      },
+      {
+        "pt": "Nós somos amigos.",
+        "en": "We are friends."
+      },
+      {
+        "pt": "Eles são americanos.",
+        "en": "They are American."
+      },
+      {
+        "pt": "Você é do Brasil?",
+        "en": "Are you from Brazil?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "sou",
+        "meaning": "am",
+        "example": "Eu sou brasileiro."
+      },
+      {
+        "term": "é",
+        "meaning": "is",
+        "example": "Ela é professora."
+      },
+      {
+        "term": "somos",
+        "meaning": "are (we)",
+        "example": "Nós somos amigos."
+      },
+      {
+        "term": "são",
+        "meaning": "are (they/you plural)",
+        "example": "Eles são americanos."
+      },
+      {
+        "term": "brasileiro",
+        "meaning": "Brazilian",
+        "example": "Eu sou brasileiro."
+      },
+      {
+        "term": "americana",
+        "meaning": "American (f.)",
+        "example": "Laura é americana e é dos Estados Unidos."
+      },
+      {
+        "term": "amigos",
+        "meaning": "friends",
+        "example": "Nós somos amigos."
+      },
+      {
+        "term": "professora",
+        "meaning": "teacher (f.)",
+        "example": "Ela é professora."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I am Brazilian.”?",
+            "options": {
+              "A": "Nós somos amigos.",
+              "B": "Você é do Brasil?",
+              "C": "Eu sou brasileiro."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is a teacher.”?",
+            "options": {
+              "A": "Nós somos amigos.",
+              "B": "Eles são americanos.",
+              "C": "Ela é professora."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are friends.”?",
+            "options": {
+              "A": "Nós somos amigos.",
+              "B": "Eu sou brasileiro.",
+              "C": "Eles são americanos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They are American.”?",
+            "options": {
+              "A": "Eles são americanos.",
+              "B": "Você é do Brasil?",
+              "C": "Ela é professora."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ brasileiro.",
+            "hint": "I am Brazilian."
+          },
+          {
+            "sentence": "Ela ________ professora.",
+            "hint": "She is a teacher."
+          },
+          {
+            "sentence": "Nós ________ amigos.",
+            "hint": "We are friends."
+          },
+          {
+            "sentence": "Eles ________ americanos.",
+            "hint": "They are American."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Meu nome é Carla. Eu sou brasileira e sou do Brasil. Meu amigo é americano. Ele é dos Estados Unidos. Nós somos alunos de português. Nossa professora é brasileira. Ela é de São Paulo. Nós somos amigos.",
+        "questions": [
+          "O amigo de Carla é brasileiro ou americano?",
+          "A professora é de São Paulo ou dos Estados Unidos?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Você é do Brasil?",
+          "Qual é sua profissão?",
+          "Ela é brasileira?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Ser identifies, classifies and indicates origin; professions normally have no indefinite article after ser.",
+      "examples": [
+        {
+          "pt": "Eles são americanos.",
+          "en": "They are American."
+        },
+        {
+          "pt": "Você é do Brasil?",
+          "en": "Are you from Brazil?"
+        },
+        {
+          "pt": "Eu sou dos Estados Unidos.",
+          "en": "I am from the United States."
+        }
+      ],
+      "compare": "Eu sou do Brasil / Eu sou brasileiro: origin phrase versus nationality adjective.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu é brasileiro.",
+          "correct": "Eu sou brasileiro.",
+          "explanation": "Eu takes sou."
+        },
+        {
+          "wrong": "Ela é uma médica.",
+          "correct": "Ela é médica.",
+          "explanation": "Professions usually omit um/uma in neutral identity statements."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu sou brasileiro.",
+            "cue": "They are American."
+          },
+          {
+            "base": "Ela é professora.",
+            "cue": "Are you from Brazil?"
+          },
+          {
+            "base": "Nós somos amigos.",
+            "cue": "I am from the United States."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We are friends.",
+          "They are American.",
+          "Are you from Brazil?",
+          "I am from the United States."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles são americanos. Nós ________ amigos.",
+            "hint": "We are friends."
+          },
+          {
+            "sentence": "Você é do Brasil? Eles ________ americanos.",
+            "hint": "They are American."
+          },
+          {
+            "sentence": "Eu sou dos Estados Unidos. Você ________ do Brasil?",
+            "hint": "Are you from Brazil?"
+          },
+          {
+            "sentence": "Eu sou brasileiro. Eu ________ dos Estados Unidos.",
+            "hint": "I am from the United States."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Eu sou André. Sou professor de português. Ela é Laura, minha amiga. Laura é americana e é dos Estados Unidos. Nós somos colegas. Os alunos são brasileiros e americanos. Você é professor ou aluno?",
+        "questions": [
+          "André é professor ou aluno?",
+          "Laura é brasileira ou americana?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Você é do Brasil?",
+          "english": "Are you from Brazil?"
+        },
+        {
+          "question": "Qual é sua profissão?",
+          "english": "What is your profession?"
+        },
+        {
+          "question": "Ela é brasileira?",
+          "english": "Is she Brazilian?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I am Brazilian.”? A. Nós somos amigos. B. Você é do Brasil? C. Eu sou brasileiro.",
+        "worked_answer": "C. Eu sou brasileiro. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ brasileiro. (I am Brazilian.)",
+        "worked_answer": "sou → Eu sou brasileiro. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We are friends.",
+        "worked_answer": "Nós somos amigos. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu sou brasileiro.",
+        "worked_answer": "I am Brazilian. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O amigo de Carla é brasileiro ou americano?",
+        "worked_answer": "Ele é americano. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles são americanos.” as a reference.",
+        "worked_answer": "Model: Você é do Brasil? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu sou dos Estados Unidos. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She is a teacher.”?",
+            "options": {
+              "A": "Eu sou brasileiro.",
+              "B": "Ela é professora.",
+              "C": "Você é do Brasil?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are friends.”?",
+            "options": {
+              "A": "Eu sou dos Estados Unidos.",
+              "B": "Você é do Brasil?",
+              "C": "Nós somos amigos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They are American.”?",
+            "options": {
+              "A": "Ela é professora.",
+              "B": "Nós somos amigos.",
+              "C": "Eles são americanos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Are you from Brazil?”?",
+            "options": {
+              "A": "Eu sou brasileiro.",
+              "B": "Ela é professora.",
+              "C": "Você é do Brasil?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I am from the United States.”?",
+            "options": {
+              "A": "Eu sou brasileiro.",
+              "B": "Eles são americanos.",
+              "C": "Eu sou dos Estados Unidos."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ professora.",
+            "hint": "She is a teacher."
+          },
+          {
+            "sentence": "Nós ________ amigos.",
+            "hint": "We are friends."
+          },
+          {
+            "sentence": "Eles ________ americanos.",
+            "hint": "They are American."
+          },
+          {
+            "sentence": "Você ________ do Brasil?",
+            "hint": "Are you from Brazil?"
+          },
+          {
+            "sentence": "Eu ________ dos Estados Unidos.",
+            "hint": "I am from the United States."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I am Brazilian.",
+          "She is a teacher.",
+          "We are friends.",
+          "They are American.",
+          "Are you from Brazil?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós somos amigos.",
+          "Eles são americanos.",
+          "Você é do Brasil?",
+          "Eu sou dos Estados Unidos."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Paula é brasileira. Ela é médica. Daniel é americano e é professor. Eles são amigos. Nós somos estudantes. Somos do Brasil, mas Daniel é dos Estados Unidos. Nossa turma é internacional. Você é do Brasil também?",
+        "questions": [
+          "Paula é médica ou professora?",
+          "Daniel é brasileiro ou americano?",
+          "Daniel é professor ou médico?",
+          "Daniel é do Brasil ou dos Estados Unidos?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Your origin and two people's jobs”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Você é do Brasil? / Qual é sua profissão? / Ela é brasileira? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am a student.",
+      "expected_answer": "Eu sou aluno."
+    },
+    "pronunciation_focus": "The stressed vowel in é is open; keep São nasal.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu sou brasileiro."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela é professora."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós somos amigos."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles são americanos."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "sou",
+            "full_sentence": "Eu sou brasileiro."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Ela é professora."
+          },
+          {
+            "answer": "somos",
+            "full_sentence": "Nós somos amigos."
+          },
+          {
+            "answer": "são",
+            "full_sentence": "Eles são americanos."
+          }
+        ],
+        "mini_reading": {
+          "translation": "My name is Carla. I am Brazilian and I am from Brazil. My friend is American. He is from the United States. We are students of Portuguese. Our teacher is Brazilian. She is from São Paulo. We are friends.",
+          "answers": [
+            {
+              "question": "O amigo de Carla é brasileiro ou americano?",
+              "answer": "Ele é americano."
+            },
+            {
+              "question": "A professora é de São Paulo ou dos Estados Unidos?",
+              "answer": "Ela é de São Paulo."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Não, eu sou dos Estados Unidos.",
+          "Eu sou professor.",
+          "Sim, ela é brasileira."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They are American.",
+            "model": "Eles são americanos."
+          },
+          {
+            "cue": "Are you from Brazil?",
+            "model": "Você é do Brasil?"
+          },
+          {
+            "cue": "I am from the United States.",
+            "model": "Eu sou dos Estados Unidos."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós somos amigos.",
+          "Eles são americanos.",
+          "Você é do Brasil?",
+          "Eu sou dos Estados Unidos."
+        ],
+        "fill_in": [
+          {
+            "answer": "somos",
+            "full_sentence": "Eles são americanos. Nós somos amigos."
+          },
+          {
+            "answer": "são",
+            "full_sentence": "Você é do Brasil? Eles são americanos."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Eu sou dos Estados Unidos. Você é do Brasil?"
+          },
+          {
+            "answer": "sou",
+            "full_sentence": "Eu sou brasileiro. Eu sou dos Estados Unidos."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu sou brasileiro.",
+            "en": "I am Brazilian."
+          },
+          {
+            "pt": "Nós somos amigos.",
+            "en": "We are friends."
+          },
+          {
+            "pt": "Você é do Brasil?",
+            "en": "Are you from Brazil?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "I am André. I am a Portuguese teacher. She is Laura, my friend. Laura is American and is from the United States. We are colleagues. The students are Brazilian and American. Are you a teacher or a student?",
+          "answers": [
+            {
+              "question": "André é professor ou aluno?",
+              "answer": "André é professor de português."
+            },
+            {
+              "question": "Laura é brasileira ou americana?",
+              "answer": "Laura é americana."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Você é do Brasil?",
+          "model_answer": "Não, eu sou dos Estados Unidos.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu é brasileiro. → Eu sou brasileiro. (Eu takes sou.) Ela é uma médica. → Ela é médica. (Professions usually omit um/uma in neutral identity statements.)"
+        },
+        {
+          "question": "Qual é sua profissão?",
+          "model_answer": "Eu sou professor.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "Eu é brasileiro. → Eu sou brasileiro. (Eu takes sou.) Ela é uma médica. → Ela é médica. (Professions usually omit um/uma in neutral identity statements.)"
+        },
+        {
+          "question": "Ela é brasileira?",
+          "model_answer": "Sim, ela é brasileira.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "Eu é brasileiro. → Eu sou brasileiro. (Eu takes sou.) Ela é uma médica. → Ela é médica. (Professions usually omit um/uma in neutral identity statements.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ela é professora."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós somos amigos."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles são americanos."
+          },
+          {
+            "answer": "C",
+            "sentence": "Você é do Brasil?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Eu sou dos Estados Unidos."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "é",
+            "full_sentence": "Ela é professora."
+          },
+          {
+            "answer": "somos",
+            "full_sentence": "Nós somos amigos."
+          },
+          {
+            "answer": "são",
+            "full_sentence": "Eles são americanos."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Você é do Brasil?"
+          },
+          {
+            "answer": "sou",
+            "full_sentence": "Eu sou dos Estados Unidos."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu sou brasileiro.",
+          "Ela é professora.",
+          "Nós somos amigos.",
+          "Eles são americanos.",
+          "Você é do Brasil?"
+        ],
+        "D_portuguese_to_english": [
+          "We are friends.",
+          "They are American.",
+          "Are you from Brazil?",
+          "I am from the United States."
+        ],
+        "E_reading": {
+          "translation": "Paula is Brazilian. She is a doctor. Daniel is American and a teacher. They are friends. We are students. We are from Brazil, but Daniel is from the United States. Our class is international. Are you from Brazil too?",
+          "answers": [
+            {
+              "question": "Paula é médica ou professora?",
+              "answer": "Paula é médica."
+            },
+            {
+              "question": "Daniel é brasileiro ou americano?",
+              "answer": "Daniel é americano."
+            },
+            {
+              "question": "Daniel é professor ou médico?",
+              "answer": "Daniel é professor."
+            },
+            {
+              "question": "Daniel é do Brasil ou dos Estados Unidos?",
+              "answer": "Daniel é dos Estados Unidos."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Paula é brasileira. Ela é médica. Daniel é americano e é professor. Eles são amigos. Nós somos estudantes. Somos do Brasil, mas Daniel é dos Estados Unidos. Nossa turma é internacional. Você é do Brasil também?",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Não, eu sou dos Estados Unidos.",
+            "Eu sou professor.",
+            "Sim, ela é brasileira."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

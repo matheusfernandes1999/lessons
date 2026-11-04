@@ -1,0 +1,688 @@
+{
+  "lesson_number": 37,
+  "id": "L37",
+  "title": "Direct Object Pronouns — Spoken Brazilian Portuguese",
+  "module": "Módulo 7 — Pronomes, relações e estruturas complexas",
+  "level": "B1–B2",
+  "main_grammar": "retomada do objeto direto.",
+  "previous_knowledge": "Lessons 1–36",
+  "key_vocabulary": [
+    "vi",
+    "ela",
+    "a",
+    "me",
+    "te",
+    "livro",
+    "pessoa",
+    "amigo"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “People and objects you saw yesterday” using this lesson’s target structure.",
+    "basic_rule": "Brazilian speech often repeats a noun or uses a strong pronoun after the verb; formal writing also uses o/a/os/as.",
+    "structure": "verb + object OR object clitic + verb",
+    "english_comparison": "English me/him/her normally follows the verb; Portuguese clitics differ by register.",
+    "model_sentences": [
+      {
+        "pt": "Eu vi a Ana.",
+        "en": "I saw Ana."
+      },
+      {
+        "pt": "Eu a vi ontem.",
+        "en": "I saw her yesterday. [formal: object pronoun before the verb]"
+      },
+      {
+        "pt": "Eu vi ela ontem.",
+        "en": "I saw her yesterday. [informal speech]"
+      },
+      {
+        "pt": "Ela me chamou.",
+        "en": "She called me."
+      },
+      {
+        "pt": "Nós vimos o filme.",
+        "en": "We watched the movie."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "vi",
+        "meaning": "I saw",
+        "example": "Eu vi a Ana."
+      },
+      {
+        "term": "ela",
+        "meaning": "her (colloquial object)",
+        "example": "Eu vi ela ontem."
+      },
+      {
+        "term": "a",
+        "meaning": "her (formal object clitic)",
+        "example": "Eu vi a Ana."
+      },
+      {
+        "term": "me",
+        "meaning": "me",
+        "example": "Ela me chamou."
+      },
+      {
+        "term": "te",
+        "meaning": "you (informal object)",
+        "example": "Eu te vi no parque."
+      },
+      {
+        "term": "livro",
+        "meaning": "book",
+        "example": "Depois, encontrei Pedro e entreguei um livro a ele."
+      },
+      {
+        "term": "pessoa",
+        "meaning": "person",
+        "example": "A pessoa está aqui."
+      },
+      {
+        "term": "amigo",
+        "meaning": "friend",
+        "example": "Eu vi meu amigo ontem."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I saw Ana.”?",
+            "options": {
+              "A": "Eu vi ela ontem.",
+              "B": "Eu vi a Ana.",
+              "C": "Nós vimos o filme."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I saw her yesterday. [formal: object pronoun before the verb]”?",
+            "options": {
+              "A": "Eu a vi ontem.",
+              "B": "Ela me chamou.",
+              "C": "Nós vimos o filme."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I saw her yesterday. [informal speech]”?",
+            "options": {
+              "A": "Eu vi a Ana.",
+              "B": "Ela me chamou.",
+              "C": "Eu vi ela ontem."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She called me.”?",
+            "options": {
+              "A": "Ela me chamou.",
+              "B": "Nós vimos o filme.",
+              "C": "Eu vi ela ontem."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu vi ________ Ana.",
+            "hint": "I saw Ana."
+          },
+          {
+            "sentence": "Eu ________ vi ontem.",
+            "hint": "I saw her yesterday. [formal: object pronoun before the verb]"
+          },
+          {
+            "sentence": "Eu vi ________ ontem.",
+            "hint": "I saw her yesterday. [informal speech]"
+          },
+          {
+            "sentence": "Ela ________ chamou.",
+            "hint": "She called me."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Ontem eu encontrei Ana no mercado. Eu a cumprimentei e conversamos por alguns minutos. Na fala cotidiana, eu também poderia dizer “eu vi ela”, mas em um relatório formal escreveria “eu a vi”. Depois, encontrei Pedro e entreguei um livro a ele. Mais tarde, meus amigos me ligaram para falar do encontro.",
+        "questions": [
+          "Onde o narrador encontrou Ana?",
+          "Como ele escreveria “eu vi ela” em um relatório formal?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Você viu um amigo ontem?",
+          "Como você se refere a Ana em uma conversa informal?",
+          "Como você escreveria isso de modo formal?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Choose natural everyday spoken forms but recognize formal ones.",
+      "examples": [
+        {
+          "pt": "Ela me chamou.",
+          "en": "She called me."
+        },
+        {
+          "pt": "Nós vimos o filme.",
+          "en": "We watched the movie."
+        },
+        {
+          "pt": "Você viu meus amigos?",
+          "en": "Did you see my friends?"
+        }
+      ],
+      "compare": "Vi a Ana / Eu a vi / Vi ela: same referent, different register.",
+      "common_mistakes": [
+        {
+          "wrong": "Formal report: Eu vi ela na reunião.",
+          "correct": "Formal report: Eu a vi na reunião.",
+          "explanation": "In formal writing, use the object pronoun a before the verb; vi ela is natural only in informal speech."
+        },
+        {
+          "wrong": "Eu vi o.",
+          "correct": "Eu o vi.",
+          "explanation": "Object clitics typically precede a finite verb in neutral sentences."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu vi a Ana.",
+            "cue": "She called me."
+          },
+          {
+            "base": "Eu a vi ontem.",
+            "cue": "We watched the movie."
+          },
+          {
+            "base": "Eu vi ela ontem.",
+            "cue": "Did you see my friends?"
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "I saw her yesterday. [informal speech]",
+          "She called me.",
+          "We watched the movie.",
+          "Did you see my friends?"
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Ela me chamou. Eu vi ________ ontem.",
+            "hint": "I saw her yesterday. [informal speech]"
+          },
+          {
+            "sentence": "Nós vimos o filme. Ela ________ chamou.",
+            "hint": "She called me."
+          },
+          {
+            "sentence": "Você viu meus amigos? Nós vimos ________ filme.",
+            "hint": "We watched the movie."
+          },
+          {
+            "sentence": "Eu vi a Ana. Você ________ meus amigos?",
+            "hint": "Did you see my friends?"
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Uma aluna perguntou ao professor sobre o relatório. Ele o leu com atenção e depois enviou uma resposta. Na conversa informal, a aluna disse que viu o professor na biblioteca e falou com ele. O professor explicou que as escolhas de pronomes dependem do contexto e do grau de formalidade.",
+        "questions": [
+          "O que o professor fez com o relatório?",
+          "Segundo o professor, de que dependem as escolhas de pronomes?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Você viu um amigo ontem?",
+          "english": "Did you see a friend yesterday?"
+        },
+        {
+          "question": "Como você se refere a Ana em uma conversa informal?",
+          "english": "How do you refer to Ana in an informal conversation?"
+        },
+        {
+          "question": "Como você escreveria isso de modo formal?",
+          "english": "How would you write this formally?"
+        },
+        {
+          "question": "Como você fala sobre uma pessoa que viu ontem sem repetir o nome?",
+          "english": "How do you talk about someone you saw yesterday without repeating the name?"
+        },
+        {
+          "question": "Você usaria “eu a vi” em uma mensagem informal?",
+          "english": "Would you use “eu a vi” in an informal message?"
+        },
+        {
+          "question": "Como reescreveria “eu vi ela” para um relatório formal?",
+          "english": "How would you rewrite “eu vi ela” for a formal report?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I saw Ana.”? A. Eu vi ela ontem. B. Eu vi a Ana. C. Nós vimos o filme.",
+        "worked_answer": "B. Eu vi a Ana. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu vi ________ Ana. (I saw Ana.)",
+        "worked_answer": "a → Eu vi a Ana. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "I saw her yesterday. [informal speech]",
+        "worked_answer": "Eu vi ela ontem. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu vi a Ana.",
+        "worked_answer": "I saw Ana. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Onde o narrador encontrou Ana?",
+        "worked_answer": "Ele encontrou Ana no mercado. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Ela me chamou.” as a reference.",
+        "worked_answer": "Model: Nós vimos o filme. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Você viu meus amigos? — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I saw her yesterday. [formal: object pronoun before the verb]”?",
+            "options": {
+              "A": "Nós vimos o filme.",
+              "B": "Você viu meus amigos?",
+              "C": "Eu a vi ontem."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I saw her yesterday. [informal speech]”?",
+            "options": {
+              "A": "Eu vi ela ontem.",
+              "B": "Ela me chamou.",
+              "C": "Você viu meus amigos?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She called me.”?",
+            "options": {
+              "A": "Você viu meus amigos?",
+              "B": "Eu vi ela ontem.",
+              "C": "Ela me chamou."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We watched the movie.”?",
+            "options": {
+              "A": "Ela me chamou.",
+              "B": "Nós vimos o filme.",
+              "C": "Eu vi a Ana."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Did you see my friends?”?",
+            "options": {
+              "A": "Ela me chamou.",
+              "B": "Você viu meus amigos?",
+              "C": "Eu a vi ontem."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Eu ________ vi ontem.",
+            "hint": "I saw her yesterday. [formal: object pronoun before the verb]"
+          },
+          {
+            "sentence": "Eu vi ________ ontem.",
+            "hint": "I saw her yesterday. [informal speech]"
+          },
+          {
+            "sentence": "Ela ________ chamou.",
+            "hint": "She called me."
+          },
+          {
+            "sentence": "Nós vimos ________ filme.",
+            "hint": "We watched the movie."
+          },
+          {
+            "sentence": "Você ________ meus amigos?",
+            "hint": "Did you see my friends?"
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I saw Ana.",
+          "I saw her yesterday. [formal: object pronoun before the verb]",
+          "I saw her yesterday. [informal speech]",
+          "She called me.",
+          "We watched the movie."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Eu vi ela ontem.",
+          "Ela me chamou.",
+          "Nós vimos o filme.",
+          "Você viu meus amigos?"
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Eu tenho uma amiga que mora perto de casa. Ontem vi minha amiga no parque. Em uma conversa, posso dizer “vi ela no parque”. Em um texto mais formal, escrevo “eu a vi no parque”. O objetivo é manter a referência clara. Depois, encontrei outros amigos e os cumprimentei.",
+        "questions": [
+          "Onde o narrador viu a amiga?",
+          "Como ele pode dizer isso em uma conversa?",
+          "E em um texto mais formal?",
+          "O que ele fez quando encontrou outros amigos?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “People and objects you saw yesterday”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Você viu um amigo ontem? / Como você se refere a Ana em uma conversa informal? / Como você escreveria isso de modo formal? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "Before, I lived in a small house.",
+      "expected_answer": "Antes, eu morava numa casa pequena."
+    },
+    "pronunciation_focus": "Clitics are unstressed; practice natural phrase rhythm.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Eu vi a Ana."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu a vi ontem."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eu vi ela ontem."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela me chamou."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "a",
+            "full_sentence": "Eu vi a Ana."
+          },
+          {
+            "answer": "a",
+            "full_sentence": "Eu a vi ontem."
+          },
+          {
+            "answer": "ela",
+            "full_sentence": "Eu vi ela ontem."
+          },
+          {
+            "answer": "me",
+            "full_sentence": "Ela me chamou."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Yesterday I met Ana at the market. I greeted her and we talked for a few minutes. In everyday speech, I could also say “eu vi ela,” but in a formal report I would write “eu a vi.” Then I met Pedro and gave him a book. Later, my friends called me to talk about the meeting.",
+          "answers": [
+            {
+              "question": "Onde o narrador encontrou Ana?",
+              "answer": "Ele encontrou Ana no mercado."
+            },
+            {
+              "question": "Como ele escreveria “eu vi ela” em um relatório formal?",
+              "answer": "Ele escreveria “eu a vi”."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Sim, eu vi Ana ontem.",
+          "Eu vi ela no mercado.",
+          "Eu a vi no mercado."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "She called me.",
+            "model": "Ela me chamou."
+          },
+          {
+            "cue": "We watched the movie.",
+            "model": "Nós vimos o filme."
+          },
+          {
+            "cue": "Did you see my friends?",
+            "model": "Você viu meus amigos?"
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Eu vi ela ontem.",
+          "Ela me chamou.",
+          "Nós vimos o filme.",
+          "Você viu meus amigos?"
+        ],
+        "fill_in": [
+          {
+            "answer": "ela",
+            "full_sentence": "Ela me chamou. Eu vi ela ontem."
+          },
+          {
+            "answer": "me",
+            "full_sentence": "Nós vimos o filme. Ela me chamou."
+          },
+          {
+            "answer": "o",
+            "full_sentence": "Você viu meus amigos? Nós vimos o filme."
+          },
+          {
+            "answer": "viu",
+            "full_sentence": "Eu vi a Ana. Você viu meus amigos?"
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu vi a Ana.",
+            "en": "I saw Ana."
+          },
+          {
+            "pt": "Eu vi ela ontem.",
+            "en": "I saw her yesterday. [informal speech]"
+          },
+          {
+            "pt": "Nós vimos o filme.",
+            "en": "We watched the movie."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "A student asked the teacher about the report. He read it carefully and then sent a reply. In the informal conversation, the student said she saw the teacher in the library and spoke with him. The teacher explained that pronoun choices depend on the context and degree of formality.",
+          "answers": [
+            {
+              "question": "O que o professor fez com o relatório?",
+              "answer": "Ele o leu com atenção e depois enviou uma resposta."
+            },
+            {
+              "question": "Segundo o professor, de que dependem as escolhas de pronomes?",
+              "answer": "Do contexto e do grau de formalidade."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Você viu um amigo ontem?",
+          "model_answer": "Sim, eu vi Ana ontem.",
+          "follow_up": "Por quê?",
+          "watch_for": "Formal report: Eu vi ela na reunião. → Formal report: Eu a vi na reunião. (In formal writing, use the object pronoun a before the verb; vi ela is natural only in informal speech.) Eu vi o. → Eu o vi. (Object clitics typically precede a finite verb in neutral sentences.)"
+        },
+        {
+          "question": "Como você se refere a Ana em uma conversa informal?",
+          "model_answer": "Eu vi ela no mercado.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Formal report: Eu vi ela na reunião. → Formal report: Eu a vi na reunião. (In formal writing, use the object pronoun a before the verb; vi ela is natural only in informal speech.) Eu vi o. → Eu o vi. (Object clitics typically precede a finite verb in neutral sentences.)"
+        },
+        {
+          "question": "Como você escreveria isso de modo formal?",
+          "model_answer": "Eu a vi no mercado.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Formal report: Eu vi ela na reunião. → Formal report: Eu a vi na reunião. (In formal writing, use the object pronoun a before the verb; vi ela is natural only in informal speech.) Eu vi o. → Eu o vi. (Object clitics typically precede a finite verb in neutral sentences.)"
+        },
+        {
+          "question": "Como você fala sobre uma pessoa que viu ontem sem repetir o nome?",
+          "model_answer": "Vi Ana ontem e depois conversei com ela.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Formal report: Eu vi ela na reunião. → Formal report: Eu a vi na reunião. (In formal writing, use the object pronoun a before the verb; vi ela is natural only in informal speech.) Eu vi o. → Eu o vi. (Object clitics typically precede a finite verb in neutral sentences.)"
+        },
+        {
+          "question": "Você usaria “eu a vi” em uma mensagem informal?",
+          "model_answer": "Eu provavelmente diria “eu vi ela”.",
+          "follow_up": "Por quê?",
+          "watch_for": "Formal report: Eu vi ela na reunião. → Formal report: Eu a vi na reunião. (In formal writing, use the object pronoun a before the verb; vi ela is natural only in informal speech.) Eu vi o. → Eu o vi. (Object clitics typically precede a finite verb in neutral sentences.)"
+        },
+        {
+          "question": "Como reescreveria “eu vi ela” para um relatório formal?",
+          "model_answer": "Eu a vi.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Formal report: Eu vi ela na reunião. → Formal report: Eu a vi na reunião. (In formal writing, use the object pronoun a before the verb; vi ela is natural only in informal speech.) Eu vi o. → Eu o vi. (Object clitics typically precede a finite verb in neutral sentences.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu a vi ontem."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu vi ela ontem."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela me chamou."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós vimos o filme."
+          },
+          {
+            "answer": "B",
+            "sentence": "Você viu meus amigos?"
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "a",
+            "full_sentence": "Eu a vi ontem."
+          },
+          {
+            "answer": "ela",
+            "full_sentence": "Eu vi ela ontem."
+          },
+          {
+            "answer": "me",
+            "full_sentence": "Ela me chamou."
+          },
+          {
+            "answer": "o",
+            "full_sentence": "Nós vimos o filme."
+          },
+          {
+            "answer": "viu",
+            "full_sentence": "Você viu meus amigos?"
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu vi a Ana.",
+          "Eu a vi ontem.",
+          "Eu vi ela ontem.",
+          "Ela me chamou.",
+          "Nós vimos o filme."
+        ],
+        "D_portuguese_to_english": [
+          "I saw her yesterday. [informal speech]",
+          "She called me.",
+          "We watched the movie.",
+          "Did you see my friends?"
+        ],
+        "E_reading": {
+          "translation": "I have a friend who lives near my house. Yesterday I saw my friend in the park. In a conversation, I can say “vi ela no parque”. In a more formal text, I write “eu a vi no parque”. The goal is to keep the reference clear. Afterward, I met other friends and greeted them.",
+          "answers": [
+            {
+              "question": "Onde o narrador viu a amiga?",
+              "answer": "Ele a viu no parque."
+            },
+            {
+              "question": "Como ele pode dizer isso em uma conversa?",
+              "answer": "“Vi ela no parque.”"
+            },
+            {
+              "question": "E em um texto mais formal?",
+              "answer": "“Eu a vi no parque.”"
+            },
+            {
+              "question": "O que ele fez quando encontrou outros amigos?",
+              "answer": "Ele os cumprimentou."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Eu tenho uma amiga que mora perto de casa. Ontem vi minha amiga no parque. Em uma conversa, posso dizer “vi ela no parque”. Em um texto mais formal, escrevo “eu a vi no parque”. O objetivo é manter a referência clara. Depois, encontrei outros amigos e os cumprimentei.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Sim, eu vi Ana ontem.",
+            "Eu vi ela no mercado.",
+            "Eu a vi no mercado."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

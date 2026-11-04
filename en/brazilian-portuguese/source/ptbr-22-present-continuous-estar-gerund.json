@@ -1,0 +1,668 @@
+{
+  "lesson_number": 22,
+  "id": "L22",
+  "title": "Present Continuous — Estar + Gerund",
+  "module": "Módulo 4 — Planos, capacidade e ações em andamento",
+  "level": "A2",
+  "main_grammar": "presente progressivo brasileiro.",
+  "previous_knowledge": "Lessons 1–21",
+  "key_vocabulary": [
+    "estou",
+    "está",
+    "estamos",
+    "estão",
+    "estudando",
+    "trabalhando",
+    "comendo",
+    "abrindo"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “What different people are doing right now” using this lesson’s target structure.",
+    "basic_rule": "Estar + gerund (-ando/-endo/-indo) describes an action in progress.",
+    "structure": "estar + verb stem + ando/endo/indo",
+    "english_comparison": "English am working parallels estou trabalhando.",
+    "model_sentences": [
+      {
+        "pt": "Eu estou estudando.",
+        "en": "I am studying."
+      },
+      {
+        "pt": "Ela está trabalhando agora.",
+        "en": "She is working now."
+      },
+      {
+        "pt": "Nós estamos comendo.",
+        "en": "We are eating."
+      },
+      {
+        "pt": "Eles estão abrindo a loja.",
+        "en": "They are opening the store."
+      },
+      {
+        "pt": "Você está lendo?",
+        "en": "Are you reading?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "estou",
+        "meaning": "I am",
+        "example": "Eu estou estudando."
+      },
+      {
+        "term": "está",
+        "meaning": "is",
+        "example": "Ela está trabalhando agora."
+      },
+      {
+        "term": "estamos",
+        "meaning": "we are",
+        "example": "Nós estamos comendo."
+      },
+      {
+        "term": "estão",
+        "meaning": "they are",
+        "example": "Eles estão abrindo a loja."
+      },
+      {
+        "term": "estudando",
+        "meaning": "studying",
+        "example": "Eu estou estudando."
+      },
+      {
+        "term": "trabalhando",
+        "meaning": "working",
+        "example": "Ela está trabalhando agora."
+      },
+      {
+        "term": "comendo",
+        "meaning": "eating",
+        "example": "Nós estamos comendo."
+      },
+      {
+        "term": "abrindo",
+        "meaning": "opening",
+        "example": "Eles estão abrindo a loja."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I am studying.”?",
+            "options": {
+              "A": "Nós estamos comendo.",
+              "B": "Eu estou estudando.",
+              "C": "Ela está trabalhando agora."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is working now.”?",
+            "options": {
+              "A": "Ela está trabalhando agora.",
+              "B": "Eles estão abrindo a loja.",
+              "C": "Nós estamos comendo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are eating.”?",
+            "options": {
+              "A": "Nós estamos comendo.",
+              "B": "Eu estou falando português.",
+              "C": "Você está lendo?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They are opening the store.”?",
+            "options": {
+              "A": "Eles estão abrindo a loja.",
+              "B": "Eu estou falando português.",
+              "C": "Nós estamos comendo."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ estudando.",
+            "hint": "I am studying."
+          },
+          {
+            "sentence": "Ela ________ trabalhando agora.",
+            "hint": "She is working now."
+          },
+          {
+            "sentence": "Nós ________ comendo.",
+            "hint": "We are eating."
+          },
+          {
+            "sentence": "Eles ________ abrindo a loja.",
+            "hint": "They are opening the store."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Agora eu estou estudando português. Minha irmã está trabalhando na sala. Nosso pai está preparando o almoço. Nós estamos falando baixo. Os amigos estão chegando para a aula. O professor está abrindo a porta.",
+        "questions": [
+          "O que o pai está fazendo?",
+          "O que o professor está fazendo?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que você está fazendo agora?",
+          "Quem está trabalhando hoje?",
+          "Você está lendo um livro?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "The verb estar changes with the person; the gerund does not.",
+      "examples": [
+        {
+          "pt": "Eles estão abrindo a loja.",
+          "en": "They are opening the store."
+        },
+        {
+          "pt": "Você está lendo?",
+          "en": "Are you reading?"
+        },
+        {
+          "pt": "Eu estou falando português.",
+          "en": "I am speaking Portuguese."
+        }
+      ],
+      "compare": "Trabalho em casa / Estou trabalhando agora: routine versus ongoing action.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu estou trabalha.",
+          "correct": "Eu estou trabalhando.",
+          "explanation": "Use the gerund."
+        },
+        {
+          "wrong": "Ela está estudanda.",
+          "correct": "Ela está estudando.",
+          "explanation": "The gerund ending does not agree for gender."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu estou estudando.",
+            "cue": "They are opening the store."
+          },
+          {
+            "base": "Ela está trabalhando agora.",
+            "cue": "Are you reading?"
+          },
+          {
+            "base": "Nós estamos comendo.",
+            "cue": "I am speaking Portuguese."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We are eating.",
+          "They are opening the store.",
+          "Are you reading?",
+          "I am speaking Portuguese."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles estão abrindo a loja. Nós ________ comendo.",
+            "hint": "We are eating."
+          },
+          {
+            "sentence": "Você está lendo? Eles ________ abrindo a loja.",
+            "hint": "They are opening the store."
+          },
+          {
+            "sentence": "Eu estou falando português. Você ________ lendo?",
+            "hint": "Are you reading?"
+          },
+          {
+            "sentence": "Eu estou estudando. Eu ________ falando português.",
+            "hint": "I am speaking Portuguese."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Hoje Pedro está trabalhando em casa. Ana está lendo um livro na varanda. Os vizinhos estão conversando. Eu estou escrevendo uma mensagem. Nós estamos esperando o professor. Ele está ensinando português agora.",
+        "questions": [
+          "Onde Ana está lendo?",
+          "O que o narrador está escrevendo?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que você está fazendo agora?",
+          "english": "What are you doing right now?"
+        },
+        {
+          "question": "Quem está trabalhando hoje?",
+          "english": "Who is working today?"
+        },
+        {
+          "question": "Você está lendo um livro?",
+          "english": "Are you reading a book?"
+        },
+        {
+          "question": "O que uma pessoa da sua família está fazendo agora?",
+          "english": "What is someone in your family doing now?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I am studying.”? A. Nós estamos comendo. B. Eu estou estudando. C. Ela está trabalhando agora.",
+        "worked_answer": "B. Eu estou estudando. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ estudando. (I am studying.)",
+        "worked_answer": "estou → Eu estou estudando. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We are eating.",
+        "worked_answer": "Nós estamos comendo. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu estou estudando.",
+        "worked_answer": "I am studying. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O que o pai está fazendo?",
+        "worked_answer": "Ele está preparando o almoço. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles estão abrindo a loja.” as a reference.",
+        "worked_answer": "Model: Você está lendo? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu estou falando português. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "20–25 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She is working now.”?",
+            "options": {
+              "A": "Nós estamos comendo.",
+              "B": "Eles estão abrindo a loja.",
+              "C": "Ela está trabalhando agora."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are eating.”?",
+            "options": {
+              "A": "Eu estou estudando.",
+              "B": "Nós estamos comendo.",
+              "C": "Você está lendo?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They are opening the store.”?",
+            "options": {
+              "A": "Eu estou falando português.",
+              "B": "Ela está trabalhando agora.",
+              "C": "Eles estão abrindo a loja."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Are you reading?”?",
+            "options": {
+              "A": "Você está lendo?",
+              "B": "Eu estou estudando.",
+              "C": "Nós estamos comendo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I am speaking Portuguese.”?",
+            "options": {
+              "A": "Ela está trabalhando agora.",
+              "B": "Eles estão abrindo a loja.",
+              "C": "Eu estou falando português."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ trabalhando agora.",
+            "hint": "She is working now."
+          },
+          {
+            "sentence": "Nós ________ comendo.",
+            "hint": "We are eating."
+          },
+          {
+            "sentence": "Eles ________ abrindo a loja.",
+            "hint": "They are opening the store."
+          },
+          {
+            "sentence": "Você ________ lendo?",
+            "hint": "Are you reading?"
+          },
+          {
+            "sentence": "Eu ________ falando português.",
+            "hint": "I am speaking Portuguese."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I am studying.",
+          "She is working now.",
+          "We are eating.",
+          "They are opening the store.",
+          "Are you reading?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós estamos comendo.",
+          "Eles estão abrindo a loja.",
+          "Você está lendo?",
+          "Eu estou falando português."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Eu trabalho todos os dias, mas agora estou descansando. Minha mãe está cozinhando. Meu irmão está estudando. Os amigos estão caminhando no parque. Você está lendo ou trabalhando? Hoje nós estamos preparando uma festa pequena.",
+        "questions": [
+          "O que o narrador está fazendo agora?",
+          "O que a mãe está fazendo?",
+          "Onde os amigos estão caminhando?",
+          "O que eles estão preparando hoje?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 6–8 sentences on the topic “What different people are doing right now”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que você está fazendo agora? / Quem está trabalhando hoje? / Você está lendo um livro? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I have to work.",
+      "expected_answer": "Eu tenho que trabalhar."
+    },
+    "pronunciation_focus": "Stress -an- in estudando and -en- in comendo.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Eu estou estudando."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela está trabalhando agora."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós estamos comendo."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles estão abrindo a loja."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "estou",
+            "full_sentence": "Eu estou estudando."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Ela está trabalhando agora."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Nós estamos comendo."
+          },
+          {
+            "answer": "estão",
+            "full_sentence": "Eles estão abrindo a loja."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Right now I am studying Portuguese. My sister is working in the living room. Our father is preparing lunch. We are speaking quietly. Our friends are arriving for class. The teacher is opening the door.",
+          "answers": [
+            {
+              "question": "O que o pai está fazendo?",
+              "answer": "Ele está preparando o almoço."
+            },
+            {
+              "question": "O que o professor está fazendo?",
+              "answer": "Ele está abrindo a porta."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu estou estudando português.",
+          "Minha irmã está trabalhando.",
+          "Não, estou escrevendo."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They are opening the store.",
+            "model": "Eles estão abrindo a loja."
+          },
+          {
+            "cue": "Are you reading?",
+            "model": "Você está lendo?"
+          },
+          {
+            "cue": "I am speaking Portuguese.",
+            "model": "Eu estou falando português."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós estamos comendo.",
+          "Eles estão abrindo a loja.",
+          "Você está lendo?",
+          "Eu estou falando português."
+        ],
+        "fill_in": [
+          {
+            "answer": "estamos",
+            "full_sentence": "Eles estão abrindo a loja. Nós estamos comendo."
+          },
+          {
+            "answer": "estão",
+            "full_sentence": "Você está lendo? Eles estão abrindo a loja."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Eu estou falando português. Você está lendo?"
+          },
+          {
+            "answer": "estou",
+            "full_sentence": "Eu estou estudando. Eu estou falando português."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu estou estudando.",
+            "en": "I am studying."
+          },
+          {
+            "pt": "Nós estamos comendo.",
+            "en": "We are eating."
+          },
+          {
+            "pt": "Você está lendo?",
+            "en": "Are you reading?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Today Pedro is working at home. Ana is reading a book on the porch. The neighbors are talking. I am writing a message. We are waiting for the teacher. He is teaching Portuguese right now.",
+          "answers": [
+            {
+              "question": "Onde Ana está lendo?",
+              "answer": "Ela está lendo na varanda."
+            },
+            {
+              "question": "O que o narrador está escrevendo?",
+              "answer": "Ele está escrevendo uma mensagem."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que você está fazendo agora?",
+          "model_answer": "Eu estou estudando português.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu estou trabalha. → Eu estou trabalhando. (Use the gerund.) Ela está estudanda. → Ela está estudando. (The gerund ending does not agree for gender.)"
+        },
+        {
+          "question": "Quem está trabalhando hoje?",
+          "model_answer": "Minha irmã está trabalhando.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu estou trabalha. → Eu estou trabalhando. (Use the gerund.) Ela está estudanda. → Ela está estudando. (The gerund ending does not agree for gender.)"
+        },
+        {
+          "question": "Você está lendo um livro?",
+          "model_answer": "Não, estou escrevendo.",
+          "follow_up": "E sua família?",
+          "watch_for": "Eu estou trabalha. → Eu estou trabalhando. (Use the gerund.) Ela está estudanda. → Ela está estudando. (The gerund ending does not agree for gender.)"
+        },
+        {
+          "question": "O que uma pessoa da sua família está fazendo agora?",
+          "model_answer": "Minha irmã está trabalhando agora.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Eu estou trabalha. → Eu estou trabalhando. (Use the gerund.) Ela está estudanda. → Ela está estudando. (The gerund ending does not agree for gender.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Ela está trabalhando agora."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós estamos comendo."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles estão abrindo a loja."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você está lendo?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Eu estou falando português."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "está",
+            "full_sentence": "Ela está trabalhando agora."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Nós estamos comendo."
+          },
+          {
+            "answer": "estão",
+            "full_sentence": "Eles estão abrindo a loja."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Você está lendo?"
+          },
+          {
+            "answer": "estou",
+            "full_sentence": "Eu estou falando português."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu estou estudando.",
+          "Ela está trabalhando agora.",
+          "Nós estamos comendo.",
+          "Eles estão abrindo a loja.",
+          "Você está lendo?"
+        ],
+        "D_portuguese_to_english": [
+          "We are eating.",
+          "They are opening the store.",
+          "Are you reading?",
+          "I am speaking Portuguese."
+        ],
+        "E_reading": {
+          "translation": "I work every day, but right now I am resting. My mother is cooking. My brother is studying. Our friends are walking in the park. Are you reading or working? Today we are preparing a small party.",
+          "answers": [
+            {
+              "question": "O que o narrador está fazendo agora?",
+              "answer": "Ele está descansando."
+            },
+            {
+              "question": "O que a mãe está fazendo?",
+              "answer": "Ela está cozinhando."
+            },
+            {
+              "question": "Onde os amigos estão caminhando?",
+              "answer": "Eles estão caminhando no parque."
+            },
+            {
+              "question": "O que eles estão preparando hoje?",
+              "answer": "Eles estão preparando uma festa pequena."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Eu trabalho todos os dias, mas agora estou descansando. Minha mãe está cozinhando. Meu irmão está estudando. Os amigos estão caminhando no parque. Você está lendo ou trabalhando? Hoje nós estamos preparando uma festa pequena.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu estou estudando português.",
+            "Minha irmã está trabalhando.",
+            "Não, estou escrevendo."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

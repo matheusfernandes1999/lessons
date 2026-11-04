@@ -1,0 +1,698 @@
+{
+  "lesson_number": 58,
+  "id": "L58",
+  "title": "Advanced Discourse Connectors and Argumentation",
+  "module": "Módulo 10 — Português avançado e comunicação natural",
+  "level": "B2–C1-oriented",
+  "main_grammar": "conectores de contraste, concessão, consequência e conclusão.",
+  "previous_knowledge": "Lessons 1–57",
+  "key_vocabulary": [
+    "no entanto",
+    "porém",
+    "portanto",
+    "além disso",
+    "por outro lado",
+    "mesmo assim",
+    "custo",
+    "prazo"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Argue for a practical everyday choice” using this lesson’s target structure.",
+    "basic_rule": "Use connectors to signal contrast, addition, inference and conclusion in structured speech.",
+    "structure": "claim + evidence + connector + consequence",
+    "english_comparison": "English however, therefore and furthermore are close functional matches.",
+    "model_sentences": [
+      {
+        "pt": "Quero viajar; no entanto, preciso trabalhar.",
+        "en": "I want to travel; however, I need to work."
+      },
+      {
+        "pt": "Ela estudou; portanto, passou na prova.",
+        "en": "She studied; therefore, she passed the test."
+      },
+      {
+        "pt": "Além disso, precisamos de tempo.",
+        "en": "Furthermore, we need time."
+      },
+      {
+        "pt": "Por outro lado, o custo é alto.",
+        "en": "On the other hand, the cost is high."
+      },
+      {
+        "pt": "Estava cansado; mesmo assim, saí.",
+        "en": "I was tired; even so, I went out."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "no entanto",
+        "meaning": "however",
+        "example": "Quero viajar; no entanto, preciso trabalhar."
+      },
+      {
+        "term": "porém",
+        "meaning": "however",
+        "example": "O plano é bom, porém é caro."
+      },
+      {
+        "term": "portanto",
+        "meaning": "therefore",
+        "example": "Ela estudou; portanto, passou na prova."
+      },
+      {
+        "term": "além disso",
+        "meaning": "furthermore",
+        "example": "Além disso, precisamos de tempo."
+      },
+      {
+        "term": "por outro lado",
+        "meaning": "on the other hand",
+        "example": "Por outro lado, o custo é alto."
+      },
+      {
+        "term": "mesmo assim",
+        "meaning": "even so",
+        "example": "Estava cansado; mesmo assim, saí."
+      },
+      {
+        "term": "custo",
+        "meaning": "cost",
+        "example": "Por outro lado, o custo é alto."
+      },
+      {
+        "term": "prazo",
+        "meaning": "deadline",
+        "example": "O prazo é curto; portanto, temos que começar."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I want to travel; however, I need to work.”?",
+            "options": {
+              "A": "O plano é bom, porém é caro.",
+              "B": "Ela estudou; portanto, passou na prova.",
+              "C": "Quero viajar; no entanto, preciso trabalhar."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She studied; therefore, she passed the test.”?",
+            "options": {
+              "A": "Ela estudou; portanto, passou na prova.",
+              "B": "Quero viajar; no entanto, preciso trabalhar.",
+              "C": "Por outro lado, o custo é alto."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Furthermore, we need time.”?",
+            "options": {
+              "A": "Por outro lado, o custo é alto.",
+              "B": "Além disso, precisamos de tempo.",
+              "C": "Quero viajar; no entanto, preciso trabalhar."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “On the other hand, the cost is high.”?",
+            "options": {
+              "A": "Quero viajar; no entanto, preciso trabalhar.",
+              "B": "Por outro lado, o custo é alto.",
+              "C": "Ela estudou; portanto, passou na prova."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Quero viajar; ________ entanto, preciso trabalhar.",
+            "hint": "I want to travel; however, I need to work."
+          },
+          {
+            "sentence": "Ela estudou; ________, passou na prova.",
+            "hint": "She studied; therefore, she passed the test."
+          },
+          {
+            "sentence": "________ disso, precisamos de tempo.",
+            "hint": "Furthermore, we need time."
+          },
+          {
+            "sentence": "________ outro lado, o custo é alto.",
+            "hint": "On the other hand, the cost is high."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Trabalhar em casa oferece flexibilidade e reduz o tempo de deslocamento. No entanto, algumas pessoas sentem falta do contato com os colegas. Além disso, reuniões online podem ser cansativas quando são excessivas. Por outro lado, a empresa economiza espaço e pode contratar profissionais de outras regiões. Portanto, uma política equilibrada deve considerar os resultados, as necessidades da equipe e a natureza de cada atividade.",
+        "questions": [
+          "Quais são as duas vantagens do trabalho em casa citadas no início?",
+          "De que algumas pessoas sentem falta?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Qual é uma vantagem do trabalho remoto?",
+          "Qual é uma desvantagem, no entanto?",
+          "Que conclusão você tiraria sobre o tema?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Support each connector with a genuine logical relation.",
+      "examples": [
+        {
+          "pt": "Por outro lado, o custo é alto.",
+          "en": "On the other hand, the cost is high."
+        },
+        {
+          "pt": "Estava cansado; mesmo assim, saí.",
+          "en": "I was tired; even so, I went out."
+        },
+        {
+          "pt": "O plano é bom, porém é caro.",
+          "en": "The plan is good, but it is expensive."
+        }
+      ],
+      "compare": "Porém marks contrast / Portanto marks a conclusion.",
+      "common_mistakes": [
+        {
+          "wrong": "Estudei, portanto não estudei.",
+          "correct": "Estudei; portanto, aprendi.",
+          "explanation": "A conclusion must follow the premise."
+        },
+        {
+          "wrong": "O custo é alto, além disso é barato.",
+          "correct": "O custo é alto; além disso, o prazo é curto.",
+          "explanation": "Além disso adds compatible information."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Quero viajar; no entanto, preciso trabalhar.",
+            "cue": "On the other hand, the cost is high."
+          },
+          {
+            "base": "Ela estudou; portanto, passou na prova.",
+            "cue": "I was tired; even so, I went out."
+          },
+          {
+            "base": "Além disso, precisamos de tempo.",
+            "cue": "The plan is good, but it is expensive."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "Furthermore, we need time.",
+          "On the other hand, the cost is high.",
+          "I was tired; even so, I went out.",
+          "The plan is good, but it is expensive."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Por outro lado, o custo é alto. ________ disso, precisamos de tempo.",
+            "hint": "Furthermore, we need time."
+          },
+          {
+            "sentence": "Estava cansado; mesmo assim, saí. ________ outro lado, o custo é alto.",
+            "hint": "On the other hand, the cost is high."
+          },
+          {
+            "sentence": "O plano é bom, porém é caro. Estava cansado; ________ assim, saí.",
+            "hint": "I was tired; even so, I went out."
+          },
+          {
+            "sentence": "Quero viajar; no entanto, preciso trabalhar. O plano é bom, ________ é caro.",
+            "hint": "The plan is good, but it is expensive."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Nossa cidade precisa melhorar o transporte público. Atualmente, muitas pessoas dependem de carros; por isso, o trânsito é intenso. Investir em ônibus mais frequentes seria útil. Porém, apenas aumentar a quantidade de veículos não resolve todos os problemas. Também é necessário planejar rotas e horários. Mesmo assim, pequenas mudanças podem produzir benefícios rápidos. Portanto, defendo um plano gradual que combine investimento e avaliação de resultados.",
+        "questions": [
+          "Por que o trânsito é intenso?",
+          "Que plano o autor defende?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Qual é uma vantagem do trabalho remoto?",
+          "english": "What is an advantage of remote work?"
+        },
+        {
+          "question": "Qual é uma desvantagem, no entanto?",
+          "english": "What is a disadvantage, however?"
+        },
+        {
+          "question": "Que conclusão você tiraria sobre o tema?",
+          "english": "What conclusion would you draw?"
+        },
+        {
+          "question": "Apresente um argumento a favor de caminhar mais.",
+          "english": "Argue for walking more."
+        },
+        {
+          "question": "Introduza um contraponto com “por outro lado”.",
+          "english": "Introduce a counterpoint."
+        },
+        {
+          "question": "Acrescente um dado com “além disso”.",
+          "english": "Add a point."
+        },
+        {
+          "question": "Encerre seu argumento com “portanto”.",
+          "english": "Conclude your argument."
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I want to travel; however, I need to work.”? A. O plano é bom, porém é caro. B. Ela estudou; portanto, passou na prova. C. Quero viajar; no entanto, preciso trabalhar.",
+        "worked_answer": "C. Quero viajar; no entanto, preciso trabalhar. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Quero viajar; ________ entanto, preciso trabalhar. (I want to travel; however, I need to work.)",
+        "worked_answer": "no → Quero viajar; no entanto, preciso trabalhar. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Furthermore, we need time.",
+        "worked_answer": "Além disso, precisamos de tempo. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Quero viajar; no entanto, preciso trabalhar.",
+        "worked_answer": "I want to travel; however, I need to work. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Quais são as duas vantagens do trabalho em casa citadas no início?",
+        "worked_answer": "Oferece flexibilidade e reduz o tempo de deslocamento. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Por outro lado, o custo é alto.” as a reference.",
+        "worked_answer": "Model: Estava cansado; mesmo assim, saí. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: O plano é bom, porém é caro. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "30–40 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She studied; therefore, she passed the test.”?",
+            "options": {
+              "A": "Estava cansado; mesmo assim, saí.",
+              "B": "Ela estudou; portanto, passou na prova.",
+              "C": "Por outro lado, o custo é alto."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Furthermore, we need time.”?",
+            "options": {
+              "A": "O plano é bom, porém é caro.",
+              "B": "Além disso, precisamos de tempo.",
+              "C": "Estava cansado; mesmo assim, saí."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “On the other hand, the cost is high.”?",
+            "options": {
+              "A": "O plano é bom, porém é caro.",
+              "B": "Além disso, precisamos de tempo.",
+              "C": "Por outro lado, o custo é alto."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I was tired; even so, I went out.”?",
+            "options": {
+              "A": "Estava cansado; mesmo assim, saí.",
+              "B": "O plano é bom, porém é caro.",
+              "C": "Por outro lado, o custo é alto."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The plan is good, but it is expensive.”?",
+            "options": {
+              "A": "Além disso, precisamos de tempo.",
+              "B": "Quero viajar; no entanto, preciso trabalhar.",
+              "C": "O plano é bom, porém é caro."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela estudou; ________, passou na prova.",
+            "hint": "She studied; therefore, she passed the test."
+          },
+          {
+            "sentence": "________ disso, precisamos de tempo.",
+            "hint": "Furthermore, we need time."
+          },
+          {
+            "sentence": "________ outro lado, o custo é alto.",
+            "hint": "On the other hand, the cost is high."
+          },
+          {
+            "sentence": "Estava cansado; ________ assim, saí.",
+            "hint": "I was tired; even so, I went out."
+          },
+          {
+            "sentence": "O plano é bom, ________ é caro.",
+            "hint": "The plan is good, but it is expensive."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I want to travel; however, I need to work.",
+          "She studied; therefore, she passed the test.",
+          "Furthermore, we need time.",
+          "On the other hand, the cost is high.",
+          "I was tired; even so, I went out."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Além disso, precisamos de tempo.",
+          "Por outro lado, o custo é alto.",
+          "Estava cansado; mesmo assim, saí.",
+          "O plano é bom, porém é caro."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Alguns estudantes preferem cursos online porque podem organizar os próprios horários. Outros argumentam que as aulas presenciais favorecem a interação. Na verdade, os dois formatos oferecem vantagens. O ensino remoto reduz deslocamentos; por outro lado, exige bastante autonomia. Já o ensino presencial facilita atividades em grupo, porém pode custar mais. Assim, a escolha deve depender dos objetivos, das condições do aluno e da qualidade do curso, não apenas da modalidade.",
+        "questions": [
+          "Por que alguns estudantes preferem cursos online?",
+          "Segundo outros estudantes, o que favorece a interação?",
+          "Que desvantagem do ensino remoto o texto menciona?",
+          "De que a escolha deve depender?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 120–180 words on the topic “Argue for a practical everyday choice”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Qual é uma vantagem do trabalho remoto? / Qual é uma desvantagem, no entanto? / Que conclusão você tiraria sobre o tema? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "The document was sent.",
+      "expected_answer": "O documento foi enviado."
+    },
+    "pronunciation_focus": "Use pauses before porém and portanto, not after every word.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Quero viajar; no entanto, preciso trabalhar."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela estudou; portanto, passou na prova."
+          },
+          {
+            "answer": "B",
+            "sentence": "Além disso, precisamos de tempo."
+          },
+          {
+            "answer": "B",
+            "sentence": "Por outro lado, o custo é alto."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "no",
+            "full_sentence": "Quero viajar; no entanto, preciso trabalhar."
+          },
+          {
+            "answer": "portanto",
+            "full_sentence": "Ela estudou; portanto, passou na prova."
+          },
+          {
+            "answer": "Além",
+            "full_sentence": "Além disso, precisamos de tempo."
+          },
+          {
+            "answer": "Por",
+            "full_sentence": "Por outro lado, o custo é alto."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Working from home offers flexibility and reduces commuting time. However, some people miss contact with colleagues. In addition, online meetings can be tiring when there are too many. On the other hand, the company saves space and can hire professionals from other regions. Therefore, a balanced policy should consider results, team needs and the nature of each activity.",
+          "answers": [
+            {
+              "question": "Quais são as duas vantagens do trabalho em casa citadas no início?",
+              "answer": "Oferece flexibilidade e reduz o tempo de deslocamento."
+            },
+            {
+              "question": "De que algumas pessoas sentem falta?",
+              "answer": "Do contato com os colegas."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Ele reduz deslocamentos.",
+          "No entanto, pode reduzir a interação.",
+          "Portanto, é importante equilibrar os dois formatos."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "On the other hand, the cost is high.",
+            "model": "Por outro lado, o custo é alto."
+          },
+          {
+            "cue": "I was tired; even so, I went out.",
+            "model": "Estava cansado; mesmo assim, saí."
+          },
+          {
+            "cue": "The plan is good, but it is expensive.",
+            "model": "O plano é bom, porém é caro."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Além disso, precisamos de tempo.",
+          "Por outro lado, o custo é alto.",
+          "Estava cansado; mesmo assim, saí.",
+          "O plano é bom, porém é caro."
+        ],
+        "fill_in": [
+          {
+            "answer": "Além",
+            "full_sentence": "Por outro lado, o custo é alto. Além disso, precisamos de tempo."
+          },
+          {
+            "answer": "Por",
+            "full_sentence": "Estava cansado; mesmo assim, saí. Por outro lado, o custo é alto."
+          },
+          {
+            "answer": "mesmo",
+            "full_sentence": "O plano é bom, porém é caro. Estava cansado; mesmo assim, saí."
+          },
+          {
+            "answer": "porém",
+            "full_sentence": "Quero viajar; no entanto, preciso trabalhar. O plano é bom, porém é caro."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Quero viajar; no entanto, preciso trabalhar.",
+            "en": "I want to travel; however, I need to work."
+          },
+          {
+            "pt": "Além disso, precisamos de tempo.",
+            "en": "Furthermore, we need time."
+          },
+          {
+            "pt": "Estava cansado; mesmo assim, saí.",
+            "en": "I was tired; even so, I went out."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Our city needs to improve public transportation. Currently, many people depend on cars, so traffic is heavy. Investing in more frequent buses would be useful. However, simply increasing the number of vehicles does not solve every problem. It is also necessary to plan routes and schedules. Even so, small changes can produce quick benefits. Therefore, I support a gradual plan combining investment and evaluation of results.",
+          "answers": [
+            {
+              "question": "Por que o trânsito é intenso?",
+              "answer": "Porque muitas pessoas dependem de carros."
+            },
+            {
+              "question": "Que plano o autor defende?",
+              "answer": "Um plano gradual que combine investimento e avaliação de resultados."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Qual é uma vantagem do trabalho remoto?",
+          "model_answer": "Ele reduz deslocamentos.",
+          "follow_up": "Por quê?",
+          "watch_for": "Estudei, portanto não estudei. → Estudei; portanto, aprendi. (A conclusion must follow the premise.) O custo é alto, além disso é barato. → O custo é alto; além disso, o prazo é curto. (Além disso adds compatible information.)"
+        },
+        {
+          "question": "Qual é uma desvantagem, no entanto?",
+          "model_answer": "No entanto, pode reduzir a interação.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Estudei, portanto não estudei. → Estudei; portanto, aprendi. (A conclusion must follow the premise.) O custo é alto, além disso é barato. → O custo é alto; além disso, o prazo é curto. (Além disso adds compatible information.)"
+        },
+        {
+          "question": "Que conclusão você tiraria sobre o tema?",
+          "model_answer": "Portanto, é importante equilibrar os dois formatos.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Estudei, portanto não estudei. → Estudei; portanto, aprendi. (A conclusion must follow the premise.) O custo é alto, além disso é barato. → O custo é alto; além disso, o prazo é curto. (Além disso adds compatible information.)"
+        },
+        {
+          "question": "Apresente um argumento a favor de caminhar mais.",
+          "model_answer": "Caminhar melhora a saúde e reduz gastos.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Estudei, portanto não estudei. → Estudei; portanto, aprendi. (A conclusion must follow the premise.) O custo é alto, além disso é barato. → O custo é alto; além disso, o prazo é curto. (Além disso adds compatible information.)"
+        },
+        {
+          "question": "Introduza um contraponto com “por outro lado”.",
+          "model_answer": "Por outro lado, nem sempre há tempo disponível.",
+          "follow_up": "Por quê?",
+          "watch_for": "Estudei, portanto não estudei. → Estudei; portanto, aprendi. (A conclusion must follow the premise.) O custo é alto, além disso é barato. → O custo é alto; além disso, o prazo é curto. (Além disso adds compatible information.)"
+        },
+        {
+          "question": "Acrescente um dado com “além disso”.",
+          "model_answer": "Além disso, caminhar não exige equipamento caro.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Estudei, portanto não estudei. → Estudei; portanto, aprendi. (A conclusion must follow the premise.) O custo é alto, além disso é barato. → O custo é alto; além disso, o prazo é curto. (Além disso adds compatible information.)"
+        },
+        {
+          "question": "Encerre seu argumento com “portanto”.",
+          "model_answer": "Portanto, vale a pena caminhar quando possível.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Estudei, portanto não estudei. → Estudei; portanto, aprendi. (A conclusion must follow the premise.) O custo é alto, além disso é barato. → O custo é alto; além disso, o prazo é curto. (Além disso adds compatible information.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ela estudou; portanto, passou na prova."
+          },
+          {
+            "answer": "B",
+            "sentence": "Além disso, precisamos de tempo."
+          },
+          {
+            "answer": "C",
+            "sentence": "Por outro lado, o custo é alto."
+          },
+          {
+            "answer": "A",
+            "sentence": "Estava cansado; mesmo assim, saí."
+          },
+          {
+            "answer": "C",
+            "sentence": "O plano é bom, porém é caro."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "portanto",
+            "full_sentence": "Ela estudou; portanto, passou na prova."
+          },
+          {
+            "answer": "Além",
+            "full_sentence": "Além disso, precisamos de tempo."
+          },
+          {
+            "answer": "Por",
+            "full_sentence": "Por outro lado, o custo é alto."
+          },
+          {
+            "answer": "mesmo",
+            "full_sentence": "Estava cansado; mesmo assim, saí."
+          },
+          {
+            "answer": "porém",
+            "full_sentence": "O plano é bom, porém é caro."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Quero viajar; no entanto, preciso trabalhar.",
+          "Ela estudou; portanto, passou na prova.",
+          "Além disso, precisamos de tempo.",
+          "Por outro lado, o custo é alto.",
+          "Estava cansado; mesmo assim, saí."
+        ],
+        "D_portuguese_to_english": [
+          "Furthermore, we need time.",
+          "On the other hand, the cost is high.",
+          "I was tired; even so, I went out.",
+          "The plan is good, but it is expensive."
+        ],
+        "E_reading": {
+          "translation": "Some students prefer online courses because they can organize their own schedules. Others argue that in-person classes encourage interaction. In fact, both formats offer advantages. Remote teaching reduces travel; on the other hand, it requires considerable independence. In-person teaching makes group activities easier, but it can cost more. Thus, the choice should depend on goals, the student's circumstances and course quality, not only on the format.",
+          "answers": [
+            {
+              "question": "Por que alguns estudantes preferem cursos online?",
+              "answer": "Porque podem organizar os próprios horários."
+            },
+            {
+              "question": "Segundo outros estudantes, o que favorece a interação?",
+              "answer": "As aulas presenciais."
+            },
+            {
+              "question": "Que desvantagem do ensino remoto o texto menciona?",
+              "answer": "Exige bastante autonomia."
+            },
+            {
+              "question": "De que a escolha deve depender?",
+              "answer": "Dos objetivos, das condições do aluno e da qualidade do curso."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Alguns estudantes preferem cursos online porque podem organizar os próprios horários. Outros argumentam que as aulas presenciais favorecem a interação. Na verdade, os dois formatos oferecem vantagens. O ensino remoto reduz deslocamentos; por outro lado, exige bastante autonomia. Já o ensino presencial facilita atividades em grupo, porém pode custar mais. Assim, a escolha deve depender dos objetivos, das condições do aluno e da qualidade do curso, não apenas da modalidade.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Ele reduz deslocamentos.",
+            "No entanto, pode reduzir a interação.",
+            "Portanto, é importante equilibrar os dois formatos."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

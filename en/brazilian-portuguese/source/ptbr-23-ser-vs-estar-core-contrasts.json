@@ -1,0 +1,668 @@
+{
+  "lesson_number": 23,
+  "id": "L23",
+  "title": "Ser vs. Estar — Core Contrasts",
+  "module": "Módulo 4 — Planos, capacidade e ações em andamento",
+  "level": "A2",
+  "main_grammar": "contraste entre ser e estar.",
+  "previous_knowledge": "Lessons 1–22",
+  "key_vocabulary": [
+    "calmo",
+    "calma",
+    "é",
+    "está",
+    "tranquilo",
+    "prontos",
+    "bonita",
+    "comida"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “How you and a friend usually are versus today” using this lesson’s target structure.",
+    "basic_rule": "Use ser for characteristic or identity and estar for a state or situation; avoid permanent/temporary shortcuts.",
+    "structure": "ser/estar + adjective",
+    "english_comparison": "English is maps to either Portuguese form with meaning differences.",
+    "model_sentences": [
+      {
+        "pt": "Ele é calmo.",
+        "en": "He is a calm person."
+      },
+      {
+        "pt": "Ele está calmo hoje.",
+        "en": "He is calm today."
+      },
+      {
+        "pt": "Ela é bonita.",
+        "en": "She is beautiful."
+      },
+      {
+        "pt": "A comida está boa.",
+        "en": "The food tastes good."
+      },
+      {
+        "pt": "Nós estamos prontos.",
+        "en": "We are ready."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "calmo",
+        "meaning": "calm",
+        "example": "Ele é calmo."
+      },
+      {
+        "term": "calma",
+        "meaning": "calm (f.)",
+        "example": "Ela é calma."
+      },
+      {
+        "term": "é",
+        "meaning": "is (identity)",
+        "example": "Ele é calmo."
+      },
+      {
+        "term": "está",
+        "meaning": "is (state)",
+        "example": "Ele está calmo hoje."
+      },
+      {
+        "term": "tranquilo",
+        "meaning": "relaxed",
+        "example": "Meu amigo é muito tranquilo."
+      },
+      {
+        "term": "prontos",
+        "meaning": "ready",
+        "example": "Nós estamos prontos."
+      },
+      {
+        "term": "bonita",
+        "meaning": "beautiful",
+        "example": "Ela é bonita."
+      },
+      {
+        "term": "comida",
+        "meaning": "food",
+        "example": "A comida está boa."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “He is a calm person.”?",
+            "options": {
+              "A": "Ele é calmo.",
+              "B": "Meu amigo é muito tranquilo.",
+              "C": "Nós estamos prontos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “He is calm today.”?",
+            "options": {
+              "A": "Ela é bonita.",
+              "B": "Ele está calmo hoje.",
+              "C": "Meu amigo é muito tranquilo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is beautiful.”?",
+            "options": {
+              "A": "Ele é calmo.",
+              "B": "Ela é bonita.",
+              "C": "A comida está boa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The food tastes good.”?",
+            "options": {
+              "A": "Ele está calmo hoje.",
+              "B": "A comida está boa.",
+              "C": "Meu amigo é muito tranquilo."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Ele ________ calmo.",
+            "hint": "He is a calm person."
+          },
+          {
+            "sentence": "Ele ________ calmo hoje.",
+            "hint": "He is calm today."
+          },
+          {
+            "sentence": "Ela ________ bonita.",
+            "hint": "She is beautiful."
+          },
+          {
+            "sentence": "A comida ________ boa.",
+            "hint": "The food tastes good."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Meu pai é calmo. Hoje ele está nervoso porque tem uma reunião. Minha mãe é tranquila e agora está feliz. Eu sou professor, mas hoje estou cansado. Os alunos são inteligentes e estão prontos para a aula.",
+        "questions": [
+          "Como o pai é normalmente?",
+          "Por que o pai está nervoso hoje?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Você é uma pessoa calma?",
+          "Você está calmo agora?",
+          "Sua casa é organizada e está limpa hoje?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Ask if the adjective characterizes the person generally or describes them now.",
+      "examples": [
+        {
+          "pt": "A comida está boa.",
+          "en": "The food tastes good."
+        },
+        {
+          "pt": "Nós estamos prontos.",
+          "en": "We are ready."
+        },
+        {
+          "pt": "Meu amigo é muito tranquilo.",
+          "en": "My friend is very easygoing."
+        }
+      ],
+      "compare": "Ele é calmo / Ele está calmo: personality versus current mood.",
+      "common_mistakes": [
+        {
+          "wrong": "Ele é cansado hoje.",
+          "correct": "Ele está cansado hoje.",
+          "explanation": "Use estar for present tiredness."
+        },
+        {
+          "wrong": "Ela está brasileira.",
+          "correct": "Ela é brasileira.",
+          "explanation": "Nationality normally takes ser."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Ele é calmo.",
+            "cue": "The food tastes good."
+          },
+          {
+            "base": "Ele está calmo hoje.",
+            "cue": "We are ready."
+          },
+          {
+            "base": "Ela é bonita.",
+            "cue": "My friend is very easygoing."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "She is beautiful.",
+          "The food tastes good.",
+          "We are ready.",
+          "My friend is very easygoing."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "A comida está boa. Ela ________ bonita.",
+            "hint": "She is beautiful."
+          },
+          {
+            "sentence": "Nós estamos prontos. A comida ________ boa.",
+            "hint": "The food tastes good."
+          },
+          {
+            "sentence": "Meu amigo é muito tranquilo. Nós ________ prontos.",
+            "hint": "We are ready."
+          },
+          {
+            "sentence": "Ele é calmo. Meu amigo ________ muito tranquilo.",
+            "hint": "My friend is very easygoing."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Ana é uma pessoa organizada. Hoje a mesa dela está desorganizada. Pedro é alegre, mas está triste esta manhã. Nós somos amigos e estamos felizes com a visita. A comida está boa. O restaurante é pequeno.",
+        "questions": [
+          "Como está a mesa de Ana hoje?",
+          "Como Pedro está esta manhã?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Você é uma pessoa calma?",
+          "english": "Are you a calm person?"
+        },
+        {
+          "question": "Você está calmo agora?",
+          "english": "Are you calm right now?"
+        },
+        {
+          "question": "Sua casa é organizada e está limpa hoje?",
+          "english": "Is your home organized and clean today?"
+        },
+        {
+          "question": "Quem você conhece que é calmo, mas está nervoso hoje?",
+          "english": "Whom do you know who is calm but nervous today?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “He is a calm person.”? A. Ele é calmo. B. Meu amigo é muito tranquilo. C. Nós estamos prontos.",
+        "worked_answer": "A. Ele é calmo. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Ele ________ calmo. (He is a calm person.)",
+        "worked_answer": "é → Ele é calmo. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "She is beautiful.",
+        "worked_answer": "Ela é bonita. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Ele é calmo.",
+        "worked_answer": "He is a calm person. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Como o pai é normalmente?",
+        "worked_answer": "Ele é calmo. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “A comida está boa.” as a reference.",
+        "worked_answer": "Model: Nós estamos prontos. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Meu amigo é muito tranquilo. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "20–25 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “He is calm today.”?",
+            "options": {
+              "A": "Nós estamos prontos.",
+              "B": "Ele está calmo hoje.",
+              "C": "Meu amigo é muito tranquilo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is beautiful.”?",
+            "options": {
+              "A": "Meu amigo é muito tranquilo.",
+              "B": "Ela é bonita.",
+              "C": "Ele é calmo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The food tastes good.”?",
+            "options": {
+              "A": "A comida está boa.",
+              "B": "Nós estamos prontos.",
+              "C": "Meu amigo é muito tranquilo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are ready.”?",
+            "options": {
+              "A": "Nós estamos prontos.",
+              "B": "Meu amigo é muito tranquilo.",
+              "C": "A comida está boa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My friend is very easygoing.”?",
+            "options": {
+              "A": "Ela é bonita.",
+              "B": "Meu amigo é muito tranquilo.",
+              "C": "Nós estamos prontos."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ele ________ calmo hoje.",
+            "hint": "He is calm today."
+          },
+          {
+            "sentence": "Ela ________ bonita.",
+            "hint": "She is beautiful."
+          },
+          {
+            "sentence": "A comida ________ boa.",
+            "hint": "The food tastes good."
+          },
+          {
+            "sentence": "Nós ________ prontos.",
+            "hint": "We are ready."
+          },
+          {
+            "sentence": "Meu amigo ________ muito tranquilo.",
+            "hint": "My friend is very easygoing."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "He is a calm person.",
+          "He is calm today.",
+          "She is beautiful.",
+          "The food tastes good.",
+          "We are ready."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Ela é bonita.",
+          "A comida está boa.",
+          "Nós estamos prontos.",
+          "Meu amigo é muito tranquilo."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Meu irmão é muito calmo. Hoje ele está preocupado com o trabalho. Minha amiga é pontual, mas está atrasada agora. Eu sou brasileiro e estou em casa. A casa é bonita. Hoje ela está limpa e organizada.",
+        "questions": [
+          "Por que o irmão está preocupado?",
+          "A amiga é pontual?",
+          "Onde o narrador está?",
+          "Como está a casa hoje?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 6–8 sentences on the topic “How you and a friend usually are versus today”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Você é uma pessoa calma? / Você está calmo agora? / Sua casa é organizada e está limpa hoje? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am studying.",
+      "expected_answer": "Eu estou estudando."
+    },
+    "pronunciation_focus": "Contrast stress in é / está.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Ele é calmo."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ele está calmo hoje."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela é bonita."
+          },
+          {
+            "answer": "B",
+            "sentence": "A comida está boa."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "é",
+            "full_sentence": "Ele é calmo."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Ele está calmo hoje."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Ela é bonita."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "A comida está boa."
+          }
+        ],
+        "mini_reading": {
+          "translation": "My father is calm by nature. Today he is nervous because he has a meeting. My mother is easygoing and is happy now. I am a teacher, but today I am tired. The students are intelligent and ready for class.",
+          "answers": [
+            {
+              "question": "Como o pai é normalmente?",
+              "answer": "Ele é calmo."
+            },
+            {
+              "question": "Por que o pai está nervoso hoje?",
+              "answer": "Porque ele tem uma reunião."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Sim, sou uma pessoa calma.",
+          "Sim, estou calmo.",
+          "Minha casa é organizada e está limpa."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "The food tastes good.",
+            "model": "A comida está boa."
+          },
+          {
+            "cue": "We are ready.",
+            "model": "Nós estamos prontos."
+          },
+          {
+            "cue": "My friend is very easygoing.",
+            "model": "Meu amigo é muito tranquilo."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Ela é bonita.",
+          "A comida está boa.",
+          "Nós estamos prontos.",
+          "Meu amigo é muito tranquilo."
+        ],
+        "fill_in": [
+          {
+            "answer": "é",
+            "full_sentence": "A comida está boa. Ela é bonita."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Nós estamos prontos. A comida está boa."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Meu amigo é muito tranquilo. Nós estamos prontos."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Ele é calmo. Meu amigo é muito tranquilo."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Ele é calmo.",
+            "en": "He is a calm person."
+          },
+          {
+            "pt": "Ela é bonita.",
+            "en": "She is beautiful."
+          },
+          {
+            "pt": "Nós estamos prontos.",
+            "en": "We are ready."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Ana is an organized person. Today her desk is messy. Pedro is a cheerful person, but he is sad this morning. We are friends and we are happy about the visit. The food tastes good. The restaurant is small.",
+          "answers": [
+            {
+              "question": "Como está a mesa de Ana hoje?",
+              "answer": "A mesa dela está desorganizada."
+            },
+            {
+              "question": "Como Pedro está esta manhã?",
+              "answer": "Ele está triste."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Você é uma pessoa calma?",
+          "model_answer": "Sim, sou uma pessoa calma.",
+          "follow_up": "Por quê?",
+          "watch_for": "Ele é cansado hoje. → Ele está cansado hoje. (Use estar for present tiredness.) Ela está brasileira. → Ela é brasileira. (Nationality normally takes ser.)"
+        },
+        {
+          "question": "Você está calmo agora?",
+          "model_answer": "Sim, estou calmo.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Ele é cansado hoje. → Ele está cansado hoje. (Use estar for present tiredness.) Ela está brasileira. → Ela é brasileira. (Nationality normally takes ser.)"
+        },
+        {
+          "question": "Sua casa é organizada e está limpa hoje?",
+          "model_answer": "Minha casa é organizada e está limpa.",
+          "follow_up": "E sua família?",
+          "watch_for": "Ele é cansado hoje. → Ele está cansado hoje. (Use estar for present tiredness.) Ela está brasileira. → Ela é brasileira. (Nationality normally takes ser.)"
+        },
+        {
+          "question": "Quem você conhece que é calmo, mas está nervoso hoje?",
+          "model_answer": "Meu irmão é calmo, mas está nervoso hoje.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Ele é cansado hoje. → Ele está cansado hoje. (Use estar for present tiredness.) Ela está brasileira. → Ela é brasileira. (Nationality normally takes ser.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ele está calmo hoje."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela é bonita."
+          },
+          {
+            "answer": "A",
+            "sentence": "A comida está boa."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós estamos prontos."
+          },
+          {
+            "answer": "B",
+            "sentence": "Meu amigo é muito tranquilo."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "está",
+            "full_sentence": "Ele está calmo hoje."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Ela é bonita."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "A comida está boa."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Nós estamos prontos."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Meu amigo é muito tranquilo."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Ele é calmo.",
+          "Ele está calmo hoje.",
+          "Ela é bonita.",
+          "A comida está boa.",
+          "Nós estamos prontos."
+        ],
+        "D_portuguese_to_english": [
+          "She is beautiful.",
+          "The food tastes good.",
+          "We are ready.",
+          "My friend is very easygoing."
+        ],
+        "E_reading": {
+          "translation": "My brother is very calm. Today he is worried about work. My friend is punctual, but she is late now. I am Brazilian and I am at home. The house is beautiful. Today it is clean and organized.",
+          "answers": [
+            {
+              "question": "Por que o irmão está preocupado?",
+              "answer": "Ele está preocupado com o trabalho."
+            },
+            {
+              "question": "A amiga é pontual?",
+              "answer": "Sim, ela é pontual, mas agora está atrasada."
+            },
+            {
+              "question": "Onde o narrador está?",
+              "answer": "Ele está em casa."
+            },
+            {
+              "question": "Como está a casa hoje?",
+              "answer": "A casa está limpa e organizada."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Meu irmão é muito calmo. Hoje ele está preocupado com o trabalho. Minha amiga é pontual, mas está atrasada agora. Eu sou brasileiro e estou em casa. A casa é bonita. Hoje ela está limpa e organizada.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Sim, sou uma pessoa calma.",
+            "Sim, estou calmo.",
+            "Minha casa é organizada e está limpa."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

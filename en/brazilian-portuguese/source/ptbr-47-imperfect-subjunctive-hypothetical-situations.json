@@ -1,0 +1,688 @@
+{
+  "lesson_number": 47,
+  "id": "L47",
+  "title": "Imperfect Subjunctive — Hypothetical Situations",
+  "module": "Módulo 8 — Opiniões, desejos e hipóteses",
+  "level": "B1–B2",
+  "main_grammar": "imperfeito do subjuntivo em condições hipotéticas.",
+  "previous_knowledge": "Lessons 1–46",
+  "key_vocabulary": [
+    "se",
+    "tivesse",
+    "fosse",
+    "pudesse",
+    "fizesse",
+    "viajaria",
+    "dinheiro",
+    "tempo"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Two imagined situations and your choices” using this lesson’s target structure.",
+    "basic_rule": "Use se + imperfect subjunctive with conditional to imagine an unreal present scenario.",
+    "structure": "se + tivesse/fosse/pudesse + conditional",
+    "english_comparison": "English if I had, I would resembles Portuguese se eu tivesse, eu viajaria.",
+    "model_sentences": [
+      {
+        "pt": "Se eu tivesse dinheiro, viajaria.",
+        "en": "If I had money, I would travel."
+      },
+      {
+        "pt": "Se eu fosse você, estudaria mais.",
+        "en": "If I were you, I would study more."
+      },
+      {
+        "pt": "Se ela pudesse, ajudaria.",
+        "en": "If she could, she would help."
+      },
+      {
+        "pt": "Se nós tivéssemos tempo, sairíamos.",
+        "en": "If we had time, we would go out."
+      },
+      {
+        "pt": "Se ele fizesse o jantar, eu lavaria a louça.",
+        "en": "If he made dinner, I would wash the dishes."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "se",
+        "meaning": "if",
+        "example": "Se eu tivesse dinheiro, viajaria."
+      },
+      {
+        "term": "tivesse",
+        "meaning": "had (hypothetical)",
+        "example": "Se eu tivesse dinheiro, viajaria."
+      },
+      {
+        "term": "fosse",
+        "meaning": "were (hypothetical)",
+        "example": "Se eu fosse você, estudaria mais."
+      },
+      {
+        "term": "pudesse",
+        "meaning": "could (hypothetical)",
+        "example": "Se ela pudesse, ajudaria."
+      },
+      {
+        "term": "fizesse",
+        "meaning": "did (hypothetical)",
+        "example": "Se ele fizesse o jantar, eu lavaria a louça."
+      },
+      {
+        "term": "viajaria",
+        "meaning": "would travel",
+        "example": "Se eu tivesse dinheiro, viajaria."
+      },
+      {
+        "term": "dinheiro",
+        "meaning": "money",
+        "example": "Se eu tivesse dinheiro, viajaria."
+      },
+      {
+        "term": "tempo",
+        "meaning": "time",
+        "example": "Se nós tivéssemos tempo, sairíamos."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “If I had money, I would travel.”?",
+            "options": {
+              "A": "Se ele fizesse o jantar, eu lavaria a louça.",
+              "B": "Se eu tivesse dinheiro, viajaria.",
+              "C": "Se ela pudesse, ajudaria."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “If I were you, I would study more.”?",
+            "options": {
+              "A": "Se eu fosse você, estudaria mais.",
+              "B": "Se você morasse aqui, nos veríamos mais.",
+              "C": "Se ele fizesse o jantar, eu lavaria a louça."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “If she could, she would help.”?",
+            "options": {
+              "A": "Se nós tivéssemos tempo, sairíamos.",
+              "B": "Se ela pudesse, ajudaria.",
+              "C": "Se eu fosse você, estudaria mais."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “If we had time, we would go out.”?",
+            "options": {
+              "A": "Se ele fizesse o jantar, eu lavaria a louça.",
+              "B": "Se nós tivéssemos tempo, sairíamos.",
+              "C": "Se ela pudesse, ajudaria."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Se eu ________ dinheiro, viajaria.",
+            "hint": "If I had money, I would travel."
+          },
+          {
+            "sentence": "Se eu ________ você, estudaria mais.",
+            "hint": "If I were you, I would study more."
+          },
+          {
+            "sentence": "Se ela ________, ajudaria.",
+            "hint": "If she could, she would help."
+          },
+          {
+            "sentence": "Se nós ________ tempo, sairíamos.",
+            "hint": "If we had time, we would go out."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Se eu tivesse mais tempo livre, estudaria português todos os dias e viajaria com mais frequência. Se minha irmã pudesse trabalhar de casa, ela moraria perto dos pais. Nós gostaríamos de visitar várias cidades brasileiras. Se tivéssemos dinheiro suficiente, ficaríamos um mês inteiro no país. Mesmo sem essas condições, continuamos planejando viagens menores.",
+        "questions": [
+          "O que o narrador faria se tivesse mais tempo livre?",
+          "O que eles fariam se tivessem dinheiro suficiente?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que faria se tivesse mais tempo?",
+          "Onde moraria se pudesse escolher?",
+          "O que faria se fosse professor?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Identify imagined conditions instead of realistic future ones.",
+      "examples": [
+        {
+          "pt": "Se nós tivéssemos tempo, sairíamos.",
+          "en": "If we had time, we would go out."
+        },
+        {
+          "pt": "Se ele fizesse o jantar, eu lavaria a louça.",
+          "en": "If he made dinner, I would wash the dishes."
+        },
+        {
+          "pt": "Se você morasse aqui, nos veríamos mais.",
+          "en": "If you lived here, we would see each other more."
+        }
+      ],
+      "compare": "Se eu tiver tempo, vou / Se eu tivesse tempo, iria: possible versus hypothetical.",
+      "common_mistakes": [
+        {
+          "wrong": "Se eu teria dinheiro, viajaria.",
+          "correct": "Se eu tivesse dinheiro, viajaria.",
+          "explanation": "Se-clause needs imperfect subjunctive."
+        },
+        {
+          "wrong": "Se eu fosse você, eu estudo.",
+          "correct": "Se eu fosse você, eu estudaria.",
+          "explanation": "Use matching conditional in main clause."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Se eu tivesse dinheiro, viajaria.",
+            "cue": "If we had time, we would go out."
+          },
+          {
+            "base": "Se eu fosse você, estudaria mais.",
+            "cue": "If he made dinner, I would wash the dishes."
+          },
+          {
+            "base": "Se ela pudesse, ajudaria.",
+            "cue": "If you lived here, we would see each other more."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "If she could, she would help.",
+          "If we had time, we would go out.",
+          "If he made dinner, I would wash the dishes.",
+          "If you lived here, we would see each other more."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Se nós tivéssemos tempo, sairíamos. Se ela ________, ajudaria.",
+            "hint": "If she could, she would help."
+          },
+          {
+            "sentence": "Se ele fizesse o jantar, eu lavaria a louça. Se nós ________ tempo, sairíamos.",
+            "hint": "If we had time, we would go out."
+          },
+          {
+            "sentence": "Se você morasse aqui, nos veríamos mais. Se ele ________ o jantar, eu lavaria a louça.",
+            "hint": "If he made dinner, I would wash the dishes."
+          },
+          {
+            "sentence": "Se eu tivesse dinheiro, viajaria. Se você ________ aqui, nos veríamos mais.",
+            "hint": "If you lived here, we would see each other more."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Pedro imagina uma mudança de carreira. Se fosse professor, daria aulas de manhã e escreveria livros à tarde. Se pudesse escolher uma cidade, moraria perto do mar. Ele sabe que essas ideias ainda são hipotéticas. Mesmo assim, gosta de pensar nas possibilidades, porque elas o ajudam a entender melhor suas prioridades profissionais e pessoais.",
+        "questions": [
+          "O que Pedro faria se fosse professor?",
+          "Onde ele moraria se pudesse escolher uma cidade?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que faria se tivesse mais tempo?",
+          "english": "What would you do if you had more time?"
+        },
+        {
+          "question": "Onde moraria se pudesse escolher?",
+          "english": "Where would you live if you could choose?"
+        },
+        {
+          "question": "O que faria se fosse professor?",
+          "english": "What would you do if you were a teacher?"
+        },
+        {
+          "question": "O que você faria se não precisasse trabalhar amanhã?",
+          "english": "What would you do if you did not have to work tomorrow?"
+        },
+        {
+          "question": "Se pudesse aprender qualquer habilidade, qual escolheria?",
+          "english": "If you could learn any skill, which would you choose?"
+        },
+        {
+          "question": "Como aconselharia um amigo usando “se eu fosse você”?",
+          "english": "How would you advise a friend with that phrase?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “If I had money, I would travel.”? A. Se ele fizesse o jantar, eu lavaria a louça. B. Se eu tivesse dinheiro, viajaria. C. Se ela pudesse, ajudaria.",
+        "worked_answer": "B. Se eu tivesse dinheiro, viajaria. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Se eu ________ dinheiro, viajaria. (If I had money, I would travel.)",
+        "worked_answer": "tivesse → Se eu tivesse dinheiro, viajaria. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "If she could, she would help.",
+        "worked_answer": "Se ela pudesse, ajudaria. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Se eu tivesse dinheiro, viajaria.",
+        "worked_answer": "If I had money, I would travel. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O que o narrador faria se tivesse mais tempo livre?",
+        "worked_answer": "Estudaria português todos os dias e viajaria com mais frequência. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Se nós tivéssemos tempo, sairíamos.” as a reference.",
+        "worked_answer": "Model: Se ele fizesse o jantar, eu lavaria a louça. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Se você morasse aqui, nos veríamos mais. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "30–40 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “If I were you, I would study more.”?",
+            "options": {
+              "A": "Se eu tivesse dinheiro, viajaria.",
+              "B": "Se nós tivéssemos tempo, sairíamos.",
+              "C": "Se eu fosse você, estudaria mais."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “If she could, she would help.”?",
+            "options": {
+              "A": "Se ela pudesse, ajudaria.",
+              "B": "Se ele fizesse o jantar, eu lavaria a louça.",
+              "C": "Se nós tivéssemos tempo, sairíamos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “If we had time, we would go out.”?",
+            "options": {
+              "A": "Se eu fosse você, estudaria mais.",
+              "B": "Se nós tivéssemos tempo, sairíamos.",
+              "C": "Se eu tivesse dinheiro, viajaria."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “If he made dinner, I would wash the dishes.”?",
+            "options": {
+              "A": "Se você morasse aqui, nos veríamos mais.",
+              "B": "Se ele fizesse o jantar, eu lavaria a louça.",
+              "C": "Se eu fosse você, estudaria mais."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “If you lived here, we would see each other more.”?",
+            "options": {
+              "A": "Se eu tivesse dinheiro, viajaria.",
+              "B": "Se ele fizesse o jantar, eu lavaria a louça.",
+              "C": "Se você morasse aqui, nos veríamos mais."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Se eu ________ você, estudaria mais.",
+            "hint": "If I were you, I would study more."
+          },
+          {
+            "sentence": "Se ela ________, ajudaria.",
+            "hint": "If she could, she would help."
+          },
+          {
+            "sentence": "Se nós ________ tempo, sairíamos.",
+            "hint": "If we had time, we would go out."
+          },
+          {
+            "sentence": "Se ele ________ o jantar, eu lavaria a louça.",
+            "hint": "If he made dinner, I would wash the dishes."
+          },
+          {
+            "sentence": "Se você ________ aqui, nos veríamos mais.",
+            "hint": "If you lived here, we would see each other more."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "If I had money, I would travel.",
+          "If I were you, I would study more.",
+          "If she could, she would help.",
+          "If we had time, we would go out.",
+          "If he made dinner, I would wash the dishes."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Se ela pudesse, ajudaria.",
+          "Se nós tivéssemos tempo, sairíamos.",
+          "Se ele fizesse o jantar, eu lavaria a louça.",
+          "Se você morasse aqui, nos veríamos mais."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Durante uma conversa, Ana perguntou: “O que você faria se ganhasse uma viagem?” Eu respondi que visitaria minha família primeiro. Se pudesse levar outra pessoa, convidaria meu irmão. Ana disse que, se estivesse no meu lugar, escolheria um destino diferente. Concordamos que, mesmo em situações imaginárias, nossas escolhas mostram o que valorizamos na vida.",
+        "questions": [
+          "O que Ana perguntou?",
+          "O que o narrador faria primeiro?",
+          "Quem ele convidaria?",
+          "O que as escolhas imaginárias mostram?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 120–180 words on the topic “Two imagined situations and your choices”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que faria se tivesse mais tempo? / Onde moraria se pudesse escolher? / O que faria se fosse professor? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I would like to travel.",
+      "expected_answer": "Eu gostaria de viajar."
+    },
+    "pronunciation_focus": "Stress tivesse and pudesse on their middle syllables.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Se eu tivesse dinheiro, viajaria."
+          },
+          {
+            "answer": "A",
+            "sentence": "Se eu fosse você, estudaria mais."
+          },
+          {
+            "answer": "B",
+            "sentence": "Se ela pudesse, ajudaria."
+          },
+          {
+            "answer": "B",
+            "sentence": "Se nós tivéssemos tempo, sairíamos."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "tivesse",
+            "full_sentence": "Se eu tivesse dinheiro, viajaria."
+          },
+          {
+            "answer": "fosse",
+            "full_sentence": "Se eu fosse você, estudaria mais."
+          },
+          {
+            "answer": "pudesse",
+            "full_sentence": "Se ela pudesse, ajudaria."
+          },
+          {
+            "answer": "tivéssemos",
+            "full_sentence": "Se nós tivéssemos tempo, sairíamos."
+          }
+        ],
+        "mini_reading": {
+          "translation": "If I had more free time, I would study Portuguese every day and travel more often. If my sister could work from home, she would live near our parents. We would like to visit several Brazilian cities. If we had enough money, we would stay in the country for an entire month. Even without those conditions, we continue planning smaller trips.",
+          "answers": [
+            {
+              "question": "O que o narrador faria se tivesse mais tempo livre?",
+              "answer": "Estudaria português todos os dias e viajaria com mais frequência."
+            },
+            {
+              "question": "O que eles fariam se tivessem dinheiro suficiente?",
+              "answer": "Ficariam um mês inteiro no país."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Se tivesse mais tempo, estudaria.",
+          "Eu moraria perto do mar.",
+          "Se fosse professor, ensinaria português."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "If we had time, we would go out.",
+            "model": "Se nós tivéssemos tempo, sairíamos."
+          },
+          {
+            "cue": "If he made dinner, I would wash the dishes.",
+            "model": "Se ele fizesse o jantar, eu lavaria a louça."
+          },
+          {
+            "cue": "If you lived here, we would see each other more.",
+            "model": "Se você morasse aqui, nos veríamos mais."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Se ela pudesse, ajudaria.",
+          "Se nós tivéssemos tempo, sairíamos.",
+          "Se ele fizesse o jantar, eu lavaria a louça.",
+          "Se você morasse aqui, nos veríamos mais."
+        ],
+        "fill_in": [
+          {
+            "answer": "pudesse",
+            "full_sentence": "Se nós tivéssemos tempo, sairíamos. Se ela pudesse, ajudaria."
+          },
+          {
+            "answer": "tivéssemos",
+            "full_sentence": "Se ele fizesse o jantar, eu lavaria a louça. Se nós tivéssemos tempo, sairíamos."
+          },
+          {
+            "answer": "fizesse",
+            "full_sentence": "Se você morasse aqui, nos veríamos mais. Se ele fizesse o jantar, eu lavaria a louça."
+          },
+          {
+            "answer": "morasse",
+            "full_sentence": "Se eu tivesse dinheiro, viajaria. Se você morasse aqui, nos veríamos mais."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Se eu tivesse dinheiro, viajaria.",
+            "en": "If I had money, I would travel."
+          },
+          {
+            "pt": "Se ela pudesse, ajudaria.",
+            "en": "If she could, she would help."
+          },
+          {
+            "pt": "Se ele fizesse o jantar, eu lavaria a louça.",
+            "en": "If he made dinner, I would wash the dishes."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Pedro imagines a career change. If he were a teacher, he would teach classes in the morning and write books in the afternoon. If he could choose a city, he would live near the sea. He knows these ideas are still hypothetical. Even so, he likes thinking about the possibilities because they help him better understand his professional and personal priorities.",
+          "answers": [
+            {
+              "question": "O que Pedro faria se fosse professor?",
+              "answer": "Daria aulas de manhã e escreveria livros à tarde."
+            },
+            {
+              "question": "Onde ele moraria se pudesse escolher uma cidade?",
+              "answer": "Ele moraria perto do mar."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que faria se tivesse mais tempo?",
+          "model_answer": "Se tivesse mais tempo, estudaria.",
+          "follow_up": "Por quê?",
+          "watch_for": "Se eu teria dinheiro, viajaria. → Se eu tivesse dinheiro, viajaria. (Se-clause needs imperfect subjunctive.) Se eu fosse você, eu estudo. → Se eu fosse você, eu estudaria. (Use matching conditional in main clause.)"
+        },
+        {
+          "question": "Onde moraria se pudesse escolher?",
+          "model_answer": "Eu moraria perto do mar.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Se eu teria dinheiro, viajaria. → Se eu tivesse dinheiro, viajaria. (Se-clause needs imperfect subjunctive.) Se eu fosse você, eu estudo. → Se eu fosse você, eu estudaria. (Use matching conditional in main clause.)"
+        },
+        {
+          "question": "O que faria se fosse professor?",
+          "model_answer": "Se fosse professor, ensinaria português.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Se eu teria dinheiro, viajaria. → Se eu tivesse dinheiro, viajaria. (Se-clause needs imperfect subjunctive.) Se eu fosse você, eu estudo. → Se eu fosse você, eu estudaria. (Use matching conditional in main clause.)"
+        },
+        {
+          "question": "O que você faria se não precisasse trabalhar amanhã?",
+          "model_answer": "Se não precisasse trabalhar, descansaria.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Se eu teria dinheiro, viajaria. → Se eu tivesse dinheiro, viajaria. (Se-clause needs imperfect subjunctive.) Se eu fosse você, eu estudo. → Se eu fosse você, eu estudaria. (Use matching conditional in main clause.)"
+        },
+        {
+          "question": "Se pudesse aprender qualquer habilidade, qual escolheria?",
+          "model_answer": "Se pudesse, aprenderia a tocar piano.",
+          "follow_up": "Por quê?",
+          "watch_for": "Se eu teria dinheiro, viajaria. → Se eu tivesse dinheiro, viajaria. (Se-clause needs imperfect subjunctive.) Se eu fosse você, eu estudo. → Se eu fosse você, eu estudaria. (Use matching conditional in main clause.)"
+        },
+        {
+          "question": "Como aconselharia um amigo usando “se eu fosse você”?",
+          "model_answer": "Se eu fosse você, estudaria um pouco por dia.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Se eu teria dinheiro, viajaria. → Se eu tivesse dinheiro, viajaria. (Se-clause needs imperfect subjunctive.) Se eu fosse você, eu estudo. → Se eu fosse você, eu estudaria. (Use matching conditional in main clause.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Se eu fosse você, estudaria mais."
+          },
+          {
+            "answer": "A",
+            "sentence": "Se ela pudesse, ajudaria."
+          },
+          {
+            "answer": "B",
+            "sentence": "Se nós tivéssemos tempo, sairíamos."
+          },
+          {
+            "answer": "B",
+            "sentence": "Se ele fizesse o jantar, eu lavaria a louça."
+          },
+          {
+            "answer": "C",
+            "sentence": "Se você morasse aqui, nos veríamos mais."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "fosse",
+            "full_sentence": "Se eu fosse você, estudaria mais."
+          },
+          {
+            "answer": "pudesse",
+            "full_sentence": "Se ela pudesse, ajudaria."
+          },
+          {
+            "answer": "tivéssemos",
+            "full_sentence": "Se nós tivéssemos tempo, sairíamos."
+          },
+          {
+            "answer": "fizesse",
+            "full_sentence": "Se ele fizesse o jantar, eu lavaria a louça."
+          },
+          {
+            "answer": "morasse",
+            "full_sentence": "Se você morasse aqui, nos veríamos mais."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Se eu tivesse dinheiro, viajaria.",
+          "Se eu fosse você, estudaria mais.",
+          "Se ela pudesse, ajudaria.",
+          "Se nós tivéssemos tempo, sairíamos.",
+          "Se ele fizesse o jantar, eu lavaria a louça."
+        ],
+        "D_portuguese_to_english": [
+          "If she could, she would help.",
+          "If we had time, we would go out.",
+          "If he made dinner, I would wash the dishes.",
+          "If you lived here, we would see each other more."
+        ],
+        "E_reading": {
+          "translation": "During a conversation, Ana asked, “What would you do if you won a trip?” I replied that I would visit my family first. If I could take someone else, I would invite my brother. Ana said that if she were in my place, she would choose a different destination. We agreed that even in imaginary situations, our choices show what we value in life.",
+          "answers": [
+            {
+              "question": "O que Ana perguntou?",
+              "answer": "“O que você faria se ganhasse uma viagem?”"
+            },
+            {
+              "question": "O que o narrador faria primeiro?",
+              "answer": "Ele visitaria a família."
+            },
+            {
+              "question": "Quem ele convidaria?",
+              "answer": "Ele convidaria o irmão."
+            },
+            {
+              "question": "O que as escolhas imaginárias mostram?",
+              "answer": "Mostram o que eles valorizam na vida."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Durante uma conversa, Ana perguntou: “O que você faria se ganhasse uma viagem?” Eu respondi que visitaria minha família primeiro. Se pudesse levar outra pessoa, convidaria meu irmão. Ana disse que, se estivesse no meu lugar, escolheria um destino diferente. Concordamos que, mesmo em situações imaginárias, nossas escolhas mostram o que valorizamos na vida.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Se tivesse mais tempo, estudaria.",
+            "Eu moraria perto do mar.",
+            "Se fosse professor, ensinaria português."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

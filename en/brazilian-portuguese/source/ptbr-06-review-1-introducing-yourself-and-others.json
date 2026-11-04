@@ -1,0 +1,658 @@
+{
+  "lesson_number": 6,
+  "id": "L06",
+  "title": "Review 1 — Introducing Yourself and Others",
+  "module": "Módulo 1 — Primeiras estruturas e frases essenciais",
+  "level": "A0–A1",
+  "main_grammar": "consolidação das aulas 1–5, sem gramática nova.",
+  "previous_knowledge": "Lessons 1–5",
+  "key_vocabulary": [
+    "amigo",
+    "americana",
+    "estamos",
+    "livro",
+    "cansado",
+    "professor",
+    "uma",
+    "não"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Introduce yourself and another person” using this lesson’s target structure.",
+    "basic_rule": "Review pronouns, ser/estar, singular articles, não and basic questions without adding grammar.",
+    "structure": "known present structures + identity/state",
+    "english_comparison": "English be has one form; Portuguese distinguishes ser and estar.",
+    "model_sentences": [
+      {
+        "pt": "Eu sou americano.",
+        "en": "I am American."
+      },
+      {
+        "pt": "Ela é uma amiga.",
+        "en": "She is a friend."
+      },
+      {
+        "pt": "Nós estamos em casa.",
+        "en": "We are at home."
+      },
+      {
+        "pt": "O livro não está aqui.",
+        "en": "The book is not here."
+      },
+      {
+        "pt": "Você é professor?",
+        "en": "Are you a teacher?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "amigo",
+        "meaning": "friend",
+        "example": "Meu amigo é americano e é aluno."
+      },
+      {
+        "term": "americana",
+        "meaning": "American (f.)",
+        "example": "Ela é americana."
+      },
+      {
+        "term": "estamos",
+        "meaning": "we are (state)",
+        "example": "Nós estamos em casa."
+      },
+      {
+        "term": "livro",
+        "meaning": "book",
+        "example": "O livro não está aqui."
+      },
+      {
+        "term": "cansado",
+        "meaning": "tired",
+        "example": "Eu não estou cansado."
+      },
+      {
+        "term": "professor",
+        "meaning": "teacher",
+        "example": "Você é professor?"
+      },
+      {
+        "term": "uma",
+        "meaning": "a (f.)",
+        "example": "Ela é uma amiga."
+      },
+      {
+        "term": "não",
+        "meaning": "not",
+        "example": "O livro não está aqui."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I am American.”?",
+            "options": {
+              "A": "O livro não está aqui.",
+              "B": "Eu não estou cansado.",
+              "C": "Eu sou americano."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is a friend.”?",
+            "options": {
+              "A": "Você é professor?",
+              "B": "O livro não está aqui.",
+              "C": "Ela é uma amiga."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are at home.”?",
+            "options": {
+              "A": "O livro não está aqui.",
+              "B": "Você é professor?",
+              "C": "Nós estamos em casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book is not here.”?",
+            "options": {
+              "A": "O livro não está aqui.",
+              "B": "Eu não estou cansado.",
+              "C": "Você é professor?"
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ americano.",
+            "hint": "I am American."
+          },
+          {
+            "sentence": "Ela ________ uma amiga.",
+            "hint": "She is a friend."
+          },
+          {
+            "sentence": "Nós ________ em casa.",
+            "hint": "We are at home."
+          },
+          {
+            "sentence": "O livro não ________ aqui.",
+            "hint": "The book is not here."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Meu nome é Ana e eu sou brasileira. Sou professora. Meu amigo é americano e é aluno. Nós estamos na escola. A sala é grande. O livro está na mesa. Não estamos cansados. Estamos felizes hoje.",
+        "questions": [
+          "Ana é professora ou aluna?",
+          "Ana e o amigo estão cansados?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Você é brasileiro?",
+          "Você está cansado?",
+          "Onde está seu livro?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Choose the verb by meaning and the article by noun gender.",
+      "examples": [
+        {
+          "pt": "O livro não está aqui.",
+          "en": "The book is not here."
+        },
+        {
+          "pt": "Você é professor?",
+          "en": "Are you a teacher?"
+        },
+        {
+          "pt": "Eu não estou cansado.",
+          "en": "I am not tired."
+        }
+      ],
+      "compare": "Eu sou professor / Eu estou cansado: identity versus condition.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu estou brasileiro.",
+          "correct": "Eu sou brasileiro.",
+          "explanation": "Nationality uses ser."
+        },
+        {
+          "wrong": "Uma livro está aqui.",
+          "correct": "Um livro está aqui.",
+          "explanation": "Livro is masculine."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu sou americano.",
+            "cue": "The book is not here."
+          },
+          {
+            "base": "Ela é uma amiga.",
+            "cue": "Are you a teacher?"
+          },
+          {
+            "base": "Nós estamos em casa.",
+            "cue": "I am not tired."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We are at home.",
+          "The book is not here.",
+          "Are you a teacher?",
+          "I am not tired."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "O livro não está aqui. Nós ________ em casa.",
+            "hint": "We are at home."
+          },
+          {
+            "sentence": "Você é professor? O livro não ________ aqui.",
+            "hint": "The book is not here."
+          },
+          {
+            "sentence": "Eu não estou cansado. Você ________ professor?",
+            "hint": "Are you a teacher?"
+          },
+          {
+            "sentence": "Eu sou americano. Eu não ________ cansado.",
+            "hint": "I am not tired."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Eu sou Lucas. Você é Maria? Sim, sou Maria. Você é do Brasil? Não, sou dos Estados Unidos. Nós somos alunos. Nossa professora está aqui. Ela é brasileira. Você está feliz? Sim, estou muito feliz.",
+        "questions": [
+          "Maria é do Brasil?",
+          "A professora é brasileira?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Você é brasileiro?",
+          "english": "Are you Brazilian?"
+        },
+        {
+          "question": "Você está cansado?",
+          "english": "Are you tired?"
+        },
+        {
+          "question": "Onde está seu livro?",
+          "english": "Where is your book?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I am American.”? A. O livro não está aqui. B. Eu não estou cansado. C. Eu sou americano.",
+        "worked_answer": "C. Eu sou americano. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ americano. (I am American.)",
+        "worked_answer": "sou → Eu sou americano. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We are at home.",
+        "worked_answer": "Nós estamos em casa. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu sou americano.",
+        "worked_answer": "I am American. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Ana é professora ou aluna?",
+        "worked_answer": "Ana é professora. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “O livro não está aqui.” as a reference.",
+        "worked_answer": "Model: Você é professor? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu não estou cansado. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She is a friend.”?",
+            "options": {
+              "A": "Eu não estou cansado.",
+              "B": "Ela é uma amiga.",
+              "C": "Nós estamos em casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are at home.”?",
+            "options": {
+              "A": "O livro não está aqui.",
+              "B": "Nós estamos em casa.",
+              "C": "Ela é uma amiga."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book is not here.”?",
+            "options": {
+              "A": "Eu sou americano.",
+              "B": "O livro não está aqui.",
+              "C": "Você é professor?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Are you a teacher?”?",
+            "options": {
+              "A": "Você é professor?",
+              "B": "O livro não está aqui.",
+              "C": "Ela é uma amiga."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I am not tired.”?",
+            "options": {
+              "A": "Eu não estou cansado.",
+              "B": "O livro não está aqui.",
+              "C": "Eu sou americano."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ uma amiga.",
+            "hint": "She is a friend."
+          },
+          {
+            "sentence": "Nós ________ em casa.",
+            "hint": "We are at home."
+          },
+          {
+            "sentence": "O livro não ________ aqui.",
+            "hint": "The book is not here."
+          },
+          {
+            "sentence": "Você ________ professor?",
+            "hint": "Are you a teacher?"
+          },
+          {
+            "sentence": "Eu não ________ cansado.",
+            "hint": "I am not tired."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I am American.",
+          "She is a friend.",
+          "We are at home.",
+          "The book is not here.",
+          "Are you a teacher?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós estamos em casa.",
+          "O livro não está aqui.",
+          "Você é professor?",
+          "Eu não estou cansado."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Esta é minha amiga Júlia. Ela é professora e é brasileira. Eu sou aluno e sou americano. Nós somos amigos. Hoje estamos na escola. O livro é novo, mas a mesa não é nova. Você está bem? Sim, estou bem.",
+        "questions": [
+          "Júlia é aluna ou professora?",
+          "O amigo de Júlia é brasileiro ou americano?",
+          "Hoje eles estão em casa ou na escola?",
+          "A mesa é nova?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Introduce yourself and another person”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Você é brasileiro? / Você está cansado? / Onde está seu livro? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am not a doctor.",
+      "expected_answer": "Eu não sou médico."
+    },
+    "pronunciation_focus": "Connect vowel sounds naturally; keep stressed syllables clear.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu sou americano."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela é uma amiga."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós estamos em casa."
+          },
+          {
+            "answer": "A",
+            "sentence": "O livro não está aqui."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "sou",
+            "full_sentence": "Eu sou americano."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Ela é uma amiga."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Nós estamos em casa."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "O livro não está aqui."
+          }
+        ],
+        "mini_reading": {
+          "translation": "My name is Ana and I am Brazilian. I am a teacher. My friend is American and a student. We are at school. The room is large. The book is on the table. We are not tired. We are happy today.",
+          "answers": [
+            {
+              "question": "Ana é professora ou aluna?",
+              "answer": "Ana é professora."
+            },
+            {
+              "question": "Ana e o amigo estão cansados?",
+              "answer": "Não, eles não estão cansados. Eles estão felizes."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Não, sou americano.",
+          "Não, estou bem.",
+          "O livro está na mesa."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "The book is not here.",
+            "model": "O livro não está aqui."
+          },
+          {
+            "cue": "Are you a teacher?",
+            "model": "Você é professor?"
+          },
+          {
+            "cue": "I am not tired.",
+            "model": "Eu não estou cansado."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós estamos em casa.",
+          "O livro não está aqui.",
+          "Você é professor?",
+          "Eu não estou cansado."
+        ],
+        "fill_in": [
+          {
+            "answer": "estamos",
+            "full_sentence": "O livro não está aqui. Nós estamos em casa."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Você é professor? O livro não está aqui."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Eu não estou cansado. Você é professor?"
+          },
+          {
+            "answer": "estou",
+            "full_sentence": "Eu sou americano. Eu não estou cansado."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu sou americano.",
+            "en": "I am American."
+          },
+          {
+            "pt": "Nós estamos em casa.",
+            "en": "We are at home."
+          },
+          {
+            "pt": "Você é professor?",
+            "en": "Are you a teacher?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "I am Lucas. Are you Maria? Yes, I am Maria. Are you from Brazil? No, I am from the United States. We are students. Our teacher is here. She is Brazilian. Are you happy? Yes, I am very happy.",
+          "answers": [
+            {
+              "question": "Maria é do Brasil?",
+              "answer": "Não, Maria não é do Brasil. Ela é dos Estados Unidos."
+            },
+            {
+              "question": "A professora é brasileira?",
+              "answer": "Sim, a professora é brasileira."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Você é brasileiro?",
+          "model_answer": "Não, sou americano.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu estou brasileiro. → Eu sou brasileiro. (Nationality uses ser.) Uma livro está aqui. → Um livro está aqui. (Livro is masculine.)"
+        },
+        {
+          "question": "Você está cansado?",
+          "model_answer": "Não, estou bem.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "Eu estou brasileiro. → Eu sou brasileiro. (Nationality uses ser.) Uma livro está aqui. → Um livro está aqui. (Livro is masculine.)"
+        },
+        {
+          "question": "Onde está seu livro?",
+          "model_answer": "O livro está na mesa.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "Eu estou brasileiro. → Eu sou brasileiro. (Nationality uses ser.) Uma livro está aqui. → Um livro está aqui. (Livro is masculine.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Ela é uma amiga."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós estamos em casa."
+          },
+          {
+            "answer": "B",
+            "sentence": "O livro não está aqui."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você é professor?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu não estou cansado."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "é",
+            "full_sentence": "Ela é uma amiga."
+          },
+          {
+            "answer": "estamos",
+            "full_sentence": "Nós estamos em casa."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "O livro não está aqui."
+          },
+          {
+            "answer": "é",
+            "full_sentence": "Você é professor?"
+          },
+          {
+            "answer": "estou",
+            "full_sentence": "Eu não estou cansado."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu sou americano.",
+          "Ela é uma amiga.",
+          "Nós estamos em casa.",
+          "O livro não está aqui.",
+          "Você é professor?"
+        ],
+        "D_portuguese_to_english": [
+          "We are at home.",
+          "The book is not here.",
+          "Are you a teacher?",
+          "I am not tired."
+        ],
+        "E_reading": {
+          "translation": "This is my friend Júlia. She is a teacher and Brazilian. I am a student and American. We are friends. Today we are at school. The book is new, but the table is not new. Are you well? Yes, I am well.",
+          "answers": [
+            {
+              "question": "Júlia é aluna ou professora?",
+              "answer": "Júlia é professora."
+            },
+            {
+              "question": "O amigo de Júlia é brasileiro ou americano?",
+              "answer": "Ele é americano."
+            },
+            {
+              "question": "Hoje eles estão em casa ou na escola?",
+              "answer": "Hoje eles estão na escola."
+            },
+            {
+              "question": "A mesa é nova?",
+              "answer": "Não, a mesa não é nova."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Esta é minha amiga Júlia. Ela é professora e é brasileira. Eu sou aluno e sou americano. Nós somos amigos. Hoje estamos na escola. O livro é novo, mas a mesa não é nova. Você está bem? Sim, estou bem.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Não, sou americano.",
+            "Não, estou bem.",
+            "O livro está na mesa."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

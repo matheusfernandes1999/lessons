@@ -1,0 +1,678 @@
+{
+  "lesson_number": 32,
+  "id": "L32",
+  "title": "Imperfect Past — Ser, Ter and Estar",
+  "module": "Módulo 6 — Hábitos, comparações e descrições do passado",
+  "level": "B1",
+  "main_grammar": "imperfeito de ser, ter e estar.",
+  "previous_knowledge": "Lessons 1–31",
+  "key_vocabulary": [
+    "era",
+    "tinha",
+    "estava",
+    "estávamos",
+    "eram",
+    "pequena",
+    "tímido",
+    "cachorro"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Your home and personality years ago” using this lesson’s target structure.",
+    "basic_rule": "Past descriptions often use era/eram, tinha/tinham, estava/estavam.",
+    "structure": "subject + era/tinha/estava + description",
+    "english_comparison": "English was/had does not distinguish ser from estar.",
+    "model_sentences": [
+      {
+        "pt": "Eu era tímido.",
+        "en": "I used to be shy."
+      },
+      {
+        "pt": "Ela tinha um cachorro.",
+        "en": "She had a dog."
+      },
+      {
+        "pt": "Nós estávamos cansados.",
+        "en": "We were tired."
+      },
+      {
+        "pt": "Eles eram professores.",
+        "en": "They used to be teachers."
+      },
+      {
+        "pt": "Você tinha tempo?",
+        "en": "Did you have time?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "era",
+        "meaning": "was (trait)",
+        "example": "Eu era tímido."
+      },
+      {
+        "term": "tinha",
+        "meaning": "had",
+        "example": "Ela tinha um cachorro."
+      },
+      {
+        "term": "estava",
+        "meaning": "was (state)",
+        "example": "Nossa mãe estava sempre ocupada durante a semana."
+      },
+      {
+        "term": "estávamos",
+        "meaning": "we were (state)",
+        "example": "Nós estávamos cansados."
+      },
+      {
+        "term": "eram",
+        "meaning": "they were",
+        "example": "Eles eram professores."
+      },
+      {
+        "term": "pequena",
+        "meaning": "small (f.)",
+        "example": "Minha casa era pequena."
+      },
+      {
+        "term": "tímido",
+        "meaning": "shy",
+        "example": "Eu era tímido."
+      },
+      {
+        "term": "cachorro",
+        "meaning": "dog",
+        "example": "Ela tinha um cachorro."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I used to be shy.”?",
+            "options": {
+              "A": "Eu era tímido.",
+              "B": "Nós estávamos cansados.",
+              "C": "Minha casa era pequena."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She had a dog.”?",
+            "options": {
+              "A": "Minha casa era pequena.",
+              "B": "Ela tinha um cachorro.",
+              "C": "Nós estávamos cansados."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We were tired.”?",
+            "options": {
+              "A": "Você tinha tempo?",
+              "B": "Nós estávamos cansados.",
+              "C": "Eles eram professores."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They used to be teachers.”?",
+            "options": {
+              "A": "Ela tinha um cachorro.",
+              "B": "Eles eram professores.",
+              "C": "Nós estávamos cansados."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ tímido.",
+            "hint": "I used to be shy."
+          },
+          {
+            "sentence": "Ela ________ um cachorro.",
+            "hint": "She had a dog."
+          },
+          {
+            "sentence": "Nós ________ cansados.",
+            "hint": "We were tired."
+          },
+          {
+            "sentence": "Eles ________ professores.",
+            "hint": "They used to be teachers."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Quando eu era pequeno, minha casa era simples. Eu tinha um quarto pequeno e muitos livros. Minha irmã era muito alegre. Nossa mãe estava sempre ocupada durante a semana. Aos domingos, todos estavam juntos e tínhamos tempo para conversar. A escola era perto de casa.",
+        "questions": [
+          "Como era o quarto do narrador?",
+          "Como a mãe estava durante a semana?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Como você era quando criança?",
+          "Você tinha um cachorro?",
+          "Sua casa era grande?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Describe a person, possession or situation as a past backdrop.",
+      "examples": [
+        {
+          "pt": "Eles eram professores.",
+          "en": "They used to be teachers."
+        },
+        {
+          "pt": "Você tinha tempo?",
+          "en": "Did you have time?"
+        },
+        {
+          "pt": "Minha casa era pequena.",
+          "en": "My house used to be small."
+        }
+      ],
+      "compare": "Eu era tímido / Eu estava cansado: characteristic versus condition in the past.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu estava uma criança.",
+          "correct": "Eu era uma criança.",
+          "explanation": "Identity uses era."
+        },
+        {
+          "wrong": "Nós estava cansados.",
+          "correct": "Nós estávamos cansados.",
+          "explanation": "Nós takes estávamos."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu era tímido.",
+            "cue": "They used to be teachers."
+          },
+          {
+            "base": "Ela tinha um cachorro.",
+            "cue": "Did you have time?"
+          },
+          {
+            "base": "Nós estávamos cansados.",
+            "cue": "My house used to be small."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We were tired.",
+          "They used to be teachers.",
+          "Did you have time?",
+          "My house used to be small."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles eram professores. Nós ________ cansados.",
+            "hint": "We were tired."
+          },
+          {
+            "sentence": "Você tinha tempo? Eles ________ professores.",
+            "hint": "They used to be teachers."
+          },
+          {
+            "sentence": "Minha casa era pequena. Você ________ tempo?",
+            "hint": "Did you have time?"
+          },
+          {
+            "sentence": "Eu era tímido. Minha casa ________ pequena.",
+            "hint": "My house used to be small."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Na infância, Ana era tímida, mas tinha muitos amigos. Os professores eram pacientes e a sala era grande. Ela estava feliz na escola. A família tinha dois cachorros e um jardim. No fim de cada dia, as crianças estavam cansadas e os pais estavam tranquilos.",
+        "questions": [
+          "Como Ana era na infância?",
+          "Que animais a família tinha?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Como você era quando criança?",
+          "english": "What were you like as a child?"
+        },
+        {
+          "question": "Você tinha um cachorro?",
+          "english": "Did you have a dog?"
+        },
+        {
+          "question": "Sua casa era grande?",
+          "english": "Was your house large?"
+        },
+        {
+          "question": "Como era sua escola quando você era criança?",
+          "english": "What was your school like when you were a child?"
+        },
+        {
+          "question": "O que sua família tinha naquela época?",
+          "english": "What did your family have then?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I used to be shy.”? A. Eu era tímido. B. Nós estávamos cansados. C. Minha casa era pequena.",
+        "worked_answer": "A. Eu era tímido. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ tímido. (I used to be shy.)",
+        "worked_answer": "era → Eu era tímido. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We were tired.",
+        "worked_answer": "Nós estávamos cansados. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu era tímido.",
+        "worked_answer": "I used to be shy. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Como era o quarto do narrador?",
+        "worked_answer": "Era um quarto pequeno, com muitos livros. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles eram professores.” as a reference.",
+        "worked_answer": "Model: Você tinha tempo? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Minha casa era pequena. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She had a dog.”?",
+            "options": {
+              "A": "Ela tinha um cachorro.",
+              "B": "Você tinha tempo?",
+              "C": "Minha casa era pequena."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We were tired.”?",
+            "options": {
+              "A": "Eles eram professores.",
+              "B": "Nós estávamos cansados.",
+              "C": "Eu era tímido."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They used to be teachers.”?",
+            "options": {
+              "A": "Eles eram professores.",
+              "B": "Ela tinha um cachorro.",
+              "C": "Minha casa era pequena."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Did you have time?”?",
+            "options": {
+              "A": "Eles eram professores.",
+              "B": "Nós estávamos cansados.",
+              "C": "Você tinha tempo?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My house used to be small.”?",
+            "options": {
+              "A": "Minha casa era pequena.",
+              "B": "Eu era tímido.",
+              "C": "Nós estávamos cansados."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ um cachorro.",
+            "hint": "She had a dog."
+          },
+          {
+            "sentence": "Nós ________ cansados.",
+            "hint": "We were tired."
+          },
+          {
+            "sentence": "Eles ________ professores.",
+            "hint": "They used to be teachers."
+          },
+          {
+            "sentence": "Você ________ tempo?",
+            "hint": "Did you have time?"
+          },
+          {
+            "sentence": "Minha casa ________ pequena.",
+            "hint": "My house used to be small."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I used to be shy.",
+          "She had a dog.",
+          "We were tired.",
+          "They used to be teachers.",
+          "Did you have time?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós estávamos cansados.",
+          "Eles eram professores.",
+          "Você tinha tempo?",
+          "Minha casa era pequena."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Há dez anos, Pedro era estudante. Ele tinha aulas de manhã e estava sempre ocupado. Seus amigos eram brasileiros e moravam perto da faculdade. A cidade era menor naquela época. Eles tinham pouco dinheiro, mas estavam animados para aprender e conhecer pessoas novas.",
+        "questions": [
+          "O que Pedro era há dez anos?",
+          "Quando Pedro tinha aulas?",
+          "Como era a cidade naquela época?",
+          "Os amigos tinham muito dinheiro?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Your home and personality years ago”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Como você era quando criança? / Você tinha um cachorro? / Sua casa era grande? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I used to study at night.",
+      "expected_answer": "Eu estudava à noite."
+    },
+    "pronunciation_focus": "Stress changes in estávamos versus está.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Eu era tímido."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela tinha um cachorro."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós estávamos cansados."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eles eram professores."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "era",
+            "full_sentence": "Eu era tímido."
+          },
+          {
+            "answer": "tinha",
+            "full_sentence": "Ela tinha um cachorro."
+          },
+          {
+            "answer": "estávamos",
+            "full_sentence": "Nós estávamos cansados."
+          },
+          {
+            "answer": "eram",
+            "full_sentence": "Eles eram professores."
+          }
+        ],
+        "mini_reading": {
+          "translation": "When I was small, my house was simple. I had a small bedroom and many books. My sister was very cheerful. Our mother was always busy during the week. On Sundays, everyone was together and we had time to talk. School was near our house.",
+          "answers": [
+            {
+              "question": "Como era o quarto do narrador?",
+              "answer": "Era um quarto pequeno, com muitos livros."
+            },
+            {
+              "question": "Como a mãe estava durante a semana?",
+              "answer": "Ela estava sempre ocupada."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu era tímido.",
+          "Sim, eu tinha um cachorro.",
+          "Não, minha casa era pequena."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They used to be teachers.",
+            "model": "Eles eram professores."
+          },
+          {
+            "cue": "Did you have time?",
+            "model": "Você tinha tempo?"
+          },
+          {
+            "cue": "My house used to be small.",
+            "model": "Minha casa era pequena."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós estávamos cansados.",
+          "Eles eram professores.",
+          "Você tinha tempo?",
+          "Minha casa era pequena."
+        ],
+        "fill_in": [
+          {
+            "answer": "estávamos",
+            "full_sentence": "Eles eram professores. Nós estávamos cansados."
+          },
+          {
+            "answer": "eram",
+            "full_sentence": "Você tinha tempo? Eles eram professores."
+          },
+          {
+            "answer": "tinha",
+            "full_sentence": "Minha casa era pequena. Você tinha tempo?"
+          },
+          {
+            "answer": "era",
+            "full_sentence": "Eu era tímido. Minha casa era pequena."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu era tímido.",
+            "en": "I used to be shy."
+          },
+          {
+            "pt": "Nós estávamos cansados.",
+            "en": "We were tired."
+          },
+          {
+            "pt": "Você tinha tempo?",
+            "en": "Did you have time?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "In childhood, Ana was shy, but she had many friends. The teachers were patient and the classroom was large. She was happy at school. The family had two dogs and a garden. At the end of each day, the children were tired and the parents were relaxed.",
+          "answers": [
+            {
+              "question": "Como Ana era na infância?",
+              "answer": "Ela era tímida, mas tinha muitos amigos."
+            },
+            {
+              "question": "Que animais a família tinha?",
+              "answer": "A família tinha dois cachorros."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Como você era quando criança?",
+          "model_answer": "Eu era tímido.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu estava uma criança. → Eu era uma criança. (Identity uses era.) Nós estava cansados. → Nós estávamos cansados. (Nós takes estávamos.)"
+        },
+        {
+          "question": "Você tinha um cachorro?",
+          "model_answer": "Sim, eu tinha um cachorro.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu estava uma criança. → Eu era uma criança. (Identity uses era.) Nós estava cansados. → Nós estávamos cansados. (Nós takes estávamos.)"
+        },
+        {
+          "question": "Sua casa era grande?",
+          "model_answer": "Não, minha casa era pequena.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Eu estava uma criança. → Eu era uma criança. (Identity uses era.) Nós estava cansados. → Nós estávamos cansados. (Nós takes estávamos.)"
+        },
+        {
+          "question": "Como era sua escola quando você era criança?",
+          "model_answer": "Minha escola era pequena e tranquila.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Eu estava uma criança. → Eu era uma criança. (Identity uses era.) Nós estava cansados. → Nós estávamos cansados. (Nós takes estávamos.)"
+        },
+        {
+          "question": "O que sua família tinha naquela época?",
+          "model_answer": "Nós tínhamos um carro pequeno.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu estava uma criança. → Eu era uma criança. (Identity uses era.) Nós estava cansados. → Nós estávamos cansados. (Nós takes estávamos.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Ela tinha um cachorro."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós estávamos cansados."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles eram professores."
+          },
+          {
+            "answer": "C",
+            "sentence": "Você tinha tempo?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Minha casa era pequena."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "tinha",
+            "full_sentence": "Ela tinha um cachorro."
+          },
+          {
+            "answer": "estávamos",
+            "full_sentence": "Nós estávamos cansados."
+          },
+          {
+            "answer": "eram",
+            "full_sentence": "Eles eram professores."
+          },
+          {
+            "answer": "tinha",
+            "full_sentence": "Você tinha tempo?"
+          },
+          {
+            "answer": "era",
+            "full_sentence": "Minha casa era pequena."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu era tímido.",
+          "Ela tinha um cachorro.",
+          "Nós estávamos cansados.",
+          "Eles eram professores.",
+          "Você tinha tempo?"
+        ],
+        "D_portuguese_to_english": [
+          "We were tired.",
+          "They used to be teachers.",
+          "Did you have time?",
+          "My house used to be small."
+        ],
+        "E_reading": {
+          "translation": "Ten years ago, Pedro was a student. He had classes in the morning and was always busy. His friends were Brazilian and lived near the university. The city was smaller back then. They had little money but were excited to learn and meet new people.",
+          "answers": [
+            {
+              "question": "O que Pedro era há dez anos?",
+              "answer": "Ele era estudante."
+            },
+            {
+              "question": "Quando Pedro tinha aulas?",
+              "answer": "Ele tinha aulas de manhã."
+            },
+            {
+              "question": "Como era a cidade naquela época?",
+              "answer": "A cidade era menor."
+            },
+            {
+              "question": "Os amigos tinham muito dinheiro?",
+              "answer": "Não. Eles tinham pouco dinheiro, mas estavam animados."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Há dez anos, Pedro era estudante. Ele tinha aulas de manhã e estava sempre ocupado. Seus amigos eram brasileiros e moravam perto da faculdade. A cidade era menor naquela época. Eles tinham pouco dinheiro, mas estavam animados para aprender e conhecer pessoas novas.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu era tímido.",
+            "Sim, eu tinha um cachorro.",
+            "Não, minha casa era pequena."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

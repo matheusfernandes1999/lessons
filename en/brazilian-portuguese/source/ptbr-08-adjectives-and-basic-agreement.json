@@ -1,0 +1,658 @@
+{
+  "lesson_number": 8,
+  "id": "L08",
+  "title": "Adjectives and Basic Agreement",
+  "module": "Módulo 2 — Objetos, descrições e ações cotidianas",
+  "level": "A0–A1",
+  "main_grammar": "concordância de gênero e número dos adjetivos.",
+  "previous_knowledge": "Lessons 1–7",
+  "key_vocabulary": [
+    "bonita",
+    "novos",
+    "pequeno",
+    "bonitas",
+    "altos",
+    "cansada",
+    "carros",
+    "mesas"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “People and objects you describe” using this lesson’s target structure.",
+    "basic_rule": "Adjectives normally follow nouns and agree in gender and number when they have variable endings.",
+    "structure": "noun + adjective agreeing in gender/number",
+    "english_comparison": "English adjectives usually precede nouns and never agree.",
+    "model_sentences": [
+      {
+        "pt": "A casa é bonita.",
+        "en": "The house is beautiful."
+      },
+      {
+        "pt": "Os carros são novos.",
+        "en": "The cars are new."
+      },
+      {
+        "pt": "O livro é pequeno.",
+        "en": "The book is small."
+      },
+      {
+        "pt": "As mesas são bonitas.",
+        "en": "The tables are beautiful."
+      },
+      {
+        "pt": "Os alunos são altos.",
+        "en": "The students are tall."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "bonita",
+        "meaning": "pretty (f.)",
+        "example": "A casa é bonita."
+      },
+      {
+        "term": "novos",
+        "meaning": "new (m. plural)",
+        "example": "Os carros são novos."
+      },
+      {
+        "term": "pequeno",
+        "meaning": "small (m.)",
+        "example": "O livro é pequeno."
+      },
+      {
+        "term": "bonitas",
+        "meaning": "pretty (f. plural)",
+        "example": "As mesas são bonitas."
+      },
+      {
+        "term": "altos",
+        "meaning": "tall (m. plural)",
+        "example": "Os alunos são altos."
+      },
+      {
+        "term": "cansada",
+        "meaning": "tired (f.)",
+        "example": "A professora está cansada."
+      },
+      {
+        "term": "carros",
+        "meaning": "cars",
+        "example": "Os carros são novos."
+      },
+      {
+        "term": "mesas",
+        "meaning": "tables",
+        "example": "As mesas são bonitas."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “The house is beautiful.”?",
+            "options": {
+              "A": "O livro é pequeno.",
+              "B": "As mesas são bonitas.",
+              "C": "A casa é bonita."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The cars are new.”?",
+            "options": {
+              "A": "Os carros são novos.",
+              "B": "As mesas são bonitas.",
+              "C": "A casa é bonita."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book is small.”?",
+            "options": {
+              "A": "O livro é pequeno.",
+              "B": "Os alunos são altos.",
+              "C": "As mesas são bonitas."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The tables are beautiful.”?",
+            "options": {
+              "A": "As mesas são bonitas.",
+              "B": "Os carros são novos.",
+              "C": "O livro é pequeno."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "A casa é ________.",
+            "hint": "The house is beautiful."
+          },
+          {
+            "sentence": "Os carros são ________.",
+            "hint": "The cars are new."
+          },
+          {
+            "sentence": "O livro é ________.",
+            "hint": "The book is small."
+          },
+          {
+            "sentence": "As mesas são ________.",
+            "hint": "The tables are beautiful."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "A casa de Sofia é bonita e pequena. O carro dela é novo. As mesas da casa são brancas. Os livros são grandes e os cadernos são pequenos. Sofia está feliz. Os amigos dela são simpáticos.",
+        "questions": [
+          "A casa de Sofia é grande ou pequena?",
+          "Os amigos de Sofia são simpáticos?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Sua casa é grande ou pequena?",
+          "Seus livros são novos?",
+          "Como são suas mesas?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Check the noun first, then adjective endings.",
+      "examples": [
+        {
+          "pt": "As mesas são bonitas.",
+          "en": "The tables are beautiful."
+        },
+        {
+          "pt": "Os alunos são altos.",
+          "en": "The students are tall."
+        },
+        {
+          "pt": "A professora está cansada.",
+          "en": "The teacher is tired."
+        }
+      ],
+      "compare": "carro novo / casas novas: noun changes adjective form.",
+      "common_mistakes": [
+        {
+          "wrong": "A casa é bonito.",
+          "correct": "A casa é bonita.",
+          "explanation": "Bonita agrees with casa."
+        },
+        {
+          "wrong": "Os carros são novo.",
+          "correct": "Os carros são novos.",
+          "explanation": "Plural noun requires plural adjective."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "A casa é bonita.",
+            "cue": "The tables are beautiful."
+          },
+          {
+            "base": "Os carros são novos.",
+            "cue": "The students are tall."
+          },
+          {
+            "base": "O livro é pequeno.",
+            "cue": "The teacher is tired."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "The book is small.",
+          "The tables are beautiful.",
+          "The students are tall.",
+          "The teacher is tired."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "As mesas são bonitas. O livro é ________.",
+            "hint": "The book is small."
+          },
+          {
+            "sentence": "Os alunos são altos. As mesas são ________.",
+            "hint": "The tables are beautiful."
+          },
+          {
+            "sentence": "A professora está cansada. Os alunos são ________.",
+            "hint": "The students are tall."
+          },
+          {
+            "sentence": "A casa é bonita. A professora está ________.",
+            "hint": "The teacher is tired."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Na escola, os alunos são altos e as alunas são baixas. A professora está cansada. O livro é novo, mas os outros livros são antigos. As cadeiras são pequenas. A sala é bonita e grande.",
+        "questions": [
+          "As alunas são altas ou baixas?",
+          "Os outros livros são novos ou antigos?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Sua casa é grande ou pequena?",
+          "english": "Is your house big or small?"
+        },
+        {
+          "question": "Seus livros são novos?",
+          "english": "Are your books new?"
+        },
+        {
+          "question": "Como são suas mesas?",
+          "english": "What are your tables like?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “The house is beautiful.”? A. O livro é pequeno. B. As mesas são bonitas. C. A casa é bonita.",
+        "worked_answer": "C. A casa é bonita. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "A casa é ________. (The house is beautiful.)",
+        "worked_answer": "bonita → A casa é bonita. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "The book is small.",
+        "worked_answer": "O livro é pequeno. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "A casa é bonita.",
+        "worked_answer": "The house is beautiful. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "A casa de Sofia é grande ou pequena?",
+        "worked_answer": "A casa de Sofia é pequena. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “As mesas são bonitas.” as a reference.",
+        "worked_answer": "Model: Os alunos são altos. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: A professora está cansada. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “The cars are new.”?",
+            "options": {
+              "A": "Os alunos são altos.",
+              "B": "As mesas são bonitas.",
+              "C": "Os carros são novos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book is small.”?",
+            "options": {
+              "A": "Os alunos são altos.",
+              "B": "O livro é pequeno.",
+              "C": "A casa é bonita."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The tables are beautiful.”?",
+            "options": {
+              "A": "As mesas são bonitas.",
+              "B": "Os carros são novos.",
+              "C": "A casa é bonita."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The students are tall.”?",
+            "options": {
+              "A": "A casa é bonita.",
+              "B": "A professora está cansada.",
+              "C": "Os alunos são altos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The teacher is tired.”?",
+            "options": {
+              "A": "A professora está cansada.",
+              "B": "Os carros são novos.",
+              "C": "A casa é bonita."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Os carros são ________.",
+            "hint": "The cars are new."
+          },
+          {
+            "sentence": "O livro é ________.",
+            "hint": "The book is small."
+          },
+          {
+            "sentence": "As mesas são ________.",
+            "hint": "The tables are beautiful."
+          },
+          {
+            "sentence": "Os alunos são ________.",
+            "hint": "The students are tall."
+          },
+          {
+            "sentence": "A professora está ________.",
+            "hint": "The teacher is tired."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "The house is beautiful.",
+          "The cars are new.",
+          "The book is small.",
+          "The tables are beautiful.",
+          "The students are tall."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "O livro é pequeno.",
+          "As mesas são bonitas.",
+          "Os alunos são altos.",
+          "A professora está cansada."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Meu quarto é pequeno, mas bonito. As paredes são brancas e os livros são novos. Minha mesa é grande. Os cadernos são azuis. As cadeiras são antigas. Meus amigos são brasileiros e americanos. Nós estamos felizes.",
+        "questions": [
+          "O quarto é grande ou pequeno?",
+          "As paredes são brancas ou azuis?",
+          "Os cadernos são azuis ou brancos?",
+          "As cadeiras são novas ou antigas?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “People and objects you describe”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Sua casa é grande ou pequena? / Seus livros são novos? / Como são suas mesas? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "The books are new.",
+      "expected_answer": "Os livros são novos."
+    },
+    "pronunciation_focus": "Distinguish stressed vowels in bonito/bonita.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "A casa é bonita."
+          },
+          {
+            "answer": "A",
+            "sentence": "Os carros são novos."
+          },
+          {
+            "answer": "A",
+            "sentence": "O livro é pequeno."
+          },
+          {
+            "answer": "A",
+            "sentence": "As mesas são bonitas."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "bonita",
+            "full_sentence": "A casa é bonita."
+          },
+          {
+            "answer": "novos",
+            "full_sentence": "Os carros são novos."
+          },
+          {
+            "answer": "pequeno",
+            "full_sentence": "O livro é pequeno."
+          },
+          {
+            "answer": "bonitas",
+            "full_sentence": "As mesas são bonitas."
+          }
+        ],
+        "mini_reading": {
+          "translation": "Sofia's house is pretty and small. Her car is new. The tables in the house are white. The books are big and the notebooks are small. Sofia is happy. Her friends are friendly.",
+          "answers": [
+            {
+              "question": "A casa de Sofia é grande ou pequena?",
+              "answer": "A casa de Sofia é pequena."
+            },
+            {
+              "question": "Os amigos de Sofia são simpáticos?",
+              "answer": "Sim, os amigos de Sofia são simpáticos."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Minha casa é pequena.",
+          "Sim, meus livros são novos.",
+          "As mesas são bonitas."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "The tables are beautiful.",
+            "model": "As mesas são bonitas."
+          },
+          {
+            "cue": "The students are tall.",
+            "model": "Os alunos são altos."
+          },
+          {
+            "cue": "The teacher is tired.",
+            "model": "A professora está cansada."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "O livro é pequeno.",
+          "As mesas são bonitas.",
+          "Os alunos são altos.",
+          "A professora está cansada."
+        ],
+        "fill_in": [
+          {
+            "answer": "pequeno",
+            "full_sentence": "As mesas são bonitas. O livro é pequeno."
+          },
+          {
+            "answer": "bonitas",
+            "full_sentence": "Os alunos são altos. As mesas são bonitas."
+          },
+          {
+            "answer": "altos",
+            "full_sentence": "A professora está cansada. Os alunos são altos."
+          },
+          {
+            "answer": "cansada",
+            "full_sentence": "A casa é bonita. A professora está cansada."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "A casa é bonita.",
+            "en": "The house is beautiful."
+          },
+          {
+            "pt": "O livro é pequeno.",
+            "en": "The book is small."
+          },
+          {
+            "pt": "Os alunos são altos.",
+            "en": "The students are tall."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "At school, the male students are tall and the female students are short. The teacher is tired. The book is new, but the other books are old. The chairs are small. The room is pretty and large.",
+          "answers": [
+            {
+              "question": "As alunas são altas ou baixas?",
+              "answer": "As alunas são baixas."
+            },
+            {
+              "question": "Os outros livros são novos ou antigos?",
+              "answer": "Os outros livros são antigos."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Sua casa é grande ou pequena?",
+          "model_answer": "Minha casa é pequena.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "A casa é bonito. → A casa é bonita. (Bonita agrees with casa.) Os carros são novo. → Os carros são novos. (Plural noun requires plural adjective.)"
+        },
+        {
+          "question": "Seus livros são novos?",
+          "model_answer": "Sim, meus livros são novos.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "A casa é bonito. → A casa é bonita. (Bonita agrees with casa.) Os carros são novo. → Os carros são novos. (Plural noun requires plural adjective.)"
+        },
+        {
+          "question": "Como são suas mesas?",
+          "model_answer": "As mesas são bonitas.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "A casa é bonito. → A casa é bonita. (Bonita agrees with casa.) Os carros são novo. → Os carros são novos. (Plural noun requires plural adjective.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Os carros são novos."
+          },
+          {
+            "answer": "B",
+            "sentence": "O livro é pequeno."
+          },
+          {
+            "answer": "A",
+            "sentence": "As mesas são bonitas."
+          },
+          {
+            "answer": "C",
+            "sentence": "Os alunos são altos."
+          },
+          {
+            "answer": "A",
+            "sentence": "A professora está cansada."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "novos",
+            "full_sentence": "Os carros são novos."
+          },
+          {
+            "answer": "pequeno",
+            "full_sentence": "O livro é pequeno."
+          },
+          {
+            "answer": "bonitas",
+            "full_sentence": "As mesas são bonitas."
+          },
+          {
+            "answer": "altos",
+            "full_sentence": "Os alunos são altos."
+          },
+          {
+            "answer": "cansada",
+            "full_sentence": "A professora está cansada."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "A casa é bonita.",
+          "Os carros são novos.",
+          "O livro é pequeno.",
+          "As mesas são bonitas.",
+          "Os alunos são altos."
+        ],
+        "D_portuguese_to_english": [
+          "The book is small.",
+          "The tables are beautiful.",
+          "The students are tall.",
+          "The teacher is tired."
+        ],
+        "E_reading": {
+          "translation": "My bedroom is small but pretty. The walls are white and the books are new. My table is large. The notebooks are blue. The chairs are old. My friends are Brazilian and American. We are happy.",
+          "answers": [
+            {
+              "question": "O quarto é grande ou pequeno?",
+              "answer": "O quarto é pequeno, mas bonito."
+            },
+            {
+              "question": "As paredes são brancas ou azuis?",
+              "answer": "As paredes são brancas."
+            },
+            {
+              "question": "Os cadernos são azuis ou brancos?",
+              "answer": "Os cadernos são azuis."
+            },
+            {
+              "question": "As cadeiras são novas ou antigas?",
+              "answer": "As cadeiras são antigas."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Meu quarto é pequeno, mas bonito. As paredes são brancas e os livros são novos. Minha mesa é grande. Os cadernos são azuis. As cadeiras são antigas. Meus amigos são brasileiros e americanos. Nós estamos felizes.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Minha casa é pequena.",
+            "Sim, meus livros são novos.",
+            "As mesas são bonitas."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

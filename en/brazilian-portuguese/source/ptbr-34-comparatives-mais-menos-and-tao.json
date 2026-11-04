@@ -1,0 +1,678 @@
+{
+  "lesson_number": 34,
+  "id": "L34",
+  "title": "Comparatives — Mais, Menos and Tão",
+  "module": "Módulo 6 — Hábitos, comparações e descrições do passado",
+  "level": "B1",
+  "main_grammar": "comparação de superioridade, inferioridade e igualdade.",
+  "previous_knowledge": "Lessons 1–33",
+  "key_vocabulary": [
+    "mais",
+    "menos",
+    "tão",
+    "quanto",
+    "melhor",
+    "pior",
+    "maior",
+    "menor"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Two places, foods or activities you compare” using this lesson’s target structure.",
+    "basic_rule": "Use mais... que, menos... que and tão... quanto; irregular better/worse are melhor/pior.",
+    "structure": "X + ser/estar + mais/menos + adjective + que Y",
+    "english_comparison": "English adds -er or more; Portuguese generally uses mais.",
+    "model_sentences": [
+      {
+        "pt": "Este livro é mais fácil que aquele.",
+        "en": "This book is easier than that one."
+      },
+      {
+        "pt": "Hoje está menos frio.",
+        "en": "It is less cold today."
+      },
+      {
+        "pt": "Ela é tão alta quanto eu.",
+        "en": "She is as tall as I am."
+      },
+      {
+        "pt": "Este carro é melhor.",
+        "en": "This car is better."
+      },
+      {
+        "pt": "Minha casa é menor que a sua.",
+        "en": "My house is smaller than yours."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "mais",
+        "meaning": "more",
+        "example": "Este livro é mais fácil que aquele."
+      },
+      {
+        "term": "menos",
+        "meaning": "less",
+        "example": "Hoje está menos frio."
+      },
+      {
+        "term": "tão",
+        "meaning": "as (equality)",
+        "example": "Ela é tão alta quanto eu."
+      },
+      {
+        "term": "quanto",
+        "meaning": "as (equality)",
+        "example": "Ela é tão alta quanto eu."
+      },
+      {
+        "term": "melhor",
+        "meaning": "better",
+        "example": "Este carro é melhor."
+      },
+      {
+        "term": "pior",
+        "meaning": "worse",
+        "example": "O filme é pior que o livro."
+      },
+      {
+        "term": "maior",
+        "meaning": "bigger",
+        "example": "Pedro prefere a biblioteca, que é maior e tem mais livros."
+      },
+      {
+        "term": "menor",
+        "meaning": "smaller",
+        "example": "Minha casa é menor que a sua."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “This book is easier than that one.”?",
+            "options": {
+              "A": "Este carro é melhor.",
+              "B": "Hoje está menos frio.",
+              "C": "Este livro é mais fácil que aquele."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “It is less cold today.”?",
+            "options": {
+              "A": "Hoje está menos frio.",
+              "B": "Ela é tão alta quanto eu.",
+              "C": "Este carro é melhor."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is as tall as I am.”?",
+            "options": {
+              "A": "Este livro é mais fácil que aquele.",
+              "B": "Ela é tão alta quanto eu.",
+              "C": "O filme é pior que o livro."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “This car is better.”?",
+            "options": {
+              "A": "O filme é pior que o livro.",
+              "B": "Hoje está menos frio.",
+              "C": "Este carro é melhor."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Este livro é ________ fácil que aquele.",
+            "hint": "This book is easier than that one."
+          },
+          {
+            "sentence": "Hoje está ________ frio.",
+            "hint": "It is less cold today."
+          },
+          {
+            "sentence": "Ela é ________ alta quanto eu.",
+            "hint": "She is as tall as I am."
+          },
+          {
+            "sentence": "Este carro é ________.",
+            "hint": "This car is better."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Meu bairro é mais tranquilo que o centro. A escola é menor que o hospital, mas tem mais alunos que a escola antiga. Meu trabalho fica mais perto de casa agora. Minha irmã é tão organizada quanto eu. Para mim, o ônibus é melhor que o carro em dias de trânsito intenso.",
+        "questions": [
+          "Como é o bairro em comparação com o centro?",
+          "O que é melhor para o narrador em dias de trânsito intenso?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Sua cidade é maior que a minha?",
+          "Qual atividade é mais fácil para você?",
+          "Você estuda tanto quanto antes?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Name both things being compared and the property.",
+      "examples": [
+        {
+          "pt": "Este carro é melhor.",
+          "en": "This car is better."
+        },
+        {
+          "pt": "Minha casa é menor que a sua.",
+          "en": "My house is smaller than yours."
+        },
+        {
+          "pt": "O filme é pior que o livro.",
+          "en": "The movie is worse than the book."
+        }
+      ],
+      "compare": "Mais alto que / Tão alto quanto: superiority versus equality.",
+      "common_mistakes": [
+        {
+          "wrong": "Ela é mais alta quanto eu.",
+          "correct": "Ela é mais alta que eu.",
+          "explanation": "Mais pairs with que."
+        },
+        {
+          "wrong": "Este carro é mais bom.",
+          "correct": "Este carro é melhor.",
+          "explanation": "Better is melhor."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Este livro é mais fácil que aquele.",
+            "cue": "This car is better."
+          },
+          {
+            "base": "Hoje está menos frio.",
+            "cue": "My house is smaller than yours."
+          },
+          {
+            "base": "Ela é tão alta quanto eu.",
+            "cue": "The movie is worse than the book."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "She is as tall as I am.",
+          "This car is better.",
+          "My house is smaller than yours.",
+          "The movie is worse than the book."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Este carro é melhor. Ela é ________ alta quanto eu.",
+            "hint": "She is as tall as I am."
+          },
+          {
+            "sentence": "Minha casa é menor que a sua. Este carro é ________.",
+            "hint": "This car is better."
+          },
+          {
+            "sentence": "O filme é pior que o livro. Minha casa é ________ que a sua.",
+            "hint": "My house is smaller than yours."
+          },
+          {
+            "sentence": "Este livro é mais fácil que aquele. O filme é ________ que o livro.",
+            "hint": "The movie is worse than the book."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Ana prefere estudar em casa porque é mais silencioso. Pedro prefere a biblioteca, que é maior e tem mais livros. Os dois estudam tanto quanto antes, mas agora descansam mais. A aula de hoje foi menos difícil que a anterior. A professora explicou tudo de maneira mais clara.",
+        "questions": [
+          "Por que Ana prefere estudar em casa?",
+          "Como foi a aula de hoje em comparação com a anterior?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Sua cidade é maior que a minha?",
+          "english": "Is your city larger than mine?"
+        },
+        {
+          "question": "Qual atividade é mais fácil para você?",
+          "english": "Which activity is easier for you?"
+        },
+        {
+          "question": "Você estuda tanto quanto antes?",
+          "english": "Do you study as much as before?"
+        },
+        {
+          "question": "Que cidade é menos movimentada que a sua?",
+          "english": "Which city is less busy than yours?"
+        },
+        {
+          "question": "Qual é um livro tão interessante quanto outro?",
+          "english": "What book is as interesting as another?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “This book is easier than that one.”? A. Este carro é melhor. B. Hoje está menos frio. C. Este livro é mais fácil que aquele.",
+        "worked_answer": "C. Este livro é mais fácil que aquele. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Este livro é ________ fácil que aquele. (This book is easier than that one.)",
+        "worked_answer": "mais → Este livro é mais fácil que aquele. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "She is as tall as I am.",
+        "worked_answer": "Ela é tão alta quanto eu. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Este livro é mais fácil que aquele.",
+        "worked_answer": "This book is easier than that one. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Como é o bairro em comparação com o centro?",
+        "worked_answer": "O bairro é mais tranquilo que o centro. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Este carro é melhor.” as a reference.",
+        "worked_answer": "Model: Minha casa é menor que a sua. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: O filme é pior que o livro. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “It is less cold today.”?",
+            "options": {
+              "A": "O filme é pior que o livro.",
+              "B": "Hoje está menos frio.",
+              "C": "Minha casa é menor que a sua."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is as tall as I am.”?",
+            "options": {
+              "A": "Este carro é melhor.",
+              "B": "Ela é tão alta quanto eu.",
+              "C": "O filme é pior que o livro."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “This car is better.”?",
+            "options": {
+              "A": "Hoje está menos frio.",
+              "B": "O filme é pior que o livro.",
+              "C": "Este carro é melhor."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My house is smaller than yours.”?",
+            "options": {
+              "A": "Este livro é mais fácil que aquele.",
+              "B": "Ela é tão alta quanto eu.",
+              "C": "Minha casa é menor que a sua."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The movie is worse than the book.”?",
+            "options": {
+              "A": "Hoje está menos frio.",
+              "B": "Este livro é mais fácil que aquele.",
+              "C": "O filme é pior que o livro."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Hoje está ________ frio.",
+            "hint": "It is less cold today."
+          },
+          {
+            "sentence": "Ela é ________ alta quanto eu.",
+            "hint": "She is as tall as I am."
+          },
+          {
+            "sentence": "Este carro é ________.",
+            "hint": "This car is better."
+          },
+          {
+            "sentence": "Minha casa é ________ que a sua.",
+            "hint": "My house is smaller than yours."
+          },
+          {
+            "sentence": "O filme é ________ que o livro.",
+            "hint": "The movie is worse than the book."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "This book is easier than that one.",
+          "It is less cold today.",
+          "She is as tall as I am.",
+          "This car is better.",
+          "My house is smaller than yours."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Ela é tão alta quanto eu.",
+          "Este carro é melhor.",
+          "Minha casa é menor que a sua.",
+          "O filme é pior que o livro."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Há cinco anos, minha cidade era menor e menos movimentada. Hoje há mais lojas e mais carros. O parque novo é maior que o antigo. A praça é tão bonita quanto o jardim da escola. Mesmo com essas mudanças, considero meu bairro mais agradável que o centro.",
+        "questions": [
+          "Como era a cidade há cinco anos?",
+          "O que há hoje na cidade?",
+          "Qual parque é maior?",
+          "O que é tão bonito quanto o jardim da escola?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Two places, foods or activities you compare”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Sua cidade é maior que a minha? / Qual atividade é mais fácil para você? / Você estuda tanto quanto antes? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I was studying when she arrived.",
+      "expected_answer": "Eu estudava quando ela chegou."
+    },
+    "pronunciation_focus": "Preserve the nasal sound in tão and quanto.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Este livro é mais fácil que aquele."
+          },
+          {
+            "answer": "A",
+            "sentence": "Hoje está menos frio."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela é tão alta quanto eu."
+          },
+          {
+            "answer": "C",
+            "sentence": "Este carro é melhor."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "mais",
+            "full_sentence": "Este livro é mais fácil que aquele."
+          },
+          {
+            "answer": "menos",
+            "full_sentence": "Hoje está menos frio."
+          },
+          {
+            "answer": "tão",
+            "full_sentence": "Ela é tão alta quanto eu."
+          },
+          {
+            "answer": "melhor",
+            "full_sentence": "Este carro é melhor."
+          }
+        ],
+        "mini_reading": {
+          "translation": "My neighborhood is quieter than downtown. The school is smaller than the hospital, but it has more students than the old school. My workplace is closer to home now. My sister is as organized as I am. For me, the bus is better than the car on heavy-traffic days.",
+          "answers": [
+            {
+              "question": "Como é o bairro em comparação com o centro?",
+              "answer": "O bairro é mais tranquilo que o centro."
+            },
+            {
+              "question": "O que é melhor para o narrador em dias de trânsito intenso?",
+              "answer": "O ônibus é melhor que o carro."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Sim, minha cidade é maior.",
+          "Ler é mais fácil que escrever.",
+          "Sim, estudo tanto quanto antes."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "This car is better.",
+            "model": "Este carro é melhor."
+          },
+          {
+            "cue": "My house is smaller than yours.",
+            "model": "Minha casa é menor que a sua."
+          },
+          {
+            "cue": "The movie is worse than the book.",
+            "model": "O filme é pior que o livro."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Ela é tão alta quanto eu.",
+          "Este carro é melhor.",
+          "Minha casa é menor que a sua.",
+          "O filme é pior que o livro."
+        ],
+        "fill_in": [
+          {
+            "answer": "tão",
+            "full_sentence": "Este carro é melhor. Ela é tão alta quanto eu."
+          },
+          {
+            "answer": "melhor",
+            "full_sentence": "Minha casa é menor que a sua. Este carro é melhor."
+          },
+          {
+            "answer": "menor",
+            "full_sentence": "O filme é pior que o livro. Minha casa é menor que a sua."
+          },
+          {
+            "answer": "pior",
+            "full_sentence": "Este livro é mais fácil que aquele. O filme é pior que o livro."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Este livro é mais fácil que aquele.",
+            "en": "This book is easier than that one."
+          },
+          {
+            "pt": "Ela é tão alta quanto eu.",
+            "en": "She is as tall as I am."
+          },
+          {
+            "pt": "Minha casa é menor que a sua.",
+            "en": "My house is smaller than yours."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Ana prefers studying at home because it is quieter. Pedro prefers the library, which is larger and has more books. They both study as much as before but rest more now. Today's class was less difficult than the previous one. The teacher explained everything more clearly.",
+          "answers": [
+            {
+              "question": "Por que Ana prefere estudar em casa?",
+              "answer": "Porque é mais silencioso."
+            },
+            {
+              "question": "Como foi a aula de hoje em comparação com a anterior?",
+              "answer": "Foi menos difícil que a anterior."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Sua cidade é maior que a minha?",
+          "model_answer": "Sim, minha cidade é maior.",
+          "follow_up": "Por quê?",
+          "watch_for": "Ela é mais alta quanto eu. → Ela é mais alta que eu. (Mais pairs with que.) Este carro é mais bom. → Este carro é melhor. (Better is melhor.)"
+        },
+        {
+          "question": "Qual atividade é mais fácil para você?",
+          "model_answer": "Ler é mais fácil que escrever.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Ela é mais alta quanto eu. → Ela é mais alta que eu. (Mais pairs with que.) Este carro é mais bom. → Este carro é melhor. (Better is melhor.)"
+        },
+        {
+          "question": "Você estuda tanto quanto antes?",
+          "model_answer": "Sim, estudo tanto quanto antes.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Ela é mais alta quanto eu. → Ela é mais alta que eu. (Mais pairs with que.) Este carro é mais bom. → Este carro é melhor. (Better is melhor.)"
+        },
+        {
+          "question": "Que cidade é menos movimentada que a sua?",
+          "model_answer": "Minha cidade antiga é menos movimentada.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Ela é mais alta quanto eu. → Ela é mais alta que eu. (Mais pairs with que.) Este carro é mais bom. → Este carro é melhor. (Better is melhor.)"
+        },
+        {
+          "question": "Qual é um livro tão interessante quanto outro?",
+          "model_answer": "Este livro é tão interessante quanto aquele.",
+          "follow_up": "Por quê?",
+          "watch_for": "Ela é mais alta quanto eu. → Ela é mais alta que eu. (Mais pairs with que.) Este carro é mais bom. → Este carro é melhor. (Better is melhor.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Hoje está menos frio."
+          },
+          {
+            "answer": "B",
+            "sentence": "Ela é tão alta quanto eu."
+          },
+          {
+            "answer": "C",
+            "sentence": "Este carro é melhor."
+          },
+          {
+            "answer": "C",
+            "sentence": "Minha casa é menor que a sua."
+          },
+          {
+            "answer": "C",
+            "sentence": "O filme é pior que o livro."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "menos",
+            "full_sentence": "Hoje está menos frio."
+          },
+          {
+            "answer": "tão",
+            "full_sentence": "Ela é tão alta quanto eu."
+          },
+          {
+            "answer": "melhor",
+            "full_sentence": "Este carro é melhor."
+          },
+          {
+            "answer": "menor",
+            "full_sentence": "Minha casa é menor que a sua."
+          },
+          {
+            "answer": "pior",
+            "full_sentence": "O filme é pior que o livro."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Este livro é mais fácil que aquele.",
+          "Hoje está menos frio.",
+          "Ela é tão alta quanto eu.",
+          "Este carro é melhor.",
+          "Minha casa é menor que a sua."
+        ],
+        "D_portuguese_to_english": [
+          "She is as tall as I am.",
+          "This car is better.",
+          "My house is smaller than yours.",
+          "The movie is worse than the book."
+        ],
+        "E_reading": {
+          "translation": "Five years ago, my city was smaller and less busy. Today there are more stores and cars. The new park is larger than the old one. The square is as beautiful as the school garden. Even with those changes, I consider my neighborhood more pleasant than downtown.",
+          "answers": [
+            {
+              "question": "Como era a cidade há cinco anos?",
+              "answer": "Era menor e menos movimentada."
+            },
+            {
+              "question": "O que há hoje na cidade?",
+              "answer": "Hoje há mais lojas e mais carros."
+            },
+            {
+              "question": "Qual parque é maior?",
+              "answer": "O parque novo é maior que o antigo."
+            },
+            {
+              "question": "O que é tão bonito quanto o jardim da escola?",
+              "answer": "A praça é tão bonita quanto o jardim da escola."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Há cinco anos, minha cidade era menor e menos movimentada. Hoje há mais lojas e mais carros. O parque novo é maior que o antigo. A praça é tão bonita quanto o jardim da escola. Mesmo com essas mudanças, considero meu bairro mais agradável que o centro.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Sim, minha cidade é maior.",
+            "Ler é mais fácil que escrever.",
+            "Sim, estudo tanto quanto antes."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

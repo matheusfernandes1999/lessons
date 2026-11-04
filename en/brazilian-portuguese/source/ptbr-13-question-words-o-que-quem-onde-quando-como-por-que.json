@@ -1,0 +1,668 @@
+{
+  "lesson_number": 13,
+  "id": "L13",
+  "title": "Question Words — O Que, Quem, Onde, Quando, Como, Por Que",
+  "module": "Módulo 3 — Perguntas, preferências e rotina",
+  "level": "A1–A2",
+  "main_grammar": "perguntas com palavras interrogativas.",
+  "previous_knowledge": "Lessons 1–12",
+  "key_vocabulary": [
+    "onde",
+    "quando",
+    "quem",
+    "como",
+    "por que",
+    "que",
+    "professora",
+    "manhã"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Interview a friend about their routine” using this lesson’s target structure.",
+    "basic_rule": "O que asks what, quem who, onde where, quando when, como how, and por que why.",
+    "structure": "question word + subject + verb?",
+    "english_comparison": "Portuguese does not require English do/does in such questions.",
+    "model_sentences": [
+      {
+        "pt": "Onde você mora?",
+        "en": "Where do you live?"
+      },
+      {
+        "pt": "Quando você trabalha?",
+        "en": "When do you work?"
+      },
+      {
+        "pt": "Por que você estuda português?",
+        "en": "Why do you study Portuguese?"
+      },
+      {
+        "pt": "Quem é a professora?",
+        "en": "Who is the teacher?"
+      },
+      {
+        "pt": "Como você está?",
+        "en": "How are you?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "onde",
+        "meaning": "where",
+        "example": "Onde você mora?"
+      },
+      {
+        "term": "quando",
+        "meaning": "when",
+        "example": "Quando você trabalha?"
+      },
+      {
+        "term": "quem",
+        "meaning": "who",
+        "example": "Quem é a professora?"
+      },
+      {
+        "term": "como",
+        "meaning": "how",
+        "example": "Como você está?"
+      },
+      {
+        "term": "por que",
+        "meaning": "why",
+        "example": "Por que você estuda português?"
+      },
+      {
+        "term": "que",
+        "meaning": "what",
+        "example": "Por que você estuda português?"
+      },
+      {
+        "term": "professora",
+        "meaning": "teacher",
+        "example": "Quem é a professora?"
+      },
+      {
+        "term": "manhã",
+        "meaning": "morning",
+        "example": "O que você come de manhã?"
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “Where do you live?”?",
+            "options": {
+              "A": "Por que você estuda português?",
+              "B": "Onde você mora?",
+              "C": "Como você está?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “When do you work?”?",
+            "options": {
+              "A": "Como você está?",
+              "B": "Quando você trabalha?",
+              "C": "O que você come de manhã?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Why do you study Portuguese?”?",
+            "options": {
+              "A": "Onde você mora?",
+              "B": "Por que você estuda português?",
+              "C": "Quando você trabalha?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Who is the teacher?”?",
+            "options": {
+              "A": "Quem é a professora?",
+              "B": "Quando você trabalha?",
+              "C": "Onde você mora?"
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ você mora?",
+            "hint": "Where do you live?"
+          },
+          {
+            "sentence": "________ você trabalha?",
+            "hint": "When do you work?"
+          },
+          {
+            "sentence": "________ você estuda português?",
+            "hint": "Why do you study Portuguese?"
+          },
+          {
+            "sentence": "________ é a professora?",
+            "hint": "Who is the teacher?"
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Ana trabalha em casa. Onde ela mora? Ela mora no Brasil. Quando ela estuda? Ela estuda à noite. Quem é a professora? A professora é Maria. Por que Ana estuda português? Porque ela gosta da língua. Como ela está hoje? Está bem.",
+        "questions": [
+          "Onde Ana mora?",
+          "Por que Ana estuda português?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Onde você mora?",
+          "Quando você estuda?",
+          "Por que você aprende português?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Start with the information you want, then use a known present verb.",
+      "examples": [
+        {
+          "pt": "Quem é a professora?",
+          "en": "Who is the teacher?"
+        },
+        {
+          "pt": "Como você está?",
+          "en": "How are you?"
+        },
+        {
+          "pt": "O que você come de manhã?",
+          "en": "What do you eat in the morning?"
+        }
+      ],
+      "compare": "Onde você mora? / Quando você trabalha?: location versus time.",
+      "common_mistakes": [
+        {
+          "wrong": "Por que você mora?",
+          "correct": "Onde você mora?",
+          "explanation": "Ask onde for location."
+        },
+        {
+          "wrong": "Quem você mora?",
+          "correct": "Com quem você mora?",
+          "explanation": "Com quem asks who lives with you."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Onde você mora?",
+            "cue": "Who is the teacher?"
+          },
+          {
+            "base": "Quando você trabalha?",
+            "cue": "How are you?"
+          },
+          {
+            "base": "Por que você estuda português?",
+            "cue": "What do you eat in the morning?"
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "Why do you study Portuguese?",
+          "Who is the teacher?",
+          "How are you?",
+          "What do you eat in the morning?"
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Quem é a professora? ________ você estuda português?",
+            "hint": "Why do you study Portuguese?"
+          },
+          {
+            "sentence": "Como você está? ________ é a professora?",
+            "hint": "Who is the teacher?"
+          },
+          {
+            "sentence": "O que você come de manhã? ________ você está?",
+            "hint": "How are you?"
+          },
+          {
+            "sentence": "Onde você mora? ________ você come de manhã?",
+            "hint": "What do you eat in the morning?"
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Eu moro perto da escola. Quem trabalha aqui? Meu irmão trabalha aqui. Quando ele trabalha? Ele trabalha de manhã. O que ele come? Ele come pão. Onde está a professora? Ela está na sala. Como estão os alunos? Estão felizes.",
+        "questions": [
+          "Quem trabalha aqui?",
+          "Onde está a professora?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Onde você mora?",
+          "english": "Where do you live?"
+        },
+        {
+          "question": "Quando você estuda?",
+          "english": "When do you study?"
+        },
+        {
+          "question": "Por que você aprende português?",
+          "english": "Why do you learn Portuguese?"
+        },
+        {
+          "question": "Que pergunta você faz para saber a profissão de alguém?",
+          "english": "What question do you ask to learn someone's job?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “Where do you live?”? A. Por que você estuda português? B. Onde você mora? C. Como você está?",
+        "worked_answer": "B. Onde você mora? — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ você mora? (Where do you live?)",
+        "worked_answer": "Onde → Onde você mora? — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Why do you study Portuguese?",
+        "worked_answer": "Por que você estuda português? — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Onde você mora?",
+        "worked_answer": "Where do you live? — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Onde Ana mora?",
+        "worked_answer": "Ana mora no Brasil. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Quem é a professora?” as a reference.",
+        "worked_answer": "Model: Como você está? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: O que você come de manhã? — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "20–25 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “When do you work?”?",
+            "options": {
+              "A": "Por que você estuda português?",
+              "B": "Onde você mora?",
+              "C": "Quando você trabalha?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Why do you study Portuguese?”?",
+            "options": {
+              "A": "Quando você trabalha?",
+              "B": "Quem é a professora?",
+              "C": "Por que você estuda português?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Who is the teacher?”?",
+            "options": {
+              "A": "Como você está?",
+              "B": "Quem é a professora?",
+              "C": "Onde você mora?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “How are you?”?",
+            "options": {
+              "A": "Quem é a professora?",
+              "B": "Como você está?",
+              "C": "O que você come de manhã?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “What do you eat in the morning?”?",
+            "options": {
+              "A": "Como você está?",
+              "B": "Quando você trabalha?",
+              "C": "O que você come de manhã?"
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "________ você trabalha?",
+            "hint": "When do you work?"
+          },
+          {
+            "sentence": "________ você estuda português?",
+            "hint": "Why do you study Portuguese?"
+          },
+          {
+            "sentence": "________ é a professora?",
+            "hint": "Who is the teacher?"
+          },
+          {
+            "sentence": "________ você está?",
+            "hint": "How are you?"
+          },
+          {
+            "sentence": "________ você come de manhã?",
+            "hint": "What do you eat in the morning?"
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "Where do you live?",
+          "When do you work?",
+          "Why do you study Portuguese?",
+          "Who is the teacher?",
+          "How are you?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Por que você estuda português?",
+          "Quem é a professora?",
+          "Como você está?",
+          "O que você come de manhã?"
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Pedro estuda português. A amiga pergunta: “Onde você estuda? Quando você tem aula? Quem é seu professor?” Pedro responde: “Eu estudo em casa. Tenho aula na segunda-feira. Meu professor é brasileiro.” Ela pergunta: “Por que você estuda?” Pedro responde: “Porque gosto de português.”",
+        "questions": [
+          "Onde Pedro estuda?",
+          "Quando Pedro tem aula?",
+          "O professor de Pedro é brasileiro ou americano?",
+          "Por que Pedro estuda português?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 6–8 sentences on the topic “Interview a friend about their routine”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Onde você mora? / Quando você estuda? / Por que você aprende português? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I work and study.",
+      "expected_answer": "Eu trabalho e estudo."
+    },
+    "pronunciation_focus": "Link por que as two unstressed words in questions.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Onde você mora?"
+          },
+          {
+            "answer": "B",
+            "sentence": "Quando você trabalha?"
+          },
+          {
+            "answer": "B",
+            "sentence": "Por que você estuda português?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Quem é a professora?"
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Onde",
+            "full_sentence": "Onde você mora?"
+          },
+          {
+            "answer": "Quando",
+            "full_sentence": "Quando você trabalha?"
+          },
+          {
+            "answer": "Por que",
+            "full_sentence": "Por que você estuda português?"
+          },
+          {
+            "answer": "Quem",
+            "full_sentence": "Quem é a professora?"
+          }
+        ],
+        "mini_reading": {
+          "translation": "Ana works at home. Where does she live? She lives in Brazil. When does she study? She studies at night. Who is the teacher? The teacher is Maria. Why does Ana study Portuguese? Because she likes the language. How is she today? She is well.",
+          "answers": [
+            {
+              "question": "Onde Ana mora?",
+              "answer": "Ana mora no Brasil."
+            },
+            {
+              "question": "Por que Ana estuda português?",
+              "answer": "Porque ela gosta da língua."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu moro no Brasil.",
+          "Eu estudo à noite.",
+          "Porque gosto de português."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "Who is the teacher?",
+            "model": "Quem é a professora?"
+          },
+          {
+            "cue": "How are you?",
+            "model": "Como você está?"
+          },
+          {
+            "cue": "What do you eat in the morning?",
+            "model": "O que você come de manhã?"
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Por que você estuda português?",
+          "Quem é a professora?",
+          "Como você está?",
+          "O que você come de manhã?"
+        ],
+        "fill_in": [
+          {
+            "answer": "Por que",
+            "full_sentence": "Quem é a professora? Por que você estuda português?"
+          },
+          {
+            "answer": "Quem",
+            "full_sentence": "Como você está? Quem é a professora?"
+          },
+          {
+            "answer": "Como",
+            "full_sentence": "O que você come de manhã? Como você está?"
+          },
+          {
+            "answer": "O que",
+            "full_sentence": "Onde você mora? O que você come de manhã?"
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Onde você mora?",
+            "en": "Where do you live?"
+          },
+          {
+            "pt": "Por que você estuda português?",
+            "en": "Why do you study Portuguese?"
+          },
+          {
+            "pt": "Como você está?",
+            "en": "How are you?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "I live near school. Who works here? My brother works here. When does he work? He works in the morning. What does he eat? He eats bread. Where is the teacher? She is in the room. How are the students? They are happy.",
+          "answers": [
+            {
+              "question": "Quem trabalha aqui?",
+              "answer": "O irmão do narrador trabalha aqui."
+            },
+            {
+              "question": "Onde está a professora?",
+              "answer": "A professora está na sala."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Onde você mora?",
+          "model_answer": "Eu moro no Brasil.",
+          "follow_up": "Por quê?",
+          "watch_for": "Por que você mora? → Onde você mora? (Ask onde for location.) Quem você mora? → Com quem você mora? (Com quem asks who lives with you.)"
+        },
+        {
+          "question": "Quando você estuda?",
+          "model_answer": "Eu estudo à noite.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Por que você mora? → Onde você mora? (Ask onde for location.) Quem você mora? → Com quem você mora? (Com quem asks who lives with you.)"
+        },
+        {
+          "question": "Por que você aprende português?",
+          "model_answer": "Porque gosto de português.",
+          "follow_up": "E sua família?",
+          "watch_for": "Por que você mora? → Onde você mora? (Ask onde for location.) Quem você mora? → Com quem você mora? (Com quem asks who lives with you.)"
+        },
+        {
+          "question": "Que pergunta você faz para saber a profissão de alguém?",
+          "model_answer": "Qual é sua profissão?",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Por que você mora? → Onde você mora? (Ask onde for location.) Quem você mora? → Com quem você mora? (Com quem asks who lives with you.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Quando você trabalha?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Por que você estuda português?"
+          },
+          {
+            "answer": "B",
+            "sentence": "Quem é a professora?"
+          },
+          {
+            "answer": "B",
+            "sentence": "Como você está?"
+          },
+          {
+            "answer": "C",
+            "sentence": "O que você come de manhã?"
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "Quando",
+            "full_sentence": "Quando você trabalha?"
+          },
+          {
+            "answer": "Por que",
+            "full_sentence": "Por que você estuda português?"
+          },
+          {
+            "answer": "Quem",
+            "full_sentence": "Quem é a professora?"
+          },
+          {
+            "answer": "Como",
+            "full_sentence": "Como você está?"
+          },
+          {
+            "answer": "O que",
+            "full_sentence": "O que você come de manhã?"
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Onde você mora?",
+          "Quando você trabalha?",
+          "Por que você estuda português?",
+          "Quem é a professora?",
+          "Como você está?"
+        ],
+        "D_portuguese_to_english": [
+          "Why do you study Portuguese?",
+          "Who is the teacher?",
+          "How are you?",
+          "What do you eat in the morning?"
+        ],
+        "E_reading": {
+          "translation": "Pedro studies Portuguese. His friend asks: “Where do you study? When do you have class? Who is your teacher?” Pedro answers: “I study at home. I have class on Monday. My teacher is Brazilian.” She asks: “Why do you study?” Pedro answers: “Because I like Portuguese.”",
+          "answers": [
+            {
+              "question": "Onde Pedro estuda?",
+              "answer": "Pedro estuda em casa."
+            },
+            {
+              "question": "Quando Pedro tem aula?",
+              "answer": "Pedro tem aula na segunda-feira."
+            },
+            {
+              "question": "O professor de Pedro é brasileiro ou americano?",
+              "answer": "O professor de Pedro é brasileiro."
+            },
+            {
+              "question": "Por que Pedro estuda português?",
+              "answer": "Porque ele gosta de português."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Pedro estuda português. A amiga pergunta: “Onde você estuda? Quando você tem aula? Quem é seu professor?” Pedro responde: “Eu estudo em casa. Tenho aula na segunda-feira. Meu professor é brasileiro.” Ela pergunta: “Por que você estuda?” Pedro responde: “Porque gosto de português.”",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu moro no Brasil.",
+            "Eu estudo à noite.",
+            "Porque gosto de português."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

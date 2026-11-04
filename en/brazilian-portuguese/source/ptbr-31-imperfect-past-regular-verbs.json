@@ -1,0 +1,678 @@
+{
+  "lesson_number": 31,
+  "id": "L31",
+  "title": "Imperfect Past — Regular Verbs",
+  "module": "Módulo 6 — Hábitos, comparações e descrições do passado",
+  "level": "B1",
+  "main_grammar": "pretérito imperfeito regular.",
+  "previous_knowledge": "Lessons 1–30",
+  "key_vocabulary": [
+    "estudava",
+    "morávamos",
+    "comia",
+    "trabalhavam",
+    "bebia",
+    "escola",
+    "noite",
+    "sábados"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Habits you had several years ago” using this lesson’s target structure.",
+    "basic_rule": "Regular imperfect shows habitual or ongoing past situations: -ava for -ar, -ia for -er/-ir.",
+    "structure": "stem + ava/ávamos/avam OR ia/íamos/iam",
+    "english_comparison": "English used to and was...ing often correspond, depending on context.",
+    "model_sentences": [
+      {
+        "pt": "Eu estudava à noite.",
+        "en": "I used to study at night."
+      },
+      {
+        "pt": "Nós morávamos perto da escola.",
+        "en": "We used to live near the school."
+      },
+      {
+        "pt": "Ela comia cedo.",
+        "en": "She used to eat early."
+      },
+      {
+        "pt": "Eles trabalhavam aos sábados.",
+        "en": "They used to work on Saturdays."
+      },
+      {
+        "pt": "Você bebia café?",
+        "en": "Did you use to drink coffee?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "estudava",
+        "meaning": "used to study",
+        "example": "Eu estudava à noite."
+      },
+      {
+        "term": "morávamos",
+        "meaning": "we used to live",
+        "example": "Nós morávamos perto da escola."
+      },
+      {
+        "term": "comia",
+        "meaning": "used to eat",
+        "example": "Ela comia cedo."
+      },
+      {
+        "term": "trabalhavam",
+        "meaning": "they used to work",
+        "example": "Eles trabalhavam aos sábados."
+      },
+      {
+        "term": "bebia",
+        "meaning": "used to drink",
+        "example": "Você bebia café?"
+      },
+      {
+        "term": "escola",
+        "meaning": "school",
+        "example": "Nós morávamos perto da escola."
+      },
+      {
+        "term": "noite",
+        "meaning": "night",
+        "example": "Eu estudava à noite."
+      },
+      {
+        "term": "sábados",
+        "meaning": "Saturdays",
+        "example": "Eles trabalhavam aos sábados."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I used to study at night.”?",
+            "options": {
+              "A": "Nós morávamos perto da escola.",
+              "B": "Ela comia cedo.",
+              "C": "Eu estudava à noite."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We used to live near the school.”?",
+            "options": {
+              "A": "Ela comia cedo.",
+              "B": "Eu aprendia português na escola.",
+              "C": "Nós morávamos perto da escola."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She used to eat early.”?",
+            "options": {
+              "A": "Ela comia cedo.",
+              "B": "Nós morávamos perto da escola.",
+              "C": "Eles trabalhavam aos sábados."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They used to work on Saturdays.”?",
+            "options": {
+              "A": "Eles trabalhavam aos sábados.",
+              "B": "Você bebia café?",
+              "C": "Ela comia cedo."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ à noite.",
+            "hint": "I used to study at night."
+          },
+          {
+            "sentence": "Nós ________ perto da escola.",
+            "hint": "We used to live near the school."
+          },
+          {
+            "sentence": "Ela ________ cedo.",
+            "hint": "She used to eat early."
+          },
+          {
+            "sentence": "Eles ________ aos sábados.",
+            "hint": "They used to work on Saturdays."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Quando eu era criança, eu estudava perto de casa. Minha irmã estudava na mesma escola. Nós caminhávamos juntos todas as manhãs. Meu pai trabalhava no centro e minha mãe preparava o almoço. À noite, eu lia livros e conversava com meus amigos. Aquela rotina era simples e tranquila.",
+        "questions": [
+          "Onde o narrador estudava quando era criança?",
+          "O que o narrador fazia à noite?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "O que você estudava na escola?",
+          "Onde você morava antes?",
+          "Você trabalhava aos sábados?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Use past routines rather than single finished events.",
+      "examples": [
+        {
+          "pt": "Eles trabalhavam aos sábados.",
+          "en": "They used to work on Saturdays."
+        },
+        {
+          "pt": "Você bebia café?",
+          "en": "Did you use to drink coffee?"
+        },
+        {
+          "pt": "Eu aprendia português na escola.",
+          "en": "I used to learn Portuguese at school."
+        }
+      ],
+      "compare": "Eu estudo agora / Eu estudava antes: now versus past habit.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu estudava ontem uma vez.",
+          "correct": "Eu estudei ontem uma vez.",
+          "explanation": "A single finished event takes the perfect."
+        },
+        {
+          "wrong": "Nós morava aqui.",
+          "correct": "Nós morávamos aqui.",
+          "explanation": "Nós imperfect -ar requires -ávamos."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu estudava à noite.",
+            "cue": "They used to work on Saturdays."
+          },
+          {
+            "base": "Nós morávamos perto da escola.",
+            "cue": "Did you use to drink coffee?"
+          },
+          {
+            "base": "Ela comia cedo.",
+            "cue": "I used to learn Portuguese at school."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "She used to eat early.",
+          "They used to work on Saturdays.",
+          "Did you use to drink coffee?",
+          "I used to learn Portuguese at school."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles trabalhavam aos sábados. Ela ________ cedo.",
+            "hint": "She used to eat early."
+          },
+          {
+            "sentence": "Você bebia café? Eles ________ aos sábados.",
+            "hint": "They used to work on Saturdays."
+          },
+          {
+            "sentence": "Eu aprendia português na escola. Você ________ café?",
+            "hint": "Did you use to drink coffee?"
+          },
+          {
+            "sentence": "Eu estudava à noite. Eu ________ português na escola.",
+            "hint": "I used to learn Portuguese at school."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Há alguns anos, Ana morava perto do trabalho. Ela acordava cedo, tomava café e caminhava até o escritório. Os colegas almoçavam juntos todos os dias. Depois do expediente, Ana estudava português. Nos fins de semana, ela visitava os pais e ajudava na casa deles.",
+        "questions": [
+          "Onde Ana morava há alguns anos?",
+          "O que Ana fazia nos fins de semana?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "O que você estudava na escola?",
+          "english": "What did you use to study at school?"
+        },
+        {
+          "question": "Onde você morava antes?",
+          "english": "Where did you use to live?"
+        },
+        {
+          "question": "Você trabalhava aos sábados?",
+          "english": "Did you use to work on Saturdays?"
+        },
+        {
+          "question": "Como você passava os sábados quando era criança?",
+          "english": "How did you use to spend Saturdays as a child?"
+        },
+        {
+          "question": "Que atividade você fazia antes e não faz mais?",
+          "english": "What activity did you use to do but no longer do?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I used to study at night.”? A. Nós morávamos perto da escola. B. Ela comia cedo. C. Eu estudava à noite.",
+        "worked_answer": "C. Eu estudava à noite. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ à noite. (I used to study at night.)",
+        "worked_answer": "estudava → Eu estudava à noite. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "She used to eat early.",
+        "worked_answer": "Ela comia cedo. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu estudava à noite.",
+        "worked_answer": "I used to study at night. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Onde o narrador estudava quando era criança?",
+        "worked_answer": "Ele estudava perto de casa. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles trabalhavam aos sábados.” as a reference.",
+        "worked_answer": "Model: Você bebia café? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu aprendia português na escola. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "25–30 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “We used to live near the school.”?",
+            "options": {
+              "A": "Eu aprendia português na escola.",
+              "B": "Nós morávamos perto da escola.",
+              "C": "Eu estudava à noite."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She used to eat early.”?",
+            "options": {
+              "A": "Eu aprendia português na escola.",
+              "B": "Eles trabalhavam aos sábados.",
+              "C": "Ela comia cedo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They used to work on Saturdays.”?",
+            "options": {
+              "A": "Nós morávamos perto da escola.",
+              "B": "Você bebia café?",
+              "C": "Eles trabalhavam aos sábados."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Did you use to drink coffee?”?",
+            "options": {
+              "A": "Você bebia café?",
+              "B": "Eu estudava à noite.",
+              "C": "Ela comia cedo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I used to learn Portuguese at school.”?",
+            "options": {
+              "A": "Eu aprendia português na escola.",
+              "B": "Você bebia café?",
+              "C": "Eu estudava à noite."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Nós ________ perto da escola.",
+            "hint": "We used to live near the school."
+          },
+          {
+            "sentence": "Ela ________ cedo.",
+            "hint": "She used to eat early."
+          },
+          {
+            "sentence": "Eles ________ aos sábados.",
+            "hint": "They used to work on Saturdays."
+          },
+          {
+            "sentence": "Você ________ café?",
+            "hint": "Did you use to drink coffee?"
+          },
+          {
+            "sentence": "Eu ________ português na escola.",
+            "hint": "I used to learn Portuguese at school."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I used to study at night.",
+          "We used to live near the school.",
+          "She used to eat early.",
+          "They used to work on Saturdays.",
+          "Did you use to drink coffee?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Ela comia cedo.",
+          "Eles trabalhavam aos sábados.",
+          "Você bebia café?",
+          "Eu aprendia português na escola."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Antes, Pedro trabalhava aos sábados e estudava à noite. Ele comia cedo porque tinha pouco tempo. A irmã dele morava em outra cidade e telefonava aos domingos. Os amigos conversavam pela internet. Hoje a rotina é diferente, mas Pedro ainda gosta de estudar.",
+        "questions": [
+          "Quando Pedro trabalhava antes?",
+          "Por que Pedro comia cedo?",
+          "Quando a irmã dele telefonava?",
+          "Como os amigos conversavam?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 80–120 words on the topic “Habits you had several years ago”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — O que você estudava na escola? / Onde você morava antes? / Você trabalhava aos sábados? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I worked yesterday.",
+      "expected_answer": "Eu trabalhei ontem."
+    },
+    "pronunciation_focus": "Mark stress carefully in estudávamos and morávamos.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu estudava à noite."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós morávamos perto da escola."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela comia cedo."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles trabalhavam aos sábados."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "estudava",
+            "full_sentence": "Eu estudava à noite."
+          },
+          {
+            "answer": "morávamos",
+            "full_sentence": "Nós morávamos perto da escola."
+          },
+          {
+            "answer": "comia",
+            "full_sentence": "Ela comia cedo."
+          },
+          {
+            "answer": "trabalhavam",
+            "full_sentence": "Eles trabalhavam aos sábados."
+          }
+        ],
+        "mini_reading": {
+          "translation": "When I was a child, I studied near home. My sister studied at the same school. We walked together every morning. My father worked downtown and my mother prepared lunch. At night, I read books and talked with my friends. That routine was simple and peaceful.",
+          "answers": [
+            {
+              "question": "Onde o narrador estudava quando era criança?",
+              "answer": "Ele estudava perto de casa."
+            },
+            {
+              "question": "O que o narrador fazia à noite?",
+              "answer": "Ele lia livros e conversava com os amigos."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu estudava inglês.",
+          "Eu morava perto do centro.",
+          "Não, eu descansava aos sábados."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They used to work on Saturdays.",
+            "model": "Eles trabalhavam aos sábados."
+          },
+          {
+            "cue": "Did you use to drink coffee?",
+            "model": "Você bebia café?"
+          },
+          {
+            "cue": "I used to learn Portuguese at school.",
+            "model": "Eu aprendia português na escola."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Ela comia cedo.",
+          "Eles trabalhavam aos sábados.",
+          "Você bebia café?",
+          "Eu aprendia português na escola."
+        ],
+        "fill_in": [
+          {
+            "answer": "comia",
+            "full_sentence": "Eles trabalhavam aos sábados. Ela comia cedo."
+          },
+          {
+            "answer": "trabalhavam",
+            "full_sentence": "Você bebia café? Eles trabalhavam aos sábados."
+          },
+          {
+            "answer": "bebia",
+            "full_sentence": "Eu aprendia português na escola. Você bebia café?"
+          },
+          {
+            "answer": "aprendia",
+            "full_sentence": "Eu estudava à noite. Eu aprendia português na escola."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu estudava à noite.",
+            "en": "I used to study at night."
+          },
+          {
+            "pt": "Ela comia cedo.",
+            "en": "She used to eat early."
+          },
+          {
+            "pt": "Você bebia café?",
+            "en": "Did you use to drink coffee?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "A few years ago, Ana lived near work. She woke up early, had coffee and walked to the office. Her colleagues had lunch together every day. After work, Ana studied Portuguese. On weekends, she visited her parents and helped at their house.",
+          "answers": [
+            {
+              "question": "Onde Ana morava há alguns anos?",
+              "answer": "Ela morava perto do trabalho."
+            },
+            {
+              "question": "O que Ana fazia nos fins de semana?",
+              "answer": "Ela visitava os pais e ajudava na casa deles."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "O que você estudava na escola?",
+          "model_answer": "Eu estudava inglês.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu estudava ontem uma vez. → Eu estudei ontem uma vez. (A single finished event takes the perfect.) Nós morava aqui. → Nós morávamos aqui. (Nós imperfect -ar requires -ávamos.)"
+        },
+        {
+          "question": "Onde você morava antes?",
+          "model_answer": "Eu morava perto do centro.",
+          "follow_up": "Pode dar um exemplo da sua vida?",
+          "watch_for": "Eu estudava ontem uma vez. → Eu estudei ontem uma vez. (A single finished event takes the perfect.) Nós morava aqui. → Nós morávamos aqui. (Nós imperfect -ar requires -ávamos.)"
+        },
+        {
+          "question": "Você trabalhava aos sábados?",
+          "model_answer": "Não, eu descansava aos sábados.",
+          "follow_up": "E se a situação fosse diferente?",
+          "watch_for": "Eu estudava ontem uma vez. → Eu estudei ontem uma vez. (A single finished event takes the perfect.) Nós morava aqui. → Nós morávamos aqui. (Nós imperfect -ar requires -ávamos.)"
+        },
+        {
+          "question": "Como você passava os sábados quando era criança?",
+          "model_answer": "Eu brincava e estudava com amigos.",
+          "follow_up": "Pode explicar com outras palavras?",
+          "watch_for": "Eu estudava ontem uma vez. → Eu estudei ontem uma vez. (A single finished event takes the perfect.) Nós morava aqui. → Nós morávamos aqui. (Nós imperfect -ar requires -ávamos.)"
+        },
+        {
+          "question": "Que atividade você fazia antes e não faz mais?",
+          "model_answer": "Eu caminhava para o trabalho antes.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu estudava ontem uma vez. → Eu estudei ontem uma vez. (A single finished event takes the perfect.) Nós morava aqui. → Nós morávamos aqui. (Nós imperfect -ar requires -ávamos.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Nós morávamos perto da escola."
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela comia cedo."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles trabalhavam aos sábados."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você bebia café?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu aprendia português na escola."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "morávamos",
+            "full_sentence": "Nós morávamos perto da escola."
+          },
+          {
+            "answer": "comia",
+            "full_sentence": "Ela comia cedo."
+          },
+          {
+            "answer": "trabalhavam",
+            "full_sentence": "Eles trabalhavam aos sábados."
+          },
+          {
+            "answer": "bebia",
+            "full_sentence": "Você bebia café?"
+          },
+          {
+            "answer": "aprendia",
+            "full_sentence": "Eu aprendia português na escola."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu estudava à noite.",
+          "Nós morávamos perto da escola.",
+          "Ela comia cedo.",
+          "Eles trabalhavam aos sábados.",
+          "Você bebia café?"
+        ],
+        "D_portuguese_to_english": [
+          "She used to eat early.",
+          "They used to work on Saturdays.",
+          "Did you use to drink coffee?",
+          "I used to learn Portuguese at school."
+        ],
+        "E_reading": {
+          "translation": "In the past, Pedro worked on Saturdays and studied at night. He ate early because he had little time. His sister lived in another city and called on Sundays. His friends talked online. Today the routine is different, but Pedro still likes studying.",
+          "answers": [
+            {
+              "question": "Quando Pedro trabalhava antes?",
+              "answer": "Ele trabalhava aos sábados."
+            },
+            {
+              "question": "Por que Pedro comia cedo?",
+              "answer": "Porque tinha pouco tempo."
+            },
+            {
+              "question": "Quando a irmã dele telefonava?",
+              "answer": "Ela telefonava aos domingos."
+            },
+            {
+              "question": "Como os amigos conversavam?",
+              "answer": "Eles conversavam pela internet."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Antes, Pedro trabalhava aos sábados e estudava à noite. Ele comia cedo porque tinha pouco tempo. A irmã dele morava em outra cidade e telefonava aos domingos. Os amigos conversavam pela internet. Hoje a rotina é diferente, mas Pedro ainda gosta de estudar.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu estudava inglês.",
+            "Eu morava perto do centro.",
+            "Não, eu descansava aos sábados."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

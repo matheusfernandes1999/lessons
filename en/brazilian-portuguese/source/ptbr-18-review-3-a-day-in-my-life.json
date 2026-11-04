@@ -1,0 +1,668 @@
+{
+  "lesson_number": 18,
+  "id": "L18",
+  "title": "Review 3 — A Day in My Life",
+  "module": "Módulo 3 — Perguntas, preferências e rotina",
+  "level": "A1–A2",
+  "main_grammar": "consolidação das aulas 13–17.",
+  "previous_knowledge": "Lessons 1–17",
+  "key_vocabulary": [
+    "trabalho",
+    "às",
+    "gosta",
+    "café",
+    "escola",
+    "tempo",
+    "meio-dia",
+    "casa"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Plan one ordinary day with a friend” using this lesson’s target structure.",
+    "basic_rule": "Review question words, gostar de, ter, clock times and ir/vir.",
+    "structure": "known question + preference + daily schedule",
+    "english_comparison": "English do/does is not needed in Portuguese questions.",
+    "model_sentences": [
+      {
+        "pt": "Eu trabalho às oito.",
+        "en": "I work at eight."
+      },
+      {
+        "pt": "Ela gosta de café.",
+        "en": "She likes coffee."
+      },
+      {
+        "pt": "Nós vamos à escola.",
+        "en": "We go to school."
+      },
+      {
+        "pt": "Você tem tempo hoje?",
+        "en": "Do you have time today?"
+      },
+      {
+        "pt": "Eles vêm de casa.",
+        "en": "They come from home."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "trabalho",
+        "meaning": "I work",
+        "example": "Eu trabalho às oito."
+      },
+      {
+        "term": "às",
+        "meaning": "at (clock time)",
+        "example": "Eu trabalho às oito."
+      },
+      {
+        "term": "gosta",
+        "meaning": "likes",
+        "example": "Ela gosta de café."
+      },
+      {
+        "term": "café",
+        "meaning": "coffee",
+        "example": "Ela gosta de café."
+      },
+      {
+        "term": "escola",
+        "meaning": "school",
+        "example": "Nós vamos à escola."
+      },
+      {
+        "term": "tempo",
+        "meaning": "time",
+        "example": "Você tem tempo hoje?"
+      },
+      {
+        "term": "meio-dia",
+        "meaning": "noon",
+        "example": "Eu como arroz ao meio-dia."
+      },
+      {
+        "term": "casa",
+        "meaning": "home",
+        "example": "Eles vêm de casa."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I work at eight.”?",
+            "options": {
+              "A": "Eu trabalho às oito.",
+              "B": "Ela gosta de café.",
+              "C": "Você tem tempo hoje?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She likes coffee.”?",
+            "options": {
+              "A": "Ela gosta de café.",
+              "B": "Eu como arroz ao meio-dia.",
+              "C": "Eu trabalho às oito."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We go to school.”?",
+            "options": {
+              "A": "Ela gosta de café.",
+              "B": "Nós vamos à escola.",
+              "C": "Eu trabalho às oito."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Do you have time today?”?",
+            "options": {
+              "A": "Nós vamos à escola.",
+              "B": "Você tem tempo hoje?",
+              "C": "Ela gosta de café."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu trabalho ________ oito.",
+            "hint": "I work at eight."
+          },
+          {
+            "sentence": "Ela ________ de café.",
+            "hint": "She likes coffee."
+          },
+          {
+            "sentence": "Nós ________ à escola.",
+            "hint": "We go to school."
+          },
+          {
+            "sentence": "Você ________ tempo hoje?",
+            "hint": "Do you have time today?"
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Às sete horas, eu tomo café. Às oito, vou ao trabalho. Minha amiga estuda português às dez. Nós gostamos de almoçar ao meio-dia. Ela tem tempo à tarde. Quando você estuda? Eu estudo à noite.",
+        "questions": [
+          "A que horas o narrador vai ao trabalho?",
+          "Quando o narrador estuda?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Quando você estuda português?",
+          "Onde você vai ao meio-dia?",
+          "De que comida você gosta?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Ask, answer and combine information about a whole day.",
+      "examples": [
+        {
+          "pt": "Você tem tempo hoje?",
+          "en": "Do you have time today?"
+        },
+        {
+          "pt": "Eles vêm de casa.",
+          "en": "They come from home."
+        },
+        {
+          "pt": "Eu como arroz ao meio-dia.",
+          "en": "I eat rice at noon."
+        }
+      ],
+      "compare": "Onde você vai? / Quando você vai?: destination versus time.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu gosto café.",
+          "correct": "Eu gosto de café.",
+          "explanation": "De is required."
+        },
+        {
+          "wrong": "São uma hora.",
+          "correct": "É uma hora.",
+          "explanation": "One o'clock is singular."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu trabalho às oito.",
+            "cue": "Do you have time today?"
+          },
+          {
+            "base": "Ela gosta de café.",
+            "cue": "They come from home."
+          },
+          {
+            "base": "Nós vamos à escola.",
+            "cue": "I eat rice at noon."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We go to school.",
+          "Do you have time today?",
+          "They come from home.",
+          "I eat rice at noon."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Você tem tempo hoje? Nós ________ à escola.",
+            "hint": "We go to school."
+          },
+          {
+            "sentence": "Eles vêm de casa. Você ________ tempo hoje?",
+            "hint": "Do you have time today?"
+          },
+          {
+            "sentence": "Eu como arroz ao meio-dia. Eles ________ de casa.",
+            "hint": "They come from home."
+          },
+          {
+            "sentence": "Eu trabalho às oito. Eu ________ arroz ao meio-dia.",
+            "hint": "I eat rice at noon."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Ana mora perto da escola e vai à aula às oito. O irmão dela trabalha em casa. Ele gosta de café e tem dois livros. À tarde, eles vão ao mercado. Onde eles vão depois? Eles vêm para casa.",
+        "questions": [
+          "Onde Ana mora?",
+          "Para onde eles vão à tarde?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Quando você estuda português?",
+          "english": "When do you study Portuguese?"
+        },
+        {
+          "question": "Onde você vai ao meio-dia?",
+          "english": "Where do you go at noon?"
+        },
+        {
+          "question": "De que comida você gosta?",
+          "english": "What food do you like?"
+        },
+        {
+          "question": "Como você organiza seus horários de estudo?",
+          "english": "How do you organize your study times?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I work at eight.”? A. Eu trabalho às oito. B. Ela gosta de café. C. Você tem tempo hoje?",
+        "worked_answer": "A. Eu trabalho às oito. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu trabalho ________ oito. (I work at eight.)",
+        "worked_answer": "às → Eu trabalho às oito. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We go to school.",
+        "worked_answer": "Nós vamos à escola. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu trabalho às oito.",
+        "worked_answer": "I work at eight. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "A que horas o narrador vai ao trabalho?",
+        "worked_answer": "Ele vai ao trabalho às oito. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Você tem tempo hoje?” as a reference.",
+        "worked_answer": "Model: Eles vêm de casa. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu como arroz ao meio-dia. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "20–25 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “She likes coffee.”?",
+            "options": {
+              "A": "Ela gosta de café.",
+              "B": "Você tem tempo hoje?",
+              "C": "Eles vêm de casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We go to school.”?",
+            "options": {
+              "A": "Você tem tempo hoje?",
+              "B": "Nós vamos à escola.",
+              "C": "Ela gosta de café."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Do you have time today?”?",
+            "options": {
+              "A": "Você tem tempo hoje?",
+              "B": "Eles vêm de casa.",
+              "C": "Nós vamos à escola."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They come from home.”?",
+            "options": {
+              "A": "Eu como arroz ao meio-dia.",
+              "B": "Nós vamos à escola.",
+              "C": "Eles vêm de casa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I eat rice at noon.”?",
+            "options": {
+              "A": "Eu como arroz ao meio-dia.",
+              "B": "Você tem tempo hoje?",
+              "C": "Eu trabalho às oito."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Ela ________ de café.",
+            "hint": "She likes coffee."
+          },
+          {
+            "sentence": "Nós ________ à escola.",
+            "hint": "We go to school."
+          },
+          {
+            "sentence": "Você ________ tempo hoje?",
+            "hint": "Do you have time today?"
+          },
+          {
+            "sentence": "Eles ________ de casa.",
+            "hint": "They come from home."
+          },
+          {
+            "sentence": "Eu ________ arroz ao meio-dia.",
+            "hint": "I eat rice at noon."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I work at eight.",
+          "She likes coffee.",
+          "We go to school.",
+          "Do you have time today?",
+          "They come from home."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós vamos à escola.",
+          "Você tem tempo hoje?",
+          "Eles vêm de casa.",
+          "Eu como arroz ao meio-dia."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Eu acordo às sete e como pão. Depois vou ao trabalho. Minha irmã vem da escola ao meio-dia. Nós gostamos de conversar no almoço. À noite, eu estudo português. Quem estuda com você? Meu amigo estuda comigo.",
+        "questions": [
+          "O que o narrador come de manhã?",
+          "Quando a irmã vem da escola?",
+          "Do que eles gostam no almoço?",
+          "Quem estuda com o narrador?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 6–8 sentences on the topic “Plan one ordinary day with a friend”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Quando você estuda português? / Onde você vai ao meio-dia? / De que comida você gosta? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I go to the market.",
+      "expected_answer": "Eu vou ao mercado."
+    },
+    "pronunciation_focus": "Practice reduced unstressed vowels in everyday speech.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Eu trabalho às oito."
+          },
+          {
+            "answer": "A",
+            "sentence": "Ela gosta de café."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "B",
+            "sentence": "Você tem tempo hoje?"
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "às",
+            "full_sentence": "Eu trabalho às oito."
+          },
+          {
+            "answer": "gosta",
+            "full_sentence": "Ela gosta de café."
+          },
+          {
+            "answer": "vamos",
+            "full_sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Você tem tempo hoje?"
+          }
+        ],
+        "mini_reading": {
+          "translation": "At seven I drink coffee. At eight I go to work. My friend studies Portuguese at ten. We like having lunch at noon. She has time in the afternoon. When do you study? I study at night.",
+          "answers": [
+            {
+              "question": "A que horas o narrador vai ao trabalho?",
+              "answer": "Ele vai ao trabalho às oito."
+            },
+            {
+              "question": "Quando o narrador estuda?",
+              "answer": "Ele estuda à noite."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu estudo à noite.",
+          "Eu vou para casa.",
+          "Eu gosto de arroz."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "Do you have time today?",
+            "model": "Você tem tempo hoje?"
+          },
+          {
+            "cue": "They come from home.",
+            "model": "Eles vêm de casa."
+          },
+          {
+            "cue": "I eat rice at noon.",
+            "model": "Eu como arroz ao meio-dia."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós vamos à escola.",
+          "Você tem tempo hoje?",
+          "Eles vêm de casa.",
+          "Eu como arroz ao meio-dia."
+        ],
+        "fill_in": [
+          {
+            "answer": "vamos",
+            "full_sentence": "Você tem tempo hoje? Nós vamos à escola."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Eles vêm de casa. Você tem tempo hoje?"
+          },
+          {
+            "answer": "vêm",
+            "full_sentence": "Eu como arroz ao meio-dia. Eles vêm de casa."
+          },
+          {
+            "answer": "como",
+            "full_sentence": "Eu trabalho às oito. Eu como arroz ao meio-dia."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu trabalho às oito.",
+            "en": "I work at eight."
+          },
+          {
+            "pt": "Nós vamos à escola.",
+            "en": "We go to school."
+          },
+          {
+            "pt": "Eles vêm de casa.",
+            "en": "They come from home."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Ana lives near the school and goes to class at eight. Her brother works at home. He likes coffee and has two books. In the afternoon, they go to the market. Where do they go afterward? They come home.",
+          "answers": [
+            {
+              "question": "Onde Ana mora?",
+              "answer": "Ana mora perto da escola."
+            },
+            {
+              "question": "Para onde eles vão à tarde?",
+              "answer": "Eles vão ao mercado."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Quando você estuda português?",
+          "model_answer": "Eu estudo à noite.",
+          "follow_up": "Por quê?",
+          "watch_for": "Eu gosto café. → Eu gosto de café. (De is required.) São uma hora. → É uma hora. (One o'clock is singular.)"
+        },
+        {
+          "question": "Onde você vai ao meio-dia?",
+          "model_answer": "Eu vou para casa.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu gosto café. → Eu gosto de café. (De is required.) São uma hora. → É uma hora. (One o'clock is singular.)"
+        },
+        {
+          "question": "De que comida você gosta?",
+          "model_answer": "Eu gosto de arroz.",
+          "follow_up": "E sua família?",
+          "watch_for": "Eu gosto café. → Eu gosto de café. (De is required.) São uma hora. → É uma hora. (One o'clock is singular.)"
+        },
+        {
+          "question": "Como você organiza seus horários de estudo?",
+          "model_answer": "Eu estudo português às sete da noite.",
+          "follow_up": "Pode contar mais um detalhe?",
+          "watch_for": "Eu gosto café. → Eu gosto de café. (De is required.) São uma hora. → É uma hora. (One o'clock is singular.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Ela gosta de café."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "A",
+            "sentence": "Você tem tempo hoje?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles vêm de casa."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eu como arroz ao meio-dia."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "gosta",
+            "full_sentence": "Ela gosta de café."
+          },
+          {
+            "answer": "vamos",
+            "full_sentence": "Nós vamos à escola."
+          },
+          {
+            "answer": "tem",
+            "full_sentence": "Você tem tempo hoje?"
+          },
+          {
+            "answer": "vêm",
+            "full_sentence": "Eles vêm de casa."
+          },
+          {
+            "answer": "como",
+            "full_sentence": "Eu como arroz ao meio-dia."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu trabalho às oito.",
+          "Ela gosta de café.",
+          "Nós vamos à escola.",
+          "Você tem tempo hoje?",
+          "Eles vêm de casa."
+        ],
+        "D_portuguese_to_english": [
+          "We go to school.",
+          "Do you have time today?",
+          "They come from home.",
+          "I eat rice at noon."
+        ],
+        "E_reading": {
+          "translation": "I wake up at seven and eat bread. Then I go to work. My sister comes from school at noon. We like talking at lunch. At night, I study Portuguese. Who studies with you? My friend studies with me.",
+          "answers": [
+            {
+              "question": "O que o narrador come de manhã?",
+              "answer": "Ele come pão."
+            },
+            {
+              "question": "Quando a irmã vem da escola?",
+              "answer": "Ela vem da escola ao meio-dia."
+            },
+            {
+              "question": "Do que eles gostam no almoço?",
+              "answer": "Eles gostam de conversar."
+            },
+            {
+              "question": "Quem estuda com o narrador?",
+              "answer": "O amigo dele estuda com ele."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Eu acordo às sete e como pão. Depois vou ao trabalho. Minha irmã vem da escola ao meio-dia. Nós gostamos de conversar no almoço. À noite, eu estudo português. Quem estuda com você? Meu amigo estuda comigo.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu estudo à noite.",
+            "Eu vou para casa.",
+            "Eu gosto de arroz."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

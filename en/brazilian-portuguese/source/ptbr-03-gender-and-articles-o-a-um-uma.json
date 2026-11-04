@@ -1,0 +1,658 @@
+{
+  "lesson_number": 3,
+  "id": "L03",
+  "title": "Gender and Articles — O, A, Um, Uma",
+  "module": "Módulo 1 — Primeiras estruturas e frases essenciais",
+  "level": "A0–A1",
+  "main_grammar": "gênero gramatical e artigos definidos e indefinidos no singular.",
+  "previous_knowledge": "Lessons 1–2",
+  "key_vocabulary": [
+    "um",
+    "uma",
+    "o",
+    "a",
+    "livro",
+    "casa",
+    "mesa",
+    "cadeira"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Objects you can see in a room” using this lesson’s target structure.",
+    "basic_rule": "Singular nouns take o/a for a specific referent, um/uma for a nonspecific one.",
+    "structure": "o/a + noun; um/uma + noun",
+    "english_comparison": "English has a/an/the; Portuguese articles also agree in grammatical gender.",
+    "model_sentences": [
+      {
+        "pt": "É um livro.",
+        "en": "It is a book."
+      },
+      {
+        "pt": "O livro é novo.",
+        "en": "The book is new."
+      },
+      {
+        "pt": "É uma cadeira.",
+        "en": "It is a chair."
+      },
+      {
+        "pt": "A casa é bonita.",
+        "en": "The house is beautiful."
+      },
+      {
+        "pt": "É uma mesa.",
+        "en": "It is a table."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "um",
+        "meaning": "a (m.)",
+        "example": "É um livro."
+      },
+      {
+        "term": "uma",
+        "meaning": "a (f.)",
+        "example": "É uma cadeira."
+      },
+      {
+        "term": "o",
+        "meaning": "the (m.)",
+        "example": "O livro é novo."
+      },
+      {
+        "term": "a",
+        "meaning": "the (f.)",
+        "example": "A casa é bonita."
+      },
+      {
+        "term": "livro",
+        "meaning": "book",
+        "example": "É um livro."
+      },
+      {
+        "term": "casa",
+        "meaning": "house",
+        "example": "A casa é bonita."
+      },
+      {
+        "term": "mesa",
+        "meaning": "table",
+        "example": "É uma mesa."
+      },
+      {
+        "term": "cadeira",
+        "meaning": "chair",
+        "example": "É uma cadeira."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “It is a book.”?",
+            "options": {
+              "A": "A casa é bonita.",
+              "B": "O aluno é brasileiro.",
+              "C": "É um livro."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The book is new.”?",
+            "options": {
+              "A": "É uma mesa.",
+              "B": "O livro é novo.",
+              "C": "O aluno é brasileiro."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “It is a chair.”?",
+            "options": {
+              "A": "É um livro.",
+              "B": "A casa é bonita.",
+              "C": "É uma cadeira."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The house is beautiful.”?",
+            "options": {
+              "A": "O aluno é brasileiro.",
+              "B": "O livro é novo.",
+              "C": "A casa é bonita."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "É ________ livro.",
+            "hint": "It is a book."
+          },
+          {
+            "sentence": "________ livro é novo.",
+            "hint": "The book is new."
+          },
+          {
+            "sentence": "É ________ cadeira.",
+            "hint": "It is a chair."
+          },
+          {
+            "sentence": "________ casa é bonita.",
+            "hint": "The house is beautiful."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "É uma sala. É um livro azul e uma mesa branca. Um aluno é brasileiro. Uma professora é americana. O livro é novo. A mesa é bonita. A professora é amiga do aluno.",
+        "questions": [
+          "O livro é novo ou velho?",
+          "A mesa é branca ou azul?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "É um livro ou uma mesa?",
+          "O livro é novo?",
+          "É uma cadeira?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "The noun determines article gender, not the object’s appearance.",
+      "examples": [
+        {
+          "pt": "A casa é bonita.",
+          "en": "The house is beautiful."
+        },
+        {
+          "pt": "É uma mesa.",
+          "en": "It is a table."
+        },
+        {
+          "pt": "O aluno é brasileiro.",
+          "en": "The student is Brazilian."
+        }
+      ],
+      "compare": "um livro / o livro: first mention versus identified book.",
+      "common_mistakes": [
+        {
+          "wrong": "um mesa",
+          "correct": "uma mesa",
+          "explanation": "Mesa is feminine."
+        },
+        {
+          "wrong": "a livro",
+          "correct": "o livro",
+          "explanation": "Livro is masculine."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "É um livro.",
+            "cue": "The house is beautiful."
+          },
+          {
+            "base": "O livro é novo.",
+            "cue": "It is a table."
+          },
+          {
+            "base": "É uma cadeira.",
+            "cue": "The student is Brazilian."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "It is a chair.",
+          "The house is beautiful.",
+          "It is a table.",
+          "The student is Brazilian."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "A casa é bonita. É ________ cadeira.",
+            "hint": "It is a chair."
+          },
+          {
+            "sentence": "É uma mesa. ________ casa é bonita.",
+            "hint": "The house is beautiful."
+          },
+          {
+            "sentence": "O aluno é brasileiro. É ________ mesa.",
+            "hint": "It is a table."
+          },
+          {
+            "sentence": "É um livro. ________ aluno é brasileiro.",
+            "hint": "The student is Brazilian."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "É um livro e uma mesa. O livro é novo. A mesa é antiga. É uma casa bonita. Uma aluna é americana. Um professor é brasileiro. A aluna é amiga do professor.",
+        "questions": [
+          "A mesa é nova ou antiga?",
+          "A aluna é brasileira ou americana?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "É um livro ou uma mesa?",
+          "english": "Is it a book or a table?"
+        },
+        {
+          "question": "O livro é novo?",
+          "english": "Is the book new?"
+        },
+        {
+          "question": "É uma cadeira?",
+          "english": "Is it a chair?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “It is a book.”? A. A casa é bonita. B. O aluno é brasileiro. C. É um livro.",
+        "worked_answer": "C. É um livro. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "É ________ livro. (It is a book.)",
+        "worked_answer": "um → É um livro. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "It is a chair.",
+        "worked_answer": "É uma cadeira. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "É um livro.",
+        "worked_answer": "It is a book. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "O livro é novo ou velho?",
+        "worked_answer": "O livro é novo. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “A casa é bonita.” as a reference.",
+        "worked_answer": "Model: É uma mesa. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: O aluno é brasileiro. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “The book is new.”?",
+            "options": {
+              "A": "A casa é bonita.",
+              "B": "É uma mesa.",
+              "C": "O livro é novo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “It is a chair.”?",
+            "options": {
+              "A": "A casa é bonita.",
+              "B": "O aluno é brasileiro.",
+              "C": "É uma cadeira."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The house is beautiful.”?",
+            "options": {
+              "A": "A casa é bonita.",
+              "B": "É uma mesa.",
+              "C": "É uma cadeira."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “It is a table.”?",
+            "options": {
+              "A": "A casa é bonita.",
+              "B": "O livro é novo.",
+              "C": "É uma mesa."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The student is Brazilian.”?",
+            "options": {
+              "A": "É um livro.",
+              "B": "É uma mesa.",
+              "C": "O aluno é brasileiro."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "________ livro é novo.",
+            "hint": "The book is new."
+          },
+          {
+            "sentence": "É ________ cadeira.",
+            "hint": "It is a chair."
+          },
+          {
+            "sentence": "________ casa é bonita.",
+            "hint": "The house is beautiful."
+          },
+          {
+            "sentence": "É ________ mesa.",
+            "hint": "It is a table."
+          },
+          {
+            "sentence": "________ aluno é brasileiro.",
+            "hint": "The student is Brazilian."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "It is a book.",
+          "The book is new.",
+          "It is a chair.",
+          "The house is beautiful.",
+          "It is a table."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "É uma cadeira.",
+          "A casa é bonita.",
+          "É uma mesa.",
+          "O aluno é brasileiro."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "É uma sala pequena. O livro é azul, a mesa é branca e a cadeira é nova. O livro é da Ana. A mesa é do professor. Um aluno é brasileiro. Uma professora é americana.",
+        "questions": [
+          "A sala é grande ou pequena?",
+          "O livro é azul ou branco?",
+          "O livro é da Ana ou do professor?",
+          "A mesa é da Ana ou do professor?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Objects you can see in a room”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — É um livro ou uma mesa? / O livro é novo? / É uma cadeira? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am Brazilian.",
+      "expected_answer": "Eu sou brasileiro."
+    },
+    "pronunciation_focus": "Distinguish a from nasal uma; final -o often sounds [u].",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "É um livro."
+          },
+          {
+            "answer": "B",
+            "sentence": "O livro é novo."
+          },
+          {
+            "answer": "C",
+            "sentence": "É uma cadeira."
+          },
+          {
+            "answer": "C",
+            "sentence": "A casa é bonita."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "um",
+            "full_sentence": "É um livro."
+          },
+          {
+            "answer": "O",
+            "full_sentence": "O livro é novo."
+          },
+          {
+            "answer": "uma",
+            "full_sentence": "É uma cadeira."
+          },
+          {
+            "answer": "A",
+            "full_sentence": "A casa é bonita."
+          }
+        ],
+        "mini_reading": {
+          "translation": "It is a room. This is a blue book and a white table. A student is Brazilian. A teacher is American. The book is new. The table is beautiful. The teacher is a friend of the student.",
+          "answers": [
+            {
+              "question": "O livro é novo ou velho?",
+              "answer": "O livro é novo."
+            },
+            {
+              "question": "A mesa é branca ou azul?",
+              "answer": "A mesa é branca."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "É um livro.",
+          "Sim, o livro é novo.",
+          "Sim, é uma cadeira."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "The house is beautiful.",
+            "model": "A casa é bonita."
+          },
+          {
+            "cue": "It is a table.",
+            "model": "É uma mesa."
+          },
+          {
+            "cue": "The student is Brazilian.",
+            "model": "O aluno é brasileiro."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "É uma cadeira.",
+          "A casa é bonita.",
+          "É uma mesa.",
+          "O aluno é brasileiro."
+        ],
+        "fill_in": [
+          {
+            "answer": "uma",
+            "full_sentence": "A casa é bonita. É uma cadeira."
+          },
+          {
+            "answer": "A",
+            "full_sentence": "É uma mesa. A casa é bonita."
+          },
+          {
+            "answer": "uma",
+            "full_sentence": "O aluno é brasileiro. É uma mesa."
+          },
+          {
+            "answer": "O",
+            "full_sentence": "É um livro. O aluno é brasileiro."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "É um livro.",
+            "en": "It is a book."
+          },
+          {
+            "pt": "É uma cadeira.",
+            "en": "It is a chair."
+          },
+          {
+            "pt": "É uma mesa.",
+            "en": "It is a table."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "There is a book and a table. The book is new. The table is old. It is a beautiful house. A female student is American. A teacher is Brazilian. The student is a friend of the teacher.",
+          "answers": [
+            {
+              "question": "A mesa é nova ou antiga?",
+              "answer": "A mesa é antiga."
+            },
+            {
+              "question": "A aluna é brasileira ou americana?",
+              "answer": "A aluna é americana."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "É um livro ou uma mesa?",
+          "model_answer": "É um livro.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "um mesa → uma mesa (Mesa is feminine.) a livro → o livro (Livro is masculine.)"
+        },
+        {
+          "question": "O livro é novo?",
+          "model_answer": "Sim, o livro é novo.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "um mesa → uma mesa (Mesa is feminine.) a livro → o livro (Livro is masculine.)"
+        },
+        {
+          "question": "É uma cadeira?",
+          "model_answer": "Sim, é uma cadeira.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "um mesa → uma mesa (Mesa is feminine.) a livro → o livro (Livro is masculine.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "O livro é novo."
+          },
+          {
+            "answer": "C",
+            "sentence": "É uma cadeira."
+          },
+          {
+            "answer": "A",
+            "sentence": "A casa é bonita."
+          },
+          {
+            "answer": "C",
+            "sentence": "É uma mesa."
+          },
+          {
+            "answer": "C",
+            "sentence": "O aluno é brasileiro."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "O",
+            "full_sentence": "O livro é novo."
+          },
+          {
+            "answer": "uma",
+            "full_sentence": "É uma cadeira."
+          },
+          {
+            "answer": "A",
+            "full_sentence": "A casa é bonita."
+          },
+          {
+            "answer": "uma",
+            "full_sentence": "É uma mesa."
+          },
+          {
+            "answer": "O",
+            "full_sentence": "O aluno é brasileiro."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "É um livro.",
+          "O livro é novo.",
+          "É uma cadeira.",
+          "A casa é bonita.",
+          "É uma mesa."
+        ],
+        "D_portuguese_to_english": [
+          "It is a chair.",
+          "The house is beautiful.",
+          "It is a table.",
+          "The student is Brazilian."
+        ],
+        "E_reading": {
+          "translation": "It is a small room. The book is blue, the table is white and the chair is new. The book belongs to Ana. The table belongs to the teacher. A student is Brazilian. A teacher is American.",
+          "answers": [
+            {
+              "question": "A sala é grande ou pequena?",
+              "answer": "A sala é pequena."
+            },
+            {
+              "question": "O livro é azul ou branco?",
+              "answer": "O livro é azul."
+            },
+            {
+              "question": "O livro é da Ana ou do professor?",
+              "answer": "O livro é da Ana."
+            },
+            {
+              "question": "A mesa é da Ana ou do professor?",
+              "answer": "A mesa é do professor."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "É uma sala pequena. O livro é azul, a mesa é branca e a cadeira é nova. O livro é da Ana. A mesa é do professor. Um aluno é brasileiro. Uma professora é americana.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "É um livro.",
+            "Sim, o livro é novo.",
+            "Sim, é uma cadeira."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

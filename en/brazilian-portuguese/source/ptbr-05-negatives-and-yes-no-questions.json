@@ -1,0 +1,658 @@
+{
+  "lesson_number": 5,
+  "id": "L05",
+  "title": "Negatives and Yes/No Questions",
+  "module": "Módulo 1 — Primeiras estruturas e frases essenciais",
+  "level": "A0–A1",
+  "main_grammar": "negação com não e perguntas simples.",
+  "previous_knowledge": "Lessons 1–4",
+  "key_vocabulary": [
+    "não",
+    "sim",
+    "está",
+    "sou",
+    "trabalho",
+    "triste",
+    "professores",
+    "médico"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Three true and three false facts about yourself” using this lesson’s target structure.",
+    "basic_rule": "Place não immediately before the verb; yes/no questions can use statement order with rising intonation.",
+    "structure": "subject + não + verb; subject + verb +...?",
+    "english_comparison": "English do not/does not is not needed.",
+    "model_sentences": [
+      {
+        "pt": "Eu não sou médico.",
+        "en": "I am not a doctor."
+      },
+      {
+        "pt": "Você está em casa?",
+        "en": "Are you at home?"
+      },
+      {
+        "pt": "Ela não está triste.",
+        "en": "She is not sad."
+      },
+      {
+        "pt": "Nós não somos professores.",
+        "en": "We are not teachers."
+      },
+      {
+        "pt": "Eles estão aqui?",
+        "en": "Are they here?"
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "não",
+        "meaning": "not",
+        "example": "Eu não sou médico."
+      },
+      {
+        "term": "sim",
+        "meaning": "yes",
+        "example": "Sim, estou em casa."
+      },
+      {
+        "term": "está",
+        "meaning": "is (state)",
+        "example": "Você está em casa?"
+      },
+      {
+        "term": "sou",
+        "meaning": "am",
+        "example": "Eu não sou médico."
+      },
+      {
+        "term": "trabalho",
+        "meaning": "workplace",
+        "example": "Não, eu estou no trabalho."
+      },
+      {
+        "term": "triste",
+        "meaning": "sad",
+        "example": "Ela não está triste."
+      },
+      {
+        "term": "professores",
+        "meaning": "teachers",
+        "example": "Nós não somos professores."
+      },
+      {
+        "term": "médico",
+        "meaning": "doctor",
+        "example": "Eu não sou médico."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I am not a doctor.”?",
+            "options": {
+              "A": "Nós não somos professores.",
+              "B": "Eu não sou médico.",
+              "C": "Eles estão aqui?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Are you at home?”?",
+            "options": {
+              "A": "Eu não sou médico.",
+              "B": "Nós não somos professores.",
+              "C": "Você está em casa?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is not sad.”?",
+            "options": {
+              "A": "Eles estão aqui?",
+              "B": "Você está em casa?",
+              "C": "Ela não está triste."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are not teachers.”?",
+            "options": {
+              "A": "Nós não somos professores.",
+              "B": "Eles estão aqui?",
+              "C": "Eu não sou médico."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ sou médico.",
+            "hint": "I am not a doctor."
+          },
+          {
+            "sentence": "Você ________ em casa?",
+            "hint": "Are you at home?"
+          },
+          {
+            "sentence": "Ela ________ está triste.",
+            "hint": "She is not sad."
+          },
+          {
+            "sentence": "Nós ________ somos professores.",
+            "hint": "We are not teachers."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Eu sou estudante, mas não sou professor. Minha amiga é médica. Ela não está em casa; está no trabalho. Meu livro não está aqui. Você está em casa? Sim, estou em casa. Eu não estou cansado hoje.",
+        "questions": [
+          "A amiga está em casa?",
+          "O livro está aqui?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Você está em casa?",
+          "Você é professor?",
+          "Seu livro está aqui?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Say não before the conjugated verb; ask by intonation without swapping subject and verb.",
+      "examples": [
+        {
+          "pt": "Nós não somos professores.",
+          "en": "We are not teachers."
+        },
+        {
+          "pt": "Eles estão aqui?",
+          "en": "Are they here?"
+        },
+        {
+          "pt": "Não, eu estou no trabalho.",
+          "en": "No, I am at work."
+        }
+      ],
+      "compare": "Você está aqui. / Você não está aqui?: same order, polarity changes.",
+      "common_mistakes": [
+        {
+          "wrong": "Eu sou não aluno.",
+          "correct": "Eu não sou aluno.",
+          "explanation": "Não comes before the verb."
+        },
+        {
+          "wrong": "Você é não médico?",
+          "correct": "Você não é médico?",
+          "explanation": "Place não before é."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu não sou médico.",
+            "cue": "We are not teachers."
+          },
+          {
+            "base": "Você está em casa?",
+            "cue": "Are they here?"
+          },
+          {
+            "base": "Ela não está triste.",
+            "cue": "No, I am at work."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "She is not sad.",
+          "We are not teachers.",
+          "Are they here?",
+          "No, I am at work."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Nós não somos professores. Ela ________ está triste.",
+            "hint": "She is not sad."
+          },
+          {
+            "sentence": "Eles estão aqui? Nós ________ somos professores.",
+            "hint": "We are not teachers."
+          },
+          {
+            "sentence": "Não, eu estou no trabalho. Eles ________ aqui?",
+            "hint": "Are they here?"
+          },
+          {
+            "sentence": "Eu não sou médico. ________, eu estou no trabalho.",
+            "hint": "No, I am at work."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "A professora está aqui? Não, ela não está aqui. Ela está na escola. Os alunos estão cansados? Não, eles estão bem. Eu não sou americano. Sou brasileiro. Você é brasileiro também?",
+        "questions": [
+          "A professora está aqui?",
+          "Os alunos estão cansados?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Você está em casa?",
+          "english": "Are you at home?"
+        },
+        {
+          "question": "Você é professor?",
+          "english": "Are you a teacher?"
+        },
+        {
+          "question": "Seu livro está aqui?",
+          "english": "Is your book here?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I am not a doctor.”? A. Nós não somos professores. B. Eu não sou médico. C. Eles estão aqui?",
+        "worked_answer": "B. Eu não sou médico. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ sou médico. (I am not a doctor.)",
+        "worked_answer": "não → Eu não sou médico. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "She is not sad.",
+        "worked_answer": "Ela não está triste. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu não sou médico.",
+        "worked_answer": "I am not a doctor. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "A amiga está em casa?",
+        "worked_answer": "Não, ela não está em casa. Ela está no trabalho. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Nós não somos professores.” as a reference.",
+        "worked_answer": "Model: Eles estão aqui? — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Não, eu estou no trabalho. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “Are you at home?”?",
+            "options": {
+              "A": "Ela não está triste.",
+              "B": "Nós não somos professores.",
+              "C": "Você está em casa?"
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “She is not sad.”?",
+            "options": {
+              "A": "Não, eu estou no trabalho.",
+              "B": "Eu não sou médico.",
+              "C": "Ela não está triste."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We are not teachers.”?",
+            "options": {
+              "A": "Ela não está triste.",
+              "B": "Não, eu estou no trabalho.",
+              "C": "Nós não somos professores."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Are they here?”?",
+            "options": {
+              "A": "Eles estão aqui?",
+              "B": "Ela não está triste.",
+              "C": "Nós não somos professores."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “No, I am at work.”?",
+            "options": {
+              "A": "Não, eu estou no trabalho.",
+              "B": "Você está em casa?",
+              "C": "Ela não está triste."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Você ________ em casa?",
+            "hint": "Are you at home?"
+          },
+          {
+            "sentence": "Ela ________ está triste.",
+            "hint": "She is not sad."
+          },
+          {
+            "sentence": "Nós ________ somos professores.",
+            "hint": "We are not teachers."
+          },
+          {
+            "sentence": "Eles ________ aqui?",
+            "hint": "Are they here?"
+          },
+          {
+            "sentence": "________, eu estou no trabalho.",
+            "hint": "No, I am at work."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I am not a doctor.",
+          "Are you at home?",
+          "She is not sad.",
+          "We are not teachers.",
+          "Are they here?"
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Ela não está triste.",
+          "Nós não somos professores.",
+          "Eles estão aqui?",
+          "Não, eu estou no trabalho."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Hoje nós não estamos na escola. Estamos em casa. O professor não está cansado, mas os alunos estão cansados. Você é aluno? Sim, sou aluno. Você não é professor? Não, eu não sou professor.",
+        "questions": [
+          "Hoje eles estão na escola?",
+          "O professor está cansado?",
+          "Os alunos estão cansados?",
+          "O aluno é professor?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Three true and three false facts about yourself”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Você está em casa? / Você é professor? / Seu livro está aqui? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am at home.",
+      "expected_answer": "Eu estou em casa."
+    },
+    "pronunciation_focus": "Practice rise-fall intonation; não is nasal.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Eu não sou médico."
+          },
+          {
+            "answer": "C",
+            "sentence": "Você está em casa?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela não está triste."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós não somos professores."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "não",
+            "full_sentence": "Eu não sou médico."
+          },
+          {
+            "answer": "está",
+            "full_sentence": "Você está em casa?"
+          },
+          {
+            "answer": "não",
+            "full_sentence": "Ela não está triste."
+          },
+          {
+            "answer": "não",
+            "full_sentence": "Nós não somos professores."
+          }
+        ],
+        "mini_reading": {
+          "translation": "I am a student, but I am not a teacher. My friend is a doctor. She is not at home; she is at work. My book is not here. Are you at home? Yes, I am at home. I am not tired today.",
+          "answers": [
+            {
+              "question": "A amiga está em casa?",
+              "answer": "Não, ela não está em casa. Ela está no trabalho."
+            },
+            {
+              "question": "O livro está aqui?",
+              "answer": "Não, o livro não está aqui."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Sim, estou em casa.",
+          "Não, não sou professor.",
+          "Não, o livro não está aqui."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "We are not teachers.",
+            "model": "Nós não somos professores."
+          },
+          {
+            "cue": "Are they here?",
+            "model": "Eles estão aqui?"
+          },
+          {
+            "cue": "No, I am at work.",
+            "model": "Não, eu estou no trabalho."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Ela não está triste.",
+          "Nós não somos professores.",
+          "Eles estão aqui?",
+          "Não, eu estou no trabalho."
+        ],
+        "fill_in": [
+          {
+            "answer": "não",
+            "full_sentence": "Nós não somos professores. Ela não está triste."
+          },
+          {
+            "answer": "não",
+            "full_sentence": "Eles estão aqui? Nós não somos professores."
+          },
+          {
+            "answer": "estão",
+            "full_sentence": "Não, eu estou no trabalho. Eles estão aqui?"
+          },
+          {
+            "answer": "Não",
+            "full_sentence": "Eu não sou médico. Não, eu estou no trabalho."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu não sou médico.",
+            "en": "I am not a doctor."
+          },
+          {
+            "pt": "Ela não está triste.",
+            "en": "She is not sad."
+          },
+          {
+            "pt": "Eles estão aqui?",
+            "en": "Are they here?"
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Is the teacher here? No, she is not here. She is at school. Are the students tired? No, they are fine. I am not American. I am Brazilian. Are you Brazilian too?",
+          "answers": [
+            {
+              "question": "A professora está aqui?",
+              "answer": "Não, ela não está aqui. Ela está na escola."
+            },
+            {
+              "question": "Os alunos estão cansados?",
+              "answer": "Não, eles não estão cansados. Eles estão bem."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Você está em casa?",
+          "model_answer": "Sim, estou em casa.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "Eu sou não aluno. → Eu não sou aluno. (Não comes before the verb.) Você é não médico? → Você não é médico? (Place não before é.)"
+        },
+        {
+          "question": "Você é professor?",
+          "model_answer": "Não, não sou professor.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "Eu sou não aluno. → Eu não sou aluno. (Não comes before the verb.) Você é não médico? → Você não é médico? (Place não before é.)"
+        },
+        {
+          "question": "Seu livro está aqui?",
+          "model_answer": "Não, o livro não está aqui.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "Eu sou não aluno. → Eu não sou aluno. (Não comes before the verb.) Você é não médico? → Você não é médico? (Place não before é.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Você está em casa?"
+          },
+          {
+            "answer": "C",
+            "sentence": "Ela não está triste."
+          },
+          {
+            "answer": "C",
+            "sentence": "Nós não somos professores."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles estão aqui?"
+          },
+          {
+            "answer": "A",
+            "sentence": "Não, eu estou no trabalho."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "está",
+            "full_sentence": "Você está em casa?"
+          },
+          {
+            "answer": "não",
+            "full_sentence": "Ela não está triste."
+          },
+          {
+            "answer": "não",
+            "full_sentence": "Nós não somos professores."
+          },
+          {
+            "answer": "estão",
+            "full_sentence": "Eles estão aqui?"
+          },
+          {
+            "answer": "Não",
+            "full_sentence": "Não, eu estou no trabalho."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu não sou médico.",
+          "Você está em casa?",
+          "Ela não está triste.",
+          "Nós não somos professores.",
+          "Eles estão aqui?"
+        ],
+        "D_portuguese_to_english": [
+          "She is not sad.",
+          "We are not teachers.",
+          "Are they here?",
+          "No, I am at work."
+        ],
+        "E_reading": {
+          "translation": "Today we are not at school. We are at home. The teacher is not tired, but the students are tired. Are you a student? Yes, I am a student. Are you not a teacher? No, I am not a teacher.",
+          "answers": [
+            {
+              "question": "Hoje eles estão na escola?",
+              "answer": "Não, hoje eles não estão na escola. Eles estão em casa."
+            },
+            {
+              "question": "O professor está cansado?",
+              "answer": "Não, o professor não está cansado."
+            },
+            {
+              "question": "Os alunos estão cansados?",
+              "answer": "Sim, os alunos estão cansados."
+            },
+            {
+              "question": "O aluno é professor?",
+              "answer": "Não, ele não é professor. Ele é aluno."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Hoje nós não estamos na escola. Estamos em casa. O professor não está cansado, mas os alunos estão cansados. Você é aluno? Sim, sou aluno. Você não é professor? Não, eu não sou professor.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Sim, estou em casa.",
+            "Não, não sou professor.",
+            "Não, o livro não está aqui."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

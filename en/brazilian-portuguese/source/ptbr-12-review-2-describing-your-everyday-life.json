@@ -1,0 +1,658 @@
+{
+  "lesson_number": 12,
+  "id": "L12",
+  "title": "Review 2 — Describing Your Everyday Life",
+  "module": "Módulo 2 — Objetos, descrições e ações cotidianas",
+  "level": "A0–A1",
+  "main_grammar": "consolidação das aulas 7–11.",
+  "previous_knowledge": "Lessons 1–11",
+  "key_vocabulary": [
+    "trabalho",
+    "estudo",
+    "amiga",
+    "moram",
+    "comemos",
+    "abrem",
+    "livros",
+    "manhã"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Describe a normal weekday” using this lesson’s target structure.",
+    "basic_rule": "Review plural, adjectives, possessives and all three regular present classes.",
+    "structure": "noun/adjective agreement + regular present",
+    "english_comparison": "English has no adjective agreement; Portuguese does.",
+    "model_sentences": [
+      {
+        "pt": "Eu trabalho e estudo.",
+        "en": "I work and study."
+      },
+      {
+        "pt": "Minha amiga mora aqui.",
+        "en": "My friend lives here."
+      },
+      {
+        "pt": "Nós comemos em casa.",
+        "en": "We eat at home."
+      },
+      {
+        "pt": "Eles abrem a loja.",
+        "en": "They open the store."
+      },
+      {
+        "pt": "Os livros são novos.",
+        "en": "The books are new."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "trabalho",
+        "meaning": "I work",
+        "example": "Eu trabalho e estudo."
+      },
+      {
+        "term": "estudo",
+        "meaning": "I study",
+        "example": "Eu trabalho e estudo."
+      },
+      {
+        "term": "amiga",
+        "meaning": "friend (f.)",
+        "example": "Minha amiga mora aqui."
+      },
+      {
+        "term": "moram",
+        "meaning": "they live",
+        "example": "Meus amigos moram no Brasil."
+      },
+      {
+        "term": "comemos",
+        "meaning": "we eat",
+        "example": "Nós comemos em casa."
+      },
+      {
+        "term": "abrem",
+        "meaning": "they open",
+        "example": "Eles abrem a loja."
+      },
+      {
+        "term": "livros",
+        "meaning": "books",
+        "example": "Os livros são novos."
+      },
+      {
+        "term": "manhã",
+        "meaning": "morning",
+        "example": "Eu bebo água de manhã."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “I work and study.”?",
+            "options": {
+              "A": "Os livros são novos.",
+              "B": "Eles abrem a loja.",
+              "C": "Eu trabalho e estudo."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “My friend lives here.”?",
+            "options": {
+              "A": "Eu bebo água de manhã.",
+              "B": "Minha amiga mora aqui.",
+              "C": "Os livros são novos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We eat at home.”?",
+            "options": {
+              "A": "Eles abrem a loja.",
+              "B": "Nós comemos em casa.",
+              "C": "Os livros são novos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They open the store.”?",
+            "options": {
+              "A": "Eu trabalho e estudo.",
+              "B": "Minha amiga mora aqui.",
+              "C": "Eles abrem a loja."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "Eu ________ e estudo.",
+            "hint": "I work and study."
+          },
+          {
+            "sentence": "Minha amiga ________ aqui.",
+            "hint": "My friend lives here."
+          },
+          {
+            "sentence": "Nós ________ em casa.",
+            "hint": "We eat at home."
+          },
+          {
+            "sentence": "Eles ________ a loja.",
+            "hint": "They open the store."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "Minha rotina é simples. Eu estudo português de manhã e trabalho à tarde. Minha amiga mora perto da escola. Nós comemos arroz no almoço. Os professores abrem a sala cedo. Meus livros são novos e minha mesa é pequena.",
+        "questions": [
+          "A rotina é simples ou complicada?",
+          "A amiga mora perto da escola?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Onde você mora?",
+          "O que você come de manhã?",
+          "Você estuda e trabalha?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Build a complete routine using known people, objects and present-tense verbs.",
+      "examples": [
+        {
+          "pt": "Eles abrem a loja.",
+          "en": "They open the store."
+        },
+        {
+          "pt": "Os livros são novos.",
+          "en": "The books are new."
+        },
+        {
+          "pt": "Eu bebo água de manhã.",
+          "en": "I drink water in the morning."
+        }
+      ],
+      "compare": "Ela come / Elas comem: agreement of subject and verb.",
+      "common_mistakes": [
+        {
+          "wrong": "As casa são bonita.",
+          "correct": "As casas são bonitas.",
+          "explanation": "Plural appears on noun and adjective."
+        },
+        {
+          "wrong": "Nós estuda português.",
+          "correct": "Nós estudamos português.",
+          "explanation": "Nós takes -amos."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Eu trabalho e estudo.",
+            "cue": "They open the store."
+          },
+          {
+            "base": "Minha amiga mora aqui.",
+            "cue": "The books are new."
+          },
+          {
+            "base": "Nós comemos em casa.",
+            "cue": "I drink water in the morning."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "We eat at home.",
+          "They open the store.",
+          "The books are new.",
+          "I drink water in the morning."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Eles abrem a loja. Nós ________ em casa.",
+            "hint": "We eat at home."
+          },
+          {
+            "sentence": "Os livros são novos. Eles ________ a loja.",
+            "hint": "They open the store."
+          },
+          {
+            "sentence": "Eu bebo água de manhã. Os livros ________ novos.",
+            "hint": "The books are new."
+          },
+          {
+            "sentence": "Eu trabalho e estudo. Eu ________ água de manhã.",
+            "hint": "I drink water in the morning."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Pedro mora em uma casa grande. Ele trabalha de manhã. Sua irmã estuda inglês e aprende português. Os amigos comem em casa. A mesa é branca e os livros são novos. À noite, eles falam com a professora.",
+        "questions": [
+          "Pedro mora em uma casa grande ou pequena?",
+          "A irmã de Pedro estuda inglês?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Onde você mora?",
+          "english": "Where do you live?"
+        },
+        {
+          "question": "O que você come de manhã?",
+          "english": "What do you eat in the morning?"
+        },
+        {
+          "question": "Você estuda e trabalha?",
+          "english": "Do you study and work?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “I work and study.”? A. Os livros são novos. B. Eles abrem a loja. C. Eu trabalho e estudo.",
+        "worked_answer": "C. Eu trabalho e estudo. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "Eu ________ e estudo. (I work and study.)",
+        "worked_answer": "trabalho → Eu trabalho e estudo. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "We eat at home.",
+        "worked_answer": "Nós comemos em casa. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Eu trabalho e estudo.",
+        "worked_answer": "I work and study. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "A rotina é simples ou complicada?",
+        "worked_answer": "A rotina é simples. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Eles abrem a loja.” as a reference.",
+        "worked_answer": "Model: Os livros são novos. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Eu bebo água de manhã. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “My friend lives here.”?",
+            "options": {
+              "A": "Minha amiga mora aqui.",
+              "B": "Nós comemos em casa.",
+              "C": "Eles abrem a loja."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “We eat at home.”?",
+            "options": {
+              "A": "Nós comemos em casa.",
+              "B": "Eu trabalho e estudo.",
+              "C": "Eu bebo água de manhã."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “They open the store.”?",
+            "options": {
+              "A": "Eles abrem a loja.",
+              "B": "Eu trabalho e estudo.",
+              "C": "Os livros são novos."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The books are new.”?",
+            "options": {
+              "A": "Os livros são novos.",
+              "B": "Minha amiga mora aqui.",
+              "C": "Eu bebo água de manhã."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “I drink water in the morning.”?",
+            "options": {
+              "A": "Eu trabalho e estudo.",
+              "B": "Eu bebo água de manhã.",
+              "C": "Eles abrem a loja."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "Minha amiga ________ aqui.",
+            "hint": "My friend lives here."
+          },
+          {
+            "sentence": "Nós ________ em casa.",
+            "hint": "We eat at home."
+          },
+          {
+            "sentence": "Eles ________ a loja.",
+            "hint": "They open the store."
+          },
+          {
+            "sentence": "Os livros ________ novos.",
+            "hint": "The books are new."
+          },
+          {
+            "sentence": "Eu ________ água de manhã.",
+            "hint": "I drink water in the morning."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "I work and study.",
+          "My friend lives here.",
+          "We eat at home.",
+          "They open the store.",
+          "The books are new."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "Nós comemos em casa.",
+          "Eles abrem a loja.",
+          "Os livros são novos.",
+          "Eu bebo água de manhã."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Nós somos alunos e trabalhamos durante o dia. Meu irmão mora com os amigos. Ele estuda à noite. Nós bebemos café de manhã. As professoras são simpáticas. Os livros delas são novos. Depois do trabalho, nós aprendemos palavras em português.",
+        "questions": [
+          "O irmão mora com a família ou com os amigos?",
+          "O irmão estuda de manhã ou à noite?",
+          "Eles bebem café de manhã?",
+          "As professoras são simpáticas?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Describe a normal weekday”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Onde você mora? / O que você come de manhã? / Você estuda e trabalha? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I eat rice.",
+      "expected_answer": "Eu como arroz."
+    },
+    "pronunciation_focus": "Practice word stress in trabalham and aprendemos.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "C",
+            "sentence": "Eu trabalho e estudo."
+          },
+          {
+            "answer": "B",
+            "sentence": "Minha amiga mora aqui."
+          },
+          {
+            "answer": "B",
+            "sentence": "Nós comemos em casa."
+          },
+          {
+            "answer": "C",
+            "sentence": "Eles abrem a loja."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "trabalho",
+            "full_sentence": "Eu trabalho e estudo."
+          },
+          {
+            "answer": "mora",
+            "full_sentence": "Minha amiga mora aqui."
+          },
+          {
+            "answer": "comemos",
+            "full_sentence": "Nós comemos em casa."
+          },
+          {
+            "answer": "abrem",
+            "full_sentence": "Eles abrem a loja."
+          }
+        ],
+        "mini_reading": {
+          "translation": "My routine is simple. I study Portuguese in the morning and work in the afternoon. My friend lives near school. We eat rice for lunch. The teachers open the classroom early. My books are new and my table is small.",
+          "answers": [
+            {
+              "question": "A rotina é simples ou complicada?",
+              "answer": "A rotina é simples."
+            },
+            {
+              "question": "A amiga mora perto da escola?",
+              "answer": "Sim, a amiga mora perto da escola."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Eu moro perto da escola.",
+          "Eu como pão.",
+          "Sim, eu trabalho e estudo."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "They open the store.",
+            "model": "Eles abrem a loja."
+          },
+          {
+            "cue": "The books are new.",
+            "model": "Os livros são novos."
+          },
+          {
+            "cue": "I drink water in the morning.",
+            "model": "Eu bebo água de manhã."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "Nós comemos em casa.",
+          "Eles abrem a loja.",
+          "Os livros são novos.",
+          "Eu bebo água de manhã."
+        ],
+        "fill_in": [
+          {
+            "answer": "comemos",
+            "full_sentence": "Eles abrem a loja. Nós comemos em casa."
+          },
+          {
+            "answer": "abrem",
+            "full_sentence": "Os livros são novos. Eles abrem a loja."
+          },
+          {
+            "answer": "são",
+            "full_sentence": "Eu bebo água de manhã. Os livros são novos."
+          },
+          {
+            "answer": "bebo",
+            "full_sentence": "Eu trabalho e estudo. Eu bebo água de manhã."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Eu trabalho e estudo.",
+            "en": "I work and study."
+          },
+          {
+            "pt": "Nós comemos em casa.",
+            "en": "We eat at home."
+          },
+          {
+            "pt": "Os livros são novos.",
+            "en": "The books are new."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Pedro lives in a big house. He works in the morning. His sister studies English and learns Portuguese. The friends eat at home. The table is white and the books are new. At night, they talk with the teacher.",
+          "answers": [
+            {
+              "question": "Pedro mora em uma casa grande ou pequena?",
+              "answer": "Pedro mora em uma casa grande."
+            },
+            {
+              "question": "A irmã de Pedro estuda inglês?",
+              "answer": "Sim, ela estuda inglês e aprende português."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Onde você mora?",
+          "model_answer": "Eu moro perto da escola.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "As casa são bonita. → As casas são bonitas. (Plural appears on noun and adjective.) Nós estuda português. → Nós estudamos português. (Nós takes -amos.)"
+        },
+        {
+          "question": "O que você come de manhã?",
+          "model_answer": "Eu como pão.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "As casa são bonita. → As casas são bonitas. (Plural appears on noun and adjective.) Nós estuda português. → Nós estudamos português. (Nós takes -amos.)"
+        },
+        {
+          "question": "Você estuda e trabalha?",
+          "model_answer": "Sim, eu trabalho e estudo.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "As casa são bonita. → As casas são bonitas. (Plural appears on noun and adjective.) Nós estuda português. → Nós estudamos português. (Nós takes -amos.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "A",
+            "sentence": "Minha amiga mora aqui."
+          },
+          {
+            "answer": "A",
+            "sentence": "Nós comemos em casa."
+          },
+          {
+            "answer": "A",
+            "sentence": "Eles abrem a loja."
+          },
+          {
+            "answer": "A",
+            "sentence": "Os livros são novos."
+          },
+          {
+            "answer": "B",
+            "sentence": "Eu bebo água de manhã."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "mora",
+            "full_sentence": "Minha amiga mora aqui."
+          },
+          {
+            "answer": "comemos",
+            "full_sentence": "Nós comemos em casa."
+          },
+          {
+            "answer": "abrem",
+            "full_sentence": "Eles abrem a loja."
+          },
+          {
+            "answer": "são",
+            "full_sentence": "Os livros são novos."
+          },
+          {
+            "answer": "bebo",
+            "full_sentence": "Eu bebo água de manhã."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Eu trabalho e estudo.",
+          "Minha amiga mora aqui.",
+          "Nós comemos em casa.",
+          "Eles abrem a loja.",
+          "Os livros são novos."
+        ],
+        "D_portuguese_to_english": [
+          "We eat at home.",
+          "They open the store.",
+          "The books are new.",
+          "I drink water in the morning."
+        ],
+        "E_reading": {
+          "translation": "We are students and we work during the day. My brother lives with friends. He studies at night. We drink coffee in the morning. The teachers are friendly. Their books are new. After work, we learn words in Portuguese.",
+          "answers": [
+            {
+              "question": "O irmão mora com a família ou com os amigos?",
+              "answer": "O irmão mora com os amigos."
+            },
+            {
+              "question": "O irmão estuda de manhã ou à noite?",
+              "answer": "O irmão estuda à noite."
+            },
+            {
+              "question": "Eles bebem café de manhã?",
+              "answer": "Sim, eles bebem café de manhã."
+            },
+            {
+              "question": "As professoras são simpáticas?",
+              "answer": "Sim, as professoras são simpáticas."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Nós somos alunos e trabalhamos durante o dia. Meu irmão mora com os amigos. Ele estuda à noite. Nós bebemos café de manhã. As professoras são simpáticas. Os livros delas são novos. Depois do trabalho, nós aprendemos palavras em português.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Eu moro perto da escola.",
+            "Eu como pão.",
+            "Sim, eu trabalho e estudo."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}

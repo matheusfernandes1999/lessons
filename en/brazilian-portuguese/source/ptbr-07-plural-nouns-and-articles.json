@@ -1,0 +1,658 @@
+{
+  "lesson_number": 7,
+  "id": "L07",
+  "title": "Plural Nouns and Articles",
+  "module": "Módulo 2 — Objetos, descrições e ações cotidianas",
+  "level": "A0–A1",
+  "main_grammar": "plural regular de substantivos e artigos.",
+  "previous_knowledge": "Lessons 1–6",
+  "key_vocabulary": [
+    "os",
+    "as",
+    "uns",
+    "umas",
+    "livros",
+    "casas",
+    "amigos",
+    "mesas"
+  ],
+  "student": {
+    "lets_begin": "Produce at least five accurate sentences and answer at least three questions on the topic “Objects and people in your home” using this lesson’s target structure.",
+    "basic_rule": "Plural articles agree with plural nouns: os/as/uns/umas, usually with noun + s.",
+    "structure": "plural article + plural noun",
+    "english_comparison": "English articles do not mark plural gender; Portuguese articles do.",
+    "model_sentences": [
+      {
+        "pt": "Os livros são novos.",
+        "en": "The books are new."
+      },
+      {
+        "pt": "As casas são grandes.",
+        "en": "The houses are big."
+      },
+      {
+        "pt": "São dois livros.",
+        "en": "These are two books."
+      },
+      {
+        "pt": "Uns amigos estão aqui.",
+        "en": "Some friends are here."
+      },
+      {
+        "pt": "As professoras são brasileiras.",
+        "en": "The teachers are Brazilian."
+      }
+    ],
+    "useful_words": [
+      {
+        "term": "os",
+        "meaning": "the (masculine plural)",
+        "example": "Os livros são novos."
+      },
+      {
+        "term": "as",
+        "meaning": "the (feminine plural)",
+        "example": "As casas são grandes."
+      },
+      {
+        "term": "uns",
+        "meaning": "some (m.)",
+        "example": "Uns amigos estão aqui."
+      },
+      {
+        "term": "umas",
+        "meaning": "some (f.)",
+        "example": "Umas mesas estão na sala."
+      },
+      {
+        "term": "livros",
+        "meaning": "books",
+        "example": "Os livros são novos."
+      },
+      {
+        "term": "casas",
+        "meaning": "houses",
+        "example": "As casas são grandes."
+      },
+      {
+        "term": "amigos",
+        "meaning": "friends",
+        "example": "Uns amigos estão aqui."
+      },
+      {
+        "term": "mesas",
+        "meaning": "tables",
+        "example": "Umas mesas estão na sala."
+      }
+    ],
+    "practice_1": {
+      "multiple_choice": {
+        "instruction": "Choose one option for each meaning; say the chosen sentence aloud.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “The books are new.”?",
+            "options": {
+              "A": "As casas são grandes.",
+              "B": "Os livros são novos.",
+              "C": "Uns amigos estão aqui."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The houses are big.”?",
+            "options": {
+              "A": "As casas são grandes.",
+              "B": "Os livros são novos.",
+              "C": "São dois livros."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “These are two books.”?",
+            "options": {
+              "A": "Uns amigos estão aqui.",
+              "B": "São dois livros.",
+              "C": "Umas mesas estão na sala."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Some friends are here.”?",
+            "options": {
+              "A": "Uns amigos estão aqui.",
+              "B": "Umas mesas estão na sala.",
+              "C": "As casas são grandes."
+            }
+          }
+        ]
+      },
+      "gap_fill": {
+        "instruction": "Complete the missing target form. The English meaning is provided to remove ambiguity; read each whole sentence aloud.",
+        "items": [
+          {
+            "sentence": "________ livros são novos.",
+            "hint": "The books are new."
+          },
+          {
+            "sentence": "________ casas são grandes.",
+            "hint": "The houses are big."
+          },
+          {
+            "sentence": "________ dois livros.",
+            "hint": "These are two books."
+          },
+          {
+            "sentence": "________ amigos estão aqui.",
+            "hint": "Some friends are here."
+          }
+        ]
+      },
+      "mini_reading": {
+        "instruction": "Read the text aloud. Then answer the questions in full sentences.",
+        "text": "As duas mesas e quatro cadeiras estão na sala. Os livros são novos. As professoras estão na escola. Uns amigos estão aqui. As casas da rua são pequenas. Os alunos são brasileiros e os professores são americanos.",
+        "questions": [
+          "Quantas cadeiras estão na sala?",
+          "As casas da rua são grandes ou pequenas?"
+        ]
+      },
+      "speaking_practice": {
+        "instruction": "Answer aloud in full sentences.",
+        "questions": [
+          "Quantos livros estão na mesa?",
+          "As casas são grandes?",
+          "Uns amigos estão aqui?"
+        ]
+      }
+    },
+    "review": {
+      "another_way_to_understand_it": "Both article and noun signal plural.",
+      "examples": [
+        {
+          "pt": "Uns amigos estão aqui.",
+          "en": "Some friends are here."
+        },
+        {
+          "pt": "As professoras são brasileiras.",
+          "en": "The teachers are Brazilian."
+        },
+        {
+          "pt": "Umas mesas estão na sala.",
+          "en": "Some tables are in the room."
+        }
+      ],
+      "compare": "o livro / os livros: one identified book versus several.",
+      "common_mistakes": [
+        {
+          "wrong": "os casa",
+          "correct": "as casas",
+          "explanation": "Casa is feminine."
+        },
+        {
+          "wrong": "as livro",
+          "correct": "os livros",
+          "explanation": "Livro is masculine."
+        }
+      ],
+      "oral_substitution_drill": {
+        "instruction": "Start from the base sentence. Say the new sentence in Portuguese for the English cue, without writing it first.",
+        "items": [
+          {
+            "base": "Os livros são novos.",
+            "cue": "Some friends are here."
+          },
+          {
+            "base": "As casas são grandes.",
+            "cue": "The teachers are Brazilian."
+          },
+          {
+            "base": "São dois livros.",
+            "cue": "Some tables are in the room."
+          }
+        ]
+      }
+    },
+    "practice_2": {
+      "translate": {
+        "instruction": "Translate into Portuguese and say each sentence aloud.",
+        "items": [
+          "These are two books.",
+          "Some friends are here.",
+          "The teachers are Brazilian.",
+          "Some tables are in the room."
+        ]
+      },
+      "fill_in": {
+        "instruction": "Fill the missing form in a two-clause context; say both sentences together. The English hint gives the meaning of the second sentence.",
+        "items": [
+          {
+            "sentence": "Uns amigos estão aqui. ________ dois livros.",
+            "hint": "These are two books."
+          },
+          {
+            "sentence": "As professoras são brasileiras. ________ amigos estão aqui.",
+            "hint": "Some friends are here."
+          },
+          {
+            "sentence": "Umas mesas estão na sala. ________ professoras são brasileiras.",
+            "hint": "The teachers are Brazilian."
+          },
+          {
+            "sentence": "Os livros são novos. ________ mesas estão na sala.",
+            "hint": "Some tables are in the room."
+          }
+        ]
+      },
+      "listen_and_translate": {
+        "instruction": "Listen to three short utterances read by your teacher. Say the meaning in English, then repeat each utterance aloud.",
+        "number_of_utterances": 3
+      },
+      "reading_aloud_and_translation": {
+        "instruction": "Read the text aloud, translate it orally into English, then answer the questions.",
+        "text": "Três livros e duas bolsas estão na casa. Os livros são novos. As bolsas são velhas. Uns alunos estão na sala. Umas professoras estão na escola. Os amigos são brasileiros. As alunas são americanas.",
+        "questions": [
+          "Quantas bolsas estão na casa?",
+          "As bolsas são novas ou velhas?"
+        ]
+      }
+    },
+    "speaking_practice": {
+      "instruction": "Answer in order: factual answers first, then personal examples and explanations. All answers are spoken in full sentences.",
+      "questions": [
+        {
+          "question": "Quantos livros estão na mesa?",
+          "english": "How many books are on the table?"
+        },
+        {
+          "question": "As casas são grandes?",
+          "english": "Are the houses big?"
+        },
+        {
+          "question": "Uns amigos estão aqui?",
+          "english": "Are some friends here?"
+        }
+      ]
+    },
+    "homework_explanation": {
+      "A_multiple_choice": {
+        "instruction": "Which sentence expresses “The books are new.”? A. As casas são grandes. B. Os livros são novos. C. Uns amigos estão aqui.",
+        "worked_answer": "B. Os livros são novos. — compare the exact meaning, then read it aloud."
+      },
+      "B_gap_fill": {
+        "instruction": "________ livros são novos. (The books are new.)",
+        "worked_answer": "Os → Os livros são novos. — use the English hint and the rest of the sentence."
+      },
+      "C_english_to_portuguese": {
+        "instruction": "These are two books.",
+        "worked_answer": "São dois livros. — identify the subject, choose the verb form, then say it."
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Os livros são novos.",
+        "worked_answer": "The books are new. — translate the meaning, not word for word."
+      },
+      "E_reading_comprehension": {
+        "instruction": "Quantas cadeiras estão na sala?",
+        "worked_answer": "Quatro cadeiras estão na sala. — find the sentence in the text that gives the answer, then answer in a full sentence."
+      },
+      "F_written_production": {
+        "instruction": "Write one new sentence with the target form, using “Uns amigos estão aqui.” as a reference.",
+        "worked_answer": "Model: As professoras são brasileiras. — change the information, keep the target structure correct."
+      },
+      "G_speaking": {
+        "instruction": "Say one sentence with today’s structure about your own life.",
+        "worked_answer": "Model: Umas mesas estão na sala. — say it, then change one real-life detail."
+      }
+    },
+    "your_homework": {
+      "instruction": "Give independent answers and speak all written sentences once.",
+      "estimated_time": "15–20 minutes",
+      "A_multiple_choice": {
+        "instruction": "Choose the sentence with the given meaning.",
+        "items": [
+          {
+            "prompt": "Which sentence expresses “The houses are big.”?",
+            "options": {
+              "A": "Os livros são novos.",
+              "B": "As casas são grandes.",
+              "C": "São dois livros."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “These are two books.”?",
+            "options": {
+              "A": "Umas mesas estão na sala.",
+              "B": "As professoras são brasileiras.",
+              "C": "São dois livros."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Some friends are here.”?",
+            "options": {
+              "A": "Uns amigos estão aqui.",
+              "B": "Umas mesas estão na sala.",
+              "C": "São dois livros."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “The teachers are Brazilian.”?",
+            "options": {
+              "A": "As professoras são brasileiras.",
+              "B": "Umas mesas estão na sala.",
+              "C": "As casas são grandes."
+            }
+          },
+          {
+            "prompt": "Which sentence expresses “Some tables are in the room.”?",
+            "options": {
+              "A": "Umas mesas estão na sala.",
+              "B": "Uns amigos estão aqui.",
+              "C": "São dois livros."
+            }
+          }
+        ]
+      },
+      "B_gap_fill": {
+        "instruction": "Complete the missing target form.",
+        "items": [
+          {
+            "sentence": "________ casas são grandes.",
+            "hint": "The houses are big."
+          },
+          {
+            "sentence": "________ dois livros.",
+            "hint": "These are two books."
+          },
+          {
+            "sentence": "________ amigos estão aqui.",
+            "hint": "Some friends are here."
+          },
+          {
+            "sentence": "________ professoras são brasileiras.",
+            "hint": "The teachers are Brazilian."
+          },
+          {
+            "sentence": "________ mesas estão na sala.",
+            "hint": "Some tables are in the room."
+          }
+        ]
+      },
+      "C_english_to_portuguese": {
+        "instruction": "Translate into Portuguese.",
+        "items": [
+          "The books are new.",
+          "The houses are big.",
+          "These are two books.",
+          "Some friends are here.",
+          "The teachers are Brazilian."
+        ]
+      },
+      "D_portuguese_to_english": {
+        "instruction": "Translate into English.",
+        "items": [
+          "São dois livros.",
+          "Uns amigos estão aqui.",
+          "As professoras são brasileiras.",
+          "Umas mesas estão na sala."
+        ]
+      },
+      "E_reading": {
+        "instruction": "Read the text and answer the questions in full sentences.",
+        "text": "Duas amigas estão em casa. Os livros e as revistas estão na mesa. Uns professores estão no trabalho. As casas perto da escola são bonitas. Os alunos estão na sala. Umas bolsas são brancas e outras são azuis.",
+        "questions": [
+          "Quantas amigas estão em casa?",
+          "Os livros e as revistas estão na mesa ou na sala?",
+          "As casas perto da escola são bonitas?",
+          "Os professores estão em casa ou no trabalho?"
+        ]
+      },
+      "F_written_production": {
+        "instruction": "Write 4–6 sentences on the topic “Objects and people in your home”. Use at least three different relevant examples of the target structure; add context and original details."
+      },
+      "G_speaking": {
+        "instruction": "Record one uninterrupted spoken response to these three lesson prompts — Quantos livros estão na mesa? / As casas são grandes? / Uns amigos estão aqui? — giving complete sentences and without reading a script."
+      }
+    }
+  },
+  "teacher": {
+    "spaced_review": {
+      "prompt": "I am American.",
+      "expected_answer": "Eu sou americano."
+    },
+    "pronunciation_focus": "Keep final -s audible; regional realizations vary.",
+    "answer_key": {
+      "practice_1": {
+        "multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "Os livros são novos."
+          },
+          {
+            "answer": "A",
+            "sentence": "As casas são grandes."
+          },
+          {
+            "answer": "B",
+            "sentence": "São dois livros."
+          },
+          {
+            "answer": "A",
+            "sentence": "Uns amigos estão aqui."
+          }
+        ],
+        "gap_fill": [
+          {
+            "answer": "Os",
+            "full_sentence": "Os livros são novos."
+          },
+          {
+            "answer": "As",
+            "full_sentence": "As casas são grandes."
+          },
+          {
+            "answer": "São",
+            "full_sentence": "São dois livros."
+          },
+          {
+            "answer": "Uns",
+            "full_sentence": "Uns amigos estão aqui."
+          }
+        ],
+        "mini_reading": {
+          "translation": "The two tables and four chairs are in the room. The books are new. The teachers are at school. Some friends are here. The houses on the street are small. The students are Brazilian and the teachers are American.",
+          "answers": [
+            {
+              "question": "Quantas cadeiras estão na sala?",
+              "answer": "Quatro cadeiras estão na sala."
+            },
+            {
+              "question": "As casas da rua são grandes ou pequenas?",
+              "answer": "As casas da rua são pequenas."
+            }
+          ]
+        },
+        "speaking_practice_models": [
+          "Dois livros estão na mesa.",
+          "Sim, as casas são grandes.",
+          "Sim, uns amigos estão aqui."
+        ]
+      },
+      "review": {
+        "oral_substitution_drill": [
+          {
+            "cue": "Some friends are here.",
+            "model": "Uns amigos estão aqui."
+          },
+          {
+            "cue": "The teachers are Brazilian.",
+            "model": "As professoras são brasileiras."
+          },
+          {
+            "cue": "Some tables are in the room.",
+            "model": "Umas mesas estão na sala."
+          }
+        ]
+      },
+      "practice_2": {
+        "translate": [
+          "São dois livros.",
+          "Uns amigos estão aqui.",
+          "As professoras são brasileiras.",
+          "Umas mesas estão na sala."
+        ],
+        "fill_in": [
+          {
+            "answer": "São",
+            "full_sentence": "Uns amigos estão aqui. São dois livros."
+          },
+          {
+            "answer": "Uns",
+            "full_sentence": "As professoras são brasileiras. Uns amigos estão aqui."
+          },
+          {
+            "answer": "As",
+            "full_sentence": "Umas mesas estão na sala. As professoras são brasileiras."
+          },
+          {
+            "answer": "Umas",
+            "full_sentence": "Os livros são novos. Umas mesas estão na sala."
+          }
+        ],
+        "listen_and_translate_scripts": [
+          {
+            "pt": "Os livros são novos.",
+            "en": "The books are new."
+          },
+          {
+            "pt": "São dois livros.",
+            "en": "These are two books."
+          },
+          {
+            "pt": "As professoras são brasileiras.",
+            "en": "The teachers are Brazilian."
+          }
+        ],
+        "reading_aloud": {
+          "translation": "Three books and two bags are in the house. The books are new. The bags are old. Some students are in the room. Some teachers are at school. The friends are Brazilian. The female students are American.",
+          "answers": [
+            {
+              "question": "Quantas bolsas estão na casa?",
+              "answer": "Duas bolsas estão na casa."
+            },
+            {
+              "question": "As bolsas são novas ou velhas?",
+              "answer": "As bolsas são velhas."
+            }
+          ]
+        }
+      },
+      "speaking_practice": [
+        {
+          "question": "Quantos livros estão na mesa?",
+          "model_answer": "Dois livros estão na mesa.",
+          "follow_up": "Pode dar mais um exemplo?",
+          "watch_for": "os casa → as casas (Casa is feminine.) as livro → os livros (Livro is masculine.)"
+        },
+        {
+          "question": "As casas são grandes?",
+          "model_answer": "Sim, as casas são grandes.",
+          "follow_up": "E seu amigo?",
+          "watch_for": "os casa → as casas (Casa is feminine.) as livro → os livros (Livro is masculine.)"
+        },
+        {
+          "question": "Uns amigos estão aqui?",
+          "model_answer": "Sim, uns amigos estão aqui.",
+          "follow_up": "Pode repetir com outra pessoa?",
+          "watch_for": "os casa → as casas (Casa is feminine.) as livro → os livros (Livro is masculine.)"
+        }
+      ],
+      "homework": {
+        "A_multiple_choice": [
+          {
+            "answer": "B",
+            "sentence": "As casas são grandes."
+          },
+          {
+            "answer": "C",
+            "sentence": "São dois livros."
+          },
+          {
+            "answer": "A",
+            "sentence": "Uns amigos estão aqui."
+          },
+          {
+            "answer": "A",
+            "sentence": "As professoras são brasileiras."
+          },
+          {
+            "answer": "A",
+            "sentence": "Umas mesas estão na sala."
+          }
+        ],
+        "B_gap_fill": [
+          {
+            "answer": "As",
+            "full_sentence": "As casas são grandes."
+          },
+          {
+            "answer": "São",
+            "full_sentence": "São dois livros."
+          },
+          {
+            "answer": "Uns",
+            "full_sentence": "Uns amigos estão aqui."
+          },
+          {
+            "answer": "As",
+            "full_sentence": "As professoras são brasileiras."
+          },
+          {
+            "answer": "Umas",
+            "full_sentence": "Umas mesas estão na sala."
+          }
+        ],
+        "C_english_to_portuguese": [
+          "Os livros são novos.",
+          "As casas são grandes.",
+          "São dois livros.",
+          "Uns amigos estão aqui.",
+          "As professoras são brasileiras."
+        ],
+        "D_portuguese_to_english": [
+          "These are two books.",
+          "Some friends are here.",
+          "The teachers are Brazilian.",
+          "Some tables are in the room."
+        ],
+        "E_reading": {
+          "translation": "Two female friends are at home. The books and magazines are on the table. Some teachers are at work. The houses near school are beautiful. The students are in the room. Some bags are white and others are blue.",
+          "answers": [
+            {
+              "question": "Quantas amigas estão em casa?",
+              "answer": "Duas amigas estão em casa."
+            },
+            {
+              "question": "Os livros e as revistas estão na mesa ou na sala?",
+              "answer": "Os livros e as revistas estão na mesa."
+            },
+            {
+              "question": "As casas perto da escola são bonitas?",
+              "answer": "Sim, as casas perto da escola são bonitas."
+            },
+            {
+              "question": "Os professores estão em casa ou no trabalho?",
+              "answer": "Uns professores estão no trabalho."
+            }
+          ]
+        },
+        "F_written_production": {
+          "model_text": "Duas amigas estão em casa. Os livros e as revistas estão na mesa. Uns professores estão no trabalho. As casas perto da escola são bonitas. Os alunos estão na sala. Umas bolsas são brancas e outras são azuis.",
+          "assessment": "Check length, topic relevance, at least three accurate uses of the target structure, and agreement. Personal details vary."
+        },
+        "G_speaking": {
+          "model_answers": [
+            "Dois livros estão na mesa.",
+            "Sim, as casas são grandes.",
+            "Sim, uns amigos estão aqui."
+          ]
+        },
+        "acceptable_alternatives": "A different accurate subject, name, or everyday example is acceptable in open speaking/writing tasks. For closed translation tasks, accept semantically equivalent natural Brazilian Portuguese with the target structure."
+      }
+    }
+  }
+}
