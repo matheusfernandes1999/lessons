@@ -1,0 +1,2663 @@
+{
+  "id": "juridico-13",
+  "language": "pt",
+  "mainTopic": "Jurídico",
+  "course": "Jurídico",
+  "unit": "Unidade 2",
+  "lessonNumber": 13,
+  "title": "12. Direito Administrativo",
+  "level": "Específicos",
+  "sourceFormat": "html",
+  "legacyId": "9b8744c6-a600-4592-8b02-dbf5523b244e",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Administrative Law",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFBF00"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🎯 Objectives:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Understand key legal terms used in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "administrative law, government regulations, and compliance",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Differentiate between "
+                  },
+                  {
+                    "type": "text",
+                    "text": "laws, statutes, regulations, and policies",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Recognize the role of "
+                  },
+                  {
+                    "type": "text",
+                    "text": "government agencies",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " and their authority in enforcing regulations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Apply administrative law terminology in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "reading, writing, and translation exercises",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Introduction",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFBF00"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📌 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The session will cover:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The role of "
+                  },
+                  {
+                    "type": "text",
+                    "text": "administrative law",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " in regulating government actions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The difference between "
+                  },
+                  {
+                    "type": "text",
+                    "text": "statutes, regulations, and policies",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The importance of "
+                  },
+                  {
+                    "type": "text",
+                    "text": "compliance and enforcement",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " in legal and business settings."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How "
+                  },
+                  {
+                    "type": "text",
+                    "text": "government agencies",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " interpret and apply administrative law."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why Administrative Law Matters",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Administrative law governs "
+                  },
+                  {
+                    "type": "text",
+                    "text": "how government agencies operate",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", including their power to "
+                  },
+                  {
+                    "type": "text",
+                    "text": "enforce laws, issue regulations, and resolve disputes",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ". It affects businesses, individuals, and public institutions in areas such as "
+                  },
+                  {
+                    "type": "text",
+                    "text": "taxation, environmental law, and corporate compliance",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For example:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A "
+                  },
+                  {
+                    "type": "text",
+                    "text": "statute",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " passed by Congress may authorize an agency to create "
+                  },
+                  {
+                    "type": "text",
+                    "text": "regulations",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Agencies such as the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Environmental Protection Agency (EPA)",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " or "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Federal Trade Commission (FTC)",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " enforce these rules."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Failure to comply",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " can result in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "fines, lawsuits, or revocation of licenses",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "❓ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Discussion Questions:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": "justify"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"What is the difference between a law and a regulation?\""
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"Why do businesses need to comply with administrative regulations?\""
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"What happens if a company violates environmental or labor regulations?\""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Key Legal Terms in Administrative Law",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFBF00"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A. Fundamental Terms",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Term",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Meaning",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Example in Context",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Statute",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A law enacted by a legislature"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The Clean Air Act is a federal statute regulating pollution.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Regulation",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A rule issued by an agency under authority of a statute"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The FDA issued new regulations on food labeling.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Compliance",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Adhering to laws, regulations, or policies"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"All companies must ensure compliance with labor laws.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Enforcement",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Government action to ensure compliance with laws"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The SEC enforces securities regulations to prevent fraud.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Due Process",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "The right to fair treatment under the law"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The agency must provide due process before revoking a license.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Administrative Agency",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "A government body that enforces laws and regulations"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The IRS is an administrative agency responsible for tax collection.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Sanctions",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Legal penalties for non-compliance"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"Violating data privacy laws may result in financial sanctions.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Judicial Review",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Court review of administrative decisions"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The court granted judicial review of the agency’s ruling.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Licensing",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "The process of obtaining legal authorization to operate"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"Doctors must obtain a medical license before practicing.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Exercise:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Identify whether each term is related to "
+          },
+          {
+            "type": "text",
+            "text": "law-making, enforcement, or compliance",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "B. Understanding Laws vs. Regulations",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Statutes (Laws)",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Regulations",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Passed by "
+                      },
+                      {
+                        "type": "text",
+                        "text": "legislative bodies",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " (e.g., Congress, Parliament)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Issued by "
+                      },
+                      {
+                        "type": "text",
+                        "text": "government agencies",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " (e.g., FDA, EPA)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Broad legal principles that define rights and obligations."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Specific rules on how laws should be implemented."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Violations lead to "
+                      },
+                      {
+                        "type": "text",
+                        "text": "criminal or civil penalties",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Violations result in "
+                      },
+                      {
+                        "type": "text",
+                        "text": "administrative penalties",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " (e.g., fines, revocation of permits)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Exercise:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Classify the following as a "
+          },
+          {
+            "type": "text",
+            "text": "statute",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "text": "regulation",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ":"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Clean Water Act establishes national pollution control policies."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Department of Labor sets minimum wage rules."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Securities and Exchange Commission (SEC) requires companies to disclose financial statements."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The U.S. Congress passes an immigration reform bill."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Reading Practice: Administrative Law in Context",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFBF00"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📖 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Instruction:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Read the following text aloud and analyze key legal terms."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Text 1: Excerpt from a Government Regulation",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "\"All businesses operating in the United States must comply with data protection laws. Under Section 5 of the Federal Trade Commission Act, the FTC is authorized to investigate and enforce compliance with consumer protection regulations. Any company found violating these regulations shall be subject to administrative fines and mandatory corrective actions.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "🔍 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Comprehension Questions:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What does it mean to “comply with data protection laws”?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What is the role of the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "FTC",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " in enforcing compliance?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What legal consequences exist for violating administrative regulations?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Text 2: Excerpt from a Court Decision on Administrative Law",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "\"The Environmental Protection Agency (EPA) issued new regulations restricting carbon emissions. A group of businesses challenged the regulations, arguing that the agency exceeded its authority. The Supreme Court ruled that the agency acted within the scope of its statutory power, affirming that administrative agencies have discretion in implementing regulations.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "🔍 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Comprehension Questions:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What does it mean for an agency to "
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"act within the scope of its statutory power\"",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How does "
+                  },
+                  {
+                    "type": "text",
+                    "text": "judicial review",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " impact agency regulations?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why might businesses challenge administrative regulations in court?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Writing Exercise: Drafting a Legal Notice for Compliance",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFBF00"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "✍️ "
+          },
+          {
+            "type": "text",
+            "text": "Prompt:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Write a compliance notice informing employees of a new administrative regulation affecting your company."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "Example Answer:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "\"Effective 1 January 2025, all employees must comply with new workplace safety regulations issued by the Occupational Safety and Health Administration (OSHA). The company shall conduct mandatory training sessions to ensure compliance. Failure to adhere to these regulations may result in disciplinary actions or administrative penalties.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📚 "
+          },
+          {
+            "type": "text",
+            "text": "Submit your paragraph in the shared Google Docs file for feedback.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Homework",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFBF00"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🏠 "
+          },
+          {
+            "type": "text",
+            "text": "Task:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Research a real administrative law case or regulation and answer the following:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What is the name of the statute or regulation?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which government agency enforces it?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What penalties exist for non-compliance?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Have there been any recent challenges or court rulings related to it?",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Conclusion",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFBF00"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔄 "
+          },
+          {
+            "type": "text",
+            "text": "Key Takeaways:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "Statutes",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " create laws, while "
+          },
+          {
+            "type": "text",
+            "text": "agencies issue regulations",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " to enforce them."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "Compliance",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " is essential for businesses to avoid "
+          },
+          {
+            "type": "text",
+            "text": "legal penalties",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "Administrative law affects many industries",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", from healthcare to finance."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Final Discussion:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "❓ "
+          },
+          {
+            "type": "text",
+            "text": "How do agencies ensure that companies comply with regulations?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "❓ "
+          },
+          {
+            "type": "text",
+            "text": "What rights do businesses have if they disagree with an administrative decision?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "❓ "
+          },
+          {
+            "type": "text",
+            "text": "Should regulatory agencies have more or less power? Why?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🗓️ "
+          },
+          {
+            "type": "text",
+            "text": "Next Lesson:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Legal Terminology in Civil Law – Contracts, Torts, and Remedies.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

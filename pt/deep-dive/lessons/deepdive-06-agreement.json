@@ -1,0 +1,2172 @@
+{
+  "id": "deepdive-06",
+  "language": "pt",
+  "mainTopic": "Deep Dive",
+  "course": "Deep Dive",
+  "unit": "Unidade 1",
+  "lessonNumber": 6,
+  "title": "6. Agreement",
+  "level": "Mergulho",
+  "sourceFormat": "html",
+  "legacyId": "17d44cda-67be-4ee1-b1d8-ef0e6532cd8d",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🤿 Agreement"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 Review"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Previous Lesson Summary (Lesson 5 – Object Pronouns):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "In the last lesson, we explored object pronouns and how they function in sentences to replace nouns receiving the action. We learned to distinguish between subject and object pronouns and practiced using them naturally in real-life contexts."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Practice:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Rewrite the sentence using the correct object pronoun:"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“I saw Mary and John yesterday. I talked to Mary and John.” → “I talked to ___.”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose the correct object pronoun:"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Please give the book to (me / I).”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct the error:"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Them invited us to the party.”"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🎯 Overview"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "What is Agreement?",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "In English grammar, "
+          },
+          {
+            "type": "text",
+            "text": "agreement",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " refers to the way words change form to match each other in number, person, gender, or tense. This ensures that sentences are grammatically correct and clear."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Basic Explanation:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Agreement can occur in several forms:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Subject–verb agreement",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The subject and verb must match in number and person."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“She walks.” (not: “She walk”)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pronoun–antecedent agreement",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ": A pronoun must match its antecedent in number and gender."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Every student must bring his or her book.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Why and When?",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Agreement is crucial for coherence. Mistakes often confuse listeners/readers or create ambiguity. At C1 level, mastering agreement means navigating complex structures without errors."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏊 "
+          },
+          {
+            "type": "text",
+            "text": "Can you do?",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Fill in the blanks with the correct verb form:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "a) The team ___ (is / are) celebrating their victory."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "b) Neither the cat nor the dogs ___ (likes / like) the new food."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Choose the correct pronoun:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Each of the girls took ___ (her / their) turn."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Rewrite for agreement correction:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "“The group of students are ready.” → ___________"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Fill in the blank:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Nobody ___ (was / were) late for the meeting."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Identify the agreement error:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "“Neither of the answers make sense.”"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 Deep Dive"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Agreement in English can be nuanced, especially in complex sentences. Let’s explore:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "💡 Subject–Verb Agreement – Special Cases:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Collective Nouns",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ":"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“The committee ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "has",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " decided.” (as a single unit)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“The committee ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "have",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " returned to their homes.” (as individuals)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Indefinite Pronouns",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ":"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Everyone ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "is",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " invited.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Few ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "are",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " aware.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Either/Neither + Singular Verb",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ":"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "“Neither of the boys ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "was",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " late.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "💡 Pronoun–Antecedent Agreement:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“If a student wants to pass, ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "he or she",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " must study.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "(Formal usage; gender-neutral forms now common: “they”)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "“If a student wants to pass, ",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "they",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              },
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " must study.”",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "💡 Agreement in Complex Structures:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“The manager, as well as the assistants, ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "is",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " present.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“The book or the pen ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "is",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " on the table.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“The pens or the book ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "is",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " on the table.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ← Closest noun rule"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🗣️ Mini Dialogues:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Emma:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Everyone in the group are coming.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Liam:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “I think you mean "
+                  },
+                  {
+                    "type": "text",
+                    "text": "‘Everyone is coming.’",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Customer:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Neither the phone nor the headphones works.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Clerk:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Actually, it should be "
+                  },
+                  {
+                    "type": "text",
+                    "text": "‘work’",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " since ‘headphones’ is plural and closer.”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Teacher:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Does anyone know if they left their phone?”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(Gender-neutral singular “they” in action.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Parent:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Each of the children has their backpack.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(Informal, accepted modern agreement.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📖 "
+          },
+          {
+            "type": "text",
+            "text": "Reading Practice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Title: “Conference Confusion”",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The committee was in disarray. While the organizer insists the plan "
+          },
+          {
+            "type": "text",
+            "text": "is",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " solid, several members of the team "
+          },
+          {
+            "type": "text",
+            "text": "disagree",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and argue that their roles "
+          },
+          {
+            "type": "text",
+            "text": "are",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " unclear. Neither the speaker nor the assistants "
+          },
+          {
+            "type": "text",
+            "text": "were",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " informed of the change in time. Each participant "
+          },
+          {
+            "type": "text",
+            "text": "has",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " their own expectations, making agreement difficult. Still, the event manager believes everything "
+          },
+          {
+            "type": "text",
+            "text": "is",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " under control—though nobody really knows what "
+          },
+          {
+            "type": "text",
+            "text": "is",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " happening."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Comprehension Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How is disagreement presented in the committee’s planning?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which sentence shows subject–verb disagreement and why?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify 4 examples of grammatical agreement in the text."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "✏️ "
+          },
+          {
+            "type": "text",
+            "text": "Practice Exercises",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 1 – Sentence Correction:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct the agreement errors:"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "a) “The list of items are on the desk.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "b) “Neither of the brothers have arrived.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "c) “Every student must submit their homework.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "d) “A number of people was waiting.”"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 2 – Better Word Choice:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose the better sentence and explain why:"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "a) “Each of them are ready.” / “Each of them is ready.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "b) “My family have dinner late.” / “My family has dinner late.”"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 3 – Contextual Rewrites:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Rewrite the following to correct the agreement while keeping the meaning:"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "a) “Nobody know the answer.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "b) “All of the cake were eaten.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "c) “Neither Jack nor Jill like the cold.”"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 4 – Complete the Dialogue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fill in the blanks with appropriate subject–verb or pronoun–antecedent agreement."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Alex:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Do you think everyone ___ ready?”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Taylor:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Well, the team ___ still arguing.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Alex:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “The manager, along with the assistants, ___ arriving now.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Taylor:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " “Great! That means everything ___ set.”"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 Deep Review"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Key Takeaways:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Subject–verb and pronoun–antecedent agreement are vital for clarity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Collective nouns and indefinite pronouns often cause confusion."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Agreement is influenced by proximity, formality, and modern usage."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Review Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which is correct: “Each of the players is ready” or “Each of the players are ready”?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify the error: “Neither of the options make sense.”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What pronoun matches this sentence: “Everyone brought ___ phone.”?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏠 Homework"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "taskList",
+        "content": [
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 1 – Writing",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Write a 150-word paragraph about a recent group experience (meeting, party, project). Focus on using correct agreement with collective nouns and pronouns."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 2 – Listening",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Watch a TED Talk or short documentary (10–15 mins). Identify and note at least 5 examples of subject–verb or pronoun–antecedent agreement."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 3 – Grammar",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rewrite these incorrect sentences:"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "a) “The team are playing well.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "b) “Nobody were present.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "c) “Each person brought their own lunch.”"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "(Justify your changes.)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 4 – Speaking",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Record a 2-minute monologue describing a complex plan or situation using at least 5 sentences with tricky agreement (collective nouns, indefinite pronouns, etc.)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 5 – Vocabulary/Context",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Create a fictional scenario (150 words) where a team is trying to agree on something. Use accurate subject–verb and pronoun agreement."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 6 – Creativity/Reflection",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Reflect: Why do native speakers still struggle with agreement? Write a short opinion piece (150 words) on whether grammar rules should adapt to common speech patterns (e.g., using “they” as singular)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

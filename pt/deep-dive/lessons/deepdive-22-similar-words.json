@@ -1,0 +1,2104 @@
+{
+  "id": "deepdive-22",
+  "language": "pt",
+  "mainTopic": "Deep Dive",
+  "course": "Deep Dive",
+  "unit": "Unidade 3",
+  "lessonNumber": 22,
+  "title": "22. Similar Words",
+  "level": "Mergulho",
+  "sourceFormat": "html",
+  "legacyId": "d25bedeb-6a61-41e1-b3b2-00b4dbb3b346",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🤿 "
+          },
+          {
+            "type": "text",
+            "text": "Similar Words",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 "
+          },
+          {
+            "type": "text",
+            "text": "Review",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Last lesson: Intonation",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Intonation is the rise and fall of the voice to convey meaning or emotion."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It changes a sentence’s function (statement, question, emotion)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Different intonation patterns signal attitudes like surprise, irony, doubt, or certainty."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Practice:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Say these aloud and decide if it sounds like a question or statement:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "“You’re coming.”"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "“You’re coming?”"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Listen to two different intonations for the sentence “Really?” — how does each one feel?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🎯 "
+          },
+          {
+            "type": "text",
+            "text": "Overview",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "“Similar words” can confuse learners when:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They sound similar (homophones)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They look similar (false friends)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They have close meanings but are used differently in context."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“Accept” vs. “Except”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“Advice” (noun) vs. “Advise” (verb)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "“Actually” vs. “Currently” (false friends for Brazilians)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We study them to speak and write with accuracy, avoiding awkward or incorrect choices."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏊 "
+          },
+          {
+            "type": "text",
+            "text": "Can you do?",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose the correct word:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "I can’t ______ your invitation. (accept/except)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fill in the blank:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "She gave me some great ______ about my résumé."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sentence rewrite:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "“I actually live in São Paulo now.” → Use “currently” correctly."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose the word that sounds like “peace”:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "piece / piss / pace"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Deep Dive",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Sound-Alike Confusions"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Accept",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " vs. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Except",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "I accept your apology.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Everyone except John was invited.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Peace",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " vs. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Piece",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Let’s live in peace.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "I want a piece of cake.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Their / There / They’re",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Their house is big.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "They’re going out.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Let’s meet there.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. False Friends for Brazilians"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Actually",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (na verdade) ≠ atualmente (currently)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pretend",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (fingir) ≠ pretender (intend)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Assist",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (ajudar) ≠ assistir (watch)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Library",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (biblioteca) ≠ livraria (bookstore)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Push",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (empurrar) ≠ puxar (pull)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Similar Meaning – Different Usage"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Big",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " vs. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Large",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "A big decision",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " (abstract)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "A large room",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " (physical size)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tell",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " vs. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Say",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "She told me a secret.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "He said he was tired.",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dialogue 1:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “Are you going to assist the meeting?”"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “You mean attend? ‘Assist’ means help.”"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “Ah, right! I always mix those two.”"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dialogue 2:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “I want to pretend that I’m rich.”"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “Be careful! That doesn’t mean you want to plan to be rich.”"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dialogue 3:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “He gave me a good advice.”"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “No article with ‘advice’ — it’s uncountable. Try: ‘some good advice.’”"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dialogue 4:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “Actually, I’m living in Spain.”"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "– “Do you mean ‘currently’? ‘Actually’ means ‘in fact’.”"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📖 "
+          },
+          {
+            "type": "text",
+            "text": "Reading Practice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Text:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Lucas moved to Canada and faced confusion with English words. One day, he told his professor, “I pretend to be a good student.” The professor laughed, explaining that “pretend” wasn’t the word he wanted. Another time, Lucas said, “Actually, I live in Toronto,” when he meant “currently.” These mistakes made him more careful. He started writing down similar words and their meanings. Eventually, he learned the difference between “advice” and “advise”, “peace” and “piece”, and even stopped mixing up “push” and “pull” on doors!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What were Lucas’s two main mistakes?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How did Lucas deal with confusing words?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which similar words were mentioned in the text?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "✏️ "
+          },
+          {
+            "type": "text",
+            "text": "Practice Exercises",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 1 – Sentence Correction",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Correct the mistakes:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I gave him an advise."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I pretend to visit France next year."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Please push the door (sign says “Pull”)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 2 – Better Word Choice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Choose the better option for clarity:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I want to (assist / attend) the workshop."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I’m (actually / currently) studying English in Canada."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Let’s go over (they’re / their / there) to say hello."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 3 – Contextual Rewrite",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Rewrite using the right word:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I went to the library and bought a book."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They want to pretend in this project."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "He said me he was tired."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 4 – Multiple Choice (With Explanation)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Which sentence uses the word correctly?"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "A. I gave him a great advise."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "B. She advised me to be calm."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "C. She said me to stay home."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "D. Actually I’m married with a teacher."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Answer: B (Correct use of “advise” as a verb)"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 "
+          },
+          {
+            "type": "text",
+            "text": "Deep Review",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Key Takeaways:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Similar words can confuse meaning, pronunciation, or both."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "False friends cause unique problems for Portuguese speakers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose based on context: meaning, collocation, tone."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Always double-check if the word really means what you think it does."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Review Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What’s the difference between “pretend” and “intend”?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is “advice” countable?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Does “actually” mean “atualmente”?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏠 "
+          },
+          {
+            "type": "text",
+            "text": "Homework",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "taskList",
+        "content": [
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 1 – Writing",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Write a paragraph using 5 sets of similar words correctly. Underline them."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 2 – Listening",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Watch a video of common word confusions (e.g. Rachel’s English or BBC Learning English). Write down at least 5 pairs that confuse you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 3 – Grammar",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rewrite 10 incorrect sentences using false friends (you can search for typical errors Brazilians make with “actually”, “library”, etc.)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 4 – Speaking",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Record yourself explaining the difference between 3 pairs of similar words: “advice/advise”, “accept/except”, and “peace/piece”."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 5 – Vocabulary/Context",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Write a dialogue between two people using at least 6 commonly confused words (e.g., “attend”, “pretend”, “currently”, “library”)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📅 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Day 6 – Creativity/Reflection",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Create a short story where a character constantly uses the wrong word. Rewrite it at the end with the correct version."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

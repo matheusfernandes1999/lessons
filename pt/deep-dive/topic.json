@@ -1,0 +1,20 @@
+{
+  "language": "pt",
+  "mainTopic": "Deep Dive",
+  "slug": "deep-dive",
+  "sourceFormat": "html",
+  "description": "Apostila Deep Dive: 49 lições de gramática e uso do inglês em profundidade: pronomes, artigos, substantivos, quantificadores, advérbios, verbos e modais, voz passiva, condicionais, situações do dia a dia, preposições, gírias, expressões idiomáticas e phrasal verbs.",
+  "level": "Mergulho",
+  "coverUrl": "https://firebasestorage.googleapis.com/v0/b/fluencylab-webapp.appspot.com/o/workbookCovers%2Fe935eb3b-c1c3-4139-8d51-c1a2b1ee12b1_deep-dive.png?alt=media",
+  "legacyWorkbookId": "Deep Dive",
+  "structureNote": "Lições importadas da plataforma antiga: o HTML original fica em `source/` e o JSON Tiptap em `lessons/` é gerado por `tools/build_workbooks.py`. Os componentes customizados antigos (dica, professor, aluno, meta, revisão, exercício…) viram blockquotes, listas e quizzes.",
+  "courses": [
+    {
+      "code": "deepdive",
+      "name": "Deep Dive",
+      "lessons": 49
+    }
+  ],
+  "officialReferences": [],
+  "guidelines": "guidelines.md"
+}

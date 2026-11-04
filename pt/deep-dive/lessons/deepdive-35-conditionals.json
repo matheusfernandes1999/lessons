@@ -1,0 +1,5474 @@
+{
+  "id": "deepdive-35",
+  "language": "pt",
+  "mainTopic": "Deep Dive",
+  "course": "Deep Dive",
+  "unit": "Unidade 6",
+  "lessonNumber": 35,
+  "title": "35. Conditionals",
+  "level": "Mergulho",
+  "sourceFormat": "html",
+  "legacyId": "7f535cb1-e8ef-49a2-8633-5c1bc5cc0637",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🤿 Conditionals",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 Review",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In our previous lesson, we explored the passive voice in English. We examined how to form passive constructions in different tenses, when to use passive voice appropriately, and the specific challenges Brazilian learners face with this grammatical structure."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Practice:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Transform this active sentence into passive: \"The committee will announce the results tomorrow.\""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "When is it appropriate to use the passive voice in English?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What's one key difference between passive voice in English and Portuguese?"
+                  }
+                ]
+              },
+              {
+                "type": "horizontalRule"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🎯 Overview",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Conditional sentences express hypothetical situations and their consequences. They typically consist of two clauses: a condition (usually beginning with \"if\") and a result. English has several types of conditionals, each expressing different degrees of possibility, probability, or unreality."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The main conditional types include zero conditionals (general truths), first conditionals (possible future situations), second conditionals (hypothetical or unlikely present/future situations), third conditionals (impossible past situations), and mixed conditionals (combining different time references). Each type follows specific patterns of verb tenses in both clauses."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We use conditionals to discuss possibilities, make predictions, express regrets about the past, give advice, and talk about imaginary situations. Understanding the nuances between different conditional types is crucial for expressing precise meanings in English, especially since the tense patterns often differ from those used in Portuguese conditional structures."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏊 Can you do?",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify the type of conditional in each sentence:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " a. If you heat water to 100°C, it boils. b. If it rains tomorrow, we will cancel the picnic. c. If I had more time, I would learn to play the piano. d. If she had studied harder, she would have passed the exam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Complete the sentences with the correct verb forms:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " a. If I _______ (win) the lottery, I _______ (buy) a house by the beach. b. If she _______ (not/hurry), she _______ (miss) the train. c. If we _______ (know) about the problem earlier, we _______ (can/fix) it. d. Water _______ (freeze) if the temperature _______ (fall) below 0°C."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Rewrite these sentences using the conditional type indicated:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " a. I don't have enough money, so I can't buy a new car. (second conditional) b. She didn't call me, so I didn't know about the party. (third conditional) c. When people eat too much sugar, they gain weight. (zero conditional) d. I will help you if you ask me. (first conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose the correct form to complete each conditional sentence:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " a. If I _______ the answer, I would tell you. i. know ii. knew iii. had known"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "b. If you had told me about the meeting, I _______ it. i. wouldn't miss ii. wouldn't have missed iii. won't miss"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "c. If it _______ tomorrow, the match will be postponed. i. rains ii. will rain iii. rained"
+                  }
+                ]
+              },
+              {
+                "type": "horizontalRule"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 Deep Dive",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Conditional sentences are essential for expressing hypothetical situations and their consequences. Let's explore each type in detail, with special attention to aspects that often challenge Brazilian English learners."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Zero Conditional",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The zero conditional expresses general truths, scientific facts, or things that always happen under certain conditions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " If + present simple, present simple"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you heat ice, it melts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you don't water plants, they die."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you mix blue and yellow, you get green."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Water boils if you heat it to 100°C."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Alternative Forms:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "When/Whenever can often replace \"if\" in zero conditionals:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "When you heat ice, it melts."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Whenever it rains, the garden looks beautiful."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Usage:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Scientific facts and natural laws"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "General truths and habitual results"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Instructions and procedures"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Definite or inevitable results"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Note for Brazilian Learners:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In Portuguese, the present tense is also used for both clauses in this type of conditional, making it relatively straightforward to translate:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "English: If you heat water, it boils."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Portuguese: Se você esquenta água, ela ferve."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First Conditional",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The first conditional expresses real or possible situations in the future and their likely results."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " If + present simple, will/can/may/might + base verb"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it rains tomorrow, we will cancel the picnic."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you study hard, you will pass the exam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she arrives late, we can start without her."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you don't hurry, you might miss the train."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Alternative Forms:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Unless (= if not):"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Unless you hurry, you'll miss the train. (= If you don't hurry, you'll miss the train.)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As long as, provided that, on condition that:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "I'll lend you the money provided that you pay me back next month."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Imperative + and/or:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Hurry up or you'll miss the train. (= If you don't hurry up, you'll miss the train.)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Study hard and you'll pass the exam. (= If you study hard, you'll pass the exam.)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Usage:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Likely or possible future situations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Warnings and threats"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Promises and offers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Predictions based on current evidence"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Note for Brazilian Learners:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In Portuguese, the future subjunctive is often used in the \"if\" clause, which doesn't exist in English:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "English: If it rains tomorrow, we will cancel the picnic."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Portuguese: Se chover amanhã, cancelaremos o piquenique."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This difference can lead to errors like \"If it will rain tomorrow...\" which is incorrect in English."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Second Conditional",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The second conditional expresses hypothetical, unlikely, or impossible situations in the present or future and their probable results."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " If + past simple, would/could/might + base verb"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I had more time, I would learn to play the piano."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she knew the answer, she would tell you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If we lived near the beach, we could go swimming every day."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I won the lottery, I might travel around the world."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Special Case with \"Were\":",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In formal English, \"were\" is used instead of \"was\" for all persons in second conditionals:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I were rich, I would buy a yacht. (more formal)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I was rich, I would buy a yacht. (less formal)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is one of the few remaining examples of the subjunctive mood in English."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Alternative Forms:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wish + past simple (for present wishes):"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "I wish I had more time. (= If I had more time, it would be good.)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If only:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If only I knew the answer! (= I really wish I knew the answer.)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Usage:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hypothetical or unlikely present/future situations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Giving advice (If I were you...)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Imagining different present realities"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Polite requests and suggestions"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Note for Brazilian Learners:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In Portuguese, the imperfect subjunctive is used in the \"if\" clause and the conditional tense in the result clause:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "English: If I had more money, I would buy a new car."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Portuguese: Se eu tivesse mais dinheiro, compraria um carro novo."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The tense correspondence is similar, making this conditional relatively straightforward for Brazilian learners."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Third Conditional",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The third conditional expresses hypothetical situations in the past (things that didn't happen) and their imagined results."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " If + past perfect, would/could/might + have + past participle"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she had studied harder, she would have passed the exam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I had known about the party, I would have gone."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If we hadn't missed the train, we could have arrived on time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you had told me earlier, I might have been able to help."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Alternative Forms:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wish + past perfect (for past regrets):"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "I wish I had studied harder. (= If I had studied harder, it would have been better.)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If only:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If only I had known about the meeting! (= I really regret not knowing about the meeting.)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Usage:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Expressing regrets about the past"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Speculating about different past outcomes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Assigning responsibility or blame"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Discussing missed opportunities"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Note for Brazilian Learners:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In Portuguese, the pluperfect subjunctive is used in the \"if\" clause and the perfect conditional in the result clause:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "English: If I had seen you, I would have said hello."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Portuguese: Se eu tivesse te visto, teria dito olá."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The structure is similar, but the formation of the past perfect and perfect conditional can be challenging for Brazilian learners."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Mixed Conditionals",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Mixed conditionals combine different time references, typically connecting a past condition to a present result or a present condition to a past result."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure 1: Past condition → Present result",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " If + past perfect, would/could/might + base verb"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I had studied medicine, I would be a doctor now. (past condition, present result)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she hadn't moved to London, she wouldn't be working for that company. (past condition, present result)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If we had invested in that company, we could be rich now. (past condition, present result)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Structure 2: Present condition → Past result",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " If + past simple, would/could/might + have + past participle"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I knew her number, I would have called her yesterday. (present condition, past result)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If he were more reliable, I would have asked him to help. (present condition, past result)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she weren't so busy, she could have attended the meeting last week. (present condition, past result)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Usage:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Connecting past actions to present situations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Expressing how present circumstances affected past actions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Discussing ongoing consequences of past actions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Explaining current situations resulting from past decisions"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Note for Brazilian Learners:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Mixed conditionals can be particularly challenging because they don't follow a single pattern and require understanding how different time frames interact. Portuguese has similar constructions, but the tense combinations may differ:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "English: If I had saved money, I would be traveling now."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Portuguese: Se eu tivesse economizado dinheiro, estaria viajando agora."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other Conditional Forms",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Inverted Conditionals:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In formal English, \"if\" can be omitted and the auxiliary verb placed before the subject:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Had I known, I would have called you. (= If I had known, I would have called you.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Were she here, she would help us. (= If she were here, she would help us.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Should you need any assistance, please contact us. (= If you should need any assistance, please contact us.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Implied Conditionals:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Sometimes the conditional is implied rather than stated explicitly:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Without your help, we wouldn't have succeeded. (= If you hadn't helped us, we wouldn't have succeeded.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "But for the rain, we would have had a perfect day. (= If it hadn't rained, we would have had a perfect day.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Conditionals with Modal Verbs:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Modal verbs add nuance to conditional sentences:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you study hard, you might pass the exam. (possibility)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you had asked me, I could have helped you. (ability)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it rains, we should stay home. (recommendation)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I were you, I would apply for that job. (advice)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Conditionals without \"If\":",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Several structures can replace \"if\" in conditional sentences:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Suppose/Supposing: Suppose you won the lottery, what would you do?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What if: What if we tried a different approach?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Otherwise: Hurry up, otherwise you'll be late."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Or else: Be quiet, or else you'll wake the baby."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In case: Take an umbrella in case it rains."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Common Challenges for Brazilian Learners",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Future Tense in \"If\" Clauses:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In English, we don't use \"will\" in the \"if\" clause of first conditionals, while in Portuguese, the future subjunctive is used:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Incorrect: If it will rain tomorrow, we will cancel the picnic."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct: If it rains tomorrow, we will cancel the picnic."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Portuguese: Se chover amanhã, cancelaremos o piquenique. (future subjunctive)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. \"Would\" in \"If\" Clauses:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Similarly, \"would\" is not used in the \"if\" clause of second conditionals:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Incorrect: If I would have time, I would help you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct: If I had time, I would help you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Portuguese: Se eu tivesse tempo, eu te ajudaria."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Tense Sequence:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " The specific combination of tenses in each conditional type must be followed:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Incorrect: If I would know the answer, I will tell you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct: If I knew the answer, I would tell you."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. \"Were\" vs. \"Was\":",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In formal English, \"were\" is used for all persons in second conditionals, which can be confusing:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formal: If I were you, I would accept the offer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Less formal: If I was you, I would accept the offer."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Translating \"Se\":",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " The Portuguese \"se\" can be translated as \"if,\" \"whether,\" or even omitted in certain contexts:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If: Se chover, ficarei em casa. (If it rains, I'll stay home.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Whether: Não sei se ele virá. (I don't know whether he will come.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Conditional Perfect:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " The formation and use of perfect conditionals (would have + past participle) can be challenging:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Incorrect: If I had known, I would told you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct: If I had known, I would have told you."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Unless vs. If Not:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Understanding the difference between \"unless\" and \"if not\":"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Unless you hurry, you'll miss the train. (= If you don't hurry, you'll miss the train.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Mini Dialogues:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Situation: Career Advice",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Friend A: I'm not sure whether to accept the job offer in São Paulo."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Friend B: If I were you, I would take it. It's a great opportunity."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Friend A: But if I move to São Paulo, I'll have to leave my family and friends."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Friend B: True, but if you don't take risks sometimes, you might regret it later. If I hadn't moved to Rio for my job, I wouldn't have met my wife."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Situation: Making Plans",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Person A: Should we plan our picnic for Saturday?"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Person B: Well, if it rains, we won't be able to go."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Person A: The weather forecast says it will be sunny, but we could have a backup plan."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Person B: Good idea. If the weather is bad, we could go to that new indoor food market instead."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Person A: Perfect! And if we had gone last weekend, we would have been caught in that terrible storm."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Situation: Technical Support",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Customer: My computer keeps crashing whenever I open this program."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Support: If you restart your computer, does the problem persist?"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Customer: Yes, I've tried that already. If I had known it would cause so many issues, I wouldn't have installed the software."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Support: I understand your frustration. If you uninstall and reinstall the program, it might resolve the issue. If that doesn't work, we'll try a different approach."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Common Errors and Formal Variations:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"If I will go to the party, I will see her.\" ❌ → \"If I go to the party, I will see her.\" ✓ (no \"will\" in the if-clause of first conditionals)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"If I would have money, I would travel more.\" ❌ → \"If I had money, I would travel more.\" ✓ (no \"would\" in the if-clause of second conditionals)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"If I had studied, I would passed the exam.\" ❌ → \"If I had studied, I would have passed the exam.\" ✓ (missing \"have\" in perfect conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"If I was you, I would accept the offer.\" ✓ (informal) / \"If I were you, I would accept the offer.\" ✓ (formal)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"Should you require any further information, please do not hesitate to contact us.\" (very formal) vs. \"If you need more information, just contact us.\" (informal)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"Were the proposal to be accepted, significant changes would be implemented.\" (formal) vs. \"If the proposal is accepted, there will be big changes.\" (informal)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"Had we been informed earlier, appropriate measures could have been taken.\" (formal) vs. \"If you had told us earlier, we could have done something about it.\" (informal)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Conditionals in Different Contexts",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Academic and Professional Writing:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In formal contexts, inverted conditionals and more complex structures are common:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Should the results prove inconclusive, further research will be necessary."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The project will proceed as planned, provided that adequate funding is secured."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Were the hypothesis to be correct, it would have significant implications for the field."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Business Communication:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Conditionals are frequently used in negotiations, agreements, and planning:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you place an order of over $1000, we will offer a 15% discount."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In the event that the delivery is delayed, a full refund will be provided."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Should you wish to cancel your subscription, please notify us 30 days in advance."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Everyday Conversation:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " In casual speech, conditionals often appear in shortened or simplified forms:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you're free later, we could grab a coffee."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What if we tried something different?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I wouldn't have done that if I were you."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Giving Advice:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " The second conditional is commonly used for advice:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I were in your position, I would speak to the manager directly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What would you do if you were me?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I were you, I wouldn't worry about it too much."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Expressing Regrets:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " The third conditional is perfect for discussing regrets:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I had studied harder, I would have passed the exam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "She would have gotten the job if she had prepared better for the interview."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If we had known about your allergy, we wouldn't have ordered seafood."
+                  }
+                ]
+              },
+              {
+                "type": "horizontalRule"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📖 Reading Practice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Butterfly Effect: Small Choices, Big Consequences",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Have you ever wondered how different your life would be if you had made different choices? If you had taken that job abroad, would you be living in another country now? If you hadn't met your partner, what path would your life have followed? These questions illustrate what scientists call \"the butterfly effect\"—the idea that small changes can have large consequences."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept originates from meteorology. In the 1960s, mathematician Edward Lorenz discovered that tiny variations in initial conditions could create significantly different outcomes in weather models. He famously asked: \"Could the flap of a butterfly's wings in Brazil set off a tornado in Texas?\" If the butterfly hadn't flapped its wings at that precise moment, perhaps the tornado would never have formed."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This principle applies to human lives as well. Consider education: if you study consistently throughout the semester, you will perform better on exams. But if you were to neglect your studies until the last minute, you would likely struggle, regardless of your intelligence. Similarly, in health matters, if people exercise regularly and maintain a balanced diet, they generally enjoy better health. Unless they make these lifestyle choices, they may face preventable health issues later in life."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "History is full of \"what ifs.\" If Franz Ferdinand's driver hadn't taken a wrong turn in Sarajevo in 1914, would World War I have been averted? Had the weather been different during key battles, would historical outcomes have changed? Historians often engage in such counterfactual thinking to understand the fragility of historical developments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In business, successful entrepreneurs frequently acknowledge the role of timing and chance. As Amazon founder Jeff Bezos once said, \"If we had waited six months, we would have been too late.\" Had he hesitated, someone else might have captured the online retail market. Similarly, if Steve Jobs and Steve Wozniak hadn't built that first computer in a garage, Apple might never have existed."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Of course, we cannot know for certain what would have happened in these alternative scenarios. Unless we develop time travel, these counterfactuals will remain speculative. However, they remind us that life is shaped by countless decisions and chance events. Were we able to see all possible outcomes of our choices, we might make different decisions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "What does this mean for our daily lives? Perhaps it suggests that we should be more mindful of our choices, recognizing that small decisions can have outsized impacts. If we approach life with this awareness, we might pay more attention to the seemingly insignificant moments that could, like the butterfly's wings, set off chains of consequences we cannot foresee."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What is \"the butterfly effect\" according to the text?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What example does the text give of the butterfly effect in education?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify three different types of conditionals used in the text and explain why each type was chosen in that context."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What does the text suggest about how we should approach our daily choices?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the author had not mentioned Jeff Bezos and Steve Jobs, how might the impact of the text have been different?"
+                  }
+                ]
+              },
+              {
+                "type": "horizontalRule"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "✏️ Practice Exercises",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 1 - Conditional Type Identification",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Identify the type of conditional (zero, first, second, third, or mixed) in each sentence."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If water reaches 100°C, it boils."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it rains tomorrow, we will stay home."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I won the lottery, I would buy a house."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she had arrived earlier, she would have met the director."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I were the president, I would have changed that law last year."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Unless you hurry, you'll miss the bus."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Had I known about your problem, I would have helped you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she hadn't moved to Paris, she wouldn't be fluent in French now."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you mix yellow and blue, you get green."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I were you, I would accept that job offer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 2 - Complete the Conditionals",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Complete these conditional sentences with the correct form of the verbs in parentheses."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zero conditional: a. If you _______ (heat) ice, it _______ (melt). b. Plants _______ (die) if they _______ (not/get) enough water."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "First conditional: a. If it _______ (rain) tomorrow, we _______ (cancel) the picnic. b. Unless you _______ (study) hard, you _______ (not/pass) the exam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Second conditional: a. If I _______ (have) more time, I _______ (learn) to play the piano. b. What _______ you _______ (do) if you _______ (win) the lottery?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Third conditional: a. If she _______ (study) harder, she _______ (pass) the exam. b. We _______ (not/miss) the train if we _______ (leave) earlier."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mixed conditional: a. If I _______ (not/eat) so much yesterday, I _______ (not/feel) sick now. b. If she _______ (be) more qualified, she _______ (get) the job last week."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 3 - Sentence Transformation",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": " Rewrite these sentences using the conditional type indicated in parentheses."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I don't have a car, so I can't drive you to the airport. (second conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "She didn't call me, so I didn't go to the party. (third conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "When people eat too much sugar, they gain weight. (zero conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I'm busy today, so I can't help you. (first conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "He didn't study medicine, so he isn't a doctor now. (mixed conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I don't speak Chinese, so I didn't apply for that job in Beijing. (mixed conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You should take an umbrella because it might rain. (first conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "I want to buy that house, but it's too expensive. (second conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 4 - Error Correction",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Identify and correct the errors in these conditional sentences."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I will have time tomorrow, I will help you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I would be rich, I would buy a yacht."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she would have studied harder, she would passed the exam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Unless you will hurry, you will miss the train."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I was you, I will accept the offer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If we didn't go to the party yesterday, we wouldn't meet your friend."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you heat water at 100°C, it will boil."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If I would know the answer, I would tell you."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If she hadn't missed the bus, she will arrive on time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you studied harder, you will pass the exam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 Practice 5 - Translation Challenge",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Translate these Portuguese sentences into English, paying special attention to the conditional structures."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se eu tivesse mais dinheiro, compraria um carro novo."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se chover amanhã, cancelaremos o passeio."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se você misturar azul e amarelo, obterá verde."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se eu soubesse a resposta, te diria."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se ela tivesse estudado mais, teria passado no exame."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A menos que você se apresse, perderá o trem."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se eu fosse você, aceitaria essa oferta de emprego."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se ele não tivesse perdido o voo, estaria aqui agora."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "O que você faria se ganhasse na loteria?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Se você tivesse me avisado, eu poderia ter ajudado."
+                  }
+                ]
+              },
+              {
+                "type": "horizontalRule"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 Deep Review",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Conditional sentences are essential for expressing hypothetical situations and their consequences. Here's a summary of key points:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zero conditional (if + present simple, present simple) expresses general truths and scientific facts"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "First conditional (if + present simple, will + base verb) expresses real or possible future situations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Second conditional (if + past simple, would + base verb) expresses unlikely or hypothetical present/future situations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Third conditional (if + past perfect, would have + past participle) expresses impossible past situations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mixed conditionals combine different time references (past condition → present result or present condition → past result)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Brazilian learners often face specific challenges with conditionals:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Using \"will\" or \"would\" in the \"if\" clause (incorrect in English)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Translating the Portuguese future subjunctive appropriately"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Forming perfect conditionals correctly (would have + past participle)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Understanding the formal use of \"were\" instead of \"was\" in second conditionals"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Remember that conditionals can be formed without \"if\" using inverted structures (Had I known...), alternative expressions (unless, provided that), or implied conditions (Without your help...)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Review Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What's the difference between first and second conditionals in terms of probability?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How do you form a third conditional sentence?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why is \"If I will go to the party, I will see her\" incorrect?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What's a mixed conditional and when would you use it?"
+                  }
+                ]
+              },
+              {
+                "type": "horizontalRule"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏠 Homework",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 Day 1 - Writing",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Write a short essay (200-250 words) about a significant decision in your life. Include at least one example of each conditional type (zero, first, second, third, and mixed) to discuss:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What always happens in such situations (zero conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What will happen if certain conditions are met in the future (first conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What would happen if things were different now (second conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What would have happened if you had made a different choice (third conditional)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How past decisions affect your present situation or how present circumstances would have affected past actions (mixed conditional)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Underline each conditional sentence and label its type."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 Day 2 - Listening",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Watch a TED Talk or interview in English (10-15 minutes). Make a list of all the conditional sentences you hear. For each one, write down:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The complete sentence"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The type of conditional"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why you think the speaker chose that particular conditional type"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 Day 3 - Grammar",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Complete these sentences with your own ideas, using the correct conditional form:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zero conditional: a. If you don't water plants, _______________________________. b. _______________________________ if you exercise regularly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "First conditional: a. If it doesn't rain this weekend, _______________________________. b. _______________________________ unless you finish your homework."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Second conditional: a. If I had more free time, _______________________________. b. _______________________________ if I were the CEO of this company."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Third conditional: a. If I had studied a different subject in university, _______________________________. b. _______________________________ if we hadn't missed our flight."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mixed conditional: a. If I had learned English as a child, _______________________________. b. If I were more organized,"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "_______________________________."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 Day 4 - Speaking",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Record yourself responding to these prompts, using appropriate conditional structures:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What would you do if you won a million dollars?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you could live anywhere in the world, where would you choose and why?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What would have happened if you had chosen a different career path?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you were the leader of your country, what changes would you make?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What will you do if you have free time this weekend?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Listen to your recording and note any errors in your use of conditionals."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 Day 5 - Vocabulary/Context",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Create a dialogue between two people in one of these situations:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Planning a trip (discussing weather contingencies, scheduling, etc.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A job interview (discussing hypothetical scenarios, past experiences, etc.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Giving advice to a friend (about a relationship, career, etc.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Business negotiation (discussing terms, possibilities, etc.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your dialogue should include at least 8 conditional sentences with a variety of types. For each conditional, add a note explaining why you chose that particular type."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 Day 6 - Creativity/Reflection",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Choose one option:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Write a short story (250-300 words) titled \"The Road Not Taken\" about how someone's life would have been different if they had made a different choice at a crucial moment. Use a variety of conditional structures throughout the story."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Write a reflection (250-300 words) comparing how conditionals work in English versus Portuguese. Include specific examples of situations where the languages differ in how they express conditional meanings and how this affects your understanding and use of English."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

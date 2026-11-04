@@ -1,0 +1,3716 @@
+{
+  "id": "deepdive-12",
+  "language": "pt",
+  "mainTopic": "Deep Dive",
+  "course": "Deep Dive",
+  "unit": "Unidade 2",
+  "lessonNumber": 12,
+  "title": "12. Quantifiers",
+  "level": "Mergulho",
+  "sourceFormat": "html",
+  "legacyId": "eecac599-7862-4199-a425-0dd3e871068d",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🤿 Quantifiers"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 Review"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Last lesson summary:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We learned that "
+                  },
+                  {
+                    "type": "text",
+                    "text": "some nouns that are countable in Portuguese",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " are "
+                  },
+                  {
+                    "type": "text",
+                    "text": "uncountable in English",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You practiced using the correct quantifiers and avoiding plural forms with uncountables ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "informations",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "advices",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = ❌)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We focused on using phrases like "
+                  },
+                  {
+                    "type": "text",
+                    "text": "some furniture",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a piece of advice",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", and "
+                  },
+                  {
+                    "type": "text",
+                    "text": "much information",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " correctly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Practice:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct this sentence: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "She gave me two advices.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which is uncountable in English?"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "a) Book"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "b) Sugar"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "c) Car"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Translate: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Comprei dois móveis novos.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🎯 Overview"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "What are Quantifiers?",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quantifiers are words that express "
+          },
+          {
+            "type": "text",
+            "text": "quantity or amount",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " — they tell us "
+          },
+          {
+            "type": "text",
+            "text": "how much",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "text": "how many",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " of something there is."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "Examples:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "many",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a few",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "some",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "much",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a little",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "plenty of",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a number of",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "none",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "each",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "every",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 "
+          },
+          {
+            "type": "text",
+            "text": "Why is it important?",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Quantifiers are "
+          },
+          {
+            "type": "text",
+            "text": "used every day",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in English, and they behave differently depending on whether the noun is countable or uncountable — this is a major source of mistakes for Portuguese speakers!"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏊 Can you do?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Fill in the blanks:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "a) I have ___ money, but not enough."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "b) We invited ___ friends to the party."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "c) There isn’t ___ milk left."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Choose the correct option:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Which is correct?"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "a) There are much apples."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "b) There is many traffic."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "c) There are a few problems."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Rewrite using the correct quantifier:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "There is many water in the bottle.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Choose the best option:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "I don’t have ___ time for this."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "a) many"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "b) much"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "c) a few"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 Deep Dive"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "💡 Types of Quantifiers"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Quantifier"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Countable Nouns"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Uncountable Nouns"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Examples"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "much"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "much sugar",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "many"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "many people",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a lot of"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a lot of money / books",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "lots of"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "lots of time / options",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "some"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "some chairs / advice",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "any"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Do you have any ideas / milk?",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a few"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a few questions",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a little"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a little water",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "plenty of"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "plenty of food / opportunities",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "each, every"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ (singular)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "every student",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": ", "
+                      },
+                      {
+                        "type": "text",
+                        "text": "each car",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "several"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "several reasons",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "no"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "no homework / messages",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "neither / either"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ (2 items)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "neither choice is easy",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "all, most, some"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "some books / some money",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a number of"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a number of reports",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a great deal of"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "a great deal of effort",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 Important Notes for Portuguese Speakers:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Muito(s)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = "
+                  },
+                  {
+                    "type": "text",
+                    "text": "much",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "many",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a lot of",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pouco(s)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a little",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "a few",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Algum(s)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = "
+                  },
+                  {
+                    "type": "text",
+                    "text": "some",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "any",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (depending on the context)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Todo(s)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " = "
+                  },
+                  {
+                    "type": "text",
+                    "text": "all",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "text": "every",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (but usage differs!)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "⚠️ Be careful: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"muito dinheiro\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " → "
+                  },
+                  {
+                    "type": "text",
+                    "text": "much money",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", NOT "
+                  },
+                  {
+                    "type": "text",
+                    "text": "many money",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "👥 Real-life Situations & Dialogues"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. In a meeting:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A: "
+          },
+          {
+            "type": "text",
+            "text": "We need to reduce costs. There’s too much spending.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "B: "
+          },
+          {
+            "type": "text",
+            "text": "We could cut a few expenses here and there.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. At a restaurant:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A: "
+          },
+          {
+            "type": "text",
+            "text": "Would you like some wine?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "B: "
+          },
+          {
+            "type": "text",
+            "text": "Just a little, thanks. I’m driving.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Group project:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A: "
+          },
+          {
+            "type": "text",
+            "text": "Many people didn’t send their parts.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "B: "
+          },
+          {
+            "type": "text",
+            "text": "Yes, only a few submitted them on time.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Office chat:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A: "
+          },
+          {
+            "type": "text",
+            "text": "Do you have any time this afternoon?",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "B: "
+          },
+          {
+            "type": "text",
+            "text": "Not really. I have too many meetings.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📖 Reading Practice"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Minimalism: Having Less, Living More",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "These days, many people are turning to minimalism. Instead of buying lots of things, they focus on owning just a few valuable items. They believe that having fewer possessions gives them more freedom and peace. While some people think that having more stuff brings happiness, minimalists argue that too much clutter causes stress. A great deal of research has shown that people who own less often feel more satisfied with their lives. After all, you don’t need many things to be happy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Comprehension Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What do minimalists believe brings more freedom?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which quantifiers appear in the text?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Do you agree or disagree with the message? Why?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "✏️ Practice Exercises"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 1 – Sentence Correction",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Correct the quantifier usage:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "a) I didn’t buy many bread."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "b) There is a few water in the bottle."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "c) I have much friends from college."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 2 – Better Word Choice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Choose the best quantifier:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "a) I don’t have ___ time to waste."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "→ "
+          },
+          {
+            "type": "text",
+            "text": "many / much / a few",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "b) He brought ___ tools to fix the problem."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "→ "
+          },
+          {
+            "type": "text",
+            "text": "a little / several / any",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "c) We had ___ problems during the trip, but we solved them."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "→ "
+          },
+          {
+            "type": "text",
+            "text": "a great deal of / some / every",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 3 – Contextual Rewrite",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Rewrite using a different quantifier that fits:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "There are a lot of problems with this plan.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "→ "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 4 – Multiple Choice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Which sentence is correct?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "a) I have too much informations."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "b) She gave me several useful tips."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "c) Every students passed the test."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 5 – Translate (Portuguese → English):",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "a) Não tenho muito tempo hoje."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "b) Compramos vários livros na feira."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "c) Todo aluno precisa entregar o trabalho."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📘 "
+          },
+          {
+            "type": "text",
+            "text": "Practice 6 – Complete the Dialogue:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A: Do you have ___ suggestions for improvement?"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "B: _____________________________________________"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "A: Great! I’ll add them to the report."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 Deep Review"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Key Takeaways:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Use "
+                  },
+                  {
+                    "type": "text",
+                    "text": "many, a few, several, each",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " with countable nouns."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Use "
+                  },
+                  {
+                    "type": "text",
+                    "text": "much, a little, a great deal of",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " with uncountable nouns."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Some, any, a lot of, no, all, most, enough, plenty of",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " work for both."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Avoid common false friends from Portuguese like "
+                  },
+                  {
+                    "type": "text",
+                    "text": "“many informations.”",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Quick Review Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Which quantifier fits? "
+                  },
+                  {
+                    "type": "text",
+                    "text": "I drank ___ water today.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is “money” countable or uncountable?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Translate: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Muitos alunos faltaram hoje.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏠 Homework"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 "
+          },
+          {
+            "type": "text",
+            "text": "Day 1 - Writing",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Write a paragraph (150–200 words): "
+          },
+          {
+            "type": "text",
+            "text": "Describe a situation where you had too much or too little of something.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Use at least 5 different quantifiers."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 "
+          },
+          {
+            "type": "text",
+            "text": "Day 2 - Listening",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Watch: [Search YouTube: “English Quantifiers - BBC Learning English” or “Oxford Online English - Quantifiers”]"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Take notes of at least 6 quantifiers used and give examples for each."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 "
+          },
+          {
+            "type": "text",
+            "text": "Day 3 - Grammar",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Rewrite 10 incorrect sentences using quantifiers (e.g., "
+          },
+          {
+            "type": "text",
+            "text": "He has many money.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") – Correct them and explain why."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 "
+          },
+          {
+            "type": "text",
+            "text": "Day 4 - Speaking",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Record a 2-minute voice message: Talk about a recent event using quantifiers naturally. Include: "
+          },
+          {
+            "type": "text",
+            "text": "some, several, a lot of, a little, enough.",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 "
+          },
+          {
+            "type": "text",
+            "text": "Day 5 - Vocabulary/Context",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Write a dialogue between two people planning a party. Use at least 7 different quantifiers, including both countable and uncountable examples."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📅 "
+          },
+          {
+            "type": "text",
+            "text": "Day 6 - Creativity/Reflection",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Write a short story or reflection (150–200 words): "
+          },
+          {
+            "type": "text",
+            "text": "\"How much is too much?\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Use quantifiers to build your point."
+          }
+        ]
+      }
+    ]
+  }
+}

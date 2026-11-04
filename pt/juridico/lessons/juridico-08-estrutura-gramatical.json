@@ -1,0 +1,6237 @@
+{
+  "id": "juridico-08",
+  "language": "pt",
+  "mainTopic": "Jurídico",
+  "course": "Jurídico",
+  "unit": "Unidade 1",
+  "lessonNumber": 8,
+  "title": "7. Estrutura Gramatical",
+  "level": "Específicos",
+  "sourceFormat": "html",
+  "legacyId": "7f0fab0f-b3f6-4594-a7b4-67efa6b63cf5",
+  "quizCount": 0,
+  "questionCount": 0,
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Grammatical Structure in Legal English",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🎯 Objectives:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Master "
+                  },
+                  {
+                    "type": "text",
+                    "text": "modal verbs",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "shall, should, must, may",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ") and the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "subjunctive mood",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " in legal contexts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Apply "
+                  },
+                  {
+                    "type": "text",
+                    "text": "punctuation rules",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " to eliminate ambiguity in legal texts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Follow "
+                  },
+                  {
+                    "type": "text",
+                    "text": "formatting standards",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " for dates, numbers, citations, and terminology."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Introduction",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📌 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "The session will cover:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The role of "
+                  },
+                  {
+                    "type": "text",
+                    "text": "modal verbs",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "shall, must, may, should",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ") in legal writing and their impact on "
+                  },
+                  {
+                    "type": "text",
+                    "text": "obligation, permission, and necessity",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The "
+                  },
+                  {
+                    "type": "text",
+                    "text": "subjunctive mood",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " in legal contexts and how it is used in formal legal requirements and hypothetical scenarios."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The importance of "
+                  },
+                  {
+                    "type": "text",
+                    "text": "punctuation in legal writing",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " to ensure clarity and avoid ambiguity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Standard formatting rules for "
+                  },
+                  {
+                    "type": "text",
+                    "text": "dates, numbers, citations, and terminology",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " in legal English."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How to "
+                  },
+                  {
+                    "type": "text",
+                    "text": "modernize legal language",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " by replacing archaic terms and redundant expressions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Why This Matters",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Legal English relies on "
+          },
+          {
+            "type": "text",
+            "text": "precise grammar and formatting",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " to ensure clarity and enforceability. A misplaced modal verb can "
+          },
+          {
+            "type": "text",
+            "text": "change obligations",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", incorrect punctuation can "
+          },
+          {
+            "type": "text",
+            "text": "create ambiguity",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", and outdated terminology can "
+          },
+          {
+            "type": "text",
+            "text": "reduce readability",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For example:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"The tenant ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "shall",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " pay rent.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (creates a "
+                  },
+                  {
+                    "type": "text",
+                    "text": "binding obligation",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"The tenant ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "may",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " pay rent.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (gives "
+                  },
+                  {
+                    "type": "text",
+                    "text": "optional permission",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Similarly, punctuation changes meaning:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"The court ruled that the defendant was guilty, and the witness testified.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Two "
+                  },
+                  {
+                    "type": "text",
+                    "text": "separate",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " actions.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"The court ruled that the defendant was guilty and the witness testified.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Could imply the witness's testimony "
+                  },
+                  {
+                    "type": "text",
+                    "text": "proved guilt",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ".)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Understanding these elements helps legal professionals draft "
+          },
+          {
+            "type": "text",
+            "text": "accurate, enforceable, and modern",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " legal documents."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "❓ "
+          },
+          {
+            "type": "text",
+            "text": "Question 1:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " \"What is the difference between "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "text": "must",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in legal writing?\""
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "❓ "
+          },
+          {
+            "type": "text",
+            "text": "Question 2:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " \"How can punctuation errors affect the meaning of a contract or statute?\""
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "❓ "
+          },
+          {
+            "type": "text",
+            "text": "Question 3:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " \"Why do legal texts still use archaic words like "
+          },
+          {
+            "type": "text",
+            "text": "whereas",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "text": "hereof",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "? Should they be replaced?\""
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "❓ "
+          },
+          {
+            "type": "text",
+            "text": "Question 4:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " \"What challenges have you faced when writing or translating legal documents?\""
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Grammar Point: ",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Modal Verbs & Subjunctive Mood",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A. Modal Verbs in Legal English",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Legal English uses modal verbs to express "
+          },
+          {
+            "type": "text",
+            "text": "obligation, permission, necessity, or possibility",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    95
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Modal Verb",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    228
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Legal Meaning",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Example",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    95
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Shall",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    228
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Mandatory obligation",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " (creates a duty)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The tenant ",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "shall",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          },
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " pay rent by the 1st of each month.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    95
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Must",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    228
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Absolute requirement",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " (non-negotiable)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The applicant ",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "must",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          },
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " submit all documents by 31 December 2024.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    95
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "May",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    228
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Permission",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " or "
+                      },
+                      {
+                        "type": "text",
+                        "text": "possibility",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The court ",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "may",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          },
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " adjourn the hearing if necessary.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    95
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Should",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    228
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Recommendation",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " (not legally binding)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"Parties ",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "should",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          },
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " attempt mediation before litigation.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "⚠️ "
+          },
+          {
+            "type": "text",
+            "text": "Common Mistake:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Confusing "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "text": "must",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". "
+          },
+          {
+            "type": "text",
+            "text": "Shall",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " imposes a duty, while "
+          },
+          {
+            "type": "text",
+            "text": "must",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " states a factual necessity."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "B. Subjunctive Mood in Legal English",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The "
+          },
+          {
+            "type": "text",
+            "text": "subjunctive mood",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " is used for "
+          },
+          {
+            "type": "text",
+            "text": "hypotheticals, legal demands, and formal recommendations",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". The structure follows "
+          },
+          {
+            "type": "text",
+            "text": "\"that + base verb\"",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ("
+          },
+          {
+            "type": "text",
+            "text": "no -s",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " for third-person singular)."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    217
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Use Case",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Example",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    217
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Legal Requirements",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"It is essential that the defendant ",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "be",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          },
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " present.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    217
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hypotheticals",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"If the contract ",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "be",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          },
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " invalid, the clause shall not apply.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Exercise:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Rewrite the following sentence using the subjunctive mood:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"The law requires the company to file the report.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "✅ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"The law requires that the company ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "file",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " the report.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Punctuation in Legal Writing",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A. Key Punctuation Rules",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Punctuation clarifies legal meaning and prevents disputes."
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    124
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Mark",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    253
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Rule",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Example",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    124
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Comma (,)",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    253
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Separates clauses, lists, or non-essential phrases."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The Seller, acting in good faith, shall deliver the goods.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    124
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Semicolon (;)",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    253
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Links related independent clauses."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"Payment is due tomorrow; late fees apply thereafter.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    124
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Colon (:)",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    253
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Introduces lists, explanations, or quotes."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The court ruled: ‘The defendant is liable.’\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    124
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Em Dash (—)",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    253
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Adds emphasis or interrupts a thought."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "\"The witness—despite objections—testified.\"",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "⚠️ "
+          },
+          {
+            "type": "text",
+            "text": "Ambiguity Alert:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"Woman without her man is nothing.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "\"Woman—without her, man is nothing.\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "B. Practice Exercise:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Correct the punctuation in the following sentence:"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "\"The parties agree the goods shall be delivered on 5 May 2024 the buyer may inspect them upon receipt.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "\"The parties agree the goods shall be delivered on 5 May 2024; the buyer may inspect them upon receipt.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Legal Writing Standards",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A. Dates & Numbers",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dates:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Use "
+                  },
+                  {
+                    "type": "text",
+                    "text": "1 January 2024",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (avoid "
+                  },
+                  {
+                    "type": "text",
+                    "text": "1st",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " or "
+                  },
+                  {
+                    "type": "text",
+                    "text": "th",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Numbers:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Spell out "
+                          },
+                          {
+                            "type": "text",
+                            "text": "1–10",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " ("
+                          },
+                          {
+                            "type": "text",
+                            "text": "ten days",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": ")."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Use numerals "
+                          },
+                          {
+                            "type": "text",
+                            "text": "11+",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " ("
+                          },
+                          {
+                            "type": "text",
+                            "text": "11 days",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": ")."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Money:",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          },
+                          {
+                            "type": "text",
+                            "text": "£500 (five hundred pounds)",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "B. Citations",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Statutes:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Companies Act 2006",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (no comma)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Cases:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Donoghue v Stevenson",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "v.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " for versus; italicize case names)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "C. Terminology: Avoiding Archaic and Redundant Phrases",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Archaic Phrase",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Modern Equivalent",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hereby agrees",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Agrees",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Null and void",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Void",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "In witness whereof",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "As evidence of this agreement",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hereto",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "To this agreement",
+                        "marks": [
+                          {
+                            "type": "italic"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Exercise:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Simplify this legal sentence:"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "\"The parties hereto agree to repair, uphold, and maintain the premises.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "\"The parties agree to maintain the premises.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Reading Practice & Analysis",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "📖 "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Instruction:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Read the following contract clause aloud and analyze its structure."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Text: Contract Clause",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": "justify"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\"The Licensor ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " grant access to the software by ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1 February 2024",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; failure to comply ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "must",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " be reported within ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5 (five) business days",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". The Licensee ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " terminate this agreement if the breach remains unresolved after ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "30 days",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". It is imperative that all reports ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " submitted in writing. Notwithstanding the foregoing, disputes arising hereunder ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " be resolved by arbitration—in accordance with the rules of the London Court of International Arbitration (LCIA)—unless otherwise agreed in writing.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Comprehension Questions",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What deadline applies to the Licensor’s obligation?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What happens if the breach isn’t resolved in 30 days?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why is the subjunctive used in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"that all reports ",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "be",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " submitted\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How does the em dash affect the readability of the arbitration clause?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Punctuation Analysis",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why is a semicolon used after "
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"1 February 2024\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What does the parentheses in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "5 (five)",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " achieve?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How does the colon in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "\"rules of the LCIA:—\"",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " clarify the text?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Writing Exercise",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "✍️ "
+          },
+          {
+            "type": "text",
+            "text": "Prompt:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Draft a legal contract clause using:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2 modal verbs",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "shall, may",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ")."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Subjunctive mood",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Correct dates/numbers",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " and "
+                  },
+                  {
+                    "type": "text",
+                    "text": "punctuation",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "Example Answer:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "\"The Vendor ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " deliver ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15 (fifteen)",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " units by ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10 December 2024",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". It is required that the shipment ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " inspected within ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3 days",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". The Buyer ",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " withhold payment if defects are identified.\"",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Homework",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🏠 "
+          },
+          {
+            "type": "text",
+            "text": "Task:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Analyze a real legal document (e.g., a lease, contract, or court ruling)."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Highlight "
+                  },
+                  {
+                    "type": "text",
+                    "text": "3 modal verbs",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " and explain their purpose."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify "
+                  },
+                  {
+                    "type": "text",
+                    "text": "2 punctuation marks",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " and their impact on clarity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Replace "
+                  },
+                  {
+                    "type": "text",
+                    "text": "1 archaic term",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " with modern language."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "📤 "
+          },
+          {
+            "type": "text",
+            "text": "Submission:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Upload your analysis before the next class."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Example 1: Lease Agreement (Rental Contract)",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "RESIDENTIAL LEASE AGREEMENT",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This Lease Agreement (\"Agreement\") is made and entered into on 1 January 2024, by and between:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Landlord:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " John Smith (\"Landlord\")"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tenant:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " Jane Doe (\"Tenant\")"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Term of Lease",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The lease "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " commence on "
+          },
+          {
+            "type": "text",
+            "text": "1 February 2024",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " continue for a period of "
+          },
+          {
+            "type": "text",
+            "text": "twelve (12) months",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", unless terminated earlier in accordance with this Agreement."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Rent Payment",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The Tenant "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " pay a monthly rent of "
+          },
+          {
+            "type": "text",
+            "text": "$1,500 (one thousand five hundred dollars)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", due on the first day of each calendar month. Late payments "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " incur a penalty of "
+          },
+          {
+            "type": "text",
+            "text": "$50 (fifty dollars)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " per day."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Maintenance and Repairs",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The Tenant "
+          },
+          {
+            "type": "text",
+            "text": "shall be responsible for maintaining",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " the premises in good condition and "
+          },
+          {
+            "type": "text",
+            "text": "must notify",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " the Landlord of any necessary repairs. The Landlord "
+          },
+          {
+            "type": "text",
+            "text": "may",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " enter the premises with "
+          },
+          {
+            "type": "text",
+            "text": "24 (twenty-four) hours’ notice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " to conduct inspections."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Termination",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The Landlord "
+          },
+          {
+            "type": "text",
+            "text": "may terminate",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " this Agreement if the Tenant fails to comply with the lease terms. In the event of termination, the Tenant "
+          },
+          {
+            "type": "text",
+            "text": "must vacate",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " the premises within "
+          },
+          {
+            "type": "text",
+            "text": "30 (thirty) days",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Analysis Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What modal verbs are used to define obligations, permissions, and conditions?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How does the use of numerals and spelled-out numbers improve clarity?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify one prepositional phrase and explain its function."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How could this contract be modernized by removing redundant legal language?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Example 2: Contract Clause (Commercial Agreement)",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "SERVICE AGREEMENT",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This Service Agreement (\"Agreement\") is made and entered into on 1 January 2024, by and between:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Provider:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ABC Consulting, LLC (\"Provider\")"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Client:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " XYZ Enterprises (\"Client\")"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Scope of Services",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The Provider "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " render consulting services, including but not limited to "
+          },
+          {
+            "type": "text",
+            "text": "market analysis, strategy development, and financial planning",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". The Client "
+          },
+          {
+            "type": "text",
+            "text": "may",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " request additional services, which "
+          },
+          {
+            "type": "text",
+            "text": "must be agreed upon in writing",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " before execution."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Term of Agreement",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "This Agreement "
+          },
+          {
+            "type": "text",
+            "text": "shall commence",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " on "
+          },
+          {
+            "type": "text",
+            "text": "1 February 2024",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "text": "shall remain in effect",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " until "
+          },
+          {
+            "type": "text",
+            "text": "31 December 2024",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", unless terminated earlier pursuant to Clause 7."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Responsibilities of the Parties",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Provider "
+                  },
+                  {
+                    "type": "text",
+                    "text": "shall",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " deliver reports and strategic recommendations "
+                  },
+                  {
+                    "type": "text",
+                    "text": "no later than 15 (fifteen) days",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " after completion of each project phase."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Client "
+                  },
+                  {
+                    "type": "text",
+                    "text": "must provide",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " access to all relevant data and cooperate with the Provider in a timely manner."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Provider "
+                  },
+                  {
+                    "type": "text",
+                    "text": "may delegate",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " certain tasks to subcontractors "
+                  },
+                  {
+                    "type": "text",
+                    "text": "subject to",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " the Client’s approval."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Payment Terms",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The Client "
+          },
+          {
+            "type": "text",
+            "text": "shall pay",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " the Provider a total sum of "
+          },
+          {
+            "type": "text",
+            "text": "$25,000 (twenty-five thousand dollars)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " for the services described herein. Payment "
+          },
+          {
+            "type": "text",
+            "text": "must",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " be made in two installments: "
+          },
+          {
+            "type": "text",
+            "text": "50% upfront",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "text": "50% upon completion of the services",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Late payments "
+          },
+          {
+            "type": "text",
+            "text": "shall be subject to",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " an interest fee of "
+          },
+          {
+            "type": "text",
+            "text": "1.5% per month",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Confidentiality",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Both parties "
+          },
+          {
+            "type": "text",
+            "text": "shall maintain",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " confidentiality regarding proprietary or sensitive business information exchanged under this Agreement. Information disclosed by either party "
+          },
+          {
+            "type": "text",
+            "text": "must not be shared",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " with third parties without prior written consent, except as required by law."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "6. Limitation of Liability",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "The Provider "
+          },
+          {
+            "type": "text",
+            "text": "shall not be liable for",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " any indirect, consequential, or special damages arising from the services provided under this Agreement, except in cases of "
+          },
+          {
+            "type": "text",
+            "text": "gross negligence or willful misconduct",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Termination",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Either party "
+          },
+          {
+            "type": "text",
+            "text": "may terminate",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " this Agreement with "
+          },
+          {
+            "type": "text",
+            "text": "30 (thirty) days' written notice",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". However, in cases of "
+          },
+          {
+            "type": "text",
+            "text": "breach of contract",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", the non-breaching party "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " have the right to terminate immediately. Any outstanding payments "
+          },
+          {
+            "type": "text",
+            "text": "must be settled",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " within "
+          },
+          {
+            "type": "text",
+            "text": "15 (fifteen) days",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " of termination."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "8. Governing Law & Dispute Resolution",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "This Agreement "
+          },
+          {
+            "type": "text",
+            "text": "shall be governed by and construed in accordance with",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " the laws of the "
+          },
+          {
+            "type": "text",
+            "text": "State of New York",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Any disputes "
+          },
+          {
+            "type": "text",
+            "text": "shall be resolved",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " through arbitration in accordance with the rules of the "
+          },
+          {
+            "type": "text",
+            "text": "American Arbitration Association (AAA)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "9. Entire Agreement",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "This Agreement constitutes the entire understanding between the parties and "
+          },
+          {
+            "type": "text",
+            "text": "supersedes all prior agreements",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", whether written or oral. Any amendments "
+          },
+          {
+            "type": "text",
+            "text": "must be made in writing",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and signed by both parties."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "IN WITNESS WHEREOF",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", the parties have executed this Agreement as of the date first written above."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Analysis Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What "
+                  },
+                  {
+                    "type": "text",
+                    "text": "modal verbs",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " define obligations, permissions, and restrictions?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How does the use of "
+                  },
+                  {
+                    "type": "text",
+                    "text": "prepositional phrases",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " ("
+                  },
+                  {
+                    "type": "text",
+                    "text": "subject to, in accordance with, pursuant to",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ") clarify legal obligations?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why is "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Clause 6 (Limitation of Liability)",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " important in commercial contracts?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify one "
+                  },
+                  {
+                    "type": "text",
+                    "text": "redundant phrase",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (e.g., \"null and void\") and suggest a simplified alternative."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "textAlign": "center"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Example 3: Court Ruling (Judgment Excerpt)",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "SUPREME COURT OF THE STATE OF NEW YORK",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Case No. 2023-CV-789",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Plaintiff:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Michael Johnson"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Defendant:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Elite Construction, Inc."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "OPINION AND ORDER",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This matter having come before the Court on 15 September 2023, the Court finds as follows:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Defendant "
+                  },
+                  {
+                    "type": "text",
+                    "text": "shall be held liable",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " for breach of contract, as the evidence presented demonstrates non-compliance with the agreed-upon terms."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Plaintiff "
+                  },
+                  {
+                    "type": "text",
+                    "text": "is entitled to",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " damages in the amount of "
+                  },
+                  {
+                    "type": "text",
+                    "text": "$50,000 (fifty thousand dollars)",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " for financial losses incurred."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Defendant "
+                  },
+                  {
+                    "type": "text",
+                    "text": "must remit",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " payment to the Plaintiff within "
+                  },
+                  {
+                    "type": "text",
+                    "text": "30 (thirty) days",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " from the date of this ruling."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the Defendant "
+                  },
+                  {
+                    "type": "text",
+                    "text": "fails to comply",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", the Plaintiff "
+                  },
+                  {
+                    "type": "text",
+                    "text": "may seek",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " further legal action, including "
+                  },
+                  {
+                    "type": "text",
+                    "text": "injunctive relief",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 "
+          },
+          {
+            "type": "text",
+            "text": "Analysis Questions:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "start": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What modal verbs define "
+                  },
+                  {
+                    "type": "text",
+                    "text": "obligation, liability, and legal consequences",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify a phrase written in the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "subjunctive mood",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " and explain its function."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why are both numerals and spelled-out numbers included?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How does punctuation structure the legal reasoning of the court?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "7. Conclusion",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#FFA500"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🔄 "
+          },
+          {
+            "type": "text",
+            "text": "Key Takeaways:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "✅ Use "
+          },
+          {
+            "type": "text",
+            "text": "shall",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " for obligations, "
+          },
+          {
+            "type": "text",
+            "text": "must",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " for necessities."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "✅ "
+          },
+          {
+            "type": "text",
+            "text": "Punctuation",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " is essential for legal clarity."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "✅ Modernize language to avoid confusion (e.g., "
+          },
+          {
+            "type": "text",
+            "text": "hereof",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " → "
+          },
+          {
+            "type": "text",
+            "text": "of this agreement",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Final Discussion:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Why is archaic language still used in legal texts? Should it be phased out?",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "How might a missing comma in a contract lead to litigation?",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "🗓️ "
+          },
+          {
+            "type": "text",
+            "text": "Next Lesson:",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "Drafting Legal Documents – Clauses, Definitions, and Avoiding Ambiguity.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
