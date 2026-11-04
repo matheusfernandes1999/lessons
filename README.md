@@ -25,8 +25,16 @@ Repositório de aulas, organizado sempre como:
 | [`pt/professional-writing`](pt/professional-writing/README.md) | 30 | E-mails, relatórios, propostas, CV e revisão, sempre com parte oral (grafia UK) |
 | [`pt/idioms-and-natural-expressions`](pt/idioms-and-natural-expressions/README.md) | 30 | Expressões idiomáticas e naturais, registro e variantes US/UK |
 | [`pt/phrasal-verbs-in-context`](pt/phrasal-verbs-in-context/README.md) | 30 | Phrasal verbs por tema, verbos com vários sentidos e formalidade (grafia US) |
+| [`pt/essentials`](pt/essentials/README.md) | 27 | Apostila Essentials: gramática essencial do inglês com explicações em português |
+| [`pt/first-steps`](pt/first-steps/README.md) | 50 | Apostila First Steps: primeiros passos no inglês, com práticas de escuta, leitura, escrita e conversação |
+| [`en/deep-dive`](en/deep-dive/README.md) | 49 | Apostila Deep Dive: gramática e uso do inglês em profundidade, de pronomes a phrasal verbs |
+| [`en/juridico`](en/juridico/README.md) | 42 | Apostila Jurídico: inglês jurídico (terminologia, contratos, sentenças, estudos de caso) |
+| [`en/brazilian-portuguese`](en/brazilian-portuguese/README.md) | 60 | Português brasileiro para falantes de inglês (A0 → B2), aulas de 45 minutos com material do professor |
 
-Total: **280 lições**, todas online, individuais, de 45 minutos, com foco em fala e vocabulário e homework para os 7 dias da semana.
+Total: **508 lições**.
+
+- As **280** primeiras (IELTS/TOEFL e os 6 cursos gerais) são escritas em Markdown: online, individuais, de 45 minutos, com foco em fala e vocabulário e homework para os 7 dias da semana.
+- As **228** restantes são apostilas importadas da plataforma (`pt/essentials`, `pt/first-steps`, `en/deep-dive`, `en/juridico`, `en/brazilian-portuguese`) e mantêm a estrutura própria de cada apostila.
 
 ## Template padrão
 
@@ -42,3 +50,22 @@ python3 tools/build_readmes.py      # atualiza os README dos tópicos (exceto os
 ```
 
 Edite sempre o arquivo em `source/` e rode o build; não edite os JSON à mão.
+
+## Apostilas importadas da plataforma
+
+Tópicos com `sourceFormat` no `topic.json` vêm de apostilas exportadas da plataforma. O original fica em `source/` (HTML com `manifest.json`, ou um JSON por lição) e o JSON Tiptap de `lessons/` é gerado a partir dele:
+
+```bash
+# 1. exportação -> source/ + topic.json (formato html ou workbook-json, detectado sozinho)
+python3 tools/import_workbook.py EXPORT.json --language pt --slug essentials --code essentials --description "..."
+# 2. source/ -> lessons/*.json + index.json
+python3 tools/build_workbooks.py
+python3 tools/validate_lessons.py
+python3 tools/build_readmes.py
+```
+
+- `language` é o idioma das explicações: `pt` para Essentials e First Steps, `en` para Deep Dive, Jurídico e Português Brasileiro.
+- **HTML → Tiptap** (`tools/html_to_tiptap.py`): títulos, listas, task lists, tabelas, links, cores e alinhamento viram nós/marcas Tiptap. Os componentes customizados da plataforma antiga (dica, professor, aluno, meta semanal, revisão, tradução, imagem, listening, arquivo) não existem no editor atual e viram blockquotes, títulos, listas e links. Os `exercise-component` viram nós `quiz` com perguntas escritas.
+- Os `token=` dos URLs do Firebase Storage antigo são removidos: o repositório é público e os arquivos têm leitura pública.
+- Cada lição guarda o id original em `legacyId`.
+- `tools/build_lessons.py` (Markdown) ignora esses tópicos, e `tools/build_workbooks.py` ignora os de Markdown.
